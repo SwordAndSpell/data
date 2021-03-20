@@ -1,0 +1,15 @@
+export default [
+  { value: 'Amarrun', label: 'Amarrun' },
+  { value: 'Celestial', label: 'Celestial' },
+  { value: 'Draconic', label: 'Draconic' },
+  { value: 'Dwarvish', label: 'Dwarvish' },
+  { value: 'Elven', label: 'Elven' },
+  { value: 'Giant', label: 'Giant' },
+  { value: 'Gnomish', label: 'Gnomish' },
+  { value: 'Goblin', label: 'Goblin' },
+  { value: 'Halfling', label: 'Halfling' },
+  { value: 'Infernal', label: 'Infernal' },
+  { value: 'Iruxi', label: 'Iruxi' },
+  { value: 'Oruk', label: 'Oruk' },
+  { value: 'Primordial', label: 'Primordial' },
+];
