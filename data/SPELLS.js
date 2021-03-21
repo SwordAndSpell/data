@@ -137,7 +137,7 @@ export default [
   {
     name: "Antilife Shell",
     level: "5th",
-    castingTime: "Action",
+    castingTime: "2 Actions",
     concentration: true,
     duration: "Up to 1 hour",
     school: "Abjuration",
@@ -150,7 +150,7 @@ export default [
   {
     name: "Antimagic Field",
     level: "8th",
-    castingTime: "Action",
+    castingTime: "2 Actions",
     concentration: true,
     duration: "Up to 1 hour",
     school: "Abjuration",
@@ -176,9 +176,9 @@ export default [
   {
     name: "Arcane Eye",
     level: "4th",
-    castingTime: "Action",
-    concentration: false,
-    duration: "Concentration, up to 1 hour",
+    castingTime: "2 Actions",
+    concentration: true,
+    duration: "Up to 1 hour",
     school: "Divination",
     range: "30 feet",
     components: "V, S, M (a bit of bat fur)",
@@ -189,14 +189,14 @@ export default [
   {
     name: "Arcane Gate",
     level: "6th",
-    castingTime: "Action",
-    concentration: false,
-    duration: "Concentration, up to 10 minutes",
+    castingTime: "3 Actions",
+    concentration: true,
+    duration: "Up to 10 minutes",
     school: "Conjuration",
     range: "500 feet",
     components: "V, S",
     text:
-      "You create linked teleportation portals that remain open for the duration. Choose two points on the ground that you can see, one point within 10 feet of you and one point within 500 feet of you. A circular portal, 10 feet in diameter, opens over each point. If the portal would open in the space occupied by a creature, the spell fails, and the casting is lost. The portals are two-dimensional glowing rings filled with mist, hovering inches from the ground and perpendicular to it at the points you choose. A ring is visible only from one side (your choice), which is the side that functions as a portal. Any creature or object entering the portal exits from the other portal as if the two were adjacent to each other; passing through a portal from the nonportal side has no effect. The mist that fills each portal is opaque and blocks vision through it. On your turn, you can rotate the rings as an action so that the active side faces in a different direction.",
+      "You create linked teleportation portals that remain open for the duration. Choose two points on the ground that you can see, one point within 10 feet of you and one point within 500 feet of you. A circular portal, 10 feet in diameter, opens over each point. If the portal would open in the space occupied by a creature, the spell fails, and the casting is lost. The portals are two-dimensional glowing rings filled with mist, hovering inches from the ground and perpendicular to it at the points you choose. A ring is visible only from one side (your choice), which is the side that functions as a portal. Any creature or object entering the portal exits from the other portal as if the two were adjacent to each other; passing through a portal from the nonportal side has no effect. The mist that fills each portal is opaque and blocks vision through it. On your turn, you can rotate the rings as 2 actions so that the active side faces in a different direction.",
     atHigherLevels: "",
   },
   {
@@ -207,28 +207,27 @@ export default [
     duration: "Until dispelled",
     school: "Abjuration",
     range: "Touch",
-    components:
-      "V, S, M (gold dust worth at least 25 gp, which the spell consumes)",
+    components: "V, S",
     text:
       "You touch a closed door, window, gate, chest, or other entryway, and it becomes locked for the duration. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute. Otherwise, it is impassable until it is broken or the spell is dispelled or suppressed. Casting knock on the object suppresses arcane lock for 10 minutes. While affected by this spell, the object is more difficult to break or force open; the DC to break it or pick any locks on it increases by 10.",
     atHigherLevels: "",
   },
   {
-    name: "Armor of Agathys",
+    name: "Frost Armor",
     level: "1st",
-    castingTime: "Action",
+    castingTime: "2 Actions",
     concentration: false,
     duration: "1 hour",
     school: "Abjuration",
     range: "Self",
-    components: "V, S, M (a cup of water)",
+    components: "V, S",
     text:
-      "A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear. You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.",
+      "A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear. You gain 5 + your spellcasting modifier temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 + your spellcasting modifier in cold damage.",
     atHigherLevels:
       "When you cast this spell using a spell charge of 2nd level or higher, both the temporary hit points and the cold damage increase by 5 for each charge level above 1st.",
   },
   {
-    name: "Arms of Hadar",
+    name: "Dark Tendrils",
     level: "1st",
     castingTime: "Action",
     concentration: false,
@@ -237,10 +236,12 @@ export default [
     range: "Self (10-foot radius)",
     components: "V, S",
     text:
-      "You invoke the power of Hadar, the Dark Hunger. Tendrils of dark energy erupt from you and batter all creatures within 10 feet of you. Each creature in that area must make a Fortitude saving throw. On a failed save, a target takes 2d6 necrotic damage and can't take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effect.",
+      "Tendrils of dark energy erupt from you and batter all creatures within 10 feet of you. Each creature in range must make a Fortitude saving throw. On a failed save, a target takes 3d6 Dark damage and can't take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effect.",
     atHigherLevels:
-      "When you cast this spell using a spell charge of 2nd level or higher, the damage increases by 1d6 for each charge level above 1st.",
+      "When you cast this spell using a spell charge of 2nd level or higher, the damage increases by 2d6 for each charge level above 1st.",
   },
+
+  // ---------------------------------------------------XXX KEEP WORKING FROM HERE
   {
     name: "Astral Projection",
     level: "9th",
