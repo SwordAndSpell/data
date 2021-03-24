@@ -1,0 +1,67 @@
+{
+  "coreStats": {
+    "size": "Medium",
+    "landSpeed": 30,
+    "swimSpeed": 0,
+    "climbSpeed": 0,
+    "flySpeed": 0,
+    "burrowSpeed": 0,
+    "hitPoints": 8,
+    "languages": [
+      "Common",
+      "Goblin"
+    ],
+    "ability": ""
+  },
+  "subraces": [
+    {
+      "name": "Pitchburner",
+      "description": "You are resistant to Fire damage.\n\nWhen fighting an opponent in melee range that you cannot see, if you can hear them, you do not suffer disadvantage on attack rolls against them and they do not gain advantage on attack rolls against you due to their hidden nature.",
+      "requirement": "",
+      "penalty": ""
+    },
+    {
+      "name": "Runtboss",
+      "description": "You have Trained proficiency with the Intimidation or Persuasion skill.",
+      "requirement": "",
+      "penalty": ""
+    }
+  ],
+  "generalPerks": [
+    {
+      "name": "Brave",
+      "description": "You have advantage on saving throws against being frightened.",
+      "requirement": ""
+    },
+    {
+      "name": "Martial Culture",
+      "description": "You gain Trained proficiency in the Athletics skill.",
+      "requirement": ""
+    },
+    {
+      "name": "Saving Face",
+      "description": "If you miss an attack roll or fail an ability check or saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet (max +5). You can use this ability once per day.",
+      "requirement": ""
+    },
+    {
+      "name": "Hobgoblin Combat Training",
+      "description": "You are proficient with all weapons.",
+      "requirement": ""
+    },
+    {
+      "name": "Formation Training",
+      "description": "You gain the following reaction: If you are the target of an attack while next to an ally, you can give yourself a +1 bonus to your defense against that attack.",
+      "requirement": ""
+    },
+    {
+      "name": "Keen Senses",
+      "description": "You have advanced hearing and smell, and have advantage on perception checks relating those senses.",
+      "requirement": ""
+    },
+    {
+      "name": "Low-Light Vision",
+      "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness.",
+      "requirement": ""
+    }
+  ]
+}

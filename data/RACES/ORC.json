@@ -1,0 +1,79 @@
+{
+  "coreStats": {
+    "size": "Medium",
+    "landSpeed": 25,
+    "swimSpeed": 0,
+    "climbSpeed": 0,
+    "flySpeed": 0,
+    "burrowSpeed": 0,
+    "hitPoints": 10,
+    "languages": [
+      "Common",
+      "Orcish"
+    ],
+    "ability": ""
+  },
+  "subraces": [
+    {
+      "name": "Primalist",
+      "description": "You learn a cantrip of your choice from the Primal spell list. Wisdom is your casting modifier for this cantrip. You are proficient in the casting of this spell",
+      "requirement": "",
+      "penalty": ""
+    },
+    {
+      "name": "Runed-flesh",
+      "description": "Whenever you succeed a saving throw against a magical effect, you gain temporary hit points equal to your constitution modifier.",
+      "requirement": "",
+      "penalty": ""
+    },
+    {
+      "name": "Wanderer",
+      "description": "You gain a 10 foot bonus to your movement speed",
+      "requirement": "",
+      "penalty": ""
+    },
+    {
+      "name": "War-Scarred",
+      "description": "You gain an additional 4 hit points as part of your racial bonus at level 1.\n\nWhen making death saving throws, you require 4 failed death saves instead of 3 in order to die.",
+      "requirement": "",
+      "penalty": ""
+    }
+  ],
+  "generalPerks": [
+    {
+    "name": "Aggressive",
+    "description": "You gain the following reaction: When an enemy ends their movement within sight range, you can move up to your speed towards them.",
+    "requirement": ""
+  },
+  {
+    "name": "Fearsome Prowess",
+    "description": "You gain the Trained proficiency level in the Athletics or Intimidation skill.",
+    "requirement": ""
+  },
+  {
+    "name": "Powerful Build",
+    "description": "You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. The movement penalty for armor and shields is reduced by 5 feet.",
+    "requirement": ""
+  },
+  {
+    "name": "Savage Attacks",
+    "description": "When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.",
+    "requirement": ""
+  },
+  {
+    "name": "Relentless Endurance",
+    "description": "When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can use this ability once per day.",
+    "requirement": ""
+  },
+  {
+    "name": "Overlooked Brute",
+    "description": "You gain the Apprentice proficiency level in Deception, and have advantage on deception checks to make yourself appear less intelligent than you are.",
+    "requirement": ""
+  },
+  {
+    "name": "Low-Light Vision",
+    "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness.",
+    "requirement": ""
+  }
+]
+}

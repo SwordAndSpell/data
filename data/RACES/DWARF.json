@@ -1,0 +1,74 @@
+{
+  "coreStats": {
+    "size": "Medium",
+    "landSpeed": 25,
+    "swimSpeed": 0,
+    "climbSpeed": 0,
+    "flySpeed": 0,
+    "burrowSpeed": 0,
+    "hitPoints": 10,
+    "languages": [
+      "Common",
+      "Dwarvish"
+    ],
+    "ability": ""
+  },
+  "subraces": [
+    {
+      "name": "Forge-born",
+      "description": "You are resistant to Fire damage, and have Apprentice proficiency in Crafting",
+      "requirement": "",
+      "penalty": ""
+    },
+    {
+      "name": "Iron-mind",
+      "description": "You have advantage on all Will saves against magical effects",
+      "requirement": "",
+      "penalty": ""
+    },
+    {
+      "name": "Rock-foot",
+      "description": "You have advantage on athletics checks against being grappled, shoved, or knocked prone. Your fists are as if made of stone. Your unarmed attacks do 1d6 + your strength modifier bludgeoning damage.\n\nIf you do not already have proficiency with unarmed attacks, your proficiency is Trained for the purposes of determining your attack modifiers.",
+      "requirement": "",
+      "penalty": ""
+    },
+    {
+      "name": "Strong-blood",
+      "description": "You are resistant to Poison damage, and have advantage on all saves against poison.\n\nAdditionally whenever you gain hit points at the end of a rest, you can gain additional hit points equal to your level.",
+      "requirement": "",
+      "penalty": ""
+    }
+  ],
+  "generalPerks": [
+    {
+      "name": "Dwarven Armor Training",
+      "description": "You reduce the movement penalties from heavy and medium armor by 5 feet. You gain proficiency in light armor. If you already have proficiency in light armor, you instead gain proficiency in medium armor. If you already have proficiency in medium armor, you gain proficiency in heavy armor.",
+      "requirement": ""
+    },
+    {
+      "name": "Dwarven Combat Training",
+      "description": "You are proficient with the battleaxe, handaxe, light hammer, and warhammer.",
+      "requirement": ""
+    },
+    {
+      "name": "Dwarven Toughness",
+      "description": "Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.",
+      "requirement": ""
+    },
+    {
+      "name": "Clan Artisan",
+      "description": "You gain Apprentice proficiency with the Crafting skill, as well as with the artisan's tools of your choice. If you would already gain Apprentice proficiency in Crafting, you gain the Trained proficiency level instead.\n\nIn addition, You have advantage on any check relating to stonework or any other dwarven craftsmanship.",
+      "requirement": ""
+    },
+    {
+      "name": "One with the Mountain",
+      "description": "You can cast the spell Meld into Stone once per day as an innate spell.\n\nAccustomed to life under the mountain, you are incapable of (naturally) getting lost while underground. You are capable of retracing your steps or finding your way to the surface.\n\nYou can cast the spell Enlarge once per day as a 2nd-level innate spell. You may only use the enlarge option, and may only target yourself.",
+      "requirement": ""
+    },
+    {
+      "name": "Low-light Vision",
+      "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness.",
+      "requirement": ""
+    }
+  ]
+}

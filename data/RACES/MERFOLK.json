@@ -1,0 +1,67 @@
+{
+  "coreStats": {
+    "size": "Medium",
+    "landSpeed": 25,
+    "swimSpeed": 15,
+    "climbSpeed": 0,
+    "flySpeed": 0,
+    "burrowSpeed": 0,
+    "hitPoints": 8,
+    "languages": [
+      "Common",
+      "Primordial"
+    ],
+    "ability": "You can breathe both air and water"
+  },
+  "subraces": [
+    {
+      "name": "Deep Dweller",
+      "description": "You have adapted to living without the use of your sight. You gain a blindsight with a range of 15 feet.",
+      "requirement": "",
+      "penalty": ""
+    },
+    {
+      "name": "Oceanic Predator",
+      "description": "You have resistance to Cold and Poison damage.",
+      "requirement": "",
+      "penalty": ""
+    }
+  ],
+  "generalPerks": [
+    {
+      "name": "Skilled Hunter",
+      "description": "You have apprentice level proficiency in stealth and survival.",
+      "requirement": ""
+    },
+    {
+      "name": "Emissary of the Sea",
+      "description": "Aquatic beasts have an extraordinary affinity with your people. You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return.",
+      "requirement": ""
+    },
+    {
+      "name": "Primordialist",
+      "description": "You learn a cantrip of your choice from the Primal spell list. Constitution is your casting modifier for this cantrip.\n\nYou are proficient in the casting of this spell",
+      "requirement": ""
+    },
+    {
+      "name": "Royal Outsider",
+      "description": "Despite being outsiders to common culture, Triton's carry an air of nobility and societal familiarity with them from the depths. You gain Apprentice proficiency in the Persuasion and Society skills.",
+      "requirement": ""
+    },
+    {
+      "name": "Swift",
+      "description": "Your land and swim speeds each increase by 5 feet",
+      "requirement": ""
+    },
+    {
+      "name": "Undauntable Personality",
+      "description": "When you fail a Will saving throw, you can use your reaction to reroll the save and keep the new result. You can use this ability once per day.",
+      "requirement": ""
+    },
+    {
+      "name": "Low-Light Vision",
+      "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness.",
+      "requirement": ""
+    }
+  ]
+}
