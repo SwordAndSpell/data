@@ -16,7 +16,7 @@
   "subraces": [
     {
       "name": "Envoy",
-      "description": "You learn an additional language.\n\nYou gain trained proficiency skill of your choice",
+      "description": "You learn an additional language.\n\nYou gain trained proficiency in a skill of your choice",
       "requirement": "",
       "penalty": ""
     },
