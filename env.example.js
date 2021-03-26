@@ -1,0 +1,1 @@
+export const DATO_CMS_WRITE_ACCESS_API_KEY = "TEST";
