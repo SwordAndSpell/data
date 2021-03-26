@@ -255,7 +255,7 @@
     "coreAbilities": [
       {
         "name": "Hunter's Mark",
-        "description": "You use an action to mark a target as your prey. Whenever you hit this target with a weapon or unarmed attack, the target suffers an extra 1d4 of damage matching the type of your attack.\n\nThis damage increases to 1d6 at level 3, 1d8 at level 5, 1d10 at level 7 and 1d12 at level 9."
+        "description": "You use an action to choose a creature you can see within range and mystically mark it as your quarry. Whenever you hit this target with a weapon or unarmed attack, the target suffers an extra 1d4 of damage matching the type of your attack, and you have advantage on any Perception or Survival checks you make to find it.\n\nThis mark lasts for 1 minute, or until your target is reduced to 0 hit points. The marks damage increases to 1d6 and duration increases to 10 minutes at level 3, 1d8 / 1 hour at level 5, 1d10 / 1 day at level 7, and 1d12 / 1 week at level 9."
       },
       {
         "name": "Warden Spellcasting",

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Blind Fighting",
+    "description": "Being unable to see a creature doesn’t impose disadvantage on your melee attack rolls against it, provided the creature isn’t hidden from you."
+  },
+  {
+    "name": "Deadshot",
+    "description": "You gain a +2 bonus to attack rolls you make with ranged weapons."
+  },
+  {
+    "name": "Defense",
+    "description": "While you are wearing armor, you gain a +1 bonus to Defense and Armor."
+  },
+  {
+    "name": "Dueling",
+    "description": "When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon."
+  },
+  {
+    "name": "Great Weapon Fighting",
+    "description": "When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit."
+  },
+  {
+    "name": "Interception",
+    "description": "When a creature you can see hits a target that is within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction."
+  },
+  {
+    "name": "Precision Damage",
+    "description": "When you are wielding a finesse or ranged weapon, you can add your Dexterity Modifier to damage rolls with that weapon in addition to your Strength Modifier."
+  },
+  {
+    "name": "Thrown Weapon Fighting",
+    "description": "You can draw a weapon that has the thrown property as part of the attack you make with the weapon. In addition, when you hit with a ranged attack using a thrown weapon, you gain a +1 bonus to the damage roll."
+  },
+  {
+    "name": "Two-Weapon Fighting",
+    "description": "You gain a +1 bonus to attack rolls when wielding a weapon in each hand."
+  },
+  {
+    "name": "Unarmed Fighting",
+    "description": "Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier. If you strike with two free hands, the d6 becomes a d8."
+  }
+]

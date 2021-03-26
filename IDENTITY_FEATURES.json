@@ -2574,6 +2574,17 @@
     "5thLevelSpells": ""
   },
   {
+    "name": "Connecting Mark",
+    "identity": "Warden",
+    "requirements": "Requires Hunter's Mark, Level 3",
+    "description": "You can use the magic of your hunters mark to track your quarry over extraordinary distances. As long as your marked target is on the same plane as you and is not hidden from Divination magic, you can sense the direction of your marked target.",
+    "1stLevelSpells": "",
+    "2ndLevelSpells": "",
+    "3rdLevelSpells": "",
+    "4thLevelSpells": "",
+    "5thLevelSpells": ""
+  },
+  {
     "name": "Hunter Conclave Spells",
     "identity": "Warden",
     "requirements": "Requires Spellcasting",
@@ -2588,7 +2599,7 @@
     "name": "Novice Hunter - Focus",
     "identity": "Warden",
     "requirements": "Requires Hunter's Mark",
-    "description": "Choose one of the following abilities:\n\n- Horde Breaker: When you make an attack, you can make a second attack as part of the same action (without facing a multi attack penalty) as long as the second attack is against a different enemy, and the second enemy is within 10 feet of the first. \n\n- Colossus Slayer: Once per turn, you can add an additional Hunter's Mark dice to a single attack.",
+    "description": "Once per turn when you hit an enemy marked by your Hunter's mark with an attack, you can add an additional Hunter's Mark dice to the damage roll of the attack.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
     "3rdLevelSpells": "",
@@ -2598,8 +2609,8 @@
   {
     "name": "Advanced Hunter - Surrounded",
     "identity": "Warden",
-    "requirements": "Requires Novice Hunter, Level 4",
-    "description": "Choose one of the following abilities:\n\n- Volley: You can use two actions to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon's range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target. These attacks to not suffer from the multi-attack penalty\n\n- Whirlwind Attack: You can use two actions to make melee attacks against any number of creatures within 5 feet of you, with a separate attack roll for each target. These attacks do not suffer the multi-attack penalty.",
+    "requirements": "Requires Novice Hunter, Level 5",
+    "description": "When you spend an action to mark an enemy with your Hunter's Mark, you can mark a second enemy as part of the same action.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
     "3rdLevelSpells": "",
@@ -4014,4 +4025,4 @@
     "4thLevelSpells": "",
     "5thLevelSpells": ""
   }
- ]
+]
