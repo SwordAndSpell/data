@@ -4024,5 +4024,49 @@
     "3rdLevelSpells": "",
     "4thLevelSpells": "",
     "5thLevelSpells": ""
+  },
+  {
+    "name": "Young Animal Companion",
+    "identity": "Animal Companion",
+    "requirements": "You gain a young animal companion, the form of which you choose. Its stats and abilities are detailed in the Animal Companion Appendix",
+    "description": "",
+    "1stLevelSpells": "",
+    "2ndLevelSpells": "",
+    "3rdLevelSpells": "",
+    "4thLevelSpells": "",
+    "5thLevelSpells": ""
+  },
+  {
+    "name": "Mature Animal Companion",
+    "identity": "Animal Companion",
+    "requirements": "Young Animal Companion, Level 3",
+    "description": "Your animal companion grows into an adult of its species, gaining benefits as it grows with you. The changes to its stats and abilities as it matures are detailed in the Animal Companion Appendix",
+    "1stLevelSpells": "",
+    "2ndLevelSpells": "",
+    "3rdLevelSpells": "",
+    "4thLevelSpells": "",
+    "5thLevelSpells": ""
+  },
+  {
+    "name": "Specialized Animal Companion",
+    "identity": "Animal Companion",
+    "requirements": "Mature Animal Companion, Level 5",
+    "description": "Through specialized training, your companion becomes either a Savage or Nimble Animal Companion, learning new abilities and further specializing its stats. These changes are detailed in the Animal Companion Appendix",
+    "1stLevelSpells": "",
+    "2ndLevelSpells": "",
+    "3rdLevelSpells": "",
+    "4thLevelSpells": "",
+    "5thLevelSpells": ""
+  },
+  {
+    "name": "Apex Animal Companion",
+    "identity": "Animal Companion",
+    "requirements": "Specialized Animal Companion, Level 7",
+    "description": "Your companion reaches the height of their species, an Apex predator far beyond their natural possibilities. Their stats improve and they learn new abilities as detailed in the Animal Companion Appendix.",
+    "1stLevelSpells": "",
+    "2ndLevelSpells": "",
+    "3rdLevelSpells": "",
+    "4thLevelSpells": "",
+    "5thLevelSpells": ""
   }
 ]
