@@ -2,131 +2,131 @@
   {
     "name": "Blind Fighting",
     "description": "Being unable to see a creature doesn’t impose disadvantage on your melee attack rolls against it, provided the creature isn’t hidden from you.",
-    "instance_type": "Fighting Style"
+    "instanceType": "Fighting Style"
   },
   {
     "name": "Deadshot",
     "description": "You gain a +2 bonus to attack rolls you make with ranged weapons.",
-    "instance_type": "Fighting Style"
+    "instanceType": "Fighting Style"
   },
   {
     "name": "Defense",
     "description": "While you are wearing armor, you gain a +1 bonus to Defense and Armor.",
-    "instance_type": "Fighting Style"
+    "instanceType": "Fighting Style"
   },
   {
     "name": "Dueling",
     "description": "When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.",
-    "instance_type": "Fighting Style"
+    "instanceType": "Fighting Style"
   },
   {
     "name": "Great Weapon Fighting",
     "description": "When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.",
-    "instance_type": "Fighting Style"
+    "instanceType": "Fighting Style"
   },
   {
     "name": "Interception",
     "description": "When a creature you can see hits a target that is within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.",
-    "instance_type": "Fighting Style"
+    "instanceType": "Fighting Style"
   },
   {
     "name": "Precision Damage",
     "description": "When you are wielding a finesse or ranged weapon, you can add your Dexterity Modifier to damage rolls with that weapon in addition to your Strength Modifier.",
-    "instance_type": "Fighting Style"
+    "instanceType": "Fighting Style"
   },
   {
     "name": "Thrown Weapon Fighting",
     "description": "You can draw a weapon that has the thrown property as part of the attack you make with the weapon. In addition, when you hit with a ranged attack using a thrown weapon, you gain a +1 bonus to the damage roll.",
-    "instance_type": "Fighting Style"
+    "instanceType": "Fighting Style"
   },
   {
     "name": "Two-Weapon Fighting",
     "description": "You gain a +1 bonus to attack rolls when wielding a weapon in each hand.",
-    "instance_type": "Fighting Style"
+    "instanceType": "Fighting Style"
   },
   {
     "name": "Unarmed Fighting",
     "description": "Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier. If you strike with two free hands, the d6 becomes a d8.",
-    "instance_type": "Fighting Style"
+    "instanceType": "Fighting Style"
   },
   {
     "name": "Divine Bloodline",
     "description": "Spell List: Divine spell list\n\nTrained Skill: Religion\n\nInherited Ability: Once per day, if you fail a saving throw or miss with an attack roll, you can roll 2d4 and add it to the total, possibly changing the outcome.",
-    "instance_type": "Empowered Bloodline"
+    "instanceType": "Empowered Bloodline"
   },
   {
     "name": "Draconic Bloodline",
     "description": "Spell List: Arcane spell list\n\nTrained Skill: Arcana or Nature\n\nInherited Ability: Choose a Draconic Ancestry from the chart below. This ancestry determines your later features.\n\nBlack - Acid\n\nSilver, White - Cold\n\nBrass, Gold, Red - Fire\n\nBlue, Bronze - Lightning\n\nGreen - Poison\n\nAdditionally, your body is covered in draconic scales. When you aren’t wearing armor, you have a natural armor with +3 Defense and no Dexterity Maximum. This armor has an Armor value of 1.",
-    "instance_type": "Empowered Bloodline"
+    "instanceType": "Empowered Bloodline"
   },
   {
     "name": "Profane Bloodline",
     "description": "Spell List: Arcane + Occult spell lists\n\nTrained Skill: Arcana or Stealth\n\nInherited Ability: You have Darkvision to 120 feet, granting you the ability to see in total darkness. When you reach 3rd level, you learn the Darkness spell (independent of the other spells you learn), and can cast it as an action using 2 spell points.",
-    "instance_type": "Empowered Bloodline"
+    "instanceType": "Empowered Bloodline"
   },
   {
     "name": "Storm Spirit Bloodline",
     "description": "Spell List: Primal spell list\n\nTrained Skill: Nature\n\nInherited Ability: You can use an action on your turn to cause whirling gusts of elemental air to briefly surround you immediately before or after you cast a spell of 1st level or higher. Doing so allows you to fly up to 10 feet without provoking opportunity attacks.",
-    "instance_type": "Empowered Bloodline"
+    "instanceType": "Empowered Bloodline"
   },
   {
     "name": "Psion Bloodline",
     "description": "Spell List: Arcane + Occult spell lists\n\nTrained Skill: Arcana\n\nInherited Ability: You can form a telepathic connection between your mind and the mind of another. As an action, choose one creature you can see within 30 feet of you. You and the chosen creature can speak telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must speak mentally in a language the other knows.\n\nThe telepathic connection lasts for a number of minutes equal to your level. It ends early if you are incapacitated or die or if you use this ability to form a connection with a different creature.",
-    "instance_type": "Empowered Bloodline"
+    "instanceType": "Empowered Bloodline"
   },
   {
     "name": "Careful Spell",
     "description": "When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, you spend 1 Spell Point and choose a number of those creatures up to your Casting modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.",
-    "instance_type": "Metamagic"
+    "instanceType": "Metamagic"
   },
   {
     "name": "Distant Spell",
     "description": "When you cast a spell that has a range of 5 feet or greater, you can spend 1 Spell Point to double the range of the spell.\n\nWhen you cast a spell that has a range of touch, you can spend 1 Spell Point to make the range of the spell 30 feet.",
-    "instance_type": "Metamagic"
+    "instanceType": "Metamagic"
   },
   {
     "name": "Elemental Spell",
     "description": "When you cast a spell that deals a type of damage from the following list, you can spend 1 Spell Point to change that damage type to one of the other listed types: acid, cold, fire, lightning, thunder.",
-    "instance_type": "Metamagic"
+    "instanceType": "Metamagic"
   },
   {
     "name": "Empowered Spell",
     "description": "When you roll damage for a spell, you can spend 1 Spell Point to reroll a number of the damage dice up to your Casting modifier (minimum of one). You must use the new rolls.\n\nYou can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.",
-    "instance_type": "Metamagic"
+    "instanceType": "Metamagic"
   },
   {
     "name": "Extended Spell",
     "description": "When you cast a spell that has a duration of 1 minute or longer, you can spend 1 Spell Point to double its duration, to a maximum duration of 24 hours.",
-    "instance_type": "Metamagic"
+    "instanceType": "Metamagic"
   },
   {
     "name": "Heightened Spell",
     "description": "When you cast a spell that forces a creature to make a saving throw to resist its effects, you can spend 3 Spell Points to give one target of the spell disadvantage on its first saving throw made against the spell.",
-    "instance_type": "Metamagic"
+    "instanceType": "Metamagic"
   },
   {
     "name": "Quickened Spell",
     "description": "When you cast a spell that has a casting time of 2 or 3 actions, you can spend 2 Spell Points to reduce its casting time by 1 action for this casting.",
-    "instance_type": "Metamagic"
+    "instanceType": "Metamagic"
   },
   {
     "name": "Subtle Spell",
     "description": "When you cast a spell, you can spend 1 Spell Point to cast it without any somatic or verbal components.",
-    "instance_type": "Metamagic"
+    "instanceType": "Metamagic"
   },
   {
     "name": "Twinned Spell",
     "description": "When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of Spell Points equal to the spell's level to target a second creature in range with the same spell (1 Spell Point if the spell is a cantrip).",
-    "instance_type": "Metamagic"
+    "instanceType": "Metamagic"
   },
   {
     "name": "Unerring Spell",
     "description": "If you make an attack roll for a spell and miss, you can spend 2 Spell Points to reroll the attack roll. You must use the result of the second roll.\n\nYou can use Unerring Spell even if you have already used a different Metamagic option during the casting of the spell.",
-    "instance_type": "Metamagic"
+    "instanceType": "Metamagic"
   },
   {
     "name": "Widened Spell",
     "description": "When you cast a spell that affects an area, you can spend 1 Spell Point to increase the width of a cube by 10 feet, the length of a cone by 10 feet, or the width of a line by 5 feet and its length by 10 feet.",
-    "instance_type": "Metamagic"
+    "instanceType": "Metamagic"
   }
 ]

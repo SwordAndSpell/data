@@ -30,11 +30,6 @@
     "requirements": ""
   },
   {
-    "name": "Low-Light Vision",
-    "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness.",
-    "requirements": ""
-  },
-  {
     "name": "Powerful Swimmer",
     "description": "You have a swim speed of 15 feet.",
     "requirements": ""
@@ -62,11 +57,6 @@
   {
     "name": "Masterful Hunter",
     "description": "You have apprentice level proficiency in stealth and survival.",
-    "requirements": ""
-  },
-  {
-    "name": "Lowlight Vision",
-    "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness.",
     "requirements": ""
   },
   {
@@ -100,11 +90,6 @@
     "requirements": ""
   },
   {
-    "name": "Low-Light Vision",
-    "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness.",
-    "requirements": ""
-  },
-  {
     "name": "Dwarven Armor Training",
     "description": "You reduce the movement penalties from heavy and medium armor by 5 feet. You gain proficiency in light armor. If you already have proficiency in light armor, you instead gain proficiency in medium armor. If you already have proficiency in medium armor, you gain proficiency in heavy armor.",
     "requirements": ""
@@ -135,46 +120,6 @@
     "requirements": ""
   },
   {
-    "name": "Elf Magic",
-    "description": "You know one cantrip of your choice from the Arcane or Primal spell list. If you chose an Arcane spell, Intelligence is your spellcasting modifier for it. If you chose a Primal spell, Wisdom is your spellcasting modifier for it.\n\nYou are proficient in the casting of this spell.",
-    "requirements": ""
-  },
-  {
-    "name": "Elven Weapon Training",
-    "description": "You are proficient with the longsword, shortsword, shortbow, and longbow.",
-    "requirements": ""
-  },
-  {
-    "name": "Fleet of Foot",
-    "description": "You gain Apprentice proficiency in the Acrobatics skill, and each of your movement speeds increases by 5 feet.",
-    "requirements": ""
-  },
-  {
-    "name": "Mask of the Wild",
-    "description": "You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.",
-    "requirements": ""
-  },
-  {
-    "name": "Vast Knowledge (Requires age 250+)",
-    "description": "You gain the Trained proficiency in a skill of your choice.",
-    "requirements": ""
-  },
-  {
-    "name": "Elven Step",
-    "description": "When you Step, you may move up to half your movement speed rather than the standard 5 feet.",
-    "requirements": ""
-  },
-  {
-    "name": "Low-Light Vision",
-    "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness.",
-    "requirements": ""
-  },
-  {
-    "name": "Powerful Build",
-    "description": "You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. The movement penalty for armor and shields is reduced by 5 feet.",
-    "requirements": ""
-  },
-  {
     "name": "Fey Magic",
     "description": "You know one cantrip of your choice from the Primal spell list. Wisdom is your spellcasting Ability for it. You are proficient in the casting of this spell.",
     "requirements": ""
@@ -197,11 +142,6 @@
   {
     "name": "Read the Leaves",
     "description": "You have advantage on all survival checks while in forest or woods.",
-    "requirements": ""
-  },
-  {
-    "name": "Low-Light Vision",
-    "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness",
     "requirements": ""
   },
   {
@@ -235,18 +175,8 @@
     "requirements": ""
   },
   {
-    "name": "Low-Light Vision",
-    "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness.",
-    "requirements": ""
-  },
-  {
     "name": "Breath Weapon",
     "description": "You can use an action to exhale destructive energy. When you use your breath weapon, all creatures in the target area must make a saving throw, the type and shape of which is determined by your ancestry.\n\nThe DC of this saving throw is 9 + your Constitution modifier + your level. A creature takes 2d6 + your Constitution modifier damage on a failed save, and half as much damage on a successful one. The damage type is determined by your ancestry.\n\nThe damage increases to 3d6 at 3rd level, 4d6 at 5th, and 5d6 at 10th level.\n\nYou may use your breath weapon once per day.",
-    "requirements": ""
-  },
-  {
-    "name": "Hardened Scales",
-    "description": "Your scales provide you with a natural suit of armor. Your scales provide a Defense bonus of +3, with no Dexterity cap, and an Armor value of 1.",
     "requirements": ""
   },
   {
@@ -267,16 +197,6 @@
   {
     "name": "Survivalist",
     "description": "You gain Trained proficiency in the survival skill.",
-    "requirements": ""
-  },
-  {
-    "name": "Low-Light Vision",
-    "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness.",
-    "requirements": ""
-  },
-  {
-    "name": "Powerful Build",
-    "description": "You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. The movement penalty for armor and shields is reduced by 5 feet.",
     "requirements": ""
   },
   {
@@ -305,18 +225,8 @@
     "requirements": ""
   },
   {
-    "name": "Low-Light Vision",
-    "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness.",
-    "requirements": ""
-  },
-  {
     "name": "Brave",
     "description": "You have advantage on saving throws against being frightened.",
-    "requirements": ""
-  },
-  {
-    "name": "Nimble",
-    "description": "You can move through the space of any creature that is of a size larger than yours.",
     "requirements": ""
   },
   {
@@ -337,16 +247,6 @@
   {
     "name": "Sure Footed",
     "description": "You gain a climbing speed of 10 feet",
-    "requirements": ""
-  },
-  {
-    "name": "Low-Light Vision",
-    "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness.",
-    "requirements": ""
-  },
-  {
-    "name": "Brave",
-    "description": "You have advantage on saving throws against being frightened.",
     "requirements": ""
   },
   {
@@ -375,28 +275,18 @@
     "requirements": ""
   },
   {
-    "name": "Low-Light Vision",
-    "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness.",
-    "requirements": ""
-  },
-  {
     "name": "Practiced",
     "description": "You gain one skill increase to a skill of your choosing",
     "requirements": ""
   },
   {
-    "name": "Talented",
+    "name": "Talented Apprentice",
     "description": "You gain Apprentice proficiency in a skill of your choosing",
     "requirements": ""
   },
   {
     "name": "Martialist",
     "description": "You gain proficiency with simple weapons. If you already have proficiency with simple weapons, you gain proficiency with martial weapons.",
-    "requirements": ""
-  },
-  {
-    "name": "Stronger Together",
-    "description": "You have advantage on all checks to assist an ally in a skill that you have at least Trained proficiency level in.",
     "requirements": ""
   },
   {
@@ -465,11 +355,6 @@
     "requirements": "Half-Orc Subrace"
   },
   {
-    "name": "Low-Light Vision",
-    "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness.",
-    "requirements": "Half-Orc Subrace"
-  },
-  {
     "name": "Elf Magic",
     "description": "You know one cantrip of your choice from the Arcane or Primal spell list. If you chose an Arcane spell, Intelligence is your spellcasting modifier for it. If you chose a Primal spell, Wisdom is your spellcasting modifier for it.\n\nYou are proficient in the casting of this spell.",
     "requirements": "Half-Elf Subrace"
@@ -497,11 +382,6 @@
   {
     "name": "Elven Step",
     "description": "When you Step, you may move up to half your movement speed rather than the standard 5 feet.",
-    "requirements": "Half-Elf Subrace"
-  },
-  {
-    "name": "Low-Light Vision",
-    "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness.",
     "requirements": "Half-Elf Subrace"
   },
   {
@@ -535,11 +415,6 @@
     "requirements": ""
   },
   {
-    "name": "Low-Light Vision",
-    "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness.",
-    "requirements": ""
-  },
-  {
     "name": "Skilled Hunter",
     "description": "You have apprentice level proficiency in stealth and survival.",
     "requirements": ""
@@ -570,58 +445,13 @@
     "requirements": ""
   },
   {
-    "name": "Low-Light Vision",
-    "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness.",
-    "requirements": ""
-  },
-  {
-    "name": "Aggressive",
-    "description": "You gain the following reaction: When an enemy ends their movement within sight range, you can move up to your speed towards them.",
-    "requirements": ""
-  },
-  {
-    "name": "Fearsome Prowess",
-    "description": "You gain the Trained proficiency level in the Athletics or Intimidation skill.",
-    "requirements": ""
-  },
-  {
-    "name": "Powerful Build",
-    "description": "You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. The movement penalty for armor and shields is reduced by 5 feet.",
-    "requirements": ""
-  },
-  {
-    "name": "Savage Attacks",
-    "description": "When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.",
-    "requirements": ""
-  },
-  {
-    "name": "Relentless Endurance",
-    "description": "When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can use this ability once per day.",
-    "requirements": ""
-  },
-  {
-    "name": "Overlooked Brute",
-    "description": "You gain the Apprentice proficiency level in Deception, and have advantage on deception checks to make yourself appear less intelligent than you are.",
-    "requirements": ""
-  },
-  {
-    "name": "Low-Light Vision",
-    "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness.",
-    "requirements": ""
-  },
-  {
     "name": "Integrated Armor",
     "description": "You gain a permanent +1 bonus to both Defense and Armor. You can rest normally no matter the style of armor you are wearing, and no longer need to remove your armor for any reason.",
     "requirements": ""
   },
   {
-    "name": "Swift",
+    "name": "Swifter",
     "description": "Your movement speed increases by 10 feet.",
-    "requirements": ""
-  },
-  {
-    "name": "Powerful Build",
-    "description": "You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. You automatically meet the strength requirement for all armors and shields.",
     "requirements": ""
   },
   {
@@ -640,16 +470,6 @@
     "requirements": ""
   },
   {
-    "name": "Low-Light Vision",
-    "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness.",
-    "requirements": ""
-  },
-  {
-    "name": "Aggressive",
-    "description": "You gain the following reaction: When an enemy ends their movement within sight range, you can move up to your speed towards them.",
-    "requirements": ""
-  },
-  {
     "name": "Bestial Nature",
     "description": "You gain the Trained proficiency level in the Athletics, Intimidation, Acrobatics, or Survival skill.",
     "requirements": ""
@@ -660,23 +480,8 @@
     "requirements": ""
   },
   {
-    "name": "Powerful Build",
-    "description": "You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. The movement penalty for armor and shields is reduced by 5 feet.",
-    "requirements": ""
-  },
-  {
-    "name": "Relentless Endurance",
-    "description": "When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can use this ability once per day.",
-    "requirements": ""
-  },
-  {
     "name": "Persistent Adaptation",
     "description": "You gain a climbing or swimming speed of 10 feet.",
-    "requirements": ""
-  },
-  {
-    "name": "Low-Light Vision",
-    "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness.",
     "requirements": ""
   },
   {

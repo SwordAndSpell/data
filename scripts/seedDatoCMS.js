@@ -1,7 +1,6 @@
 // Node modules.
 const _ = require("lodash");
 const fetch = require("node-fetch");
-const uuidv4 = require("uuid/v4");
 const { SiteClient } = require("datocms-client");
 // Relative imports.
 const ABILITY_FEATURES = require("../data/ABILITY_FEATURES");
@@ -72,7 +71,7 @@ async function importFeatureOptions() {
     await client.items.create({
       itemType: "624921",
       description: featureOption.description,
-      instance_type: featureOption.instance_type,
+      instanceType: featureOption.instanceType,
       name: featureOption.name,
     });
   }
