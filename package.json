@@ -14,6 +14,7 @@
   },
   "homepage": "https://github.com/SwordAndSpell/data#readme",
   "scripts": {
+    "seed": "node scripts/seedDatoCMS.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
