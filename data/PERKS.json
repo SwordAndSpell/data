@@ -280,8 +280,8 @@
     "requirements": ""
   },
   {
-    "name": "Talented Apprentice",
-    "description": "You gain Apprentice proficiency in a skill of your choosing",
+    "name": "Talented",
+    "description": "You gain one skill increase to a skill of your choosing",
     "requirements": ""
   },
   {
@@ -450,7 +450,7 @@
     "requirements": ""
   },
   {
-    "name": "Swifter",
+    "name": "Swift Stride",
     "description": "Your movement speed increases by 10 feet.",
     "requirements": ""
   },
