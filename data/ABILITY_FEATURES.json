@@ -21,7 +21,7 @@
     "name": "Combat Grab",
     "description": "1 Action - You make a melee attack with against an enemy in range. If this attack hits, you grab the target with your free hand. Your target is Grabbed, and you have advantage on all Grappling contest checks against them.",
     "level": 1,
-    "requirements": "Requires an empty off-hand"
+    "requirements": "an empty off-hand"
   },
   {
     "name": "Dual Cast",
@@ -45,13 +45,13 @@
     "name": "Double Shot",
     "description": "1 Action - You make two quick ranged attacks against a single target. These attacks suffer the multiple attack penalty as normal.",
     "level": 1,
-    "requirements": "Requires a non-loading ranged weapon"
+    "requirements": "a non-loading ranged weapon"
   },
   {
     "name": "Duelist’s Parry",
     "description": "1 Action - You take a defensive stance and add +2 to your defense until the beginning of your next turn",
     "level": 1,
-    "requirements": "Requires one-handed weapon and an empty offhand"
+    "requirements": "one-handed weapon and an empty offhand"
   },
   {
     "name": "Flanking Strike",
@@ -63,7 +63,7 @@
     "name": "Momentum Strike",
     "description": "1 Action - Make a melee weapon attack. If this attack misses, it is not counted towards your multiple attack penalty.",
     "level": 1,
-    "requirements": "Requires weapon weilded in a single hand"
+    "requirements": "weapon weilded in a single hand"
   },
   {
     "name": "No Escape",
@@ -129,7 +129,7 @@
     "name": "Counterspell",
     "description": "When an enemy you can see casts a spell, you can attempt to cancel out their casting. Make spell attack against a DC = 9 + the triggering spell's level + your enemy's casting modifier and expend a spell charge or spell points equal to the target spell’s level. On a successful check, their casting is wasted.",
     "level": 3,
-    "requirements": "Requires Spellcasting"
+    "requirements": "Spellcasting"
   },
   {
     "name": "Improved Double Slice",
@@ -159,7 +159,7 @@
     "name": "Phalanx",
     "description": "When an ally is targeted with an attack, you can spend your reaction to add your shield’s defense value to an allies defense and armor value until the end of the current turn.",
     "level": 3,
-    "requirements": "Requires Shield"
+    "requirements": "Shield"
   },
   {
     "name": "Point Blank Shot",
@@ -177,13 +177,13 @@
     "name": "Sweeping Strike",
     "description": "2 Actions - Make a single attack roll against two enemies within reach. If the attack hits one or both of the enemies, roll the damage for the attack only once. You have advantage on the damage roll for this attack.",
     "level": 3,
-    "requirements": "Requires a two-handed weapon"
+    "requirements": "a two-handed weapon"
   },
   {
     "name": "Twin Stab",
     "description": "2 Actions - Make two attacks against a single target. If your first attack hits, then the second attack has advantage. Combine the damage rolls for these attacks and treat them as a single attack when detracting armor and resistances. All attacks after this action suffer the multi-attack penalty as if you had made two attacks.",
     "level": 3,
-    "requirements": "Requires a dagger in each hand"
+    "requirements": "a dagger in each hand"
   },
   {
     "name": "Crippling Strike",
@@ -231,7 +231,7 @@
     "name": "Multi-attack",
     "description": "2 Actions - You can make two weapon attacks against a target in range. These attacks do not suffer, nor count towards, your multi-attack penalty",
     "level": 5,
-    "requirements": "Requires a non-loading weapon"
+    "requirements": "a non-loading weapon"
   },
   {
     "name": "Punishing Strike",
@@ -273,7 +273,7 @@
     "name": "Wing Clip",
     "description": "2 Actions - You make an aimed attack targeting your opponents wings. On a successful hit, they must make a Fortitude saving throw against your Ability DC or lose the ability to fly.",
     "level": 5,
-    "requirements": "Requires a ranged weapon"
+    "requirements": "a ranged weapon"
   },
   {
     "name": "Absorb Spell",
@@ -285,13 +285,13 @@
     "name": "Superior Multi-Attack",
     "description": "2 Actions - You can make 3 weapon attacks against a target in range. These attacks do not suffer, nor count towards, your multi-attack penalty",
     "level": 7,
-    "requirements": "Requires a non-loading weapon"
+    "requirements": "a non-loading weapon"
   },
   {
     "name": "Volley",
     "description": "3 Actions - choose a point you can see within your weapon’s range. You make a ranged attack against each target within 15 feet of the chosen point. These attacks do not suffer from the multi-attack penalty, no matter how many enemies are targeted, however they do count towards it.",
     "level": 7,
-    "requirements": "Requires a ranged Weapon"
+    "requirements": "a ranged Weapon"
   },
   {
     "name": "Effortless Concentration",
@@ -309,7 +309,7 @@
     "name": "Executioner’s Strike",
     "description": "3 Actions - You make a single cleaving attack. This attack has advantage, and ignored all armor and resistances. Your critical threshold is decreased by 1 for this strike.",
     "level": 7,
-    "requirements": "Requires a two-handed weapon"
+    "requirements": "a two-handed weapon"
   },
   {
     "name": "Impossible Flurry",
@@ -339,7 +339,7 @@
     "name": "Reflect Spell",
     "description": "When you successfully counterspell an enemy, they must make a saving throw against your Arcane Spellcasting DC or suffer the effects of their own spell, automatically failing any saves associated with it.",
     "level": 7,
-    "requirements": "Requires Counterspell"
+    "requirements": "Counterspell"
   },
   {
     "name": "Sniper’s Shot",
