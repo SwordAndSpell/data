@@ -17,25 +17,25 @@
     {
       "name": "Wetlander",
       "description": "You are resistant to poison damage.\n\nYou gain a swim speed of 15 feet, and can hold your breath up to 15 minutes.",
-      "requirement": "",
+      "requirements": "",
       "penalty": ""
     },
     {
       "name": "Landstrider",
       "description": "You are resistant to Fire damage, and can go 10x longer than a normal creature without food or water.",
-      "requirement": "",
+      "requirements": "",
       "penalty": ""
     },
     {
       "name": "Frilled",
       "description": "You have the Trained proficiency level in intimidation, and can demoralize foes without sharing a language.",
-      "requirement": "",
+      "requirements": "",
       "penalty": ""
     },
     {
       "name": "Cliffscale",
       "description": "You gain a climbing speed of 15 feet and, as long as you aren't wearing footwear, can cling to walls and ceilings with your feet leaving your hands free for actions.",
-      "requirement": "",
+      "requirements": "",
       "penalty": ""
     }
   ],
@@ -43,37 +43,37 @@
     {
       "name": "Adaptive Skin",
       "description": "The pigment and patterning of your scales constantly adjust to match your surroundings. In areas that your skin has had time to match to the area (1 hour), you have advantage on stealth checks while remaining still.",
-      "requirement": ""
+      "requirements": ""
     },
     {
       "name": "Cunning Artisan",
       "description": "As part of a short rest, you can harvest bone and hide from a slain beast, construct, dragon, monstrosity, or plant creature of size Small or larger to create one of the following items: a shield, a club, a javelin, or 1d4 darts or blowgun needles.\n\nTo use this trait, you need a blade, such as a dagger, or appropriate artisan's tools, such as leatherworker's tools.",
-      "requirement": ""
+      "requirements": ""
     },
     {
       "name": "Hunter's Talent",
       "description": "You gain the Apprentice proficiency level in two of the following skills of your choice: Nature, Perception, Stealth, and Survival.",
-      "requirement": ""
+      "requirements": ""
     },
     {
       "name": "Hardened Scales",
       "description": "Your scales provide you with a natural suit of armor. Your scales provide a Defense bonus of +3, with no Dexterity cap, and an Armor value of 1.",
-      "requirement": ""
+      "requirements": ""
     },
     {
       "name": "Hungry Jaws",
       "description": "In battle, you can throw yourself into a vicious feeding frenzy, chomping down on your foes. This bite attack does damage equal to 1d6 + your Strength modifier, and provides you with a number of temporary hit points equal to the damage dealt with this attack.\n\nYou are proficient in this attack, but can only gain its additional benefits once per day.",
-      "requirement": ""
+      "requirements": ""
     },
     {
       "name": "Reptilian Healing",
       "description": "You heal far faster than other races. Whenever you recover hit points at the end of a rest, you regain additional hit points equal to your level.",
-      "requirement": ""
+      "requirements": ""
     },
     {
       "name": "Low-Light Vision",
       "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness.",
-      "requirement": ""
+      "requirements": ""
     }
   ]
 }

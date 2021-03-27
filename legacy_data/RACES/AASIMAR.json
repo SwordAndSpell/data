@@ -17,19 +17,19 @@
     {
       "name": "Protector",
       "description": "You can use two actions to unleash the divine energy within yourself, causing your eyes to glimmer and two luminous, incorporeal wings to sprout from your back.\n\nYour transformation lasts for 1 minute or until you end it as an action. During it, you have a flying speed of 20 feet.\n\nOn each of your turns,you can mark one of your allies with a glowing aura. Whenever they are struck by an enemy attack or spell that enemy takes Light damage equal to your level.\n\nYou can use this trait once per day",
-      "requirement": "",
+      "requirements": "",
       "penalty": ""
     },
     {
       "name": "Sourge",
       "description": "You can use two actions to unleash the divine energy within yourself, causing a searing light to radiate from you, pour out of your eyes and mouth, and threaten to char you.\n\nYour transformation lasts for 1 minute or until you end it as an action. During it, you shed bright light in a 10-foot radius and dim light for an additional 10 feet.\n\nAt the end of each of your turns, you and each creature within 10 feet of you take Light damage equal to your level.\n\nAdditionally, On each of your turns, you can deal extra Light damage to one target when you deal damage to it with an attack or a spell. The extra Light damage equals your level.\n\nYou can use this trait once per day",
-      "requirement": "",
+      "requirements": "",
       "penalty": ""
     },
     {
       "name": "Fallen",
       "description": "You can use two actions to unleash the divine energy within yourself, causing your eyes to turn into pools of darkness and two skeletal, ghostly, flightless wings to sprout from your back.\n\nThe instant you transform, other creatures within 10 feet of you that can see you must each succeed on a Will saving throw (DC 9 + your level + your Charisma modifier) or become frightened of you until the end of your next turn.\n\nYour transformation lasts for 1 minute or until you end it as an action. During it, once on each of your turns, you can deal extra Dark damage to one target when you deal damage to it with an attack or a spell. The extra Dark damage equals your level.\n\nYou can use this trait once per day",
-      "requirement": "",
+      "requirements": "",
       "penalty": ""
     }
   ],
@@ -37,37 +37,37 @@
     {
       "name": "Healing Hands",
       "description": "As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a rest.",
-      "requirement": ""
+      "requirements": ""
     },
     {
       "name": "Divine Blessing",
       "description": "You learn a Divine cantrip of your choice. Charisma is your spellcasting modifier for it.\n\nYou are proficient in the use of this cantrip",
-      "requirement": ""
+      "requirements": ""
     },
     {
       "name": "Celestial Resistance",
       "description": "You have resistance to Dark damage or Light damage.",
-      "requirement": ""
+      "requirements": ""
     },
     {
       "name": "Powerful Presence",
       "description": "You have apprentice proficiency in two of the following skills: Persuasion, Intimidation, and Society.",
-      "requirement": ""
+      "requirements": ""
     },
     {
       "name": "Stronger Together",
       "description": "You have advantage on all checks to assist an ally in a skill that you have at least Trained proficiency level in.",
-      "requirement": ""
+      "requirements": ""
     },
     {
       "name": "Talented",
       "description": "You gain one skill increase to a skill of your choosing",
-      "requirement": ""
+      "requirements": ""
     },
     {
       "name": "Low-Light Vision",
       "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness.",
-      "requirement": ""
+      "requirements": ""
     }
   ]
 }

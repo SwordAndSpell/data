@@ -17,19 +17,19 @@
     {
       "name": "Sea",
       "description": "You are resistant to Cold damage.\n\nYou have a swim speed of 15 feet and can breathe both air and water.",
-      "requirement": "",
+      "requirements": "",
       "penalty": ""
     },
     {
       "name": "High",
       "description": "You have advantage on all Will saves against magical effects.",
-      "requirement": "",
+      "requirements": "",
       "penalty": ""
     },
     {
       "name": "Wood",
       "description": "As an action, you can magically turn invisible until the start of your next turn or until you attack, make a damage roll, cast a spell, or force someone to make a saving throw. You may use this trait once per day.",
-      "requirement": "",
+      "requirements": "",
       "penalty": ""
     }
   ],
@@ -37,37 +37,37 @@
     {
       "name": "Elf Magic",
       "description": "You know one cantrip of your choice from the Arcane or Primal spell list. If you chose an Arcane spell, Intelligence is your spellcasting modifier for it. If you chose a Primal spell, Wisdom is your spellcasting modifier for it.\n\nYou are proficient in the casting of this spell.",
-      "requirement": ""
+      "requirements": ""
     },
     {
       "name": "Elven Weapon Training",
       "description": "You are proficient with the longsword, shortsword, shortbow, and longbow.",
-      "requirement": ""
+      "requirements": ""
     },
     {
       "name": "Fleet of Foot",
       "description": "You gain Apprentice proficiency in the Acrobatics skill, and each of your movement speeds increases by 5 feet.",
-      "requirement": ""
+      "requirements": ""
     },
     {
       "name": "Mask of the Wild",
       "description": "You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.",
-      "requirement": ""
+      "requirements": ""
     },
     {
       "name": "Vast Knowledge (Requires age 250+)",
       "description": "You gain the Trained proficiency in a skill of your choice.",
-      "requirement": ""
+      "requirements": ""
     },
     {
       "name": "Elven Step",
       "description": "When you Step, you may move up to half your movement speed rather than the standard 5 feet.",
-      "requirement": ""
+      "requirements": ""
     },
     {
       "name": "Low-Light Vision",
       "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness.",
-      "requirement": ""
+      "requirements": ""
     }
   ]
 }

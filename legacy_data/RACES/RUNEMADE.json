@@ -17,13 +17,13 @@
     {
       "name": "Envoy",
       "description": "You learn an additional language.\n\nYou gain trained proficiency in a skill of your choice",
-      "requirement": "",
+      "requirements": "",
       "penalty": ""
     },
     {
       "name": "Juggernaut",
       "description": "You gain an additional 4 hit points as part of your racial bonus at level 1.\n\nWhen making death saving throws, you require 4 failed death saves instead of 3 in order to die.",
-      "requirement": "",
+      "requirements": "",
       "penalty": ""
     }
   ],
@@ -31,37 +31,37 @@
     {
       "name": "Integrated Armor",
       "description": "You gain a permanent +1 bonus to both Defense and Armor. You can rest normally no matter the style of armor you are wearing, and no longer need to remove your armor for any reason.",
-      "requirement": ""
+      "requirements": ""
     },
     {
       "name": "Swift",
       "description": "Your movement speed increases by 10 feet.",
-      "requirement": ""
+      "requirements": ""
     },
     {
       "name": "Powerful Build",
       "description": "You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. You automatically meet the strength requirement for all armors and shields.",
-      "requirement": ""
+      "requirements": ""
     },
     {
       "name": "Sentry's Rest",
       "description": "You do not lose consciousness when you rest, and can instead remain motionless and alert for 6 hours to gain the benefits of a full night's rest.",
-      "requirement": ""
+      "requirements": ""
     },
     {
       "name": "Iron Fists",
       "description": "Your iron fists hit just as hard as any weapon. Your unarmed attacks do 1d6 + your strength modifier bludgeoning damage. You are proficient in these attacks.",
-      "requirement": ""
+      "requirements": ""
     },
     {
       "name": "Specialized Design",
       "description": "You gain apprentice proficiency in a skill of your choice.",
-      "requirement": ""
+      "requirements": ""
     },
     {
       "name": "Low-Light Vision",
       "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness.",
-      "requirement": ""
+      "requirements": ""
     }
   ]
 }
