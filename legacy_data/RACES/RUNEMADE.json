@@ -1,18 +1,17 @@
 {
-  "coreStats": {
-    "size": "Medium",
-    "landSpeed": 30,
-    "swimSpeed": 0,
-    "climbSpeed": 0,
-    "flySpeed": 0,
-    "burrowSpeed": 0,
-    "hitPoints": 10,
-    "languages": [
-      "Common",
-      "FREE"
-    ],
-    "ability": "You don’t need to eat, drink, or breathe. You are immune to disease and the poisoned condition."
-  },
+  "name": "Runemade",
+  "size": "Medium",
+  "landSpeed": 30,
+  "swimSpeed": 0,
+  "climbSpeed": 0,
+  "flySpeed": 0,
+  "burrowSpeed": 0,
+  "hitPoints": 10,
+  "languages": [
+    "Common",
+    "FREE"
+  ],
+  "ability": "You don’t need to eat, drink, or breathe. You are immune to disease and the poisoned condition.",
   "subraces": [
     {
       "name": "Envoy",

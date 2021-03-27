@@ -1,18 +1,17 @@
 {
-  "coreStats": {
-    "size": "Tall",
-    "landSpeed": 30,
-    "swimSpeed": 0,
-    "climbSpeed": 0,
-    "flySpeed": 0,
-    "burrowSpeed": 0,
-    "hitPoints": 12,
-    "languages": [
-      "Common",
-      "Giant"
-    ],
-    "ability": ""
-  },
+  "name": "Half Giant",
+  "size": "Tall",
+  "landSpeed": 30,
+  "swimSpeed": 0,
+  "climbSpeed": 0,
+  "flySpeed": 0,
+  "burrowSpeed": 0,
+  "hitPoints": 12,
+  "languages": [
+    "Common",
+    "Giant"
+  ],
+  "ability": "",
   "subraces": [
     {
       "name": "Crag-Hopper",

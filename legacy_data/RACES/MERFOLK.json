@@ -1,18 +1,17 @@
 {
-  "coreStats": {
-    "size": "Medium",
-    "landSpeed": 25,
-    "swimSpeed": 15,
-    "climbSpeed": 0,
-    "flySpeed": 0,
-    "burrowSpeed": 0,
-    "hitPoints": 8,
-    "languages": [
-      "Common",
-      "Primordial"
-    ],
-    "ability": "You can breathe both air and water"
-  },
+  "name": "Merfolk",
+  "size": "Medium",
+  "landSpeed": 25,
+  "swimSpeed": 15,
+  "climbSpeed": 0,
+  "flySpeed": 0,
+  "burrowSpeed": 0,
+  "hitPoints": 8,
+  "languages": [
+    "Common",
+    "Primordial"
+  ],
+  "ability": "You can breathe both air and water",
   "subraces": [
     {
       "name": "Deep Dweller",

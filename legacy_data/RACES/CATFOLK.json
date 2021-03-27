@@ -1,18 +1,17 @@
 {
-  "coreStats": {
-    "size": "Medium",
-    "landSpeed": 30,
-    "swimSpeed": 0,
-    "climbSpeed": 0,
-    "flySpeed": 0,
-    "burrowSpeed": 0,
-    "hitPoints": 8,
-    "languages": [
-      "Common",
-      "Amarrun"
-    ],
-    "ability": ""
-  },
+  "name": "Catfolk",
+  "size": "Medium",
+  "landSpeed": 30,
+  "swimSpeed": 0,
+  "climbSpeed": 0,
+  "flySpeed": 0,
+  "burrowSpeed": 0,
+  "hitPoints": 8,
+  "languages": [
+    "Common",
+    "Amarrun"
+  ],
+  "ability": "",
   "subraces": [
     {
       "name": "Sprinter",

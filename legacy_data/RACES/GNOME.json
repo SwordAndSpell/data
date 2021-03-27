@@ -1,18 +1,17 @@
 {
-  "coreStats": {
-    "size": "Small",
-    "landSpeed": 25,
-    "swimSpeed": 0,
-    "climbSpeed": 0,
-    "flySpeed": 0,
-    "burrowSpeed": 0,
-    "hitPoints": 6,
-    "languages": [
-      "Common",
-      "Gnomish"
-    ],
-    "ability": ""
-  },
+  "name": "Gnome",
+  "size": "Small",
+  "landSpeed": 25,
+  "swimSpeed": 0,
+  "climbSpeed": 0,
+  "flySpeed": 0,
+  "burrowSpeed": 0,
+  "hitPoints": 6,
+  "languages": [
+    "Common",
+    "Gnomish"
+  ],
+  "ability": "",
   "subraces": [
     {
       "name": "Forest",

@@ -1,18 +1,17 @@
 {
-  "coreStats": {
-    "size": "Small",
-    "landSpeed": 25,
-    "swimSpeed": 0,
-    "climbSpeed": 0,
-    "flySpeed": 0,
-    "burrowSpeed": 0,
-    "hitPoints": 6,
-    "languages": [
-      "Common",
-      "Halfling"
-    ],
-    "ability": ""
-  },
+  "name": "Halfling",
+  "size": "Small",
+  "landSpeed": 25,
+  "swimSpeed": 0,
+  "climbSpeed": 0,
+  "flySpeed": 0,
+  "burrowSpeed": 0,
+  "hitPoints": 6,
+  "languages": [
+    "Common",
+    "Halfling"
+  ],
+  "ability": "",
   "subraces": [
     {
       "name": "Lightfoot",

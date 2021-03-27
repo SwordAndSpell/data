@@ -1,18 +1,17 @@
 {
-  "coreStats": {
-    "size": "Medium",
-    "landSpeed": 30,
-    "swimSpeed": 0,
-    "climbSpeed": 0,
-    "flySpeed": 0,
-    "burrowSpeed": 0,
-    "hitPoints": 8,
-    "languages": [
-      "Common",
-      "FREE"
-    ],
-    "ability": "Shifting:\n\nAs an action, you can assume a more bestial appearance. This transformation lasts for one minute, until you die, or until you revert to your normal appearance as a free action (whichever comes first). When you shift, you gain temporary hit points equal to your level + your Constitution modifier (minimum of 1 temporary hit point).\n\nYou also gain additional bonuses according to your subspecies."
-  },
+  "name": "Shifter",
+  "size": "Medium",
+  "landSpeed": 30,
+  "swimSpeed": 0,
+  "climbSpeed": 0,
+  "flySpeed": 0,
+  "burrowSpeed": 0,
+  "hitPoints": 8,
+  "languages": [
+    "Common",
+    "FREE"
+  ],
+  "ability": "Shifting:\n\nAs an action, you can assume a more bestial appearance. This transformation lasts for one minute, until you die, or until you revert to your normal appearance as a free action (whichever comes first). When you shift, you gain temporary hit points equal to your level + your Constitution modifier (minimum of 1 temporary hit point).\n\nYou also gain additional bonuses according to your subspecies.",
   "subraces": [
     {
       "name": "Beasthide",

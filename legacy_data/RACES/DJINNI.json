@@ -1,18 +1,17 @@
 {
-  "coreStats": {
-    "size": "Medium",
-    "landSpeed": 30,
-    "swimSpeed": 0,
-    "climbSpeed": 0,
-    "flySpeed": 0,
-    "burrowSpeed": 0,
-    "hitPoints": 6,
-    "languages": [
-      "Common",
-      "Primordial"
-    ],
-    "ability": ""
-  },
+  "name": "Djinni",
+  "size": "Medium",
+  "landSpeed": 30,
+  "swimSpeed": 0,
+  "climbSpeed": 0,
+  "flySpeed": 0,
+  "burrowSpeed": 0,
+  "hitPoints": 6,
+  "languages": [
+    "Common",
+    "Primordial"
+  ],
+  "ability": "",
   "subraces": [
     {
       "name": "Air Djinni",

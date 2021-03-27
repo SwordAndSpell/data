@@ -1,18 +1,17 @@
 {
-  "coreStats": {
-    "size": "Medium",
-    "landSpeed": 25,
-    "swimSpeed": 0,
-    "climbSpeed": 0,
-    "flySpeed": 0,
-    "burrowSpeed": 0,
-    "hitPoints": 10,
-    "languages": [
-      "Common",
-      "Dwarvish"
-    ],
-    "ability": ""
-  },
+  "name": "Dwarf",
+  "size": "Medium",
+  "landSpeed": 25,
+  "swimSpeed": 0,
+  "climbSpeed": 0,
+  "flySpeed": 0,
+  "burrowSpeed": 0,
+  "hitPoints": 10,
+  "languages": [
+    "Common",
+    "Dwarvish"
+  ],
+  "ability": "",
   "subraces": [
     {
       "name": "Forge-born",

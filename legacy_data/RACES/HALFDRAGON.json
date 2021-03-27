@@ -1,18 +1,17 @@
 {
-  "coreStats": {
-    "size": "Medium",
-    "landSpeed": 25,
-    "swimSpeed": 0,
-    "climbSpeed": 0,
-    "flySpeed": 0,
-    "burrowSpeed": 0,
-    "hitPoints": 10,
-    "languages": [
-      "Common",
-      "Draconic"
-    ],
-    "ability": ""
-  },
+  "name": "Half Dragon",
+  "size": "Medium",
+  "landSpeed": 25,
+  "swimSpeed": 0,
+  "climbSpeed": 0,
+  "flySpeed": 0,
+  "burrowSpeed": 0,
+  "hitPoints": 10,
+  "languages": [
+    "Common",
+    "Draconic"
+  ],
+  "ability": "",
   "subraces": [
     {
       "name": "Black",
