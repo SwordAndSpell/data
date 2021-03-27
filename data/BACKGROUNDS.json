@@ -2,245 +2,245 @@
   {
     "name": "Acolyte",
     "abilityBoostChoice": "Int or Wis",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Religion",
     "loreAdvantage": "Scribing"
   },
   {
     "name": "Acrobat",
     "abilityBoostChoice": "Str or Dex",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Acrobatics",
     "loreAdvantage": "Circus"
   },
   {
     "name": "Animal Whisperer",
     "abilityBoostChoice": "Wis or Cha",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Nature",
     "loreAdvantage": "Animal Handling"
   },
   {
     "name": "Artisan",
     "abilityBoostChoice": "Dex or Int",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Crafting",
     "loreAdvantage": "Guild"
   },
   {
     "name": "Artist",
     "abilityBoostChoice": "Dex or Cha",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Crafting",
     "loreAdvantage": "Art"
   },
   {
     "name": "Barkeep",
     "abilityBoostChoice": "Con or Cha",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Society",
     "loreAdvantage": "Alcohol / Taverns"
   },
   {
     "name": "Barrister",
     "abilityBoostChoice": "Int or Cha",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Society",
     "loreAdvantage": "Legal"
   },
   {
     "name": "Bounty Hunter",
     "abilityBoostChoice": "Str or Wis",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Survival",
     "loreAdvantage": "Judicial"
   },
   {
     "name": "Charlatan",
     "abilityBoostChoice": "Int or Cha",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Deception",
     "loreAdvantage": "Underworld"
   },
   {
     "name": "Criminal",
     "abilityBoostChoice": "Dex or Int",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Stealth",
     "loreAdvantage": "Underworld"
   },
   {
     "name": "Detective",
     "abilityBoostChoice": "Int or Wis",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Society",
     "loreAdvantage": "Underworld"
   },
   {
     "name": "Emissary",
     "abilityBoostChoice": "Int or Cha",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Society",
     "loreAdvantage": "Home City"
   },
   {
     "name": "Entertainer",
     "abilityBoostChoice": "Dex or Cha",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Performance",
     "loreAdvantage": "Theater"
   },
   {
     "name": "Farmhand",
     "abilityBoostChoice": "Con or Wis",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Athletics",
     "loreAdvantage": "Farming"
   },
   {
     "name": "Field Medic",
     "abilityBoostChoice": "Con or Wis",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Medicine",
     "loreAdvantage": "Warfare"
   },
   {
     "name": "Fortune Teller",
     "abilityBoostChoice": "Int or Cha",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Arcana",
     "loreAdvantage": "Fortune Telling"
   },
   {
     "name": "Gambler",
     "abilityBoostChoice": "Dex or Cha",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Deception",
     "loreAdvantage": "Games of Chance"
   },
   {
     "name": "Gladiator",
     "abilityBoostChoice": "Str or Cha",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Performance",
     "loreAdvantage": "Gladiatorial"
   },
   {
     "name": "Guard",
     "abilityBoostChoice": "Str or Cha",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Intimidation",
     "loreAdvantage": "Legal or Warfare"
   },
   {
     "name": "Herbalist",
     "abilityBoostChoice": "Con or Wis",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Nature",
     "loreAdvantage": "Herbalism"
   },
   {
     "name": "Hermit",
     "abilityBoostChoice": "Con or Int",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Nature",
     "loreAdvantage": "Home Terrain"
   },
   {
     "name": "Hunter",
     "abilityBoostChoice": "Dex or Wis",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Survival",
     "loreAdvantage": "Hunting"
   },
   {
     "name": "Laborer",
     "abilityBoostChoice": "Str or Con",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Athletics",
     "loreAdvantage": "Labor Force"
   },
   {
     "name": "Martial Disciple",
     "abilityBoostChoice": "Str or Dex",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Acrobatics or Athletics",
     "loreAdvantage": "Warfare"
   },
   {
     "name": "Merchant",
     "abilityBoostChoice": "Int or Cha",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Persuasion",
     "loreAdvantage": "Mercantile"
   },
   {
     "name": "Miner",
     "abilityBoostChoice": "Str or Wis",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Survival",
     "loreAdvantage": "Mining"
   },
   {
     "name": "Noble",
     "abilityBoostChoice": "Int or Cha",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Society",
     "loreAdvantage": "Heraldry"
   },
   {
     "name": "Nomad",
     "abilityBoostChoice": "Con or Wis",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Survival",
     "loreAdvantage": "Travelers"
   },
   {
     "name": "Prisoner",
     "abilityBoostChoice": "Str or Con",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Stealth",
     "loreAdvantage": "Underworld"
   },
   {
     "name": "Sailor",
     "abilityBoostChoice": "Str or Dex",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Athletics",
     "loreAdvantage": "Sailing"
   },
   {
     "name": "Scholar",
     "abilityBoostChoice": "Int or Wis",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Arcana, Nature, or Religion",
     "loreAdvantage": "Academia"
   },
   {
     "name": "Scout",
     "abilityBoostChoice": "Dex or Wis",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Survival",
     "loreAdvantage": "Terrain Lore"
   },
   {
     "name": "Street Urchin",
     "abilityBoostChoice": "Dex or Con",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Thievery",
     "loreAdvantage": "Home City Lore"
   },
   {
     "name": "Tinkerer",
     "abilityBoostChoice": "Dex or Int",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Crafting",
     "loreAdvantage": "Engineering"
   },
   {
     "name": "Warrior",
     "abilityBoostChoice": "Str or Con",
-    "freeBoost": "Free",
+    "freeAbilityBoost": "Free",
     "trainedSkill": "Intimidation",
     "loreAdvantage": "Warfare"
   }
