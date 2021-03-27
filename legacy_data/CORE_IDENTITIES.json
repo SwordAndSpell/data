@@ -1,5 +1,6 @@
-{
-  "arcanist": {
+[
+  {
+    "name": "arcanist",
     "healthAt1stLevel": "At 1st level your Arcanist has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 6.",
     "healthBeyond1stLevel": "Each level after 1st, you gain a number of hit points equal to 1d6 or 4 + your Constitution Modifier.",
     "initialProficiencies": "Trained in Arcana (or another skill of your choice if you are already trained in Arcana)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, as well as staffs, daggers, and light crossbows.\n\nProficient with unarmored defense\n\nAbility DC is determined by your Intelligence Score.\n\nProficient in Arcane Spells (Intelligence is your casting modifier for these spells).",
@@ -19,7 +20,8 @@
       }
     ]
   },
-  "barbarian": {
+  {
+    "name": "barbarian",
     "healthAt1stLevel": "At 1st level your Barbarian has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 12.",
     "healthBeyond1stLevel": "Each level after 1st, you gain a number of hit points equal to 1d12 or 7 + your Constitution Modifier.",
     "initialProficiencies": "Trained in Athletics or Intimidation (or another skill of your choice if you are already trained in both of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with with unarmed attacks, simple weapons, and martial weapons\n\nProficient with light armor, medium armor and unarmored defense\n\nProficient in the use of all Shields.\n\nAbility DC is determined by your Strength Score",
@@ -43,7 +45,8 @@
       }
     ]
   },
-  "bard": {
+  {
+    "name": "bard",
     "healthAt1stLevel": "At 1st level your Bard has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 8.",
     "healthBeyond1stLevel": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier.",
     "initialProficiencies": "Trained in Performance(or another skill of your choice if you are already trained in Performance)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks and simple weapons\n\nProficient with light armor and unarmored defense\n\nProficient in the use of bucklers\n\nAbility DC is determined by your Charisma Score\n\nProficient in Arcane Spells (Charisma is your spellcasting modifier for these spells)",
@@ -63,7 +66,8 @@
       }
     ]
   },
-  "champion": {
+  {
+    "name": "champion",
     "healthAt1stLevel": "At 1st level your Champion has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 10.",
     "healthBeyond1stLevel": "Each level after 1st, you gain a number of hit points equal to 1d10 or 6 + your Constitution Modifier.",
     "initialProficiencies": "Trained in Religion(or another skill of your choice if you are already trained in Religion)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with all weapons and unarmed attacks.\n\nProficient with all armors and unarmored defense.\n\nProficient in the use of all shields.\n\nAbility DC is determined by your Charisma Score.\n\nProficient in Divine Spells (Charisma is your spellcasting modifier for these spells)",
@@ -87,7 +91,8 @@
       }
     ]
   },
-  "inheritor": {
+  {
+    "name": "inheritor",
     "healthAt1stLevel": "At 1st level your Inheritor has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 6.",
     "healthBeyond1stLevel": "Each level after 1st, you gain a number of hit points equal to 1d6 or 4 + your Constitution Modifier.",
     "initialProficiencies": "Trained in Arcana, Religion, or Nature depending on your bloodline (or another skill of your choice if you are already trained in the respective skill)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with all simple weapons\n\nProficient with unarmored defense\n\nProficient in Arcane, Divine, or Primal Spells depending on your bloodline (Constitution is your casting modifier for these spells)\n\nAbility DC is determined by your Constitution Score",
@@ -115,7 +120,8 @@
       }
     ]
   },
-  "mystic": {
+  {
+    "name": "mystic",
     "healthAt1stLevel": "At 1st level your Mystic has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 8.",
     "healthBeyond1stLevel": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier.",
     "initialProficiencies": "Trained in Acrobatics or Insight (or another skill of your choice if you are already trained in both of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with simple weapons and unarmed attacks\n\nProficient in unarmored defense\n\nAbility DC is determined by your Wisdom or Dexterity Score (your choice)\n\nProficient in the type of spells granted by your bloodline",
@@ -143,7 +149,8 @@
       }
     ]
   },
-  "priest": {
+  {
+    "name": "priest",
     "healthAt1stLevel": "At 1st level your Priest has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 8.",
     "healthBeyond1stLevel": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier.",
     "initialProficiencies": "Trained in Religion (or another skill of your choice if you are already trained in Religion)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with simple weapons and unarmed attacks\n\nProficient with light armor, medium armors and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Wisdom Score\n\nProficient in Divine Spells (Wisdom is your spellcasting modifier for these spells)",
@@ -163,7 +170,8 @@
       }
     ]
   },
-  "scoundrel": {
+  {
+    "name": "scoundrel",
     "healthAt1stLevel": "At 1st level your Scoundrel has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 8.",
     "healthBeyond1stLevel": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier.",
     "initialProficiencies": "Trained in Acrobatics, Stealth, or Thievery (or another skill of your choice if you are already trained in each of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with all simple weapons; additionally shortbows, shortswords, rapiers are simple weapons for you.\n\nProficient with light armor and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Dexterity Score",
@@ -187,7 +195,8 @@
       }
     ]
   },
-  "spellblade": {
+  {
+    "name": "spellblade",
     "healthAt1stLevel": "At 1st level your Spellblade has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 8.",
     "healthBeyond1stLevel": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier.",
     "initialProficiencies": "Trained in Arcana or Athletics or Acrobatics(or another skill of your choice if you are already trained in both of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons, and martial weapons\n\nProficient with light armor, medium armor and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Intelligence Score\n\nProficient in Arcane Spells (Intelligence is your casting modifier for these spells)",
@@ -215,7 +224,8 @@
       }
     ]
   },
-  "warden": {
+  {
+    "name": "warden",
     "healthAt1stLevel": "At 1st level your Warden has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 10.",
     "healthBeyond1stLevel": "Each level after 1st, you gain a number of hit points equal to 1d10 or 6 + your Constitution Modifier.",
     "initialProficiencies": "Trained in Nature (or another skill of your choice if you are already trained in Nature)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons, martial weapons, and firearms.\n\nProficient with light armor, medium armor and unarmored defense.\n\nProficient in the use of Bucklers and Shields.\n\nAbility DC is determined by your Wisdom Score\n\nProficient in Primal Spells (Wisdom is your spellcasting modifier for these spells)",
@@ -239,7 +249,8 @@
       }
     ]
   },
-  "warrior": {
+  {
+    "name": "warrior",
     "healthAt1stLevel": "At 1st level your Warrior has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 10.",
     "healthBeyond1stLevel": "Each level after 1st, you gain a number of hit points equal to 1d10 or 6 + your Constitution Modifier.",
     "initialProficiencies": "Trained in Athletics or Acrobatics (or another skill of your choice if you are already trained in both of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons, martial weapons, and firearms\n\nProficient with with all armors and unarmored defense\n\nProficient in the use of all Shields\n\nAbility DC is determined by your Strength or Dexterity Score (your choice)",
@@ -267,7 +278,8 @@
       }
     ]
   },
-  "wildling": {
+  {
+    "name": "wildling",
     "healthAt1stLevel": "At 1st level your Wildling has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 8.",
     "healthBeyond1stLevel": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier.",
     "initialProficiencies": "Trained in Nature (or another skill of your choice if you are already trained in Nature)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons\n\nProficient with light armor, medium armor and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Wisdom Score\n\nProficient in Primal Spells (Wisdom is your spellcasting modifier for these spells)",
@@ -287,4 +299,4 @@
       }
     ]
   }
-}
+]
