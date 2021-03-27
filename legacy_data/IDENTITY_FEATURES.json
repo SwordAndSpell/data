@@ -2840,7 +2840,7 @@
   {
     "name": "Advanced Arcane Archer - Curved Shot",
     "identity": "Warrior",
-    "requirements": "Requires Novice Arcane Archer, Level 3",
+    "requirements": "Requires Novice Arcane Archer - Arcane Shot, Level 3",
     "description": "You learn how to direct an errant arrow toward a new target. When you make an attack roll with a magic arrow and miss, you can use a bonus action to reroll the attack roll against a different target within 60 feet of the original target.\n\nAdditionally, you learn another Arcane Shot option from the Arcane Shot Options List.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2851,7 +2851,7 @@
   {
     "name": "Expert Arcane Archer - Empowered Shot",
     "identity": "Warrior",
-    "requirements": "Requires Advanced Arcane Archer, Level 7",
+    "requirements": "Requires Advanced Arcane Archer - Curved Shot, Level 7",
     "description": "You learn three more Arcane Shot options from the Arcane Shot Options List. Each of your Arcane Shots is now Empowered.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2873,7 +2873,7 @@
   {
     "name": "Advanced Cavalier - Warding Mark",
     "identity": "Warrior",
-    "requirements": "Requires Novice Cavalier, Level 3",
+    "requirements": "Requires Novice Cavalier - Mounted Warrior, Level 3",
     "description": "When you hit a creature with a melee weapon attack, you can mark the creature until the end of your next turn. This effect ends early if you are incapacitated or you die, or if someone else marks the creature.\n\nWhile it is within 5 feet of you, a creature marked by you has disadvantage on any attack roll that doesn't target you (including your mount).\n\nIn addition, if a creature marked by you deals damage to anyone other than you, you can make a special melee weapon attack against the marked creature as a reaction. You have advantage on the attack roll, and if it hits, the attack's weapon deals extra damage to the target equal to your level.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2884,7 +2884,7 @@
   {
     "name": "Advanced Cavalier - Run Them Down",
     "identity": "Warrior",
-    "requirements": "Requires Novice Cavalier, Level 3",
+    "requirements": "Requires Novice Cavalier - Mounted Warrior, Level 3",
     "description": "You can run down your foes, whether you're mounted or not. If you move at least 10 feet in a straight line right before attacking a creature and you hit it with the attack, that target must succeed on a Fortitude saving throw against your Ability DC or be knocked prone. You can use this feature only once on each of your turns.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2906,7 +2906,7 @@
   {
     "name": "Advanced Samurai - Perceptive Discipline",
     "identity": "Warrior",
-    "requirements": "Requires Novice Samurai, Level 3",
+    "requirements": "Requires Novice Samurai - Fighting Spirit, Level 3",
     "description": "Your discipline and attention to detail allow you to excel in social situations. Whenever you make a Persuasion, Deception, or Society check, you gain a bonus to the check equal to your Wisdom modifier.\n\nWhen you roll initiative and have no uses of Fighting Spirit remaining, you regain one use.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2917,7 +2917,7 @@
   {
     "name": "Expert Samurai - Delayed Defeat",
     "identity": "Warrior",
-    "requirements": "Requires Advanced Samurai, Level 7",
+    "requirements": "Requires Advanced Samurai - Perceptive Discipline, Level 7",
     "description": "If you take damage that reduces you to 0 hit points, you can use your reaction to delay falling unconscious, and you take an extra turn immediately after the current one. While you have 0 hit points during that extra turn, taking damage causes death saving throw failures as normal, and three death saving throw failures can still kill you. When the extra turn ends, you fall unconscious if you still have 0 hit points.\n\nOnce you use this feature, you can't use it again until you finish a Rest.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -3049,7 +3049,7 @@
   {
     "name": "Advanced Shaman - Elemental Protection",
     "identity": "Wildling",
-    "requirements": "Requires Novice Shaman, Level 3",
+    "requirements": "Requires Novice Shaman - Mistwalker, Level 3",
     "description": "When you or an ally you can see within 30 feet is damaged by an elemental damage type, you can use your reaction to grant them (or yourself) resistance to that instance of that damage type.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -3060,7 +3060,7 @@
   {
     "name": "Expert Shaman - Protected by Nature",
     "identity": "Wildling",
-    "requirements": "Requires Advanced Shaman, Level 7",
+    "requirements": "Requires Advanced Shaman - Elemental Protection, Level 7",
     "description": "When you are attacked by a natural creature, fey, elemental, or dragon, that creature must succeed on a Will saving throw against your Ability DC or be forced to change the target of its attack to a different target or the attack automatically misses.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -3093,7 +3093,7 @@
   {
     "name": "Advanced Storm Speaker - Stormcaller",
     "identity": "Wildling",
-    "requirements": "Requires Novice Storm Speaker, Level 3",
+    "requirements": "Requires Novice Storm Speaker - Fogling, Level 3",
     "description": "When you cast the spell call lightning, you can use two actions to both summon a lightning bolt and sustain the spell.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -3104,7 +3104,7 @@
   {
     "name": "Expert Storm Speaker - Storm Unbound",
     "identity": "Wildling",
-    "requirements": "Requires Advanced Storm Speaker, Level 7",
+    "requirements": "Requires Advanced Storm Speaker - Stormcaller, Level 7",
     "description": "You can cast the spell Firestorm once per day without expending spell charges or spell points, and do not need to have the spell prepared to do so.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -3137,7 +3137,7 @@
   {
     "name": "Advanced Swarmkeeper - Defensive Swarm",
     "identity": "Wildling",
-    "requirements": "Requires Novice Swarmkeeper, Level 3",
+    "requirements": "Requires Novice Swarmkeeper - Swarm, Level 3",
     "description": "The swarm's strength increases, increasing its damage to 1d8. Additionally, if a creature fails its saving throw against being moved by the swarm you force the creature to be knocked prone instead.\n\nYou also gain the following swarm option:\n\n- You can cause the swarm to take up a defensive shroud around you, granting you half-cover until the beginning of your next turn.\n\n",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -3148,7 +3148,7 @@
   {
     "name": "Expert - Massive Swarm",
     "identity": "Wildling",
-    "requirements": "Requires Advanced Swarmkeeper, Level 7",
+    "requirements": "Requires Advanced Swarmkeeper - Defensive Swarm, Level 7",
     "description": "Your swarm has grown massive, allowing you to be completely hidden for brief periods. Its damage increases to 2d6, and when you command your swarm to grant you cover, you are now granted 3/4 cover until the start of your next turn.\n\nYou also gain the following ability: you can use your reaction to grant yourself resistance to a single instance of damage, dispersing it throughout your swarm instead",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -3157,10 +3157,32 @@
     "5thLevelSpells": ""
   },
   {
-    "name": "Pact Boon",
+    "name": "Pact Boon - Bound Blade",
     "identity": "Patron-Sworn",
     "requirements": "Requires a binding pact with a powerful Patron, Charisma 14",
-    "description": "You can only gain 1 of these perks\n\nYou gain one of the following boons below:\n\nBound Blade\n\n-- You can use an action to create a bound weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it. You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistances.\n\n-- Your bound weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.\n\n-- You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest.\n\n-- You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.\n\nGrimoire\n\n-- Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any spell list (they don't have to be the same list). While the book is on your person, you can cast those cantrips at will. Charisma is your spellcasting modifier for these spells, and they are considered Arcane spells for you. \n\n-- If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.\n\nChain\n\n-- You learn the Find Familiar spell and can cast it without expending any spell charges or spell points.\n\n-- Your familiar can change its shape at will, and is not limited to beast shapes like other familiars..\n\n-- Additionally, whenever you cast a spell, you can choose to have the spell originate from you or from your familiar.",
+    "description": "Bound Blade\n\n-- You can use an action to create a bound weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it. You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistances.\n\n-- Your bound weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.\n\n-- You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest.\n\n-- You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.",
+    "1stLevelSpells": "",
+    "2ndLevelSpells": "",
+    "3rdLevelSpells": "",
+    "4thLevelSpells": "",
+    "5thLevelSpells": ""
+  },
+  {
+    "name": "Pact Boon - Grimoire",
+    "identity": "Patron-Sworn",
+    "requirements": "Requires a binding pact with a powerful Patron, Charisma 14",
+    "description": "Grimoire\n\n-- Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any spell list (they don't have to be the same list). While the book is on your person, you can cast those cantrips at will. Charisma is your spellcasting modifier for these spells, and they are considered Arcane spells for you. \n\n-- If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.",
+    "1stLevelSpells": "",
+    "2ndLevelSpells": "",
+    "3rdLevelSpells": "",
+    "4thLevelSpells": "",
+    "5thLevelSpells": ""
+  },
+  {
+    "name": "Pact Boon - Chain",
+    "identity": "Patron-Sworn",
+    "requirements": "Requires a binding pact with a powerful Patron, Charisma 14",
+    "description": "Chain\n\n-- You learn the Find Familiar spell and can cast it without expending any spell charges or spell points.\n\n-- Your familiar can change its shape at will, and is not limited to beast shapes like other familiars..\n\n-- Additionally, whenever you cast a spell, you can choose to have the spell originate from you or from your familiar.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
     "3rdLevelSpells": "",
