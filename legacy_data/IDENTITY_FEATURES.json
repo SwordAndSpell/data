@@ -68,7 +68,7 @@
   {
     "name": "Advanced Abjurationist - Shield Refresh",
     "identity": "Arcanist",
-    "requirements": "Requires Novice Abjurationist, Level 5",
+    "requirements": "Requires Novice Abjurationist - Arcane Ward, Level 5",
     "description": "Whenever you cast a spell, your ward gains additional hit points equal to _ your Intelligence Modifier (rounded up).",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -79,7 +79,7 @@
   {
     "name": "Expert Abjurationist - Spell Dampening",
     "identity": "Arcanist",
-    "requirements": "Requires Advanced Abjurationist, Level 7",
+    "requirements": "Requires Advanced Abjurationist - Shield Refresh, Level 7",
     "description": "You have resistance to all damage from spells.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -88,7 +88,7 @@
     "5thLevelSpells": ""
   },
   {
-    "name": "Novice Conjurer- Conjurer's Step",
+    "name": "Novice Conjurer - Conjurer's Step",
     "identity": "Arcanist",
     "requirements": "Requires Spellcasting",
     "description": "You can use an action to teleport yourself up to 30 feet to a location you can see. Alternatively, you can use two actions to target a willing ally within 30 feet and both teleport, magically swapping your positions. \n\nYou can use this feature a number of times equal to your Intelligence Modifier.",
@@ -99,9 +99,9 @@
     "5thLevelSpells": ""
   },
   {
-    "name": "Advanced Conjurer- Stable Summons",
+    "name": "Advanced Conjurer - Stable Summons",
     "identity": "Arcanist",
-    "requirements": "Requires Novice Conjurer, Level 5",
+    "requirements": "Requires Novice Conjurer - Conjurer's Step, Level 5",
     "description": "Your summons spells no longer require concentration to maintain.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -112,7 +112,7 @@
   {
     "name": "Expert Conjurer- Active Summons",
     "identity": "Arcanist",
-    "requirements": "Requires Advanced Conjurer, Level 7",
+    "requirements": "Requires Advanced Conjurer - Stable Summons, Level 7",
     "description": "Your summons gain an extra action on each of their turns.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -134,7 +134,7 @@
   {
     "name": "Advanced Diviner - 3rd Eye",
     "identity": "Arcanist",
-    "requirements": "Requires Novice Diviner, Level 5",
+    "requirements": "Requires Novice Diviner - Portens, Level 5",
     "description": "You can use your action to increase your powers of perception. When you do so, choose one of the following benefits, which lasts until you are incapacitated or you take a Rest. You can't use the feature again until you finish a Rest.\n\n- Darkvision. You gain magical darkvision out to a range of 60 feet.\n\n- Greater Comprehension. You can read any language.\n\n- See Invisibility. You can see invisible creatures and objects within 10 feet of you that are within line of sight.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -145,7 +145,7 @@
   {
     "name": "Expert Diviner - Advanced Portens",
     "identity": "Arcanist",
-    "requirements": "Requires Advanced Diviner, Level 7",
+    "requirements": "Requires Advanced Diviner - 3rd Eye, Level 7",
     "description": "You roll three d20s for your Portens feature, rather than two.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -167,7 +167,7 @@
   {
     "name": "Advanced Enchanter - Deflecting Charm",
     "identity": "Arcanist",
-    "requirements": "Requires Novice Enchanter, Level 5",
+    "requirements": "Requires Novice Enchanter - Hypnotic Gaze, Level 5",
     "description": "When a creature you can see within 30 feet makes an attack roll against you, you can use your reaction to force them to make a Will saving throw against your ability DC. On a failed save, the creature must target the creature closest to it (not including you or itself).\n\nOn a successful save, the attacker is immune to this effect for 24 hours.\n\nYou must choose to use this effect before knowing the results of the creature's attack roll.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -178,7 +178,7 @@
   {
     "name": "Expert Enchanter - Alter Memories",
     "identity": "Arcanist",
-    "requirements": "Requires Advanced Enchanter, Level 7",
+    "requirements": "Requires Advanced Enchanter - Deflecting Charm, Level 7",
     "description": "Whenever you use a spell or ability that Charms or Enthralls a creature, you can alter the creature's memories so it remains unaware of being charmed. Additionally, you can attempt to erase the target's memories of the time they were under your spell. The creature must succeed a Will saving throw against your Ability DC or lose a number of hours up to your Charisma Modifier (your choice) though the amount of time forgotten cannot exceed the length of time it was under your spell.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -200,7 +200,7 @@
   {
     "name": "Advanced Evoker - Potent Cantrips",
     "identity": "Arcanist",
-    "requirements": "Requires Novice Evoker, Level 5",
+    "requirements": "Requires Novice Evoker - Protective Casting, Level 5",
     "description": "If you cast a cantrip that forces a target to make a saving throw, the target takes half damage on a successful saving throw rather than none. If your cantrip causes creatures to suffer additional effects, they still do not do so on a successful save.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -211,7 +211,7 @@
   {
     "name": "Expert Evoker - Overchannel",
     "identity": "Arcanist",
-    "requirements": "Requires Advanced Evoker, Level 7",
+    "requirements": "Requires Advanced Evoker - Potent Cantrips, Level 7",
     "description": "When you cast a spell of 5th level or lower that has a damage roll, you can overchannel the spell's power, causing it to do the maximum possible damage (you do not need to roll damage for it). The first time per day you do this, you suffer no ill effects. \n\nEach time after the first, you suffer 2d12 Dark damage per level of the spell. Each additional time you cast a spell after the second, the Dark damage increases by 1d12 per level of the spell.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -233,7 +233,7 @@
   {
     "name": "Advanced Illusionist - Illusory Copy",
     "identity": "Arcanist",
-    "requirements": "Requires Novice Illusionist, Level 5",
+    "requirements": "Requires Novice Illusionist - Improved Illusions, Level 5",
     "description": "You can create an illusory duplicate of yourself as an instant, almost instinctual reaction to danger. When a creature makes an attack roll against you, you can use your reaction to interpose the illusory duplicate between the attacker and yourself. The attack automatically misses you, then the illusion dissipates.\n\nOnce you use this feature, you can't use it again until you finish a Rest.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -244,7 +244,7 @@
   {
     "name": "Expert Illusionist - Tangible Illusions",
     "identity": "Arcanist",
-    "requirements": "Requires Advanced Illusionist, Level 7",
+    "requirements": "Requires Advanced Illusionist - Illusory Copy, Level 7",
     "description": "Whenever you cast an illusion spell of 1st level or higher, you can choose one aspect of the illusion and make it real. Maintaining this object's realness requires its own concentration and Sustain a Spell action, but can otherwise the effect lasts as long as the spell does.\n\nThis illusion made real cannot deal damage or otherwise directly cause harm to anyone.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -266,7 +266,7 @@
   {
     "name": "Advanced Necromancer - Master of Thralls",
     "identity": "Arcanist",
-    "requirements": "Requires Novice Necromancer, Level 5",
+    "requirements": "Requires Novice Necromancer - Grim Harvest, Level 5",
     "description": "You learn the Summon Undead spell and always have it prepared if you must prepare your spells. When you cast Summon Undead, you summon an additional thrall as part of casting the spell. Additionally, each thrall you summon with the Summon Undead spell gains a number of hit points equal to your Level + your Intelligence Modifier.\n\n",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -277,7 +277,7 @@
   {
     "name": "Expert Necromancer - Command Undead",
     "identity": "Arcanist",
-    "requirements": "Requires Advanced Necromancer, Level 7",
+    "requirements": "Requires Advanced Necromancer - Master of Thralls, Level 7",
     "description": "You gain resistance to Dark damage, and can attempt to gain control of any undead you encounter.\n\nUsing two actions, you can force each Undead creature you can see within 30 feet to make a Will saving throw against your ability DC. If it succeeds, it is immune to this effect. If it fails, you gain control over it as if it was one of your thralls for 24 hours.\n\nIntelligent undead are harder to control. If a targeted creature has an Intelligence of 8 or higher, they have advantage on the saving throw. If they have an intelligence of 12 or higher, they can repeat the saving throw every hour until it succeeds and breaks free.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -299,7 +299,7 @@
   {
     "name": "Advanced Transmuter - Shapechanger",
     "identity": "Arcanist",
-    "requirements": "Requires Novice Transmuter, Level 5",
+    "requirements": "Requires Novice Transmuter - Transmuter's Stone, Level 5",
     "description": "You learn the Polymorph spell , or add it to your spellbook if it is not there already. You can cast Polymorph without expending a spell slot. When you do so, you can target only yourself.\n\nOnce you cast Polymorph in this way, you can't do so again until you finish a Rest, though you can still cast it normally using an available spell slot.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -310,7 +310,7 @@
   {
     "name": "Expert Transmuter - Invoked Transmutation",
     "identity": "Arcanist",
-    "requirements": "Requires Advanced Transmuter, Level 7",
+    "requirements": "Requires Advanced Transmuter - Shapechanger, Level 7",
     "description": "You can use an action to consume the reserve of transmutation magic stored within your transmuter's stone in a single burst. When you do so, choose one of the following effects. Your transmuter's stone is destroyed and can't be remade until you finish a Rest.\n\n- Major Transformation. You can transmute one non-magical object - no larger than a 5-foot cube - into another non-magical object of similar size and mass and of equal or lesser value. You must spend 10 minutes handling the object to transform it.\n\n- Panacea. You remove all curses, diseases, and poisons affecting a creature that you touch with the transmuter's stone. The creature also regains all its hit points and has all of its wounds removed.\n\n- Restore Life. You cast the Raise Dead spell on a creature you touch with the transmuter's stone, without expending a spell slot or needing to have the spell in your spellbook.\n\n- Restore Youth. You touch the transmuter's stone to a willing creature, and that creature's apparent age is reduced by 3d10 years, to a minimum of 13 years. This effect doesn't extend the creature's lifespan.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -409,7 +409,7 @@
   {
     "name": "Advanced College of Whispers - Mantle of Shadow",
     "identity": "Bard",
-    "requirements": "Requires Novice College of Whispers, Level 5",
+    "requirements": "Requires Novice College of Whispers - Mantle of Shadow, Level 5",
     "description": "When a humanoid dies within 30 feet of you that you can see, you can magically capture their shadow as a reaction. You retain this shadow until you use it or until you Rest. \n\nAs an action, you can consume the shadow to transform it into a disguise that appears on you. This disguise lasts for 1 hour, and while it lasts you appear to be the dead person, only alive and well. While appearing as this person, you have access to their surface level memories (no information deeper than what they would share with a casual acquaintance). Such information includes their general background and personal life, but does not include secrets or anything they would have attempted to conceal in life. \n\nThis information is enough for you to pass yourself off as the person by drawing on their memories. Another creature can see through this disguise by succeeding on an Insight check contested by your Deception check. You have advantage on this contest roll. \n\nOnce you capture a shadow with this feature, you cannot do so again until after a Rest.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -420,7 +420,7 @@
   {
     "name": "Expert College of Whispers - Shadow Secrets",
     "identity": "Bard",
-    "requirements": "Requires Advanced College of Whispers, Level 7",
+    "requirements": "Requires Advanced College of Whispers - Shadow Secrets, Level 7",
     "description": "As two actions, you can send a psychic whisper into the ear of a target you can see within 30 feet. The target must make a Will save against your Ability DC. If automatically succeeds the saving throw if it does not share a language with you. On a successful saving throw, the whisper sounds like an unintelligible mumble and has no effect.\n\nOn a failed saving throw, the target is Charmed by you for the next 8 hours, or until you or one of your allies takes hostile action towards it. It interprets these whispers as you knowing its most mortifying secret.\n\nWhile you gain no knowledge of what this secret is, the target is convinced that you know it. While Charmed this way, the target obeys your commands for fear that you will reveal its secret.\n\nIt won't risk its life for you or fight for you unless otherwise inclined to do so. It grants you gifts and favors it would give a close friend. \n\nWhen the effect ends, the creature has no understanding of why it held you in such fear. \n\nYou can only use this ability once per day.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -442,7 +442,7 @@
   {
     "name": "Advanced College of Glamour - Mantle of Majesty",
     "identity": "Bard",
-    "requirements": "Requires Novice College of Glamour, Level 5",
+    "requirements": "Requires Novice College of Glamour - Captivate, Level 5",
     "description": "Using two actions, you can assume a Mantle of Fey Majesty, cloaking yourself in illusions of Glamour and taking on an appearance of unearthly beauty for 1 minute. While in this state you can cast the spell Command without consuming any spell charges. Any creatures Charmed by you automatically fail the saving throw against your Command.\n\nYou can use this ability only once per day.\n\n",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -453,7 +453,7 @@
   {
     "name": "Expert College of Glamour - Deflecting Presence",
     "identity": "Bard",
-    "requirements": "Requires Advanced College of Glamour, Level 7",
+    "requirements": "Requires Advanced College of Glamour - Mantle of Majesty, Level 7",
     "description": "Using two actions, you can assume a powerful fey presence for 1 minute or until you are incapacitated (whichever comes first). While in this state, any enemy who targets you with an attack must make a Will saving throw against your Ability DC. On a successful save, it has disadvantage on any spells you cast against it until the end of your next turn. On a failed save, it must choose a new target for its attack or lose the attack.\n\nYou can use this ability once per Rest.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -552,7 +552,7 @@
   {
     "name": "Advanced Berserker - Mindless Rage",
     "identity": "Barbarian",
-    "requirements": "Requires Novice Berserker, Level 3",
+    "requirements": "Requires Novice Berserker - Furious Flurry, Level 3",
     "description": "While raging, you become a mindless vessel of violence. You have advantage on all will saving throws and are immune to being charmed or frightened while under the effects of your rage.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -563,7 +563,7 @@
   {
     "name": "Expert Berserker - Strike Back",
     "identity": "Barbarian",
-    "requirements": "Requires Advanced Berserker, Level 7",
+    "requirements": "Requires Advanced Berserker - Mindless Rage, Level 7",
     "description": "Whenever a creature in your reach deals damage to you, you can use your reaction to make a melee weapon attack against that creature.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -585,7 +585,7 @@
   {
     "name": "Advanced Immolator - Controlled Burn",
     "identity": "Barbarian",
-    "requirements": "Requires Novice Immolator, Level 3",
+    "requirements": "Requires Novice Immolator - Fire Storm, Level 3",
     "description": "You gain further control over your aura, and its radius extends to 15 feet. Additionally, you can partially protect your allies from the intense heat, granting them resistance to Fire damage (both from your aura and outside sources) while they are inside its radius.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -596,7 +596,7 @@
   {
     "name": "Expert Immolator - Wrath of the Inferno",
     "identity": "Barbarian",
-    "requirements": "Requires Advanced Immolator, Level 7",
+    "requirements": "Requires Advanced Immolator - Controlled Burn, Level 7",
     "description": "You have mastered the element of fire, and its radius extends to 20 feet total. You gain the ability to channel its power against your foes directly: As a single action, you can force an enemy inside the aura to take the full power of your fury. This enemy must make a Reflex saving throw against your Ability DC or take 3d8 Fire damage. This damage increases to 4d8 at level 10. You can only use this action once per round.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -618,7 +618,7 @@
   {
     "name": "Advanced Storm Caller - Storm's Answer",
     "identity": "Barbarian",
-    "requirements": "Requires Novice Storm Caller, Level 3",
+    "requirements": "Requires Novice Storm Caller - Bring the Storm, Level 3",
     "description": "While you are raging, the storm punishes those who would stand against you. Whenever you are damaged by an enemy within 30 feet of you, you can use your reaction to force that enemy to make a Reflex saving throw. On a failed save your target takes 2d8 Lightning damage, or half as much on a successful save. This damage increases to 3d8 at 5th level and 4d8 at 9th level.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -629,7 +629,7 @@
   {
     "name": "Expert Storm Caller - Lightning Call",
     "identity": "Barbarian",
-    "requirements": "Requires Advanced Storm Caller, Level 7",
+    "requirements": "Requires Advanced Storm Caller - Storm's Answer, Level 7",
     "description": "You master the storm around you, and can summon its full might to destroy your enemies. Whenever you enter a rage, you create a bolt of lightning that arcs toward a target of your choice that you can see within 60 feet. Three bolts then leap from that target to as many as three other targets, each of which must be within 30 feet of the first target. A target can be a creature or an object and can be targeted by only one of the bolts. A target must make a Dexterity saving throw. The target takes 10d8 lightning damage on a failed save, or half as much damage on a successful one.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -651,7 +651,7 @@
   {
     "name": "Advanced Warlord - Force of Will",
     "identity": "Barbarian",
-    "requirements": "Requires Novice Warlord, Level 3",
+    "requirements": "Requires Novice Warlord - Empowering Presence, Level 3",
     "description": "The force of your presence carries through into your attacks. You can add your charisma modifier to the damage rolls of any melee weapon attacks you make.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -662,7 +662,7 @@
   {
     "name": "Expert Warlord - Fear and Awe",
     "identity": "Barbarian",
-    "requirements": "Requires Advanced Warlord, Level 7",
+    "requirements": "Requires Advanced Warlord - Force of Will, Level 7",
     "description": "You are a master of the battlefield, and your presence weakens the resolve of your enemies. The radius of your presence aura increases to 20 feet. Whenever an enemy enters the aura, or begins their turn inside it, they must succeed at a Will saving throw or subtract your Charisma modifier from any attacks or saving throws they make while inside the aura until the beginning of their next turn.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -783,7 +783,7 @@
   {
     "name": "Advanced Oath of the Sentinel - Undying Sentinel",
     "identity": "Champion",
-    "requirements": "Requires Novice Oath of the Sentinel, Level 5",
+    "requirements": "Requires Novice Oath of the Sentinel - Nature's Wrath, Level 5",
     "description": "When you are reduced to 0 hit points and are not killed outright, you can choose to drop to 1 hit point instead. Once you use this ability, you can't use it again until you finish a Rest.\n\nAdditionally, you suffer none of the drawbacks of old age, and you can't be aged magically.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -794,7 +794,7 @@
   {
     "name": "Expert Oath of the Sentinel - Elder Champion",
     "identity": "Champion",
-    "requirements": "Requires Advanced Oath of the Sentinel, Level 10",
+    "requirements": "Requires Advanced Oath of the Sentinel - Undying Sentinel, Level 10",
     "description": "Using two actions, you undergo a transformation assuming the form of an ancient force of nature. For 1 minute, you gain the following benefits:\n\n- At the start of each of your turns, you regain 10 hit points.\n\n- Whenever you cast a spell that has a casting time of 2 or 3 actions, you can reduce its casting time by 1 action.\n\n- Enemy creatures within 10 feet of you have disadvantage on saving throws against your spells and Nature's Wrath.\n\nOnce you use this feature, you can't use it again until you finish a Rest.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -827,7 +827,7 @@
   {
     "name": "Advanced Oath of the Conqueror - Scornful Rebuke",
     "identity": "Champion",
-    "requirements": "Requires Novice Oath of the Conqueror, Level 5",
+    "requirements": "Requires Novice Oath of the Conqueror - Strike Fear, Level 5",
     "description": "Whenever a creature hits you with an attack, that creature takes Psychic damage equal to your Charisma modifier (minimum of 1) if you're not incapacitated.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -838,7 +838,7 @@
   {
     "name": "Expert Oath of the Conqueror - Invincible Conqueror",
     "identity": "Champion",
-    "requirements": "Requires Advanced Oath of the Conqueror, Level 10",
+    "requirements": "Requires Advanced Oath of the Conqueror - Scornful Rebuke, Level 10",
     "description": "Using two actions, you harness extraordinary martial prowess. For 1 minute, you gain the following benefits:\n\n- You have resistance to all damage.\n\n- Whenever you spend an action to make an attack, you can make a second attack as part of that action using the same multi-attack penalty.\n\n- Your critical threshold is decreased by 1.\n\nOnce you use this feature, you can't use it again until you finish a Rest.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -871,7 +871,7 @@
   {
     "name": "Advanced Oath of the Protector - Unbreakable Protector",
     "identity": "Champion",
-    "requirements": "Requires Novice Oath of the Protector, Level 5",
+    "requirements": "Requires Novice Oath of the Protector - Champion's Challenge, Level 5",
     "description": "You have advantage on saving throws to avoid becoming paralyzed or stunned",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -882,7 +882,7 @@
   {
     "name": "Expert Oath of the Protector - Champion of the People",
     "identity": "Champion",
-    "requirements": "Requires Advanced Oath of the Protector, Level 10",
+    "requirements": "Requires Advanced Oath of the Protector - Unbreakable Protector, Level 10",
     "description": "Using an action, you inspire those around you. For 1 minute, you gain the following benefits:\n\n- You gain resistance to bludgeoning, slashing, and piercing damage\n\n- Your allies within 30 feet have advantage on death saving throws, and do not suffer wounds when they are stabilized or healed.\n\n- You and all allies within 30 feet have advantage on Will saving throws.\n\nOnce you use this feature, you can't use it again until you finish a Rest.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -915,7 +915,7 @@
   {
     "name": "Advanced Oath of the Devoted - Blessed and Bound",
     "identity": "Champion",
-    "requirements": "Requires Novice Oath of the Devotion, Level 5",
+    "requirements": "Requires Novice Oath of the Devotion - Holy Blade, Level 5",
     "description": "You are always under the effects of a Protection from the Unnatural spell.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -926,7 +926,7 @@
   {
     "name": "Expert Oath of the Devoted - Holy Radiance",
     "identity": "Champion",
-    "requirements": "Requires Advanced Oath of the Devotion, Level 10",
+    "requirements": "Requires Advanced Oath of the Devotion - Blessed and Bound, Level 10",
     "description": "Using two actions, you emulate an aura of sunlight. For 1 minute, emit bright light in a 30 foot radius, and dim light an additional 30 feet beyond that.\n\n- Whenever an enemy creature starts its turn in the bright light, they take 10 Light damage.\n\n- Whenever an allied creature starts their turn in the bright light, they are healed for your Charisma Modifier in hit points.\n\nOnce you use this feature, you can't use it again until you finish a Rest.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -959,7 +959,7 @@
   {
     "name": "Advanced Oath of the Hero - Glorious Defense",
     "identity": "Champion",
-    "requirements": "Requires Novice Oath of the Hero, Level 5",
+    "requirements": "Requires Novice Oath of the Hero - Heroic Fury, Level 5",
     "description": "When a creature you can see hits you with an attack roll, you can use your reaction to gain a bonus to Defense against that attack, potentially causing it to miss you.\n\nThe bonus equals your Charisma modifier (minimum of +1). If the attack misses, you can make one weapon attack against the attacker as part of this reaction.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -970,7 +970,7 @@
   {
     "name": "Expert Oath of the Hero - Living Myth",
     "identity": "Champion",
-    "requirements": "Requires Advanced Oath of the Hero, Level 10",
+    "requirements": "Requires Advanced Oath of the Hero - Glorious Defense, Level 10",
     "description": "Using an action, you embody the legends told about yourself both true and exaggerated. For 1 minute, you gain the following benefits:\n\n- You have advantage on all Charisma based Skill Checks.\n\n- Once on each of your turns when you miss with a melee weapon attack, you can choose to hit instead\n\n- If you fail a saving throw, you can spend your reaction to choose to succeed instead.\n\nOnce you use this feature, you can't use it again until you finish a Rest.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1003,7 +1003,7 @@
   {
     "name": "Advanced Oath of the Avenger - Provoking Vow",
     "identity": "Champion",
-    "requirements": "Requires Novice Oath of the Avenger, Level 5",
+    "requirements": "Requires Novice Oath of the Avenger - Force of Enmity, Level 5",
     "description": "When a creature under the effect of your Vow of Enmity makes an attack, you can use your reaction to make a melee weapon attack against that creature if it is within reach.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1014,7 +1014,7 @@
   {
     "name": "Expert Oath of the Avenger - Avenging Angel",
     "identity": "Champion",
-    "requirements": "Requires Advanced Oath of the Avenger, Level 10",
+    "requirements": "Requires Advanced Oath of the Avenger - Provoking Vow, Level 10",
     "description": "Using two actions, you take the form of an avenging angel. For 1 minute, you gain the following benefits:\n\n- You manifest glowing wings from your back and gain a flying speed of 60 feet.\n\n- You emanate an aura of menace in a 30-foot radius. The first time any enemy creature enters the aura or starts its turn there during a battle, the creature must succeed on a Will saving throw or become frightened of you for 1 minute or until it takes any damage. Attack rolls against the frightened creature have advantage.\n\nOnce you use this feature, you can't use it again until you finish a Rest.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1091,7 +1091,7 @@
   {
     "name": "Advanced Divine Bloodline - Angelic Flight",
     "identity": "Inheritor",
-    "requirements": "Requires Novice Divine Bloodline, Level 6",
+    "requirements": "Requires Novice Divine Bloodline - Blessed Influence, Level 6",
     "description": "You can use a single action to manifest a pair of spectral wings from your back. While the wings are present, you have a flying speed of 30 feet. The wings last until you're incapacitated, you die, or you dismiss them as an action. You can choose the wings appearance.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1102,7 +1102,7 @@
   {
     "name": "Expert Divine Bloodline - Divine Rebirth",
     "identity": "Inheritor",
-    "requirements": "Requires Advanced Divine Bloodline, Level 9",
+    "requirements": "Requires Advanced Divine Bloodline - Angelic Flight, Level 9",
     "description": "As an action when you have fewer than half of your hit points remaining, you can regain a number of hit points equal to half your hit point maximum.\n\nYou can use this ability once per day",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1135,7 +1135,7 @@
   {
     "name": "Advanced Draconic Bloodline - Draconic Flight",
     "identity": "Inheritor",
-    "requirements": "Requires Novice Draconic Bloodline, Level 6",
+    "requirements": "Requires Novice Draconic Bloodline - Ancestral Influence, Level 6",
     "description": "You gain the ability to sprout a pair of dragon wings from your back, gaining a flying speed equal to your current walking speed. You can create these wings as an action on your turn. They last until you dismiss them as an action.\n\nYou can't manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1146,7 +1146,7 @@
   {
     "name": "Expert Draconic Bloodline - Behold the Dragon",
     "identity": "Inheritor",
-    "requirements": "Requires Advanced Draconic Bloodline, Level 9",
+    "requirements": "Requires Advanced Draconic Bloodline - Draconic Flight, Level 9",
     "description": "As an action, you can spend 5 spell points to draw on the draconic power in your blood and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Will saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends.\n\nA creature that succeeds on this saving throw is immune to your aura for 24 hours.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1179,7 +1179,7 @@
   {
     "name": "Advanced Profane Bloodline - Shadow Step",
     "identity": "Inheritor",
-    "requirements": "Requires Novice Profane Bloodline, Level 6",
+    "requirements": "Requires Novice Profane Bloodline - Living Shadow, Level 6",
     "description": "You gain the ability to step from one shadow into another. When you are in dim light or darkness, as an action, you can teleport up to 120 feet to an unoccupied space you can see that is also in dim light or darkness.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1190,7 +1190,7 @@
   {
     "name": "Expert Profane Bloodline - Become the Shadow",
     "identity": "Inheritor",
-    "requirements": "Requires Advanced Profane Bloodline, Level 9",
+    "requirements": "Requires Advanced Profane Bloodline - Shadow Step, Level 9",
     "description": "You can spend 6 spell points as an action to transform yourself into a shadowy form. In this form, you have resistance to all damage except Arcane and Light damage, and you can move through other creatures and objects as if they were difficult terrain. You take 5 arcane damage if you end your turn inside an object. You remain in this form for 1 minute. It ends early if you are incapacitated, if you die, or if you dismiss it as a free action.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1223,7 +1223,7 @@
   {
     "name": "Advanced Storm Spirit Bloodline - Static Charge",
     "identity": "Inheritor",
-    "requirements": "Requires Novice Storm Spirit Bloodline, Level 6",
+    "requirements": "Requires Novice Storm Spirit Bloodline - Invoke the Storm, Level 6",
     "description": "When you are hit by a melee attack, you can use your reaction to deal lightning damage to the attacker. The damage equals your level. The attacker must also make a Fortitude saving throw. On a failed save, the attacker is pushed in a straight line up to 20 feet away from you.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1234,7 +1234,7 @@
   {
     "name": "Expert Storm Spirit Bloodline - Storm's Flight",
     "identity": "Inheritor",
-    "requirements": "Requires Advanced Storm Spirit Bloodline, Level 9",
+    "requirements": "Requires Advanced Storm Spirit Bloodline - Static Charge, Level 9",
     "description": "You gain immunity to lightning and thunder damage.\n\nYou also gain a magical flying speed of 60 feet. Using two actions, you can reduce your flying speed to 30 feet for 1 hour and choose a number of creatures within 30 feet of you equal to your Charisma modifier. The chosen creatures gain a magical flying speed of 30 feet for 1 hour. Once you reduce your flying speed in this way, you can't do so again until you finish a Rest.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1267,7 +1267,7 @@
   {
     "name": "Advanced Psion Bloodline - Psionic Warp",
     "identity": "Inheritor",
-    "requirements": "Requires Novice Psion Bloodline, Level 6",
+    "requirements": "Requires Novice Psion Bloodline - Subtle Casting, Level 6",
     "description": "You can unleash your Psionic power as a space-warping anomaly. Using two actions, you can teleport to an unoccupied space you can see within 120 feet of you. Immediately after you disappear, each creature within 30 feet of the space you left must make a Fortitude saving throw. On a failed save, a creature takes 3d10 Arcane damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your previous space as possible. On a successful save, the creature takes half as much damage and isn't pulled.\n\nOnce you use this feature, you can't do so again until after you Rest, or unless you spend 5 spell points to use it again.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1278,7 +1278,7 @@
   {
     "name": "Expert Psion Bloodline - Mass Mind Reader",
     "identity": "Inheritor",
-    "requirements": "Requires Advanced Psion Bloodline, Level 9",
+    "requirements": "Requires Advanced Psion Bloodline - Psionic Warp, Level 9",
     "description": "Using two actions, you can open your mind and read the thoughts and plans of those around you. For 1 minute, you gain advantage on any Persuasion or Insight skill checks to interact with NPCs. If you are in combat, you gain advantage on all attack rolls against enemies within 30 feet, and all enemies within 30 feet have disadvantage on attack rolls against you and on Reflex saving throws from spells you cast.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1377,7 +1377,7 @@
   {
     "name": "Advanced Drunken Master - Lucky Bounce",
     "identity": "Mystic",
-    "requirements": "Requires Novice Drunken Master, Ki, Level 3",
+    "requirements": "Requires Novice Drunken Master - Drunken Wanderer, Ki, Level 3",
     "description": "When you make an ability check, attack roll, or saving throw and have disadvantage on the roll, you can spend 2 ki points to negate the disadvantage for the roll.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1388,7 +1388,7 @@
   {
     "name": "Expert Drunken Master - A Round for Everyone",
     "identity": "Mystic",
-    "requirements": "Requires Advanced Drunken Master, Level 5",
+    "requirements": "Requires Advanced Drunken Master - Lucky Bounce, Level 5",
     "description": "When you use your Flurry of Blows, you can make up to three additional attacks with it, provided that you target a single creature with no more than two strikes of the flurry.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1410,7 +1410,7 @@
   {
     "name": "Advanced Kensei - Martial Disciple",
     "identity": "Mystic",
-    "requirements": "Requires Novice Kensei, Ki, Martial Arts, Level 3",
+    "requirements": "Requires Novice Kensei - Agile Parry, Ki, Martial Arts, Level 3",
     "description": "When you make an attack with a weapon you are proficient with, you can spend a ki point to add your martial arts dice to the damage roll of the attack.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1421,7 +1421,7 @@
   {
     "name": "Expert Kensei - Preserved Momentum",
     "identity": "Mystic",
-    "requirements": "Requires Advanced Kensei, Level 6",
+    "requirements": "Requires Advanced Kensei - Martial Disciple, Level 6",
     "description": "Once per turn when you miss an attack with a weapon or unarmed strike, you can reroll the attack.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1443,7 +1443,7 @@
   {
     "name": "Advanced Open Hand - Peaceful Wanderer",
     "identity": "Mystic",
-    "requirements": "Requires Novice Open Hand, Level 3",
+    "requirements": "Requires Novice Open Hand - Manipulative Strikes, Level 3",
     "description": "At the start of each day, you take on an aura of tranquility. Until you take a hostile action, any creature that wishes to attack you or target you with a spell must first make a Will saving throw. On a failed save, they must choose a new target or lose the attack or ability. On a successful save they are immune to this effect for 24 hours.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1454,7 +1454,7 @@
   {
     "name": "Expert Open Hand - Quivering Palm",
     "identity": "Mystic",
-    "requirements": "Requires Advanced Open Hand, Level 6",
+    "requirements": "Requires Advanced Open Hand - Peaceful Wanderer, Level 6",
     "description": "When you hit a creature with an unarmed strike, you can spend 3 ki points to start imperceptible lethal vibrations in your target's body, which last for a number of days equal to your level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Fortitude saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 Dark damage.\n\nYou can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1476,7 +1476,7 @@
   {
     "name": "Advanced Shadow - Linked Shadows",
     "identity": "Mystic",
-    "requirements": "Requires Novice Shadow, Level 3",
+    "requirements": "Requires Novice Shadow - Fade into Darkness, Level 3",
     "description": "When you are in dim light or darkness, you can use a single action to teleport up to 60 feet to an unoccupied space you can see that is also in dim light or darkness. You then have advantage on the first melee attack you make before the end of the turn.\n\nAdditionally, When you are in an area of dim light or darkness, you can use two actions to become invisible. You remain invisible until you make an attack, cast a spell, or are in an area of bright light.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1487,7 +1487,7 @@
   {
     "name": "Expert Shadow - And One from Me",
     "identity": "Mystic",
-    "requirements": "Requires Advanced Shadow, Level 6",
+    "requirements": "Requires Advanced Shadow - Linked Shadows, Level 6",
     "description": "Whenever a creature within 5 feet of you is hit by an attack made by a creature other than you, you can use your reaction to make a melee attack against that creature.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1509,7 +1509,7 @@
   {
     "name": "Advanced Sun Soul - Summon the Sun",
     "identity": "Mystic",
-    "requirements": "Requires Novice Sun Soul, Ki, Level 3",
+    "requirements": "Requires Novice Sun Soul - Flaming Fists, Ki, Level 3",
     "description": "You gain the ability to create an orb of light that erupts into a devastating explosion. Using two actions, you magically create an orb and hurl it at a point you choose within 150 feet, where it erupts into a sphere of radiant light for a brief but deadly instant.\n\nEach creature in that 20-foot-radius sphere must succeed on a Fortitude saving throw or take 2d6 Light damage. A creature doesn't need to make the save if the creature is behind total cover.\n\nYou can increase the sphere's damage by spending ki points. Each point you spend, up to a maximum of 3, increases the damage by 2d6.\n\n",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1520,7 +1520,7 @@
   {
     "name": "Expert Sun Soul - Radiant Glow",
     "identity": "Mystic",
-    "requirements": "Requires Advanced Sun Soul, Level 6",
+    "requirements": "Requires Advanced Sun Soul - Summon the Sun, Level 6",
     "description": "You shed bright light in a 30-foot radius and dim light for an additional 30 feet. You can extinguish or restore the light as a single action.\n\nIf a creature hits you with a melee attack while this light shines, you can use your reaction to deal Light damage to the creature. The Light damage equals your level + your Wisdom modifier.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1619,7 +1619,7 @@
   {
     "name": "Advanced Arcana Domain - Purging Heals",
     "identity": "Priest",
-    "requirements": "Requires Novice Arcana Domain, Level 4",
+    "requirements": "Requires Novice Arcana Domain - Arcane Initiate, Level 4",
     "description": "When you cast a Healing spell on yourself or an ally, you can cast Dispel Magic on them as part of the casting of the Heal without expending a spell charge or spell points.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1630,7 +1630,7 @@
   {
     "name": "Advanced Arcana Domain - Expansive Knowledge",
     "identity": "Priest",
-    "requirements": "Requires Novice Arcana Domain, Spellcasting, Level 5",
+    "requirements": "Requires Novice Arcana Domain - Arcane Initiate, Spellcasting, Level 5",
     "description": "You learn a number of spells from the Arcane spell list equal to your spellcasting level, these spells are always prepared for you, and don't count against the number of spells you can prepare. Each time your spellcasting level increases, you learn an additional spell from the Arcane spell list. This spell must be of a level less than or equal to your Spellcasting Level, and must be prepared as normal.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1663,7 +1663,7 @@
   {
     "name": "Advanced Creation Domain - Fire Hardened Plates",
     "identity": "Priest",
-    "requirements": "Requires Novice Creation Domain, Level 4",
+    "requirements": "Requires Novice Creation Domain - Empowered Weapon, Level 4",
     "description": "You gain resistance to fire damage, and gain +1 Defense and Armor while wearing heavy armor",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1674,7 +1674,7 @@
   {
     "name": "Expert Creation Domain - Saint of the Forge",
     "identity": "Priest",
-    "requirements": "Requires Advanced Creation Domain, Level 9",
+    "requirements": "Requires Advanced Creation Domain - Fire Hardened Plates, Level 9",
     "description": "You are immune to fire damage, and while wearing heavy armor have resistance to bludgeoning, slashing, and piercing damage.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1707,7 +1707,7 @@
   {
     "name": "Advanced Death Domain - Corrupting Spells",
     "identity": "Priest",
-    "requirements": "Requires Novice Death Domain, Level 4",
+    "requirements": "Requires Novice Death Domain - Epidemic Necromancy, Level 4",
     "description": "Whenever you hit an enemy with a damaging spell or effect, you can cause the damage dealt to be Dark damage instead of its original damage type.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1718,7 +1718,7 @@
   {
     "name": "Expert Death Domain - Feast on the Dark",
     "identity": "Priest",
-    "requirements": "Requires Advanced Death Domain, Level 9",
+    "requirements": "Requires Advanced Death Domain - Corrupting Spells, Level 9",
     "description": "Whenever you kill an enemy with your Dark damage, you can heal yourself or an ally within range of the spell for half the amount of damage dealt",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1751,7 +1751,7 @@
   {
     "name": "Advanced Life Domain - Protective Healing",
     "identity": "Priest",
-    "requirements": "Requires Novice Life Domain, Level 4",
+    "requirements": "Requires Novice Life Domain - Practiced Healer, Level 4",
     "description": "Whenever you heal an ally, either you or your target (your choice) gains a number of temporary hit points equal to the amount of hit points restored.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1762,7 +1762,7 @@
   {
     "name": "Expert Life Domain - Flawless Healing",
     "identity": "Priest",
-    "requirements": "Requires Advanced Life Domain, Level 9",
+    "requirements": "Requires Advanced Life Domain - Protective Healing, Level 9",
     "description": "Whenever you heal an ally, the roll for the amount of hit points restored is always the max value of the roll.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1795,7 +1795,7 @@
   {
     "name": "Advanced Light Domain - Mobile Flare",
     "identity": "Priest",
-    "requirements": "Requires Novice Light Domain, Level 4",
+    "requirements": "Requires Novice Light Domain - Warding Flare, Level 4",
     "description": "You can now use your warding flare reaction whenever one of your allies is attacked. Additionally, the blinding effect lasts until the end of the target's turn.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1806,7 +1806,7 @@
   {
     "name": "Expert Light Domain - Corona of Light",
     "identity": "Priest",
-    "requirements": "Requires Advanced Light Domain, Level 7",
+    "requirements": "Requires Advanced Light Domain - Mobile Flare, Level 7",
     "description": "You can use an action to emit an aura of sunlight that lasts for one minute or until you dismiss it. You emit bright light in a 60 foot radius, and dim light another 30 feet beyond that. Any enemies inside the aura of light have disadvantage against any saving throws caused by spells that deal Light or Fire damage.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1839,7 +1839,7 @@
   {
     "name": "Advanced Nature Domain - Warded from the Elements",
     "identity": "Priest",
-    "requirements": "Requires Novice Nature Domain, Level 4",
+    "requirements": "Requires Novice Nature Domain - Primal Practitioner, Level 4",
     "description": "Whenever an ally of yours within 30 feet of you takes elemental damage (acid, cold, fire, lightning, thunder) you can use your reaction to grant that ally resistance to that damage.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1850,7 +1850,7 @@
   {
     "name": "Expert Nature Domain - Nature's Ally",
     "identity": "Priest",
-    "requirements": "Requires Advanced Nature Domain, Level 9",
+    "requirements": "Requires Advanced Nature Domain - Warded from the Elements, Level 9",
     "description": "As an action, you can force each Beast or Plant creature within 30 feet that can see you to make a Will save against your Ability DC. If a creature fails this saving throw, they are charmed by you for 1 minute or until they take damage from you or an ally. While these creatures are charmed, you can spend an action to individually command each of them what to do on their next turn.\n\n",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1883,7 +1883,7 @@
   {
     "name": "Advanced Order Domain - Quick Commands",
     "identity": "Priest",
-    "requirements": "Requires Novice Order Domain, Level 4",
+    "requirements": "Requires Novice Order Domain - Commanding Influence, Level 4",
     "description": "Whenever you cast an enchantment spell, you can reduce its casting time by 1 action (to a minimum of 1 action).",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1894,7 +1894,7 @@
   {
     "name": "Expert Order Domain - Lead the Masses",
     "identity": "Priest",
-    "requirements": "Requires Advanced Order Domain, Level 9",
+    "requirements": "Requires Advanced Order Domain - Quick Commands, Level 9",
     "description": "Whenever you cast an enchantment spell, you can target one additional target, provided both targets are within range.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1927,7 +1927,7 @@
   {
     "name": "Advanced Tempest Domain - Forceful Crash",
     "identity": "Priest",
-    "requirements": "Requires Novice Tempest Domain, Level 4",
+    "requirements": "Requires Novice Tempest Domain - Storm's Rebuke, Level 4",
     "description": "Whenever you deal lightning or thunder damage to a creature, you can also push them up to 10 feet in any direction (away from you)",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1938,7 +1938,7 @@
   {
     "name": "Expert Tempest Domain - Storm's Lift",
     "identity": "Priest",
-    "requirements": "Requires Advanced Tempest Domain, Level 9",
+    "requirements": "Requires Advanced Tempest Domain - Forceful Crash, Level 9",
     "description": "Whenever you are not indoors or underground, you have a flying speed equal to half your walking speed.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1971,7 +1971,7 @@
   {
     "name": "Advanced Trickery Domain - Now You See Me",
     "identity": "Priest",
-    "requirements": "Requires Novice Trickery Domain, Level 4,",
+    "requirements": "Requires Novice Trickery Domain - Hidden Blessing, Level 4,",
     "description": "As two actions, you can make yourself invisible until the end of your next turn. You lose this effect if you make an attack or cast a spell while invisible. You can use this ability a number of times equal to your spellcasting modifier per day.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -1982,7 +1982,7 @@
   {
     "name": "Expert Trickery Domain - Perfect Copy",
     "identity": "Priest",
-    "requirements": "Requires Advanced Trickery Domain, Level 9",
+    "requirements": "Requires Advanced Trickery Domain - Now You See Me, Level 9",
     "description": "As an action, you create a perfect illusion of yourself that lasts for 1 minute, or until you lose your concentration (as if you were concentrating on a spell). The illusion appears in an unoccupied space that you can see within 30 feet of you. As an action on your turn, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.\n\nFor the duration, you can cast spells as though you were in the illusion's space, but you must use your own senses. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature, given how distracting the illusion is to the target.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2015,7 +2015,7 @@
   {
     "name": "Expert War Domain - Guided Strikes",
     "identity": "Priest",
-    "requirements": "Requires Novice War Domain, Level 7",
+    "requirements": "Requires Novice War Domain - We Hold, Level 7",
     "description": "You can add your Wisdom modifier to your attack rolls with melee weapons.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2125,7 +2125,7 @@
   {
     "name": "Advanced Arcane Trickster - Look at the Hand",
     "identity": "Scoundrel",
-    "requirements": "Requires Novice Arcane Trickster, Level 3",
+    "requirements": "Requires Novice Arcane Trickster - Mage Hand Expert, Level 3",
     "description": "You can an action to use your mage hand to distract enemies, giving yourself advantage on all attacks against them until the start of your next turn",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2136,7 +2136,7 @@
   {
     "name": "Expert Arcane Trickster - Spell Theif",
     "identity": "Scoundrel",
-    "requirements": "Requires Advanced Arcane Trickster, Level 7",
+    "requirements": "Requires Advanced Arcane Trickster - Look at the Hand, Level 7",
     "description": "When an enemy attempts to cast a spell, you can use your reaction to attempt to steal the knowledge of the spell from them. You force the enemy caster to make a check using their Spell Proficiency against your Ability DC. If they succeed, they cast the spell as normal and are immune to this effect for 24 hours. If they fail, their spell fizzles and you gain a single charge of their spell that you can use to cast the spell without expending a spell slot. This charge expires at the end of your next Rest. \n\nYou cannot attempt to steal a spell while you have a stored spell charge.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2158,7 +2158,7 @@
   {
     "name": "Advanced Assassin - Infiltrator",
     "identity": "Scoundrel",
-    "requirements": "Requires Novice Assassin, Level 3",
+    "requirements": "Requires Novice Assassin - Ambush, Level 3",
     "description": "You can spend a week crafting a false identity for yourself. You can't establish an identity that already belongs to someone else. Thereafter, if you adopt the identity as a disguise, other creatures believe you to be that person until you give them a reason not to.\n\nYou gain the ability to unerringly mimic another person's speech, writing, and behavior. You must spend at least three hours studying these three components of the person's behavior, listening to speech, examining handwriting, and observing mannerisms.\n\nYour ruse is indiscernible to the casual observer. This removes the restriction from the above ability to copy an already existing persona (However a close ally will spot your ruse).",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2169,7 +2169,7 @@
   {
     "name": "Expert Assassin - Coup De Grace",
     "identity": "Scoundrel",
-    "requirements": "Requires Advanced Assassin, Level 7",
+    "requirements": "Requires Advanced Assassin - Infiltrator, Level 7",
     "description": "When you hit an enemy with an attack and it is surprised (or who hasn't acted yet in this combat) It must make a Fortitude saving throw against your Ability DC or your attack deals double damage (including any critical hit damage).",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2191,7 +2191,7 @@
   {
     "name": "Expert Mastermind - Help from Afar",
     "identity": "Scoundrel",
-    "requirements": "Requires Novice Mastermind, Level 3",
+    "requirements": "Requires Novice Mastermind - Act the Part, Level 3",
     "description": "You can spend an action to grant a creature within 30 feet of you advantage on a single attack, ability check, or saving throw.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2202,7 +2202,7 @@
   {
     "name": "Expert Mastermind - Nope, Not Me",
     "identity": "Scoundrel",
-    "requirements": "Requires Advanced Mastermind, Level 7",
+    "requirements": "Requires Advanced Mastermind - Help from Afar, Level 7",
     "description": "When you are attacked and there is another enemy or ally within 5 feet of you, you can spend your reaction to cause the attack to target them instead.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2224,7 +2224,7 @@
   {
     "name": "Advanced Poisoner - Custom Toxins",
     "identity": "Scoundrel",
-    "requirements": "Requires Novice Poisoner, Level 3",
+    "requirements": "Requires Novice Poisoner - Poisoner's Vial, Level 3",
     "description": "You gain the ability to customize your poisons. Your poison's damage dice increases to 1d6, and it gains one of the following effects:\n\n- Slowing: target's move speed is reduced by 10 feet\n\n- Dizzying: target's next saving throw is made with disadvantage\n\n",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2235,7 +2235,7 @@
   {
     "name": "Expert Poisoner - Magical Toxins",
     "identity": "Scoundrel",
-    "requirements": "Requires Advanced Poisoner, Level 7",
+    "requirements": "Requires Advanced Poisoner - Custom Toxins, Level 7",
     "description": "Your proficiency with Poisons increases. You can now use a single action to apply your poison to a single sword blade, a pair of daggers, or a quiver of arrows (10).\n\nYou gain the ability to infuse magical reagents into your poisons, granting them increasingly potent effects. Choose one of the effects below, on a failed save the target of your poison's suffer its effect:\n\n- Blinding - target loses vision for 1 round \n\n- Charming - target is charmed by you for 1 hour or until you or one of your allies takes hostile action against it. \n\n- Paralytic -target loses its next two actions \n\n",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2257,7 +2257,7 @@
   {
     "name": "Advanced Ruffian - Gut Punch",
     "identity": "Scoundrel",
-    "requirements": "Requires Novice Ruffian, Level 3",
+    "requirements": "Requires Novice Ruffian - Anything Will Do, Level 3",
     "description": "When you use an action to intimidate an enemy you can see, they must make a Will saving throw against your Ability DC. If you have hit them with your sneak attack since the end of their last turn, they have disadvantage on the saving throw. On a failed saving throw, they are Frightened until the end of their next turn.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2268,7 +2268,7 @@
   {
     "name": "Expert Ruffian - Crippling Strikes",
     "identity": "Scoundrel",
-    "requirements": "Requires Advanced Ruffian, Level 7",
+    "requirements": "Requires Advanced Ruffian - Gut Punch, Level 7",
     "description": "When you hit an enemy with an unarmed, improvised, or bludgeoning attack and trigger your sneak attack damage, the damage from your attack ignores all armor or physical resistances.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2290,7 +2290,7 @@
   {
     "name": "Advanced Scout - Forward Operator",
     "identity": "Scoundrel",
-    "requirements": "Requires Novice Scout, Initiative 6",
+    "requirements": "Requires Novice Scout - On the Move, Initiative 6",
     "description": "You have advantage on initiative rolls. Whenever you make an attack roll during the first round of combat against an enemy that hasn't acted yet, your attack roll has advantage.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2301,7 +2301,7 @@
   {
     "name": "Expert Scout - Clear the Camp",
     "identity": "Scoundrel",
-    "requirements": "Requires Advanced Scout, Level 7",
+    "requirements": "Requires Advanced Scout - Forward Operator, Level 7",
     "description": "You can use your sneak attack twice per turn, instead of once, though you cannot use it against the same enemy twice in one turn.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2323,7 +2323,7 @@
   {
     "name": "Advanced Swashbuckler - Taunting Bravado",
     "identity": "Scoundrel",
-    "requirements": "Requires Novice Swashbuckler, Level 3",
+    "requirements": "Requires Novice Swashbuckler - En Guarde, Level 3",
     "description": "You can spend an action to make a Persuasion or Performance check contested by your chosen target's Insight check. If you succeed, the chosen target has disadvantage on all attacks that do not target you, and cannot make attacks of opportunity against enemies other than you. This effect lasts for one minute, or until one of your allies affects them with an attack or spell.\n\nIf you attempt this action against a target who is not hostile to you and succeed, then they are Charmed by you for 1 minute.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2334,7 +2334,7 @@
   {
     "name": "Expert Swashbuckler - Panache",
     "identity": "Scoundrel",
-    "requirements": "Requires Advanced Swashbuckler, Level 7",
+    "requirements": "Requires Advanced Swashbuckler - Taunting Bravado, Level 7",
     "description": "You can add your Charisma modifier to your initiative rolls.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2422,7 +2422,7 @@
   {
     "name": "Advanced Bastion - Bulwark's Defense",
     "identity": "Spellblade",
-    "requirements": "Requires Novice Bastion, Level 3",
+    "requirements": "Requires Novice Bastion - Arcane Defense, Level 3",
     "description": "You gain the ability to momentarily protect allies near you with your arcane shield. When one of your allies within 10 feet is attacked, you can spend your reaction to add your intelligence modifier to their defense value until the end of the attacker's turn.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2433,7 +2433,7 @@
   {
     "name": "Expert Bastion - The Wall",
     "identity": "Spellblade",
-    "requirements": "Requires Advanced bastion, Level 7",
+    "requirements": "Requires Advanced Bastion - Bulwark's Defense, Level 7",
     "description": "Your arcane shield grows in size and strength. As an action you can grant all allies within 15 feet your arcane defense instead of their standard defense calculation. This effect lasts until the beginning of your next turn.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2455,7 +2455,7 @@
   {
     "name": "Advanced Artillerist - Efficient Missiles",
     "identity": "Spellblade",
-    "requirements": "Requires Novice Artillerist, Level 3",
+    "requirements": "Requires Novice Artillerist - Wand Master, Level 3",
     "description": "You have begun to master the spell Magic Missile. Whenever you cast Magic Missile, the effect of the spell is determined as if you spent an additional action to cast it (maximum of 3 actions).",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2466,7 +2466,7 @@
   {
     "name": "Expert Artillerist - Overwhelming Barrage",
     "identity": "Spellblade",
-    "requirements": "Requires Advanced Artillerist, Level 7",
+    "requirements": "Requires Advanced Artillerist - Efficient Missiles, Level 7",
     "description": "You have complete mastery over your barrage of missiles. Whenever you cast the spell Magic Missile and spend at least two actions, the spell is cast at 1 level higher than the level you cast it at.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2609,7 +2609,7 @@
   {
     "name": "Advanced Hunter - Surrounded",
     "identity": "Warden",
-    "requirements": "Requires Novice Hunter, Level 5",
+    "requirements": "Requires Novice Hunter - Focus, Level 5",
     "description": "When you spend an action to mark an enemy with your Hunter's Mark, you can mark a second enemy as part of the same action.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2620,7 +2620,7 @@
   {
     "name": "Advanced Hunter - Hunter's Defense",
     "identity": "Warden",
-    "requirements": "Requires Novice Hunter, Level 5",
+    "requirements": "Requires Novice Hunter - Surrounded, Level 5",
     "description": "You gain the following benefits\n\n- You have advantage on saving throws against being frightened. \n\n- Opportunity attacks against you are made with disadvantage\n\nYou can use your reaction to give yourself advantage on a Reflex Saving Throw\n\n",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2653,7 +2653,7 @@
   {
     "name": "Advanced Fade Walker - Step Out and In",
     "identity": "Warden",
-    "requirements": "Requires Novice Fade Walker, Level 3",
+    "requirements": "Requires Novice Fade Walker - Fade Wound, Level 3",
     "description": "As an action, you can cast the spell Etherealness without expending a spell charge. This spell ends at the end of your next turn, unless you will it to end early.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2664,7 +2664,7 @@
   {
     "name": "Expert Fade Walker - Fade Strikes",
     "identity": "Warden",
-    "requirements": "Requires Advanced Fade Walker, Level 7",
+    "requirements": "Requires Advanced Fade Walker - Step Out and In, Level 7",
     "description": "When you use the attack action, you can teleport up to 15 feet directly before each attack to an unoccupied space that you can see. If you attack two different targets with separate attacks, you can make a 3rd attack as a free action and without suffering the multiattack penalty, provided it targets a different enemy than the first two attacks.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2697,7 +2697,7 @@
   {
     "name": "Advanced Night Stalker - Bring The Dark",
     "identity": "Warden",
-    "requirements": "Requires Novice Night Stalker, Level 3",
+    "requirements": "Requires Novice Night Stalker - One With The Dark, Level 3",
     "description": "As an action, you can turn yourself invisible until the end of your next turn. This invisibility ends early if you cast a spell, make an attack, or otherwise engage in a hostile activity.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2708,7 +2708,7 @@
   {
     "name": "Expert Night Stalker - Always Elusive",
     "identity": "Warden",
-    "requirements": "Requires Advanced Night Stalker, Level 7",
+    "requirements": "Requires Advanced Night Stalker - Bring The Dark, Level 7",
     "description": "Whenever a creature makes an attack against you and doesn't have advantage, you can use your reaction to force the creature to make that attack with disadvantage.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2741,7 +2741,7 @@
   {
     "name": "Advanced Drakewarden - Dragon's Breath",
     "identity": "Warden",
-    "requirements": "Requires Novice Drakewarden, Animal Companion, Level 3",
+    "requirements": "Requires Novice Drakewarden - Dragonling, Animal Companion, Level 3",
     "description": "Your companion gains access to the following ability if it is Mature or older. This ability is in addition to the companion abilities normally granted by their progression.\n\nElemental Breath - 2 Actions - Your companion breathes its element in a 20 foot cone, forcing each creature in the area to make a Fortitude save against your Ability DC or suffer 6d6 damage of that element. Creatures who succeed on the saving throw take half damage.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
@@ -2752,7 +2752,7 @@
   {
     "name": "Expert Drakewarden - Elemental Bond",
     "identity": "Warden",
-    "requirements": "Requires Advanced Drakewarden, Level 7",
+    "requirements": "Requires Advanced Drakewarden - Dragon's Breath, Level 7",
     "description": "Whenever you or the drake takes damage of an elemental type, the drake can spend their reaction to grant you or themselves resistance to that damage until the end of the round.",
     "1stLevelSpells": "",
     "2ndLevelSpells": "",
