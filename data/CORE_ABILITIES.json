@@ -4,7 +4,7 @@
     "description": "You have a spellbook that you use to prepare your spells for each day. This tome grows with your knowledge, and can be added to by copying down any spells you might find as part of your adventures.\n\nAt 1st level you have 10 Arcane spells in your spellbook, and add 4 more each time your spellcasting level increases.\n\nIf you lose your spellbook, you can create a new copy and re-transcribe all of the spells you have prepared at that time, but any spells not prepared are lost with the book. It is for this reason that many enterprising wizards have backup spellbooks stashed in many places."
   },
   {
-    "name": "Arcane Spellcasting",
+    "name": "Arcanist Spellcasting",
     "description": "You can cast Arcane spells, using a wand, staff, or other arcane item as a spellcasting focus to channel your power. Without your spellcasting focus, you are incapable of casting even the simplest cantrips. Intelligence is your spellcasting ability.\n\nYour Spellcasting Level is 1 at 1st level. Your Spellcasting level increases by 1 at 3rd, 5th, 7th, and 10th level. This is cumulative with any other spellcasting level increases you may get from identity features.\n\nYour spellbook contains the sum total of your arcane knowledge, and at the end of each rest you can prepare a number of spells from it each day equal to your 2 * your Intelligence Modifier + your spellcasting level. You know a number of cantrips from the Arcane Spell List equal to your Intelligence Modifier. Whenever this modifier increases, you learn another cantrip from your spell list.\n\nYou have a number of Spell Charges as shown on the Universal Spellcasting Chart. All of your expended Spell Charges regenerate at the end of a Rest."
   },
   {
