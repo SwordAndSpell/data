@@ -14,12 +14,6 @@
   },
   "homepage": "https://github.com/SwordAndSpell/data#readme",
   "scripts": {
-    "seed": "node scripts/seedDatoCMS.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "datocms-client": "^3.4.2",
-    "lodash": "^4.17.21",
-    "node-fetch": "^2.6.1"
   }
 }
