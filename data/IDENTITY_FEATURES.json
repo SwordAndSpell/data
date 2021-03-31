@@ -1,5 +1,6 @@
 [
   {
+    "id": "9a740fc1-d390-4a61-8aff-f0c5af47873b",
     "name": "Arcanist Spellcasting Increase",
     "identity": "Arcanist",
     "requirements": "Requires Spellbook, Spellcasting",
@@ -11,6 +12,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "aa888add-a7ab-4fbf-bcbf-49e972bfbd17",
     "name": "Signature Spell",
     "identity": "Arcanist",
     "requirements": "Requires Spellcasting Level 7",
@@ -22,6 +24,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "0503bccc-d145-4653-841b-d5b5efa253c3",
     "name": "Advanced Signature Spell",
     "identity": "Arcanist",
     "requirements": "Requires Signature Spell, Level 9",
@@ -33,6 +36,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "872c1729-4dca-47eb-a7f2-b6083401917b",
     "name": "Improved Mage Armor",
     "identity": "Arcanist, Spellblade",
     "requirements": "Spellcasting",
@@ -44,6 +48,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "c5baa8d2-c02f-42d0-aab7-54b2060937ad",
     "name": "Tactician",
     "identity": "Arcanist, Spellblade",
     "requirements": "Requires Intelligence 14",
@@ -55,6 +60,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "832f34c0-0b70-4b3b-ae04-0860a4df7b05",
     "name": "Novice Abjurationist - Arcane Ward",
     "identity": "Arcanist",
     "requirements": "Requires Arcane Spellcasting",
@@ -66,6 +72,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "d4fa8607-1b38-4072-8d9b-bb97de8e317f",
     "name": "Advanced Abjurationist - Shield Refresh",
     "identity": "Arcanist",
     "requirements": "Requires Novice Abjurationist - Arcane Ward, Level 5",
@@ -77,6 +84,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "5934e74c-6b7d-49d5-a328-a8b5dcf8e551",
     "name": "Expert Abjurationist - Spell Dampening",
     "identity": "Arcanist",
     "requirements": "Requires Advanced Abjurationist - Shield Refresh, Level 7",
@@ -88,6 +96,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "bcba2487-346f-4115-9bc6-77b1618b571c",
     "name": "Novice Conjurer - Conjurer's Step",
     "identity": "Arcanist",
     "requirements": "Requires Spellcasting",
@@ -99,6 +108,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "3a012327-c919-4199-a0db-8bbb17f71eb4",
     "name": "Advanced Conjurer - Stable Summons",
     "identity": "Arcanist",
     "requirements": "Requires Novice Conjurer - Conjurer's Step, Level 5",
@@ -110,6 +120,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "0957d219-2f7b-4a22-9959-1d9976f1042a",
     "name": "Expert Conjurer- Active Summons",
     "identity": "Arcanist",
     "requirements": "Requires Advanced Conjurer - Stable Summons, Level 7",
@@ -121,6 +132,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "557f6d8a-4a4f-493e-aa06-e7ef38d9fe57",
     "name": "Novice Diviner - Portens",
     "identity": "Arcanist",
     "requirements": "Requires Spellcasting",
@@ -132,6 +144,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "a3d499e8-f2ba-41d1-a5f3-abc56e8883c9",
     "name": "Advanced Diviner - 3rd Eye",
     "identity": "Arcanist",
     "requirements": "Requires Novice Diviner - Portens, Level 5",
@@ -143,6 +156,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "6ca4ee40-5821-422b-a823-bb350f591391",
     "name": "Expert Diviner - Advanced Portens",
     "identity": "Arcanist",
     "requirements": "Requires Advanced Diviner - 3rd Eye, Level 7",
@@ -154,6 +168,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "c618d56b-e95c-47e4-8d4b-eec47ea09e28",
     "name": "Novice Enchanter - Hypnotic Gaze",
     "identity": "Arcanist",
     "requirements": "Requires Arcane Spellcasting",
@@ -165,6 +180,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "2721acf8-f9ca-4b40-95f0-3b058870ceac",
     "name": "Advanced Enchanter - Deflecting Charm",
     "identity": "Arcanist",
     "requirements": "Requires Novice Enchanter - Hypnotic Gaze, Level 5",
@@ -176,6 +192,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "359eda8c-f8d1-45c2-9db7-572810fda05f",
     "name": "Expert Enchanter - Alter Memories",
     "identity": "Arcanist",
     "requirements": "Requires Advanced Enchanter - Deflecting Charm, Level 7",
@@ -187,6 +204,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "dbae17cf-faf5-4f62-8644-217f8dff5166",
     "name": "Novice Evoker - Protective Casting",
     "identity": "Arcanist",
     "requirements": "Requires Spellcasting",
@@ -198,6 +216,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "ec6b544c-b9a9-48df-a10d-3ee3ba0b65b5",
     "name": "Advanced Evoker - Potent Cantrips",
     "identity": "Arcanist",
     "requirements": "Requires Novice Evoker - Protective Casting, Level 5",
@@ -209,6 +228,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "638e4891-9394-4009-b77a-90ed76976eff",
     "name": "Expert Evoker - Overchannel",
     "identity": "Arcanist",
     "requirements": "Requires Advanced Evoker - Potent Cantrips, Level 7",
@@ -220,6 +240,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "cd5bae48-2df9-40e8-9850-55fb354a0a82",
     "name": "Novice Illusionist - Improved Illusions",
     "identity": "Arcanist",
     "requirements": "Requires Spellcasting",
@@ -231,6 +252,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "3dec704e-ce96-4a98-819e-d684e26ebfad",
     "name": "Advanced Illusionist - Illusory Copy",
     "identity": "Arcanist",
     "requirements": "Requires Novice Illusionist - Improved Illusions, Level 5",
@@ -242,6 +264,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "a7114ff6-1bbd-4fbb-abe7-95b842b98b44",
     "name": "Expert Illusionist - Tangible Illusions",
     "identity": "Arcanist",
     "requirements": "Requires Advanced Illusionist - Illusory Copy, Level 7",
@@ -253,6 +276,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "78d1dd12-9b7f-422e-accf-26b7a9ca7575",
     "name": "Novice Necromancer - Grim Harvest",
     "identity": "Arcanist",
     "requirements": "Requires Spellcasting",
@@ -264,6 +288,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "28606809-87a4-4453-b2ff-9681a4499b24",
     "name": "Advanced Necromancer - Master of Thralls",
     "identity": "Arcanist",
     "requirements": "Requires Novice Necromancer - Grim Harvest, Level 5",
@@ -275,6 +300,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "71b4868c-d907-4c62-8914-58ff2ac21138",
     "name": "Expert Necromancer - Command Undead",
     "identity": "Arcanist",
     "requirements": "Requires Advanced Necromancer - Master of Thralls, Level 7",
@@ -286,6 +312,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "cfe779aa-2151-4f5c-8c22-acc7032f2c1c",
     "name": "Novice Transmuter - Transmuter's Stone",
     "identity": "Arcanist",
     "requirements": "Requires Spellcasting",
@@ -297,6 +324,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "0ca14cea-dfea-4217-90ff-d79cc3a83c3f",
     "name": "Advanced Transmuter - Shapechanger",
     "identity": "Arcanist",
     "requirements": "Requires Novice Transmuter - Transmuter's Stone, Level 5",
@@ -308,6 +336,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "c0bd865a-b04a-40de-8687-462b25daa2c1",
     "name": "Expert Transmuter - Invoked Transmutation",
     "identity": "Arcanist",
     "requirements": "Requires Advanced Transmuter - Shapechanger, Level 7",
@@ -319,6 +348,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "88172644-7679-4174-8fd0-a927235745bd",
     "name": "Occult Spellcasting Increase",
     "identity": "Bard",
     "requirements": "Requires Occult Spellcasting",
@@ -330,6 +360,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "11cc19dc-e536-42a8-b095-0145bf4e2efa",
     "name": "Jack of All Trades",
     "identity": "Bard, Scoundrel",
     "requirements": "Requires Intelligence 14",
@@ -341,6 +372,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "83566bc8-d2c8-4cd0-b512-795595c9d186",
     "name": "Countercharm",
     "identity": "Bard",
     "requirements": "Requires Trained in Performance",
@@ -352,6 +384,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "b22e964c-a410-45c2-932e-6d2f7ecdb6ac",
     "name": "Master of Disguise",
     "identity": "Bard",
     "requirements": "Requires Charisma 12",
@@ -363,6 +396,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "efa24b90-0acb-4ab1-a4d0-ff5ef09f7dbf",
     "name": "Cutting Words",
     "identity": "Bard",
     "requirements": "Requires Bardic Inspiration",
@@ -374,6 +408,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "2ff47261-84c7-485e-a9ec-8452c153ab0a",
     "name": "Novice College of Valor - Martial Inspiration",
     "identity": "Bard",
     "requirements": "Requires Bardic Inspiration, Level 2",
@@ -385,6 +420,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "c61ea43f-072b-482f-804a-b3ba22027417",
     "name": "Expert College of Valor - Cast and Slash",
     "identity": "Bard",
     "requirements": "Requires Spellcasting, Level 5",
@@ -396,6 +432,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "4c1caa20-60d3-4013-ad19-925307181c24",
     "name": "Novice College of Whispers - Mind Blade",
     "identity": "Bard",
     "requirements": "Requires Bardic Inspiration",
@@ -407,6 +444,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "498cb188-b1ad-4448-b6ff-921617ba8af3",
     "name": "Advanced College of Whispers - Mantle of Shadow",
     "identity": "Bard",
     "requirements": "Requires Novice College of Whispers - Mantle of Shadow, Level 5",
@@ -418,6 +456,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "ce0cf289-4489-4beb-a399-d2aabad3d0d4",
     "name": "Expert College of Whispers - Shadow Secrets",
     "identity": "Bard",
     "requirements": "Requires Advanced College of Whispers - Shadow Secrets, Level 7",
@@ -429,6 +468,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "87548f05-bc01-4cb5-bdb3-b2874adcc9f7",
     "name": "Novice College of Glamour - Captivate",
     "identity": "Bard",
     "requirements": "Requires Bardic Inspiration",
@@ -440,6 +480,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "4212daaa-29cc-49ed-bc6d-6b79607dcdbc",
     "name": "Advanced College of Glamour - Mantle of Majesty",
     "identity": "Bard",
     "requirements": "Requires Novice College of Glamour - Captivate, Level 5",
@@ -451,6 +492,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "c355206b-2b05-439f-8978-6506ad616297",
     "name": "Expert College of Glamour - Deflecting Presence",
     "identity": "Bard",
     "requirements": "Requires Advanced College of Glamour - Mantle of Majesty, Level 7",
@@ -462,6 +504,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "c2510060-8010-46d7-9cb1-8f9ad6472c49",
     "name": "Brutal Critical",
     "identity": "Barbarian",
     "requirements": "Requires Strength 14",
@@ -473,6 +516,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "7441e0f9-7f85-4797-bcdb-8431ced619e5",
     "name": "Danger Sense",
     "identity": "Barbarian",
     "requirements": "Requires Wisdom 14",
@@ -484,6 +528,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "a1218e56-cbac-419a-81cc-ee4569d7fde1",
     "name": "Feral Instincts",
     "identity": "Barbarian",
     "requirements": "Requires Rage",
@@ -495,6 +540,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "9af48e25-c5fe-4d79-8e3b-94cd2934b057",
     "name": "Reckless Attacks",
     "identity": "Barbarian",
     "requirements": "",
@@ -506,6 +552,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "1237ddd4-ddc7-4272-b59f-8a5ea6471bfa",
     "name": "Refuse Death",
     "identity": "Barbarian",
     "requirements": "Requires Level 5",
@@ -517,6 +564,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "221875f3-231d-4e8e-bb39-849970eedba7",
     "name": "Resourceful",
     "identity": "Barbarian, Warden",
     "requirements": "Requires Wisdom 14",
@@ -528,6 +576,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "c2b311dc-fb71-4584-bd81-a40bc8d39f62",
     "name": "Titan Mauler",
     "identity": "Barbarian",
     "requirements": "Requires Strength 18",
@@ -539,6 +588,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "3ca39bba-b45e-408e-947d-f75bc021af0c",
     "name": "Novice Berserker - Furious Flurry",
     "identity": "Barbarian",
     "requirements": "Requires Rage",
@@ -550,6 +600,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "b5d2c7b6-9a42-4ce9-b2ed-70c95e849be6",
     "name": "Advanced Berserker - Mindless Rage",
     "identity": "Barbarian",
     "requirements": "Requires Novice Berserker - Furious Flurry, Level 3",
@@ -561,6 +612,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "8b41cd7a-a838-4e25-9d89-b1502abb0125",
     "name": "Expert Berserker - Strike Back",
     "identity": "Barbarian",
     "requirements": "Requires Advanced Berserker - Mindless Rage, Level 7",
@@ -572,6 +624,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "5af740c6-3912-4ef2-8541-67935a0a2467",
     "name": "Novice Immolator - Fire Storm",
     "identity": "Barbarian",
     "requirements": "Requires Rage",
@@ -583,6 +636,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "066faa4a-571a-4fcc-94ea-2a20440f3dda",
     "name": "Advanced Immolator - Controlled Burn",
     "identity": "Barbarian",
     "requirements": "Requires Novice Immolator - Fire Storm, Level 3",
@@ -594,6 +648,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "311c30a6-69b6-40e5-b8ed-bdabb4f6fc40",
     "name": "Expert Immolator - Wrath of the Inferno",
     "identity": "Barbarian",
     "requirements": "Requires Advanced Immolator - Controlled Burn, Level 7",
@@ -605,6 +660,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "6d3fa113-dc9a-4628-befb-907a8c6d1477",
     "name": "Novice Storm Caller - Bring the Storm",
     "identity": "Barbarian",
     "requirements": "Requires Rage",
@@ -616,6 +672,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "d8fa1d36-7d2b-4341-a397-2365eb3f12ca",
     "name": "Advanced Storm Caller - Storm's Answer",
     "identity": "Barbarian",
     "requirements": "Requires Novice Storm Caller - Bring the Storm, Level 3",
@@ -627,6 +684,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "ac7cb5aa-d14f-43ee-9141-c16b74974eb4",
     "name": "Expert Storm Caller - Lightning Call",
     "identity": "Barbarian",
     "requirements": "Requires Advanced Storm Caller - Storm's Answer, Level 7",
@@ -638,6 +696,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "91a02de2-e493-4b2d-8b15-3f1bc30a3032",
     "name": "Novice Warlord - Empowering Presence",
     "identity": "Barbarian",
     "requirements": "Requires Rage",
@@ -649,6 +708,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "b305c7b8-81e6-4c8f-ad07-8acca61b08ea",
     "name": "Advanced Warlord - Force of Will",
     "identity": "Barbarian",
     "requirements": "Requires Novice Warlord - Empowering Presence, Level 3",
@@ -660,6 +720,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "186c1c5a-ebcd-4750-b674-db152beb6871",
     "name": "Expert Warlord - Fear and Awe",
     "identity": "Barbarian",
     "requirements": "Requires Advanced Warlord - Force of Will, Level 7",
@@ -671,6 +732,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "9a988ab5-3ec8-4117-883c-b8985fdb0b42",
     "name": "Champion Spellcasting Increase",
     "identity": "Champion",
     "requirements": "Requires Champion Spellcasting",
@@ -682,6 +744,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "3daf4289-4afe-496d-b79a-dc79130ff28b",
     "name": "Aura of Courage and Devotion",
     "identity": "Champion",
     "requirements": "Requires Charisma 14",
@@ -693,6 +756,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "f2a59ed3-c09a-400a-b1e2-a3577016cc9a",
     "name": "Aura of Glory",
     "identity": "Champion",
     "requirements": "Requires Charisma 14",
@@ -704,6 +768,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "904125f5-a33b-4b35-90e1-3f9338f32af6",
     "name": "Aura of Protection",
     "identity": "Champion",
     "requirements": "Requires Charisma 14, Level 5",
@@ -715,6 +780,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "3e86181c-25f8-4401-94ac-476e705f022e",
     "name": "Aura of Sacrifice",
     "identity": "Champion",
     "requirements": "Requires Charisma 14",
@@ -726,6 +792,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "9c6ff4a7-87a2-4ad6-ae58-61dbecc82913",
     "name": "Aura of Warding",
     "identity": "Champion",
     "requirements": "Requires Charisma 14, Level 5",
@@ -737,6 +804,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "6cda53da-ca25-4a6c-859b-c4eeecd34d47",
     "name": "Purification",
     "identity": "Champion, Priest",
     "requirements": "Requires Charisma 16",
@@ -748,6 +816,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "de34988d-b854-4fcf-baa5-dd0489744609",
     "name": "Retributive Strike",
     "identity": "Champion",
     "requirements": "",
@@ -759,6 +828,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "d627fd96-6a5c-458a-ae30-dd00c5c833b6",
     "name": "Oath of the Sentinel Spells",
     "identity": "Champion",
     "requirements": "Requires Spellcasting",
@@ -770,6 +840,7 @@
     "FifthLevelSpells": "Commune with Nature, Wrath of Nature"
   },
   {
+    "id": "314a6db4-f933-421d-8432-512a026707f8",
     "name": "Novice Oath of the Sentinel - Nature's Wrath",
     "identity": "Champion",
     "requirements": "Requires Trained in Nature",
@@ -781,6 +852,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "c3d9fc2b-3f7c-47c7-9a06-2124ce7badee",
     "name": "Advanced Oath of the Sentinel - Undying Sentinel",
     "identity": "Champion",
     "requirements": "Requires Novice Oath of the Sentinel - Nature's Wrath, Level 5",
@@ -792,6 +864,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "cb00aab1-174b-41d3-b90f-a15fd267bf16",
     "name": "Expert Oath of the Sentinel - Elder Champion",
     "identity": "Champion",
     "requirements": "Requires Advanced Oath of the Sentinel - Undying Sentinel, Level 10",
@@ -803,6 +876,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "d38fb7b7-947c-4111-babd-9061c1278442",
     "name": "Oath of the Conqueror Spells",
     "identity": "Champion",
     "requirements": "Requires Spellcasting",
@@ -814,6 +888,7 @@
     "FifthLevelSpells": "Destructive Wave, Holy Weapon"
   },
   {
+    "id": "d6c286fc-3a16-4278-bc66-4d9865389557",
     "name": "Novice Oath of the Conqueror - Strike Fear",
     "identity": "Champion",
     "requirements": "Requires Charisma 14",
@@ -825,6 +900,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "caf65fd7-a255-4c4a-ba23-9c781dc1a79e",
     "name": "Advanced Oath of the Conqueror - Scornful Rebuke",
     "identity": "Champion",
     "requirements": "Requires Novice Oath of the Conqueror - Strike Fear, Level 5",
@@ -836,6 +912,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "d88be4a6-80d5-4efd-91dc-51208b0017f4",
     "name": "Expert Oath of the Conqueror - Invincible Conqueror",
     "identity": "Champion",
     "requirements": "Requires Advanced Oath of the Conqueror - Scornful Rebuke, Level 10",
@@ -847,6 +924,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "a084afcd-7b2a-4a94-8669-f83c7f7026a9",
     "name": "Oath of the Protector Spells",
     "identity": "Champion",
     "requirements": "Requires Spellcasting",
@@ -858,6 +936,7 @@
     "FifthLevelSpells": "Circle of Power, Geas"
   },
   {
+    "id": "462546a0-c8f6-4a9f-a681-3b3a2d00958f",
     "name": "Novice Oath of the Protector - Champion's Challenge",
     "identity": "Champion",
     "requirements": "Requires Charisma 14",
@@ -869,6 +948,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "e36800bc-f953-48f1-b13a-3cfef719a004",
     "name": "Advanced Oath of the Protector - Unbreakable Protector",
     "identity": "Champion",
     "requirements": "Requires Novice Oath of the Protector - Champion's Challenge, Level 5",
@@ -880,6 +960,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "fea35931-1e53-4970-a878-81b794e78fc6",
     "name": "Expert Oath of the Protector - Champion of the People",
     "identity": "Champion",
     "requirements": "Requires Advanced Oath of the Protector - Unbreakable Protector, Level 10",
@@ -891,6 +972,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "30cb956b-6125-4301-a66a-1aed13792873",
     "name": "Oath of the Devoted Spells",
     "identity": "Champion",
     "requirements": "Requires Spellcasting",
@@ -902,6 +984,7 @@
     "FifthLevelSpells": "Commune, Holy Weapon"
   },
   {
+    "id": "0f6a2c80-bdd5-434c-ba0d-fc65d1424ac5",
     "name": "Novice Oath of the Devoted - Holy Blade",
     "identity": "Champion",
     "requirements": "Requires Charisma 14",
@@ -913,6 +996,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "93215eb0-e824-4df6-8232-b21172c1429a",
     "name": "Advanced Oath of the Devoted - Blessed and Bound",
     "identity": "Champion",
     "requirements": "Requires Novice Oath of the Devotion - Holy Blade, Level 5",
@@ -924,6 +1008,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "89f8369c-7bcf-4858-a6e4-922be6bffe9d",
     "name": "Expert Oath of the Devoted - Holy Radiance",
     "identity": "Champion",
     "requirements": "Requires Advanced Oath of the Devotion - Blessed and Bound, Level 10",
@@ -935,6 +1020,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "48a027fc-1c04-44f6-81f6-2685ef76f5ab",
     "name": "Oath of the Hero Spells",
     "identity": "Champion",
     "requirements": "Requires Spellcasting",
@@ -946,6 +1032,7 @@
     "FifthLevelSpells": "Conjure Volley, Skill Empowerment"
   },
   {
+    "id": "5a85d80f-afbd-4f8f-8c3d-590e193fe473",
     "name": "Novice Oath of the Hero - Heroic Fury",
     "identity": "Champion",
     "requirements": "Requires Charisma 14",
@@ -957,6 +1044,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "36911378-6410-4abf-9cc4-677e2fdc4b58",
     "name": "Advanced Oath of the Hero - Glorious Defense",
     "identity": "Champion",
     "requirements": "Requires Novice Oath of the Hero - Heroic Fury, Level 5",
@@ -968,6 +1056,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "384dddb9-b2d1-43c7-8239-4ed4540813b2",
     "name": "Expert Oath of the Hero - Living Myth",
     "identity": "Champion",
     "requirements": "Requires Advanced Oath of the Hero - Glorious Defense, Level 10",
@@ -979,6 +1068,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "f19f6368-58de-48e2-8721-a8c437f65060",
     "name": "Oath of the Avenger Spells",
     "identity": "Champion",
     "requirements": "Requires Spellcasting",
@@ -990,6 +1080,7 @@
     "FifthLevelSpells": "Hold Monster, Flame Strike"
   },
   {
+    "id": "f74f277b-212c-4ac7-9b11-c36315ed937e",
     "name": "Novice Oath of the Avenger - Force of Enmity",
     "identity": "Champion",
     "requirements": "Requires Charisma 14",
@@ -1001,6 +1092,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "c602ee77-021d-495d-84b0-4604d18ff1d8",
     "name": "Advanced Oath of the Avenger - Provoking Vow",
     "identity": "Champion",
     "requirements": "Requires Novice Oath of the Avenger - Force of Enmity, Level 5",
@@ -1012,6 +1104,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "29d98f0a-eded-4853-9f49-12937f86f401",
     "name": "Expert Oath of the Avenger - Avenging Angel",
     "identity": "Champion",
     "requirements": "Requires Advanced Oath of the Avenger - Provoking Vow, Level 10",
@@ -1023,6 +1116,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "96691504-a823-4694-84f5-f61ab57b75e1",
     "name": "Bloodline Spellcasting Increase",
     "identity": "Inheritor",
     "requirements": "Requires Bloodline Spellcasting",
@@ -1034,6 +1128,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "e76ccd40-d090-4c6a-b851-4d7d8e21026e",
     "name": "Bend Luck",
     "identity": "Inheritor",
     "requirements": "Requires Spell Points",
@@ -1045,6 +1140,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "d703c8d4-8d57-453f-aab4-bfe1ba398745",
     "name": "Metamagic",
     "identity": "Inheritor",
     "requirements": "Requires Spellcasting",
@@ -1056,6 +1152,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "2b458099-434f-4416-8bc2-818493214e1c",
     "name": "Bottomless Wellspring",
     "identity": "Inheritor",
     "requirements": "Requires Spell Points, Level 5",
@@ -1067,6 +1164,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "3aa24707-a4b4-475c-b610-c30e0a5836a5",
     "name": "Divine Bloodline Spells",
     "identity": "Inheritor",
     "requirements": "Requires Bloodline - Divine, Spellcasting",
@@ -1078,6 +1176,7 @@
     "FifthLevelSpells": "Hallow, Mass Cure Wounds"
   },
   {
+    "id": "18300bac-2199-492c-9f4a-20de88ab08bd",
     "name": "Novice Divine Bloodline - Blessed Influence",
     "identity": "Inheritor",
     "requirements": "Requires Bloodline - Divine, Spell Points",
@@ -1089,6 +1188,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "eda95c78-12b5-499e-98f2-9cfa12d3aa1f",
     "name": "Advanced Divine Bloodline - Angelic Flight",
     "identity": "Inheritor",
     "requirements": "Requires Novice Divine Bloodline - Blessed Influence, Level 6",
@@ -1100,6 +1200,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "6dde9706-358c-410e-b497-8c47e307831f",
     "name": "Expert Divine Bloodline - Divine Rebirth",
     "identity": "Inheritor",
     "requirements": "Requires Advanced Divine Bloodline - Angelic Flight, Level 9",
@@ -1111,6 +1212,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "d89de61e-b1c9-484d-941d-67bbba652d65",
     "name": "Draconic Bloodline Spells",
     "identity": "Inheritor",
     "requirements": "Requires Bloodline - Draconic, Spellcasting",
@@ -1122,6 +1224,7 @@
     "FifthLevelSpells": "Hold Monster, Legend Lore"
   },
   {
+    "id": "6267ca9b-b04b-409c-8c61-c2978665e8b5",
     "name": "Novice Draconic Bloodline - Ancestral Influence",
     "identity": "Inheritor",
     "requirements": "Requires Bloodline - Draconic",
@@ -1133,6 +1236,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "3ec0548b-3eb1-49b4-a78a-98fec7577c5d",
     "name": "Advanced Draconic Bloodline - Draconic Flight",
     "identity": "Inheritor",
     "requirements": "Requires Novice Draconic Bloodline - Ancestral Influence, Level 6",
@@ -1144,6 +1248,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "38768a4b-1957-436c-941b-f7bdcd75c22b",
     "name": "Expert Draconic Bloodline - Behold the Dragon",
     "identity": "Inheritor",
     "requirements": "Requires Advanced Draconic Bloodline - Draconic Flight, Level 9",
@@ -1155,6 +1260,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "0824dc9b-bb07-4467-bea3-051e848ace5a",
     "name": "Profane Bloodline Spells",
     "identity": "Inheritor",
     "requirements": "Requires Bloodline - Profane, Spellcasting",
@@ -1166,6 +1272,7 @@
     "FifthLevelSpells": "Mislead, Temporal Shunt"
   },
   {
+    "id": "faeb7f9a-3bbe-4944-96a9-c8ed23c61a4f",
     "name": "Novice Profane Bloodline - Living Shadow",
     "identity": "Inheritor",
     "requirements": "Requires Bloodline - Profane",
@@ -1177,6 +1284,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "ab787246-29f7-4bd2-abe1-55b860a6a5ba",
     "name": "Advanced Profane Bloodline - Shadow Step",
     "identity": "Inheritor",
     "requirements": "Requires Novice Profane Bloodline - Living Shadow, Level 6",
@@ -1188,6 +1296,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "5fc3f454-0f22-4495-adef-b3fffa96aac6",
     "name": "Expert Profane Bloodline - Become the Shadow",
     "identity": "Inheritor",
     "requirements": "Requires Advanced Profane Bloodline - Shadow Step, Level 9",
@@ -1199,6 +1308,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "7d2b610e-9987-4bc4-9a00-9875d380bfb7",
     "name": "Storm Spirit Bloodline Spells",
     "identity": "Inheritor",
     "requirements": "Requires Bloodline - Storm Spirit, Spellcasting",
@@ -1210,6 +1320,7 @@
     "FifthLevelSpells": "Maelstrom, Destructive Wave"
   },
   {
+    "id": "c45a21db-6278-4ac3-91c5-281a42f69614",
     "name": "Novice Storm Spirit Bloodline - Invoke the Storm",
     "identity": "Inheritor",
     "requirements": "Requires Bloodline - Storm Spirit",
@@ -1221,6 +1332,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "c0963c4a-ecc7-44ff-8522-d5eb22a42dd0",
     "name": "Advanced Storm Spirit Bloodline - Static Charge",
     "identity": "Inheritor",
     "requirements": "Requires Novice Storm Spirit Bloodline - Invoke the Storm, Level 6",
@@ -1232,6 +1344,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "92b30431-b038-41d7-abe2-ad3317a29916",
     "name": "Expert Storm Spirit Bloodline - Storm's Flight",
     "identity": "Inheritor",
     "requirements": "Requires Advanced Storm Spirit Bloodline - Static Charge, Level 9",
@@ -1243,6 +1356,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "d33d283e-77bd-4a96-b94b-48814f3fa474",
     "name": "Psion Bloodline Spells",
     "identity": "Inheritor",
     "requirements": "Requires Bloodline - Psion, Spellcasting",
@@ -1254,6 +1368,7 @@
     "FifthLevelSpells": "Synaptic Static, Telekinesis"
   },
   {
+    "id": "aa051c64-6036-4d50-b822-dc03fbbcfa96",
     "name": "Novice Psion Bloodline - Subtle Casting",
     "identity": "Inheritor",
     "requirements": "Requires Bloodline - Psion",
@@ -1265,6 +1380,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "07ec861e-f307-4b36-b273-31e2724bf448",
     "name": "Advanced Psion Bloodline - Psionic Warp",
     "identity": "Inheritor",
     "requirements": "Requires Novice Psion Bloodline - Subtle Casting, Level 6",
@@ -1276,6 +1392,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "6ef0b1b8-77f4-465d-96be-613a5be1c5d6",
     "name": "Expert Psion Bloodline - Mass Mind Reader",
     "identity": "Inheritor",
     "requirements": "Requires Advanced Psion Bloodline - Psionic Warp, Level 9",
@@ -1287,6 +1404,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "e95e49b2-1037-42bb-ae58-a83194dd38cd",
     "name": "Astral Protection",
     "identity": "Mystic",
     "requirements": "Requires Level 5",
@@ -1298,6 +1416,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "2c483d59-1040-41e0-a7f9-5cdfe8ace92b",
     "name": "Deflect Missiles",
     "identity": "Mystic",
     "requirements": "Requires Dexterity 14 or Wisdom 14",
@@ -1309,6 +1428,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "b4cc40d5-5866-4a32-b8ea-064bc4e0c220",
     "name": "Flexibility of Mind",
     "identity": "Mystic",
     "requirements": "Requires Ki, Level 5",
@@ -1320,6 +1440,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "6d2149fc-cdb4-4f0d-8aaf-5c12cc19870a",
     "name": "Ki-Touched Mind",
     "identity": "Mystic",
     "requirements": "Requires Ki, Level 5",
@@ -1331,6 +1452,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "3d4ee096-f51b-4ec1-8409-ee9f87a07869",
     "name": "Slow Fall",
     "identity": "Mystic",
     "requirements": "Requires Wisdom 14",
@@ -1342,6 +1464,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "3cc8a24c-8b5e-4f46-a597-cffed2a957a8",
     "name": "Stunning Strike",
     "identity": "Mystic",
     "requirements": "Requires Ki",
@@ -1353,6 +1476,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "48e9d783-c4ba-4f33-852f-5eeebd1d10fb",
     "name": "Unarmed Momentum",
     "identity": "Mystic",
     "requirements": "Requires Dexterity 16",
@@ -1364,6 +1488,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "acc4dd37-faf1-492f-b71f-75edef3e2751",
     "name": "Novice Drunken Master - Drunken Wanderer",
     "identity": "Mystic",
     "requirements": "Requires Flurry of Blows",
@@ -1375,6 +1500,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "7ff3eaa2-5074-434c-adce-c9a68129e9c7",
     "name": "Advanced Drunken Master - Lucky Bounce",
     "identity": "Mystic",
     "requirements": "Requires Novice Drunken Master - Drunken Wanderer, Ki, Level 3",
@@ -1386,6 +1512,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "dea8dfad-6672-492c-99d2-6de3967f55b3",
     "name": "Expert Drunken Master - A Round for Everyone",
     "identity": "Mystic",
     "requirements": "Requires Advanced Drunken Master - Lucky Bounce, Level 5",
@@ -1397,6 +1524,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "fb4021e5-9a98-4387-b32b-a57a6837d599",
     "name": "Novice Kensei - Agile Parry",
     "identity": "Mystic",
     "requirements": "Requires Wisdom 14",
@@ -1408,6 +1536,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "a853b761-e368-4e64-bc1c-34fc8d844633",
     "name": "Advanced Kensei - Martial Disciple",
     "identity": "Mystic",
     "requirements": "Requires Novice Kensei - Agile Parry, Ki, Martial Arts, Level 3",
@@ -1419,6 +1548,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "3e5bbfac-17fe-4ffe-a0d6-04ac07b635f6",
     "name": "Expert Kensei - Preserved Momentum",
     "identity": "Mystic",
     "requirements": "Requires Advanced Kensei - Martial Disciple, Level 6",
@@ -1430,6 +1560,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "2c63b414-ddbc-4813-9bea-623ae788b344",
     "name": "Novice Open Hand - Manipulative Strikes",
     "identity": "Mystic",
     "requirements": "Requires Flurry of Blows",
@@ -1441,6 +1572,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "c20d11d2-7032-4cbd-9c98-6b28948f4aff",
     "name": "Advanced Open Hand - Peaceful Wanderer",
     "identity": "Mystic",
     "requirements": "Requires Novice Open Hand - Manipulative Strikes, Level 3",
@@ -1452,6 +1584,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "03cde9a2-9881-4d91-a523-1d4a9cf7336a",
     "name": "Expert Open Hand - Quivering Palm",
     "identity": "Mystic",
     "requirements": "Requires Advanced Open Hand - Peaceful Wanderer, Level 6",
@@ -1463,6 +1596,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "d44a5a8b-78ab-4866-b614-94d8f5b10775",
     "name": "Novice Shadow - Fade into Darkness",
     "identity": "Mystic",
     "requirements": "Requires Ki",
@@ -1474,6 +1608,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "bdb6ed91-1068-4383-b2d1-4462812e85f3",
     "name": "Advanced Shadow - Linked Shadows",
     "identity": "Mystic",
     "requirements": "Requires Novice Shadow - Fade into Darkness, Level 3",
@@ -1485,6 +1620,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "58ee7546-e803-466e-b989-2f8d3b0e6b99",
     "name": "Expert Shadow - And One from Me",
     "identity": "Mystic",
     "requirements": "Requires Advanced Shadow - Linked Shadows, Level 6",
@@ -1496,6 +1632,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "20fa9b65-1f26-43f4-b7e4-efa09e76fcb8",
     "name": "Novice Sun Soul - Flaming Fists",
     "identity": "Mystic",
     "requirements": "Requires Wisdom 14",
@@ -1507,6 +1644,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "6bf24df0-567a-4390-938f-1fd8dfa718f2",
     "name": "Advanced Sun Soul - Summon the Sun",
     "identity": "Mystic",
     "requirements": "Requires Novice Sun Soul - Flaming Fists, Ki, Level 3",
@@ -1518,6 +1656,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "9b254f68-084f-442c-b2e5-80267c22732c",
     "name": "Expert Sun Soul - Radiant Glow",
     "identity": "Mystic",
     "requirements": "Requires Advanced Sun Soul - Summon the Sun, Level 6",
@@ -1529,6 +1668,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "eefee0e9-0130-442c-b28f-7c3ba29efb35",
     "name": "Priest Spellcasting Increase",
     "identity": "Priest",
     "requirements": "Requires Priest Spellcasting",
@@ -1540,6 +1680,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "ef0f8df0-372b-4828-a0e9-309f2dc2e9c0",
     "name": "Cast Down",
     "identity": "Priest",
     "requirements": "Requires Divine Spellcasting",
@@ -1551,6 +1692,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "e7290903-cf1a-4755-b311-ec4f936736ca",
     "name": "Divine Strike",
     "identity": "Priest",
     "requirements": "Requires Wisdom 14",
@@ -1562,6 +1704,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "62dce8f9-4c2b-4882-9f27-43fd815f661d",
     "name": "Eternal Blessing",
     "identity": "Priest",
     "requirements": "Requires Divine Spellcasting, Level 3",
@@ -1573,6 +1716,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "e6314c89-1ad4-4020-b0e9-d1f30f800d7d",
     "name": "Powerful Healer",
     "identity": "Priest",
     "requirements": "Requires Font of Healing",
@@ -1584,6 +1728,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "567b0eb5-1b04-414d-a8eb-8ddcc8c18ea9",
     "name": "Snatched from the Grave",
     "identity": "Priest",
     "requirements": "Requires Font of Healing, level 5",
@@ -1595,6 +1740,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "cb23e20d-95fe-457e-a9eb-13161ab3dd01",
     "name": "Arcana Domain Spells",
     "identity": "Priest",
     "requirements": "Requires Spellcasting",
@@ -1606,6 +1752,7 @@
     "FifthLevelSpells": "Planar Binding, Teleportation Circle"
   },
   {
+    "id": "a1ffa94f-43d7-49d3-95ec-9ebcb466c844",
     "name": "Novice Arcana Domain - Arcane Initiate",
     "identity": "Priest",
     "requirements": "Requires Intelligence 14",
@@ -1617,6 +1764,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "649030c3-c557-48ba-ad93-049ecef89df5",
     "name": "Advanced Arcana Domain - Purging Heals",
     "identity": "Priest",
     "requirements": "Requires Novice Arcana Domain - Arcane Initiate, Level 4",
@@ -1628,6 +1776,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "f38435a3-b982-4211-8702-92ee1ff94173",
     "name": "Advanced Arcana Domain - Expansive Knowledge",
     "identity": "Priest",
     "requirements": "Requires Novice Arcana Domain - Arcane Initiate, Spellcasting, Level 5",
@@ -1639,6 +1788,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "a31574d0-47af-45b1-8760-1182563e4403",
     "name": "Creation Domain Spells",
     "identity": "Priest",
     "requirements": "Requires Spellcasting",
@@ -1650,6 +1800,7 @@
     "FifthLevelSpells": "Animate Objects, Creation"
   },
   {
+    "id": "1c9558b4-f291-40e0-97a3-6f786d7a2776",
     "name": "Novice Creation Domain - Empowered Weapon",
     "identity": "Priest",
     "requirements": "Requires Spellcasting",
@@ -1661,6 +1812,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "223d54d8-ae57-47c3-be5d-d943fe85a96c",
     "name": "Advanced Creation Domain - Fire Hardened Plates",
     "identity": "Priest",
     "requirements": "Requires Novice Creation Domain - Empowered Weapon, Level 4",
@@ -1672,6 +1824,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "15001a55-611f-4b4b-a912-6d3528783305",
     "name": "Expert Creation Domain - Saint of the Forge",
     "identity": "Priest",
     "requirements": "Requires Advanced Creation Domain - Fire Hardened Plates, Level 9",
@@ -1683,6 +1836,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "14c89c23-d2fd-4e95-94cb-e7a1b593f260",
     "name": "Death Domain Spells",
     "identity": "Priest",
     "requirements": "Requires Spellcasting",
@@ -1694,6 +1848,7 @@
     "FifthLevelSpells": "Antilife Shell, Raise Dead"
   },
   {
+    "id": "28fb8774-7435-46ca-9f99-81ed6f8c7c54",
     "name": "Novice Death Domain - Epidemic Necromancy",
     "identity": "Priest",
     "requirements": "Requires Spellcasting",
@@ -1705,6 +1860,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "b07013a2-7c07-4c80-ace2-88fbd48e3351",
     "name": "Advanced Death Domain - Corrupting Spells",
     "identity": "Priest",
     "requirements": "Requires Novice Death Domain - Epidemic Necromancy, Level 4",
@@ -1716,6 +1872,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "2e1eba4b-4c7e-4682-9c3e-ba1f9a59368f",
     "name": "Expert Death Domain - Feast on the Dark",
     "identity": "Priest",
     "requirements": "Requires Advanced Death Domain - Corrupting Spells, Level 9",
@@ -1727,6 +1884,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "de7c06f2-f71b-437c-9aaf-e6b4e16c0c9d",
     "name": "Life Domain Spells",
     "identity": "Priest",
     "requirements": "Requires Spellcasting",
@@ -1738,6 +1896,7 @@
     "FifthLevelSpells": "Mass Cure Wounds, Raise Dead"
   },
   {
+    "id": "3b7c128a-4178-4616-bc0d-3cbbb68cc0fb",
     "name": "Novice Life Domain - Practiced Healer",
     "identity": "Priest",
     "requirements": "Requires Divine Spellcasting",
@@ -1749,6 +1908,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "689c6b87-5962-4568-a335-b89320fba8fa",
     "name": "Advanced Life Domain - Protective Healing",
     "identity": "Priest",
     "requirements": "Requires Novice Life Domain - Practiced Healer, Level 4",
@@ -1760,6 +1920,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "9a499c2f-c605-4779-8588-7b64c316d132",
     "name": "Expert Life Domain - Flawless Healing",
     "identity": "Priest",
     "requirements": "Requires Advanced Life Domain - Protective Healing, Level 9",
@@ -1771,6 +1932,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "ccb9f8e6-c1d6-40c4-aedc-4c3fbda560a5",
     "name": "Light Domain Spells",
     "identity": "Priest",
     "requirements": "Requires Spellcasting",
@@ -1782,6 +1944,7 @@
     "FifthLevelSpells": "Dawn, Wall of Light"
   },
   {
+    "id": "50c5693e-78ff-4f05-a59c-cb6dbc2fdad0",
     "name": "Novice Light Domain - Warding Flare",
     "identity": "Priest",
     "requirements": "Requires Spellcasting",
@@ -1793,6 +1956,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "e6181645-d723-4232-ad4d-3204a5864494",
     "name": "Advanced Light Domain - Mobile Flare",
     "identity": "Priest",
     "requirements": "Requires Novice Light Domain - Warding Flare, Level 4",
@@ -1804,6 +1968,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "313a7253-8547-48b0-9903-507d80a3b110",
     "name": "Expert Light Domain - Corona of Light",
     "identity": "Priest",
     "requirements": "Requires Advanced Light Domain - Mobile Flare, Level 7",
@@ -1815,6 +1980,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "2d2778f8-fdec-49ae-bbf9-7501c6fd30cd",
     "name": "Nature Domain Spells",
     "identity": "Priest",
     "requirements": "Requires Spellcasting",
@@ -1826,6 +1992,7 @@
     "FifthLevelSpells": "Tree Stride, Wrath of Nature"
   },
   {
+    "id": "aff8740b-c132-4186-83fb-7766c0db6a04",
     "name": "Novice Nature Domain - Primal Practitioner",
     "identity": "Priest",
     "requirements": "Requires Wisdom 14",
@@ -1837,6 +2004,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "70602854-b9c8-4fa5-be5d-12987d1276c1",
     "name": "Advanced Nature Domain - Warded from the Elements",
     "identity": "Priest",
     "requirements": "Requires Novice Nature Domain - Primal Practitioner, Level 4",
@@ -1848,6 +2016,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "399c30c5-b0b2-408c-b14f-9e0510dce445",
     "name": "Expert Nature Domain - Nature's Ally",
     "identity": "Priest",
     "requirements": "Requires Advanced Nature Domain - Warded from the Elements, Level 9",
@@ -1859,6 +2028,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "b589785b-b828-4130-9eaf-19ce65bc7a3b",
     "name": "Order Domain Spells",
     "identity": "Priest",
     "requirements": "Requires Spellcasting",
@@ -1870,6 +2040,7 @@
     "FifthLevelSpells": "Dominate Person, Modify Memory"
   },
   {
+    "id": "6342ef1b-b3b6-4854-ae91-dd98237ecace",
     "name": "Novice Order Domain - Commanding Influence",
     "identity": "Priest",
     "requirements": "Requires Spellcasting",
@@ -1881,6 +2052,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "ec3786ba-0655-4a8f-b866-6b8325cd01b9",
     "name": "Advanced Order Domain - Quick Commands",
     "identity": "Priest",
     "requirements": "Requires Novice Order Domain - Commanding Influence, Level 4",
@@ -1892,6 +2064,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "9f78bc05-22a8-4974-a853-a82b4da7f209",
     "name": "Expert Order Domain - Lead the Masses",
     "identity": "Priest",
     "requirements": "Requires Advanced Order Domain - Quick Commands, Level 9",
@@ -1903,6 +2076,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "c95c31b3-d747-4dc8-85ce-27fefb99607f",
     "name": "Tempest Domain Spells",
     "identity": "Priest",
     "requirements": "Requires Spellcasting",
@@ -1914,6 +2088,7 @@
     "FifthLevelSpells": "Insect Plague, Destructive Wave"
   },
   {
+    "id": "3863e6ea-705d-4c44-91d1-154d98f7e57f",
     "name": "Novice Tempest Domain - Storm's Rebuke",
     "identity": "Priest",
     "requirements": "Requires Spellcasting",
@@ -1925,6 +2100,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "6f84aa1e-d907-43b4-ba50-b83661291c44",
     "name": "Advanced Tempest Domain - Forceful Crash",
     "identity": "Priest",
     "requirements": "Requires Novice Tempest Domain - Storm's Rebuke, Level 4",
@@ -1936,6 +2112,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "c284ae11-3930-4130-916b-6bf4651737ab",
     "name": "Expert Tempest Domain - Storm's Lift",
     "identity": "Priest",
     "requirements": "Requires Advanced Tempest Domain - Forceful Crash, Level 9",
@@ -1947,6 +2124,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "d39bffef-4260-48ab-9c93-4bb85be357c6",
     "name": "Trickery Domain Spells",
     "identity": "Priest",
     "requirements": "Requires Spellcasting",
@@ -1958,6 +2136,7 @@
     "FifthLevelSpells": "Dominate Person, Modify Memory"
   },
   {
+    "id": "8743f22b-ba02-4e6a-93a9-f40c6ed60d95",
     "name": "Novice Trickery Domain - Hidden Blessing",
     "identity": "Priest",
     "requirements": "Requires Wisdom 14",
@@ -1969,6 +2148,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "3660ef20-1058-438c-8c88-c587f67a74d4",
     "name": "Advanced Trickery Domain - Now You See Me",
     "identity": "Priest",
     "requirements": "Requires Novice Trickery Domain - Hidden Blessing, Level 4,",
@@ -1980,6 +2160,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "66f33d78-400e-4c0a-a41c-0bf7988f1dae",
     "name": "Expert Trickery Domain - Perfect Copy",
     "identity": "Priest",
     "requirements": "Requires Advanced Trickery Domain - Now You See Me, Level 9",
@@ -1991,6 +2172,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "ff38a1cc-072e-4f1d-8d2f-ba93a0c48fbc",
     "name": "War Domain Spells",
     "identity": "Priest",
     "requirements": "Requires Spellcasting",
@@ -2002,6 +2184,7 @@
     "FifthLevelSpells": "Steel Wind Strike, Destructive Wave"
   },
   {
+    "id": "7c4e20b7-849f-42df-9669-e0f905c97a5b",
     "name": "Novice War Domain - We Hold",
     "identity": "Priest",
     "requirements": "Requires Wisdom 14",
@@ -2013,6 +2196,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "9bfa30c0-68fc-4f56-b924-c37c6cb9ef0b",
     "name": "Expert War Domain - Guided Strikes",
     "identity": "Priest",
     "requirements": "Requires Novice War Domain - We Hold, Level 7",
@@ -2024,6 +2208,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "7f78c53b-b0e6-409a-8c6e-7dd55c7443b6",
     "name": "Cunning Action",
     "identity": "Scoundrel",
     "requirements": "Requires Dexterity 14",
@@ -2035,6 +2220,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "e445696a-208e-4a80-b731-9c69f2951fd8",
     "name": "Elusive",
     "identity": "Scoundrel, Mystic",
     "requirements": "Requires Level 5",
@@ -2046,6 +2232,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "ff58481b-a6a3-40bf-a160-857950ceb90e",
     "name": "Evasion",
     "identity": "Scoundrel, Warden, Mystic",
     "requirements": "Requires Dexterity 16",
@@ -2057,6 +2244,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "5af136bc-0e86-454f-9a1b-85be3efc0902",
     "name": "Expert",
     "identity": "Scoundrel",
     "requirements": "Requires Intelligence 14",
@@ -2068,6 +2256,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "ce2e658b-f047-4318-b0dc-4788d7570b6a",
     "name": "Nimble",
     "identity": "Scoundrel, Mystic",
     "requirements": "Requires Dexterity 14",
@@ -2079,6 +2268,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "74aa168f-0092-4150-8cc7-1dce578f6c58",
     "name": "Remarkable Reflexes",
     "identity": "Scoundrel",
     "requirements": "Initiative 14",
@@ -2090,6 +2280,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "d5e75332-d666-456a-a177-a248a07db120",
     "name": "Stroke of Luck",
     "identity": "Scoundrel",
     "requirements": "Requires Level 10",
@@ -2101,6 +2292,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "7d1c6292-8fc7-4e93-b492-09b0afa6d426",
     "name": "Uncanny Dodge",
     "identity": "Scoundrel, Mystic",
     "requirements": "Requires Dexterity 14",
@@ -2112,6 +2304,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "293a127d-2e5e-44c4-b16e-938ec948b2de",
     "name": "Novice Arcane Trickster - Mage Hand Expert",
     "identity": "Scoundrel",
     "requirements": "Requires Arcane Spellcasting",
@@ -2123,6 +2316,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "937f75c3-ba30-46b2-9aa0-b075c2844a20",
     "name": "Advanced Arcane Trickster - Look at the Hand",
     "identity": "Scoundrel",
     "requirements": "Requires Novice Arcane Trickster - Mage Hand Expert, Level 3",
@@ -2134,6 +2328,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "14597046-83c5-40b7-9723-9e5bb84dd083",
     "name": "Expert Arcane Trickster - Spell Theif",
     "identity": "Scoundrel",
     "requirements": "Requires Advanced Arcane Trickster - Look at the Hand, Level 7",
@@ -2145,6 +2340,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "afb72407-a308-4198-855c-fa8633559ab4",
     "name": "Novice Assassin - Ambush",
     "identity": "Scoundrel",
     "requirements": "Requires Initiative 6",
@@ -2156,6 +2352,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "5b3d2a57-229e-46b7-97dc-7adcf72424b8",
     "name": "Advanced Assassin - Infiltrator",
     "identity": "Scoundrel",
     "requirements": "Requires Novice Assassin - Ambush, Level 3",
@@ -2167,6 +2364,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "b2aa81a7-c016-46aa-b205-b80139ef124d",
     "name": "Expert Assassin - Coup De Grace",
     "identity": "Scoundrel",
     "requirements": "Requires Advanced Assassin - Infiltrator, Level 7",
@@ -2178,6 +2376,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "cd9945e5-8886-4db3-be6a-c8c0a48dc3fc",
     "name": "Novice Mastermind - Act the Part",
     "identity": "Scoundrel",
     "requirements": "Requires Intelligence 14",
@@ -2189,6 +2388,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "cc39beae-88c7-4430-bd04-a768686dda1d",
     "name": "Expert Mastermind - Help from Afar",
     "identity": "Scoundrel",
     "requirements": "Requires Novice Mastermind - Act the Part, Level 3",
@@ -2200,6 +2400,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "12fb80b1-8a8a-43c5-a42d-0deb6eb47ccf",
     "name": "Expert Mastermind - Nope, Not Me",
     "identity": "Scoundrel",
     "requirements": "Requires Advanced Mastermind - Help from Afar, Level 7",
@@ -2211,6 +2412,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "751a5a5c-7a54-477b-908c-d26161ba7c68",
     "name": "Novice Poisoner - Poisoner's Vial",
     "identity": "Scoundrel",
     "requirements": "Requires Intelligence 14",
@@ -2222,6 +2424,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "98b14a40-6979-4c55-97ce-12c32a6fd1d3",
     "name": "Advanced Poisoner - Custom Toxins",
     "identity": "Scoundrel",
     "requirements": "Requires Novice Poisoner - Poisoner's Vial, Level 3",
@@ -2233,6 +2436,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "dfe63b6c-a3d0-4beb-9b1b-8ec3b1066878",
     "name": "Expert Poisoner - Magical Toxins",
     "identity": "Scoundrel",
     "requirements": "Requires Advanced Poisoner - Custom Toxins, Level 7",
@@ -2244,6 +2448,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "29da9ba0-9fdd-4ba9-9f96-646107ad8d1c",
     "name": "Novice Ruffian - Anything Will Do",
     "identity": "Scoundrel",
     "requirements": "Requires Sneak Attack",
@@ -2255,6 +2460,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "abaa9e84-f490-4cc8-89c1-8ee37a384abf",
     "name": "Advanced Ruffian - Gut Punch",
     "identity": "Scoundrel",
     "requirements": "Requires Novice Ruffian - Anything Will Do, Level 3",
@@ -2266,6 +2472,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "382158a4-97fd-4e90-a48f-9b53869f0d4a",
     "name": "Expert Ruffian - Crippling Strikes",
     "identity": "Scoundrel",
     "requirements": "Requires Advanced Ruffian - Gut Punch, Level 7",
@@ -2277,6 +2484,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "7d546999-6334-4dd3-942e-cac73f38e29c",
     "name": "Novice Scout - On the Move",
     "identity": "Scoundrel",
     "requirements": "Requires Dexterity 14",
@@ -2288,6 +2496,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "0fd301a9-4a0b-4159-8eee-793d45a8aa5d",
     "name": "Advanced Scout - Forward Operator",
     "identity": "Scoundrel",
     "requirements": "Requires Novice Scout - On the Move, Initiative 6",
@@ -2299,6 +2508,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "aae7c412-95ed-40d2-bf88-566f31995a90",
     "name": "Expert Scout - Clear the Camp",
     "identity": "Scoundrel",
     "requirements": "Requires Advanced Scout - Forward Operator, Level 7",
@@ -2310,6 +2520,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "f5c374cb-adec-475c-adc7-f6a144b149cd",
     "name": "Novice Swashbuckler - En Guarde",
     "identity": "Scoundrel",
     "requirements": "Requires Charisma 14",
@@ -2321,6 +2532,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "f966e6aa-bac3-44d9-8fc2-15120b746280",
     "name": "Advanced Swashbuckler - Taunting Bravado",
     "identity": "Scoundrel",
     "requirements": "Requires Novice Swashbuckler - En Guarde, Level 3",
@@ -2332,6 +2544,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "98a64ae5-1e5a-4713-b4a9-9036a09d634f",
     "name": "Expert Swashbuckler - Panache",
     "identity": "Scoundrel",
     "requirements": "Requires Advanced Swashbuckler - Taunting Bravado, Level 7",
@@ -2343,6 +2556,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "a62f26ee-6bfa-4ebb-8cfb-e6bff83a2396",
     "name": "Spellblade Spellcasting Increase",
     "identity": "Spellblade",
     "requirements": "Requires Spellblade Spellcasting",
@@ -2354,6 +2568,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "879ea06b-57aa-4e2b-a754-5ba1d0558657",
     "name": "Arcane Propulsion",
     "identity": "Spellblade, Arcanist",
     "requirements": "Requires Arcane Spellcasting",
@@ -2365,6 +2580,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "9bfc5e55-15e2-40d9-8653-57b8f00b163a",
     "name": "Durable Magic",
     "identity": "Spellblade, Arcanist, Priest, Wildling, Champion, Warden, Bard",
     "requirements": "Requires Spellcasting, Level 5",
@@ -2376,6 +2592,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "52841d48-da0b-4057-9952-a1c6d2fd5828",
     "name": "Enchanted Blade",
     "identity": "Spellblade, Arcanist",
     "requirements": "Requires Spellcasting",
@@ -2387,6 +2604,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "20c8e9ee-2d78-4a8b-9363-70abb0695538",
     "name": "Enhanced Shield",
     "identity": "Spellblade",
     "requirements": "Requires Spellcasting",
@@ -2398,6 +2616,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "b3085d3c-ba28-4682-8993-678e1792bd5d",
     "name": "Spell Scholar",
     "identity": "Spellblade",
     "requirements": "Requires Spellcasting",
@@ -2409,6 +2628,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "b9ac86d0-0ec0-40b2-a560-2f1996534b06",
     "name": "Novice Bastion - Arcane Defense",
     "identity": "Spellblade",
     "requirements": "Requires Arcane Spellcasting",
@@ -2420,6 +2640,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "09e1ce28-8504-4970-8b71-f457e9da92bb",
     "name": "Advanced Bastion - Bulwark's Defense",
     "identity": "Spellblade",
     "requirements": "Requires Novice Bastion - Arcane Defense, Level 3",
@@ -2431,6 +2652,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "71b7ff99-7156-4111-b223-bde01d35a306",
     "name": "Expert Bastion - The Wall",
     "identity": "Spellblade",
     "requirements": "Requires Advanced Bastion - Bulwark's Defense, Level 7",
@@ -2442,6 +2664,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "b748641e-cae3-40b1-b55d-71777612e953",
     "name": "Novice Artillerist - Wand Master",
     "identity": "Spellblade",
     "requirements": "Requires Spellcasting",
@@ -2453,6 +2676,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "0a3fe91b-4828-4266-8a2b-52a2d11538fe",
     "name": "Advanced Artillerist - Efficient Missiles",
     "identity": "Spellblade",
     "requirements": "Requires Novice Artillerist - Wand Master, Level 3",
@@ -2464,6 +2688,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "4e74a9c3-dfd0-434e-ba92-2439317228ea",
     "name": "Expert Artillerist - Overwhelming Barrage",
     "identity": "Spellblade",
     "requirements": "Requires Advanced Artillerist - Efficient Missiles, Level 7",
@@ -2475,6 +2700,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "d4584a8d-9e2a-43f7-9d1c-23e3968e9fd7",
     "name": "Warden Spellcasting Increase",
     "identity": "Warden",
     "requirements": "Requires Warden Spellcasting",
@@ -2486,6 +2712,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "e06c924a-d1c9-43d4-a33d-d1235fff146d",
     "name": "Companion Training",
     "identity": "Warden, Wildling",
     "requirements": "Requires Animal Companion",
@@ -2497,6 +2724,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "2373d009-374e-4905-8394-9617e2593470",
     "name": "Fade Away",
     "identity": "Warden",
     "requirements": "Requires Level 5",
@@ -2508,6 +2736,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "e460f94a-a501-405a-9320-d85a1ae07713",
     "name": "Feral Senses",
     "identity": "Warden, Wildling",
     "requirements": "Requires Wisdom 16",
@@ -2519,6 +2748,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "1e2acb3c-fb9d-403f-a720-07f39773d7a4",
     "name": "Lands Stride",
     "identity": "Warden",
     "requirements": "Requires Dexterity 14",
@@ -2530,6 +2760,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "466d7030-84c2-4bfa-8a8a-550c0c9f7f3c",
     "name": "Precision Aim",
     "identity": "Warden",
     "requirements": "Requires Hunter's Mark, Level 5",
@@ -2541,6 +2772,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "7bcd3a43-8751-4c7c-9d02-d5fc1985104e",
     "name": "Predator's Insight",
     "identity": "Warden",
     "requirements": "Requires Hunter's Mark",
@@ -2552,6 +2784,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "a3942c10-b1a7-4e6b-9143-8c74e3325540",
     "name": "Targeted Weaknesses",
     "identity": "Warden",
     "requirements": "Requires Hunter's Mark, Level 7",
@@ -2563,6 +2796,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "04d30ffd-db1c-40f9-b516-413cb647f203",
     "name": "Rover",
     "identity": "Warden, Scoundrel, Wildling",
     "requirements": "Requires Dexterity 14",
@@ -2574,6 +2808,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "bcdbba9e-e85e-4729-be3c-2977d317c67f",
     "name": "Connecting Mark",
     "identity": "Warden",
     "requirements": "Requires Hunter's Mark, Level 3",
@@ -2585,6 +2820,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "c5617a43-be01-4ca8-87ba-c1c5cb407d30",
     "name": "Hunter Conclave Spells",
     "identity": "Warden",
     "requirements": "Requires Spellcasting",
@@ -2596,6 +2832,7 @@
     "FifthLevelSpells": "Steel Wind Strike, Swift Quiver"
   },
   {
+    "id": "fdf4ccc7-e290-4591-ac2e-3da01644ea94",
     "name": "Novice Hunter - Focus",
     "identity": "Warden",
     "requirements": "Requires Hunter's Mark",
@@ -2607,6 +2844,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "286b9406-56ad-4d53-a443-61455db326ad",
     "name": "Advanced Hunter - Surrounded",
     "identity": "Warden",
     "requirements": "Requires Novice Hunter - Focus, Level 5",
@@ -2618,6 +2856,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "1f0094be-a79d-4320-8799-686b9e84dbd4",
     "name": "Advanced Hunter - Hunter's Defense",
     "identity": "Warden",
     "requirements": "Requires Novice Hunter - Surrounded, Level 5",
@@ -2629,6 +2868,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "616eeb82-522f-4472-b7c4-04705fe9563a",
     "name": "Fade Walker Conclave Spells",
     "identity": "Warden",
     "requirements": "Requires Spellcasting",
@@ -2640,6 +2880,7 @@
     "FifthLevelSpells": "Banishing Strike, Teleportation Circle"
   },
   {
+    "id": "61038cf6-4ae6-4360-b552-6a1bb30e08ff",
     "name": "Novice Fade Walker - Fade Wound",
     "identity": "Warden",
     "requirements": "Requires Hunter's Mark",
@@ -2651,6 +2892,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "19580a2d-a680-4673-9603-acab2074a0d9",
     "name": "Advanced Fade Walker - Step Out and In",
     "identity": "Warden",
     "requirements": "Requires Novice Fade Walker - Fade Wound, Level 3",
@@ -2662,6 +2904,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "28ab1526-c9d5-4e1a-b3c5-aea60168d388",
     "name": "Expert Fade Walker - Fade Strikes",
     "identity": "Warden",
     "requirements": "Requires Advanced Fade Walker - Step Out and In, Level 7",
@@ -2673,6 +2916,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "d7f6943f-b000-4720-89e3-99d96226ac62",
     "name": "Night Stalker Conclave Spells",
     "identity": "Warden",
     "requirements": "Requires Spellcasting",
@@ -2684,6 +2928,7 @@
     "FifthLevelSpells": "Seeming, Hold Monster"
   },
   {
+    "id": "244eec70-2a34-41c6-bb42-12370e313f80",
     "name": "Novice Night Stalker - One With The Dark",
     "identity": "Warden",
     "requirements": "Requires Wisdom 14",
@@ -2695,6 +2940,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "a62ffe64-cb11-4569-82ec-de515e343883",
     "name": "Advanced Night Stalker - Bring The Dark",
     "identity": "Warden",
     "requirements": "Requires Novice Night Stalker - One With The Dark, Level 3",
@@ -2706,6 +2952,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "2062f6f8-30af-4891-968d-03ecda67498b",
     "name": "Expert Night Stalker - Always Elusive",
     "identity": "Warden",
     "requirements": "Requires Advanced Night Stalker - Bring The Dark, Level 7",
@@ -2717,6 +2964,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "19cc5d2f-bbff-48ee-8ba1-53cee7e5878e",
     "name": "Drakewarden Conclave Spells",
     "identity": "Warden",
     "requirements": "Requires Spellcasting",
@@ -2728,6 +2976,7 @@
     "FifthLevelSpells": "Awaken, Immolation"
   },
   {
+    "id": "d3785e52-d3ca-4503-91d0-b203fa06c313",
     "name": "Novice Drakewarden - Dragonling",
     "identity": "Warden",
     "requirements": "Requires Wisdom 14",
@@ -2739,6 +2988,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "ff4832be-23ea-490f-8d5a-2e5824d5c868",
     "name": "Advanced Drakewarden - Dragon's Breath",
     "identity": "Warden",
     "requirements": "Requires Novice Drakewarden - Dragonling, Animal Companion, Level 3",
@@ -2750,6 +3000,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "86fc2871-6ee9-4114-bcea-1c0e55a0c51f",
     "name": "Expert Drakewarden - Elemental Bond",
     "identity": "Warden",
     "requirements": "Requires Advanced Drakewarden - Dragon's Breath, Level 7",
@@ -2761,6 +3012,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "51dae538-3796-4a3a-a582-ffab5e2f6b62",
     "name": "Fighting Style",
     "identity": "Warrior, Warden, Champion",
     "requirements": "Requires Strength 14 or Dexterity 14",
@@ -2772,6 +3024,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "17c535bd-d53b-4538-83b2-4f1290ed5267",
     "name": "Maneuver Master",
     "identity": "Warrior, Warden, Champion, Barbarian",
     "requirements": "Requires Strength 14 or Dexterity 14",
@@ -2783,6 +3036,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "39f92276-63ef-4d2d-b852-de65df20e65b",
     "name": "Indomitable",
     "identity": "Warrior",
     "requirements": "Requires Constitution 16",
@@ -2794,6 +3048,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "1fe59c31-79b8-45af-9d4d-593f5957a6b6",
     "name": "Improved Critical",
     "identity": "Warrior, Warden, Champion, Barbarian",
     "requirements": "Requires Level 3",
@@ -2805,6 +3060,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "bb25c596-7036-4e7b-a0ae-10786df8d70d",
     "name": "Superior Critical",
     "identity": "Warrior",
     "requirements": "Requires Improved Critical, Level 7",
@@ -2816,6 +3072,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "dbe7503d-1a8b-444b-868d-c59543dbe409",
     "name": "Survivor",
     "identity": "Warrior",
     "requirements": "Requires Level 9",
@@ -2827,6 +3084,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "2160d8c4-f2a4-4c92-8d2c-5fa188a5bc1c",
     "name": "Novice Arcane Archer - Arcane Shot",
     "identity": "Warrior",
     "requirements": "Requires Dexterity 14",
@@ -2838,6 +3096,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "025f575d-5a93-4915-8d63-2340b0512110",
     "name": "Advanced Arcane Archer - Curved Shot",
     "identity": "Warrior",
     "requirements": "Requires Novice Arcane Archer - Arcane Shot, Level 3",
@@ -2849,6 +3108,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "8f298072-ce16-4826-aac1-b385be8f02e0",
     "name": "Expert Arcane Archer - Empowered Shot",
     "identity": "Warrior",
     "requirements": "Requires Advanced Arcane Archer - Curved Shot, Level 7",
@@ -2860,6 +3120,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "f7330b96-2017-4825-8903-f0c1ac9f1ef1",
     "name": "Novice Cavalier - Mounted Warrior",
     "identity": "Warrior",
     "requirements": "Requires Wisdom 14",
@@ -2871,6 +3132,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "05d463e7-56b9-476a-8dcb-3688adc4cca0",
     "name": "Advanced Cavalier - Warding Mark",
     "identity": "Warrior",
     "requirements": "Requires Novice Cavalier - Mounted Warrior, Level 3",
@@ -2882,6 +3144,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "ea4847a3-2559-4881-8d9c-c93ea824d385",
     "name": "Advanced Cavalier - Run Them Down",
     "identity": "Warrior",
     "requirements": "Requires Novice Cavalier - Mounted Warrior, Level 3",
@@ -2893,6 +3156,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "4f22d07e-120c-430b-a0e9-a16bfacb4200",
     "name": "Novice Samurai - Fighting Spirit",
     "identity": "Warrior",
     "requirements": "Requires Constitution 14",
@@ -2904,6 +3168,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "3ccae683-76a5-4143-98b3-21f0bc43dd2e",
     "name": "Advanced Samurai - Perceptive Discipline",
     "identity": "Warrior",
     "requirements": "Requires Novice Samurai - Fighting Spirit, Level 3",
@@ -2915,6 +3180,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "3743c213-b8dc-4f4d-af2b-dbe7482cb612",
     "name": "Expert Samurai - Delayed Defeat",
     "identity": "Warrior",
     "requirements": "Requires Advanced Samurai - Perceptive Discipline, Level 7",
@@ -2926,6 +3192,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "38aeac70-df27-43bb-b1be-58bec11a5fb3",
     "name": "Wildling Spellcasting Increase",
     "identity": "Wildling",
     "requirements": "Requires Wildling Spellcasting",
@@ -2937,6 +3204,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "589cfbbb-fdbc-4fd9-9d20-28014af847b3",
     "name": "Fey Companion",
     "identity": "Wildling, Warden",
     "requirements": "Requires Charisma 14 or Wisdom 14",
@@ -2948,6 +3216,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "9289f24e-edf2-436c-9232-694302a61343",
     "name": "Beast Spells",
     "identity": "Wildling",
     "requirements": "Requires Shapechange, Level 5",
@@ -2959,6 +3228,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "465679d5-16dc-42af-a0d4-a7ed73566563",
     "name": "Nature's Sanctuary",
     "identity": "Wildling",
     "requirements": "Requires Level 3",
@@ -2970,6 +3240,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "9cb4a397-0971-4daf-9545-13e37b258661",
     "name": "Pest Form",
     "identity": "Wildling",
     "requirements": "Requires Shapechange",
@@ -2981,6 +3252,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "3e842523-be71-4507-ba26-c2a6d97ad460",
     "name": "Empowered Form",
     "identity": "Wildling",
     "requirements": "Requires Level 3, Shapechange",
@@ -2992,6 +3264,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "b9e882da-6e0c-4fb4-bd43-bf75c7b1f025",
     "name": "Monstrous Form",
     "identity": "Wildling",
     "requirements": "Shapechange, Level 6",
@@ -3003,6 +3276,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "70d48baf-e04a-4391-ae3d-dabce7856a84",
     "name": "Primal Regeneration",
     "identity": "Wildling",
     "requirements": "Requires Shapechange, Spellcasting",
@@ -3014,6 +3288,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "4f6982d2-5945-4c56-a833-2911b51bd55e",
     "name": "Verdant Weapon",
     "identity": "Wildling, Warden",
     "requirements": "Requires Trained in Nature",
@@ -3025,6 +3300,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "ec312a9a-2a98-4a2d-895c-cca36dd8faf2",
     "name": "Shaman Conclave Spells",
     "identity": "Wildling",
     "requirements": "Requires Spellcasting",
@@ -3036,6 +3312,7 @@
     "FifthLevelSpells": "Commune, Commune with Nature"
   },
   {
+    "id": "072619a8-79e6-4e0f-a4a9-8112adeba276",
     "name": "Novice Shaman - Mistwalker",
     "identity": "Wildling",
     "requirements": "Requires Trained in Nature",
@@ -3047,6 +3324,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "bc9287fe-7750-4d69-aa63-644f3492403a",
     "name": "Advanced Shaman - Elemental Protection",
     "identity": "Wildling",
     "requirements": "Requires Novice Shaman - Mistwalker, Level 3",
@@ -3058,6 +3336,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "60ca4657-2fbb-46c1-aabb-dc133f1852f5",
     "name": "Expert Shaman - Protected by Nature",
     "identity": "Wildling",
     "requirements": "Requires Advanced Shaman - Elemental Protection, Level 7",
@@ -3069,6 +3348,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "3da3c349-1a96-4b94-9555-84febb94c4b9",
     "name": "Storm Speaker Conclave Spells",
     "identity": "Wildling",
     "requirements": "Requires Spellcasting",
@@ -3080,6 +3360,7 @@
     "FifthLevelSpells": "Dawn, Maelstrom"
   },
   {
+    "id": "f9aa0338-7b40-4047-a5c0-af714f56c620",
     "name": "Novice Storm Speaker - Fogling",
     "identity": "Wildling",
     "requirements": "Requires Trained in Nature",
@@ -3091,6 +3372,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "8a71d304-b169-493d-8ea6-9e833296e684",
     "name": "Advanced Storm Speaker - Stormcaller",
     "identity": "Wildling",
     "requirements": "Requires Novice Storm Speaker - Fogling, Level 3",
@@ -3102,6 +3384,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "68d100a7-9e26-4a1b-b1b5-7889f2c32c67",
     "name": "Expert Storm Speaker - Storm Unbound",
     "identity": "Wildling",
     "requirements": "Requires Advanced Storm Speaker - Stormcaller, Level 7",
@@ -3113,6 +3396,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "6f93aaef-fd9d-4d52-a01d-54f5d7214e3d",
     "name": "Swarmkeeper Conclave Spells",
     "identity": "Wildling",
     "requirements": "Requires Spellcasting",
@@ -3124,6 +3408,7 @@
     "FifthLevelSpells": "Awaken, Hold Monster"
   },
   {
+    "id": "74f69f0b-db6c-45d6-a4cb-1e1f1158a739",
     "name": "Novice Swarmkeeper - Swarm",
     "identity": "Wildling",
     "requirements": "Requires Trained in Nature",
@@ -3135,6 +3420,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "793ef204-14b4-4b63-908e-631bcb49e140",
     "name": "Advanced Swarmkeeper - Defensive Swarm",
     "identity": "Wildling",
     "requirements": "Requires Novice Swarmkeeper - Swarm, Level 3",
@@ -3146,6 +3432,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "66fc9428-af6a-4931-a94e-af8819f978c6",
     "name": "Expert - Massive Swarm",
     "identity": "Wildling",
     "requirements": "Requires Advanced Swarmkeeper - Defensive Swarm, Level 7",
@@ -3157,6 +3444,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "9e43afb6-0b7a-4a6a-9d48-ba1671ddcbb9",
     "name": "Pact Boon - Bound Blade",
     "identity": "Patron-Sworn",
     "requirements": "Requires a binding pact with a powerful Patron, Charisma 14",
@@ -3168,6 +3456,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "aaf74f6f-6863-4746-966c-af1bc09dd734",
     "name": "Pact Boon - Grimoire",
     "identity": "Patron-Sworn",
     "requirements": "Requires a binding pact with a powerful Patron, Charisma 14",
@@ -3179,6 +3468,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "0ef0fcf6-21b8-41d8-9c87-3f343c88bbf2",
     "name": "Pact Boon - Chain",
     "identity": "Patron-Sworn",
     "requirements": "Requires a binding pact with a powerful Patron, Charisma 14",
@@ -3190,6 +3480,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "e23b60da-e70f-47ba-ae05-26142ba85cae",
     "name": "Gifted Spellcasting",
     "identity": "Patron-Sworn",
     "requirements": "Requires a binding pact with a powerful Patron, Charisma 14",
@@ -3201,6 +3492,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "0b4060f9-7a11-4ddf-a23f-a1e0dcaea62b",
     "name": "Ancient One Pact - Awakened Mind",
     "identity": "Patron-Sworn",
     "requirements": "Requires a Pact with an Ancient One",
@@ -3212,6 +3504,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "640aeb0e-3ea9-4693-b53c-c917312df11d",
     "name": "Ancient One Pact - Entropic Ward",
     "identity": "Patron-Sworn",
     "requirements": "Requires a Pact with an Ancient One",
@@ -3223,6 +3516,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "3081e67d-ba9f-48d1-a310-e5c07ed0b535",
     "name": "Ancient One Pact - Thought Shield",
     "identity": "Patron-Sworn",
     "requirements": "Requires a Pact with an Ancient One",
@@ -3234,6 +3528,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "b1834f07-aa10-4d1e-9e1a-27a797dcb8ec",
     "name": "Ancient One Pact - Create Thrall",
     "identity": "Patron-Sworn",
     "requirements": "Requires a Pact with an Ancient One, Level 7",
@@ -3245,6 +3540,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "ec34b80f-0fa0-48ef-8cb3-5c0901f26c0e",
     "name": "Celestial Pact - Light Bringer",
     "identity": "Patron-Sworn",
     "requirements": "Requires a Pact with a Celestial",
@@ -3256,6 +3552,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "794a3da7-6b00-4f9d-a209-a77c3060fff4",
     "name": "Celestial Pact - Healing Light",
     "identity": "Patron-Sworn",
     "requirements": "Requires a Pact with a Celestial",
@@ -3267,6 +3564,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "e6aa64e2-b6ff-4fb3-80a0-f90a9734c357",
     "name": "Celestial Pact - Radiant Soul",
     "identity": "Patron-Sworn",
     "requirements": "Requires a Pact with a Celestial",
@@ -3278,6 +3576,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "9b6c3508-2441-4599-ba23-c91b744a1796",
     "name": "Celestial Pact - Celestial Resistance",
     "identity": "Patron-Sworn",
     "requirements": "Requires a Pact with a Celestial",
@@ -3289,6 +3588,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "ec4d2624-c6fa-457b-be9f-ad0ddcb3335b",
     "name": "Celestial Pact - Searing Vengeance",
     "identity": "Patron-Sworn",
     "requirements": "Requires a Pact with a Celestial, Level 7",
@@ -3300,6 +3600,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "88875de0-4feb-4261-805b-e4bacf8b1ae1",
     "name": "Demonic Pact - Dark One's Hunger",
     "identity": "Patron-Sworn",
     "requirements": "Requires a Pact with a Demon",
@@ -3311,6 +3612,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "d0a39bbd-bcfb-45ab-a409-bf9c955fd693",
     "name": "Demonic Pact - Dark One's Blessing",
     "identity": "Patron-Sworn",
     "requirements": "Requires a Pact with a Demon",
@@ -3322,6 +3624,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "78cec70e-9dbe-48ef-9dfe-855d84a29cfe",
     "name": "Demonic Pact - Fiendish Resilience",
     "identity": "Patron-Sworn",
     "requirements": "Requires a Pact with a Demon",
@@ -3333,6 +3636,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "08750c2b-b0fd-4a93-bb17-68b862e8aefb",
     "name": "Demonic Pact - Hurl Through Hell",
     "identity": "Patron-Sworn",
     "requirements": "Requires a Pact with a Demon, Level 7",
@@ -3344,6 +3648,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "92d91ae1-0fca-4bac-ae08-688c3e936656",
     "name": "Fey pact - Fey Presence",
     "identity": "Patron-Sworn",
     "requirements": "Requires a Pact with a Fey",
@@ -3355,6 +3660,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "79be4f5f-435e-4f5c-b35a-145516a22524",
     "name": "Fey pact - Misty Escape",
     "identity": "Patron-Sworn",
     "requirements": "Requires a Pact with a Fey",
@@ -3366,6 +3672,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "699eef0c-f868-450a-9281-0f9d094ddc49",
     "name": "Fey pact - Beguiling Defenses",
     "identity": "Patron-Sworn",
     "requirements": "Requires a Pact with a Fey",
@@ -3377,6 +3684,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "b63fa5ea-91a8-4021-a387-d9ff18481f1e",
     "name": "Fey pact - Dark Delirium",
     "identity": "Patron-Sworn",
     "requirements": "Requires a Pact with a Fey, Level 7",
@@ -3388,6 +3696,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "3811c429-408a-4c32-9382-4a9326187f3e",
     "name": "Hex Pact - Curse",
     "identity": "Patron-Sworn",
     "requirements": "Requires a Pact with a Profane Being",
@@ -3399,6 +3708,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "5cd5c9e6-3ddc-4329-9727-14a25533396e",
     "name": "Hex Pact - Hex Warrior",
     "identity": "Patron-Sworn",
     "requirements": "Requires a Pact with a Profane Being, Pact Boon - Bound Blade",
@@ -3410,6 +3720,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "6997046b-c0db-4537-a41e-b4ba84033c9f",
     "name": "Hex Pact - Cursed Soul",
     "identity": "Patron-Sworn",
     "requirements": "Requires a Pact with a Profane Being, Hex Pact - Curse",
@@ -3421,6 +3732,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "58f123f2-c389-4c10-ab5c-0cc2ad05dd40",
     "name": "Hex Pact - Defensive Hex",
     "identity": "Patron-Sworn",
     "requirements": "Requires a Pact with a Profane Being, Hex Pact - Curse",
@@ -3432,6 +3744,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "994937ba-814f-44c8-a77f-be34ca104360",
     "name": "Hex Pact - Curse Transfer",
     "identity": "Patron-Sworn",
     "requirements": "Requires a Pact with a Profane Being, Hex Pact - Curse, Level 5",
@@ -3443,6 +3756,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "c6d83e58-453a-4e40-bfa4-700d642e5454",
     "name": "Cantrip Master",
     "identity": "Spellcasting",
     "requirements": "Requires Spellcasting",
@@ -3454,6 +3768,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "72f13aa4-27c7-4e0c-b6e3-9ab4cd9e7c88",
     "name": "Arcane Spellcasting",
     "identity": "Spellcasting",
     "requirements": "Requires Intelligence 14 or Charisma 14",
@@ -3465,6 +3780,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "5dc6d584-d914-4e82-bb38-09f8c4470571",
     "name": "Divine Spellcasting",
     "identity": "Spellcasting",
     "requirements": "Requires Charisma 14 or Wisdom 14",
@@ -3476,6 +3792,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "e1d79ab2-152d-4bee-85a7-9c049a6aa5c3",
     "name": "Primal Spellcasting",
     "identity": "Spellcasting",
     "requirements": "Requires Intelligence 14 or Wisdom 14",
@@ -3487,6 +3804,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "12520636-cd41-4940-a03c-9e462f3abc9c",
     "name": "Innate Spellcasting",
     "identity": "Spellcasting",
     "requirements": "Requires Charisma 14 or Constitution 14",
@@ -3498,6 +3816,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "d3854068-a41c-45b0-b1f9-6923a74efb21",
     "name": "Athlete",
     "identity": "General",
     "requirements": "Requires Strength 14 or Dexterity 14",
@@ -3509,6 +3828,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "a473edb2-2186-4750-978b-1ff2012d2fa7",
     "name": "Actor",
     "identity": "General",
     "requirements": "Requires Charisma 14",
@@ -3520,6 +3840,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "0d2323ea-ca9f-44a1-9c09-3a52780fd702",
     "name": "Trap Expert",
     "identity": "General",
     "requirements": "Requires Wisdom 14 or Intelligence 14",
@@ -3531,6 +3852,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "16a81e13-06a9-45a0-b27b-91adcdd9d037",
     "name": "Inspiring Leader",
     "identity": "General",
     "requirements": "Requires Charisma 14",
@@ -3542,6 +3864,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "3c0cd5a5-36bf-45cd-afed-141d22a9b00b",
     "name": "Keen Mind",
     "identity": "General",
     "requirements": "Requires Intelligence 14",
@@ -3553,6 +3876,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "51e76af0-9d88-425d-b05f-4d3023635c1a",
     "name": "Linguist",
     "identity": "General",
     "requirements": "Requires Intelligence 14",
@@ -3564,6 +3888,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "e62abf83-02ec-4486-8aa6-53dce6d454fc",
     "name": "Observant",
     "identity": "General",
     "requirements": "Requires Wisdom 14 or Intelligence 14",
@@ -3575,6 +3900,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "65643056-922d-46ae-8a94-d942ea97b5b3",
     "name": "Skilled",
     "identity": "General",
     "requirements": "Requires Intelligence 14",
@@ -3586,6 +3912,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "0ab2529f-b890-4330-9a45-a9e2d813702e",
     "name": "Skulker",
     "identity": "General",
     "requirements": "Requires Dexterity 14",
@@ -3597,6 +3924,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "9b87faf5-ff8e-4a08-9ebe-91f2dc9e55ed",
     "name": "Tough",
     "identity": "General",
     "requirements": "Requires Strength 14 or Constitution 14",
@@ -3608,6 +3936,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "263a3317-0933-4d88-b4b0-e5b6936bb339",
     "name": "Archer",
     "identity": "Combat",
     "requirements": "Requires Dexterity 14",
@@ -3619,6 +3948,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "8d4fd647-6845-4d99-81b6-6cbed29ff416",
     "name": "Bludgeoning Specialist",
     "identity": "Combat",
     "requirements": "Requires Strength 14",
@@ -3630,6 +3960,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "9c79e2a4-1c62-4c76-ae4b-794a8b727baf",
     "name": "Crossbow Master",
     "identity": "Combat",
     "requirements": "Requires Dexterity 14, Proficiency with Crossbows",
@@ -3641,6 +3972,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "8c4c6e5c-6e92-473b-b523-80c7833b1d34",
     "name": "Defensive Duelist",
     "identity": "Combat",
     "requirements": "Requires Dexterity 14",
@@ -3652,6 +3984,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "bfa9c343-d97a-4af4-a9e9-0df3879a5139",
     "name": "Dual Wielder",
     "identity": "Combat",
     "requirements": "Requires Dexterity 14",
@@ -3663,6 +3996,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "629528d6-d891-4e1a-a992-b84efabf1ce4",
     "name": "Elemental Adept",
     "identity": "Combat",
     "requirements": "Requires Spellcasting",
@@ -3674,6 +4008,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "b8c330ec-08d0-44cb-8640-f333395ca35c",
     "name": "Firearms Apprentice",
     "identity": "Combat",
     "requirements": "Requires Proficiency with Martial Weapons",
@@ -3685,6 +4020,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "30437840-dd6f-4547-9780-fc00103dcd95",
     "name": "Firearms Master",
     "identity": "Combat",
     "requirements": "Requires Proficiency with Firearms",
@@ -3696,6 +4032,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "9b1d76c9-4ec8-42fe-a150-47ca4443b592",
     "name": "Great Weapon Momentum",
     "identity": "Combat",
     "requirements": "Requires Proficiency with Martial Weapons",
@@ -3707,6 +4044,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "6d4fbce9-455a-48f8-a11e-daa0905b5bda",
     "name": "Mage Slayer",
     "identity": "Combat",
     "requirements": "Requires Strength 14 or Dexterity 14",
@@ -3718,6 +4056,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "8d44a77e-a2c9-4f90-b4a3-0e1375371851",
     "name": "Mounted Combatant",
     "identity": "Combat",
     "requirements": "",
@@ -3729,6 +4068,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "8f32576f-d554-4031-bbec-ee81b2fbec89",
     "name": "Piercing Specialist",
     "identity": "Combat",
     "requirements": "Requires Dexterity 14",
@@ -3740,6 +4080,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "4d7c2acd-7ccf-48eb-93e2-442d949af080",
     "name": "Polearm Chargebreaker",
     "identity": "Combat",
     "requirements": "Requires Proficiency with Martial Weapons",
@@ -3751,6 +4092,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "e85f5d43-f11a-4cc2-ac0f-3fda80ac9585",
     "name": "Savage Attacker",
     "identity": "Combat",
     "requirements": "Requires Proficiency with Martial Weapons",
@@ -3762,6 +4104,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "9bca966b-c670-459e-af5a-1d6eb144ce7b",
     "name": "Sentinel",
     "identity": "Combat",
     "requirements": "Requires Wisdom 14",
@@ -3773,6 +4116,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "5da34021-0aed-4d43-9335-e3e4ba87bace",
     "name": "Slashing Specialist",
     "identity": "Combat",
     "requirements": "Requires Strength 14 or Dexterity 14",
@@ -3784,6 +4128,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "040ae770-d74b-48d5-96ce-dd0536402ed1",
     "name": "War Caster",
     "identity": "Combat",
     "requirements": "Requires Spellcasting",
@@ -3795,6 +4140,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "0bd61143-da3e-4222-8679-872037fbaf89",
     "name": "Shield Master",
     "identity": "Armor",
     "requirements": "Requires Proficiency with Shields",
@@ -3806,6 +4152,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "a9f22fbe-4989-463d-9c0b-c5a031040bb9",
     "name": "Lightly Armored",
     "identity": "Armor",
     "requirements": "",
@@ -3817,6 +4164,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "079907cb-1c51-4a0f-b3ad-509d69628cf2",
     "name": "Moderately Armored",
     "identity": "Armor",
     "requirements": "Requires Proficiency with Light Armor",
@@ -3828,6 +4176,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "dfb80c0c-0abb-415b-83d1-d2f42dee556a",
     "name": "Heavily Armored",
     "identity": "Armor",
     "requirements": "Requires Proficiency with Medium Armor",
@@ -3839,6 +4188,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "9035a229-722a-49fb-a98d-f72407d0f495",
     "name": "Light Armor Master",
     "identity": "Armor",
     "requirements": "Requires Proficiency with Light Armor",
@@ -3850,6 +4200,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "2fc54e92-f11e-4f88-8465-f0bae5555468",
     "name": "Medium Armor Master",
     "identity": "Armor",
     "requirements": "Requires Proficiency with Medium Armor",
@@ -3861,6 +4212,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "db961517-e9f5-4756-98f4-6e487608a6fe",
     "name": "Heavy Armor Master",
     "identity": "Armor",
     "requirements": "Requires Proficiency with Heavy Armor",
@@ -3872,6 +4224,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "83d60c6b-8f6f-4e53-9df2-28913d9afe88",
     "name": "Rage",
     "identity": "Mutliclass",
     "requirements": "Requires Strength 14 or Constitution 14",
@@ -3883,6 +4236,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "2ea64090-fe00-402b-b40d-ddfcbff60193",
     "name": "Inspiration",
     "identity": "Mutliclass",
     "requirements": "Requires Charisma 14",
@@ -3894,6 +4248,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "9b0e6ada-6ee7-4963-95de-04450a1c0c43",
     "name": "Smite",
     "identity": "Mutliclass",
     "requirements": "Requires Charisma 14, Spellcasting",
@@ -3905,6 +4260,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "a471e68d-1fa0-43ed-8b31-9e0933ec8737",
     "name": "Bloodline",
     "identity": "Mutliclass",
     "requirements": "Requires Constitution 14",
@@ -3916,6 +4272,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "c8e7622c-0994-4d91-9713-99ee6f266a8b",
     "name": "Ki",
     "identity": "Mutliclass",
     "requirements": "Requires Wisdom 14",
@@ -3927,6 +4284,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "6c123f1c-eafc-48d1-b4e2-c8478bcf6e00",
     "name": "Flurry of Blows",
     "identity": "Mutliclass",
     "requirements": "Requires Dexterity 14",
@@ -3938,6 +4296,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "ba15dc98-635d-41ff-bd1d-98d455b90d7d",
     "name": "Martial Arts Dice",
     "identity": "Mutliclass",
     "requirements": "Requires Dexterity 14 or Strength 14",
@@ -3949,6 +4308,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "da81f293-d8cb-4253-bd8a-a42c1963d0fd",
     "name": "Font of Healing and Harm",
     "identity": "Mutliclass",
     "requirements": "Requires Divine Spellcasting",
@@ -3960,6 +4320,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "89fe4d22-b229-4aa9-99ea-41ae3d6d2bb8",
     "name": "Sneak Attack",
     "identity": "Mutliclass",
     "requirements": "Requires Dexterity 14",
@@ -3971,6 +4332,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "87abfb4a-e252-49c3-a603-65c669374213",
     "name": "Thieves' Knack",
     "identity": "Mutliclass",
     "requirements": "Requires Intelligence 14",
@@ -3982,6 +4344,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "489c651d-8d45-4a3a-a9ec-f9215c4c4a25",
     "name": "Arcane Assistance",
     "identity": "Mutliclass",
     "requirements": "Requires Intelligence 14",
@@ -3993,6 +4356,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "3c7a0a4f-0f78-4083-8f63-0538fa24ffbb",
     "name": "Hunter's Mark",
     "identity": "Mutliclass",
     "requirements": "Requires Wisdom 14",
@@ -4004,6 +4368,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "2cc7c1a6-9d65-4c83-8073-d01633634b35",
     "name": "Action Surge",
     "identity": "Mutliclass",
     "requirements": "Requires Constitution 14",
@@ -4015,6 +4380,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "26923ae5-d94f-4462-ac2a-4623eedc7c7e",
     "name": "Maneuver Dice",
     "identity": "Mutliclass",
     "requirements": "Requires Dexterity 14 or Strength 14",
@@ -4026,6 +4392,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "77375f43-5e4c-4efd-ad2e-96234a7f96e7",
     "name": "Shapechange",
     "identity": "Mutliclass",
     "requirements": "Requires Wisdom 14",
@@ -4037,6 +4404,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "028b0b9c-ca21-4a3c-8a27-a8432ca62de6",
     "name": "Empowered Upcasting",
     "identity": "Mutliclass",
     "requirements": "Constitution 14, Spellcasting",
@@ -4048,6 +4416,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "463bcb70-0cc3-4554-bcdf-7844d8cfbaac",
     "name": "Young Animal Companion",
     "identity": "Animal Companion",
     "requirements": "You gain a young animal companion, the form of which you choose. Its stats and abilities are detailed in the Animal Companion Appendix",
@@ -4059,6 +4428,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "e7dc889f-fd6b-411d-8073-b7ff37fa918b",
     "name": "Mature Animal Companion",
     "identity": "Animal Companion",
     "requirements": "Young Animal Companion, Level 3",
@@ -4070,6 +4440,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "dafa9518-6771-4d19-93c6-b3424a994a10",
     "name": "Specialized Animal Companion",
     "identity": "Animal Companion",
     "requirements": "Mature Animal Companion, Level 5",
@@ -4081,6 +4452,7 @@
     "FifthLevelSpells": ""
   },
   {
+    "id": "94e21383-7383-463f-b7b2-15898dec1c1a",
     "name": "Apex Animal Companion",
     "identity": "Animal Companion",
     "requirements": "Specialized Animal Companion, Level 7",

@@ -1,5 +1,6 @@
 [
   {
+    "id": "50e1449c-0bbf-4c66-b32a-ed7cd080e154",
     "name": "Arcanist",
     "healthAtFirstLevel": "At 1st level your Arcanist has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 6.",
     "healthBeyondFirstLevel": "Each level after 1st, you gain a number of hit points equal to 1d6 or 4 + your Constitution Modifier.",
@@ -21,6 +22,7 @@
     ]
   },
   {
+    "id": "710085df-ccf0-40d1-a6fb-01eb6a3de967",
     "name": "Barbarian",
     "healthAtFirstLevel": "At 1st level your Barbarian has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 12.",
     "healthBeyondFirstLevel": "Each level after 1st, you gain a number of hit points equal to 1d12 or 7 + your Constitution Modifier.",
@@ -46,6 +48,7 @@
     ]
   },
   {
+    "id": "6ded6617-8848-4951-8fb5-aee6281b1344",
     "name": "Bard",
     "healthAtFirstLevel": "At 1st level your Bard has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 8.",
     "healthBeyondFirstLevel": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier.",
@@ -67,6 +70,7 @@
     ]
   },
   {
+    "id": "05c8e233-43e5-4c64-9808-c17eee4da642",
     "name": "Champion",
     "healthAtFirstLevel": "At 1st level your Champion has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 10.",
     "healthBeyondFirstLevel": "Each level after 1st, you gain a number of hit points equal to 1d10 or 6 + your Constitution Modifier.",
@@ -92,6 +96,7 @@
     ]
   },
   {
+    "id": "791fae53-e0bb-4590-b319-6a1a8584d2ba",
     "name": "Inheritor",
     "healthAtFirstLevel": "At 1st level your Inheritor has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 6.",
     "healthBeyondFirstLevel": "Each level after 1st, you gain a number of hit points equal to 1d6 or 4 + your Constitution Modifier.",
@@ -121,6 +126,7 @@
     ]
   },
   {
+    "id": "c663ac9c-3c77-4e88-b129-37e489a08f84",
     "name": "Mystic",
     "healthAtFirstLevel": "At 1st level your Mystic has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 8.",
     "healthBeyondFirstLevel": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier.",
@@ -150,6 +156,7 @@
     ]
   },
   {
+    "id": "66f8d6d1-dd39-4f8f-8ce5-1a748b57cadb",
     "name": "Priest",
     "healthAtFirstLevel": "At 1st level your Priest has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 8.",
     "healthBeyondFirstLevel": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier.",
@@ -171,6 +178,7 @@
     ]
   },
   {
+    "id": "d1c8bf4a-9745-4fa1-8686-410d851b3b08",
     "name": "Scoundrel",
     "healthAtFirstLevel": "At 1st level your Scoundrel has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 8.",
     "healthBeyondFirstLevel": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier.",
@@ -196,6 +204,7 @@
     ]
   },
   {
+    "id": "b81b1848-b8d5-4fa7-999b-c9daa04800e5",
     "name": "Spellblade",
     "healthAtFirstLevel": "At 1st level your Spellblade has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 8.",
     "healthBeyondFirstLevel": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier.",
@@ -225,6 +234,7 @@
     ]
   },
   {
+    "id": "6046d042-41df-4408-9a09-700e9b25c7b4",
     "name": "Warden",
     "healthAtFirstLevel": "At 1st level your Warden has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 10.",
     "healthBeyondFirstLevel": "Each level after 1st, you gain a number of hit points equal to 1d10 or 6 + your Constitution Modifier.",
@@ -250,6 +260,7 @@
     ]
   },
   {
+    "id": "916ba302-f8ec-415d-99fe-c207c1e8c1e3",
     "name": "Warrior",
     "healthAtFirstLevel": "At 1st level your Warrior has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 10.",
     "healthBeyondFirstLevel": "Each level after 1st, you gain a number of hit points equal to 1d10 or 6 + your Constitution Modifier.",
@@ -279,6 +290,7 @@
     ]
   },
   {
+    "id": "f92f039a-4bc9-44b3-aae6-ea4c2c2039d8",
     "name": "Wildling",
     "healthAtFirstLevel": "At 1st level your Wildling has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 8.",
     "healthBeyondFirstLevel": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier.",

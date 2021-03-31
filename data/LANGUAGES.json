@@ -1,41 +1,54 @@
 [
   {
+    "id": "506994d3-854f-40af-bd52-6408797c7d38",
     "name": "Amarrun"
   },
   {
+    "id": "f2ad9a54-e5a8-439f-923e-7a32307b4407",
     "name": "Celestial"
   },
   {
+    "id": "25944af3-47c8-4008-ae88-32a954d49731",
     "name": "Draconic"
   },
   {
+    "id": "b17a0ffe-9622-4e68-b321-4e10d92d3743",
     "name": "Dwarvish"
   },
   {
+    "id": "87c39873-cde9-4e1c-a368-a62e6476a7b9",
     "name": "Elven"
   },
   {
+    "id": "cf2e6901-8103-4054-a1ca-18c46a91ebc7",
     "name": "Giant"
   },
   {
+    "id": "c8897ad0-9a10-4926-9e4c-38df12950661",
     "name": "Gnomish"
   },
   {
+    "id": "d8d5f0e1-6cbd-4752-a0b1-750bb67e81b2",
     "name": "Goblin"
   },
   {
+    "id": "ae490b16-b7bd-454e-853e-66c007a5eda7",
     "name": "Halfling"
   },
   {
+    "id": "a2686193-eea3-4ede-ae0f-5009c1a81601",
     "name": "Infernal"
   },
   {
+    "id": "01a7d7a6-4004-4989-9278-0af818fd8e22",
     "name": "Iruxi"
   },
   {
+    "id": "ab8454cf-34eb-4276-aaba-d6b4c5ff81e0",
     "name": "Oruk"
   },
   {
+    "id": "6f3edb0d-3c31-465b-aa3d-b00cf9e59ec0",
     "name": "Primordial"
   }
 ]
