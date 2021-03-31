@@ -25,16 +25,6 @@
     "description": "When you are not wearing armor, your Defense score is equal to 9 + your Dexterity Modifier + your Constitution Modifier + your level, your Stuck Defense score is equal to 9 + your Constitution Modifier + your level, and your Naked Defense is equal to 9 + your Dexterity Modifier + your Constitution Modifier + your level.\n\nWhen wearing Light or Medium armor, you can use your Constitution Modifier in place of your Dexterity modifier when determining your defense. Using your Constitution Modifier this way allows you to ignore the Dexterity bonus maximums for light and medium armors."
   },
   {
-    "id": "3cac1695-2544-4f8b-a368-c00484e1a274",
-    "name": "Attack of Opportunity",
-    "description": "When an enemy leaves your melee reach, you can spend your reaction to make a single weapon attack against them."
-  },
-  {
-    "id": "97e608fc-0798-4e0d-adfd-6261a2480195",
-    "name": "Shield Block",
-    "description": "You can spend your reaction to add your shield’s defense value to your armor for the remainder of the current turn."
-  },
-  {
     "id": "99aee4f0-cedd-41a8-bca7-24c5884d0dfc",
     "name": "Inpiration",
     "description": "You can inspire others through stirring words or music. To do so, you may use an action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d4.\n\nOnce within the next 10 minutes, the creature can roll the inspiration die and add the number rolled to any d20 roll. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.\n\nYou can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a rest.\n\nYour Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d6 at 3rd level, a d8 at 5th level, a d10 at 7th level, and a d12 at 9th level."
@@ -45,11 +35,6 @@
     "description": "You can cast Arcane and Occult spells, using a wand, instrument, or other arcane implement as a spellcasting focus to channel your power. Without your spellcasting focus, you are incapable of casting even the simplest cantrips. Charisma is your spellcasting ability.\n\nYour Spellcasting Level is 1 at 1st level. Your Spellcasting level increases by 1 at 3rd, 5th, 7th, and 10th level. This is cumulative with any other spellcasting level increases you may get from identity features.\n\nAt 1st level, you know 4 spells from the Arcane spell list. These spells can have the Occult tag. Each time your spellcasting level increases, you learn two additional spells.\n\nAt each spellcasting level (Including 1st level), you learn a single spell of your choice from any spell list. This spell must be of a level you can cast, and is an Arcane spell for you.\n\nYou know a number of cantrips from the Arcane Spell List equal to your Charisma Modifier. Whenever this modifier increases, you learn another cantrip from your spell list.\n\nYou have a number of Spell Charges as shown on the Universal Spellcasting Chart. All of your expended Spell Charges regenerate at the end of a Rest."
   },
   {
-    "id": "ee837043-25af-4ef5-9cee-9d72db40f0c0",
-    "name": "Shield Block",
-    "description": "You can spend your reaction to add your shield’s defense value to your armor for the remainder of the current turn."
-  },
-  {
     "id": "77fcc450-95d8-434a-a706-b792098f1a5b",
     "name": "Champion Spellcasting",
     "description": "You can cast Divine spells, using a holy symbol, emblazoned shield, or banner as a spellcasting focus to channel your power. Without your spellcasting focus, you are incapable of casting even the simplest cantrips. Charisma is your spellcasting ability.\n\nYour Spellcasting Level is 1 at 1st level. Your Spellcasting level increases by 1 at 4th, and 7th level. This is cumulative with any other spellcasting level increases you may get from identity features.\n\nAt 1st level, you know spells from the Divine spell list equal to your Charisma modifier. Each time your spellcasting level or Charisma modifier increases, you learn two  additional spells.\n\nYou know a single Cantrip from the Divine spell list, and learn another at 5th and 10th level.\n\nYou have a number of Spell Charges as shown on the Universal Spellcasting Chart. All of your expended Spell Charges regenerate at the end of a Rest."
@@ -58,16 +43,6 @@
     "id": "54138a2e-094c-4b94-99cf-818779074554",
     "name": "Smite",
     "description": "When you hit an enemy with a weapon attack, you can expend a spell charge to deal extra damage to that enemy of an elemental type of your choice (chosen at 1st level). This damage is equal to 1d8 + 1d8 per level of the spell charge."
-  },
-  {
-    "id": "20b109e8-9a45-41f2-9d70-c307095c4553",
-    "name": "Attack of Opportunity",
-    "description": "When an enemy leaves your melee reach, you can spend your reaction to make a single weapon attack against them."
-  },
-  {
-    "id": "3f8b1480-9b99-499f-a14b-59c6b25471d8",
-    "name": "Shield Block",
-    "description": "You can spend your reaction to add your shield’s defense value to your armor for the remainder of the current turn."
   },
   {
     "id": "a47760b9-fdf0-4e44-b6c6-34c9a7667f95",
@@ -115,11 +90,6 @@
     "description": "Your discipline and practice has allowed you to hone your fighting style with certain weapons. Whenever you are wielding a simple weapon or no weapon at all, you can use your Dexterity Modifier in the place of your strength modifier for both attack and damage rolls with that weapon (or your unarmed strike).\n\nAdditionally at level one you gain a dice that can be used in place of any damage die when you make an attack with a simple or unarmed attack. This damage dice is a d4 at level 1, and increases to a d6 at level 3, a d8 at level 5, a d10 at level 7, and a d12 at level 9."
   },
   {
-    "id": "f27c095a-7fb8-4804-9f2d-b0eb8b5aadb2",
-    "name": "Attack of Opportunity",
-    "description": "When an enemy leaves your melee reach, you can spend your reaction to make a single weapon attack against them."
-  },
-  {
     "id": "14eafe0f-1145-48ad-ae96-55adffcdb823",
     "name": "Priest Spellcasting",
     "description": "You can cast Divine spells, using a holy symbol, emblazoned shield, or banner as a spellcasting focus to channel your power. Without your spellcasting focus, you are incapable of casting even the simplest cantrips.\n\nYour Spellcasting Level is 1 at 1st level. Your Spellcasting level increases by 1 at 3rd, 5th, 7th, and 10th level. This is cumulative with any other spellcasting level increases you may get from identity features.\n\nThe entire Divine Spell List is available to you, and you can prepare a number of spells each day equal to your Wisdom Modifier + your spellcasting level. In order to prepare a spell, you must have at least a single spell charge capable of casting it.\n\nYou know a number of cantrips from the Divine Spell List equal to your Wisdom Modifier . Whenever this increases, you learn an additional cantrip from the Divine spell list.\n\nYou have a number of Spell Charges as shown on the Priest spellcasting chart. All of your expended Spell Charges regenerate at the end of a Rest."
@@ -128,11 +98,6 @@
     "id": "35b29f30-7f18-4ae8-bf5e-f70dd4a98012",
     "name": "Font of Healing and Harm",
     "description": "As a Priest, you have access to a Font of Healing and Harm that you can tap into. You always have the spells Heal and Harm prepared, and they don’t count towards the number of spells you have prepared for the day. This font provides you with a number of casts of these spells (cast at a level equal to ½ your spellcasting level, rounded up) per day equal to your Wisdom Modifier."
-  },
-  {
-    "id": "199608fd-68c7-4ada-83f0-afcdc896705a",
-    "name": "Shield Block",
-    "description": "You can spend your reaction to add your shield’s defense value to your armor for the remainder of the current turn."
   },
   {
     "id": "0d1c7944-fc97-4c14-b098-8056ac92d073",
@@ -150,11 +115,6 @@
     "description": "When you make an attempt at a skill check and are Untrained in that skill, you can add +2 to your skill check result."
   },
   {
-    "id": "c308a371-d7e6-4a0b-be69-2288ff888d0b",
-    "name": "Attack of Opportunity",
-    "description": "When an enemy leaves your melee reach, you can spend your reaction to make a single weapon attack against them."
-  },
-  {
     "id": "00c404e5-1d8f-406a-bd7c-b1acfc8501c0",
     "name": "Arcane Assistance",
     "description": "Whenever you or an ally within 60 feet attempts an attack roll, ability check, or saving throw, you can spend your reaction to magically assist in that attempt, adding your Intelligence modifier to the roll. You can add this bonus after you see the roll, but not after the DM has declared the results of the roll.\n\nYou can use this feature a number of times per day equal to your Intelligence Modifier."
@@ -170,16 +130,6 @@
     "description": "At each spellcasting level, you have a number of Spell Points available to you as shown in the Spell Points column of the Universal Spell Point Chart.\n\nYou may expend a number of Spell Points, as shown in the table below, to cast a spell at a given level (at any level up to your Max Casting Level). I.E. if your Max Casting Level is 3rd, and you know the spell Burning Hands, you could use Spell points to cast it at 1st, 2nd, or 3rd level.\n\nYou may not use Spell Points to cast a spell if it would reduce your total Spell Points available below 0."
   },
   {
-    "id": "9fdf90e9-d1be-4404-adbe-39c417dc558b",
-    "name": "Attack of Opportunity",
-    "description": "When an enemy leaves your melee reach, you can spend your reaction to make a single weapon attack against them."
-  },
-  {
-    "id": "0ab78ec4-fcb8-47ce-81c0-d0a882f78d57",
-    "name": "Shield Block",
-    "description": "You can spend your reaction to add your shield’s defense value to your armor for the remainder of the current turn."
-  },
-  {
     "id": "73ed6294-2f5c-4b8a-9b6c-f944b9337c3a",
     "name": "Hunter's Mark",
     "description": "You use an action to choose a creature you can see within range and mystically mark it as your quarry. Whenever you hit this target with a weapon or unarmed attack, the target suffers an extra 1d4 of damage matching the type of your attack, and you have advantage on any Perception or Survival checks you make to find it.\n\nThis mark lasts for 1 minute, or until your target is reduced to 0 hit points. The marks damage increases to 1d6 and duration increases to 10 minutes at level 3, 1d8 / 1 hour at level 5, 1d10 / 1 day at level 7, and 1d12 / 1 week at level 9."
@@ -188,16 +138,6 @@
     "id": "f708cd3a-7430-409d-b9dd-5f554cfeec72",
     "name": "Warden Spellcasting",
     "description": "You can cast Primal spells, using a staff, weapon, or other natural object as a spellcasting focus to channel your power. Without your spellcasting focus, you are incapable of casting even the simplest cantrips.\n\nYour Spellcasting Level is 1 at 1st level. Your Spellcasting level increases by 1 at 4th and 7th level. This is cumulative with any other spellcasting level increases you may get from identity features.\n\nThe entire Primal Spell List is available to you, and you can prepare a number of spells each day equal to your Wisdom Modifier + ½ your Level (rounded up). In order to prepare a spell, you must have at least a single spell charge capable of casting it.\n\nYou know a single Cantrip from the Primal spell list, and learn another at 5th and 10th level.\n\nYou have a number of Spell Charges as shown on the Universal Spellcasting Chart. All of your expended Spell Charges regenerate at the end of a Rest."
-  },
-  {
-    "id": "bb1914e0-4be7-442f-869a-b337a38af1b6",
-    "name": "Attack of Opportunity",
-    "description": "When an enemy leaves your melee reach, you can spend your reaction to make a single weapon attack against them."
-  },
-  {
-    "id": "2169a538-ffdf-4fa3-80a7-b98b4d37659c",
-    "name": "Shield Block",
-    "description": "You can spend your reaction to add your shield’s defense value to your armor for the remainder of the current turn."
   },
   {
     "id": "badb28c0-72ea-4c66-ac0d-9d0d6f47b66a",
@@ -215,16 +155,6 @@
     "description": "Many of your abilities granted by the Ability Features you choose will allow you to make a check or roll damage dice. Whenever you use one of these abilities, you can add your Maneuver Dice to the d20 roll for any skill check, or to the attack or damage roll for any attack. You can only use this dice once per action.\n\nThis dice is a d4 at level 1, increases to a d6 at level 3, a d8 at level 5, a d10 at level 7, and a d12 at level 9."
   },
   {
-    "id": "82e1cd99-6f2c-4022-9246-71cafc217570",
-    "name": "Attack of Opportunity",
-    "description": "When an enemy leaves your melee reach, you can spend your reaction to make a single weapon attack against them."
-  },
-  {
-    "id": "fc0d32f8-743b-48a3-b24e-0d2054b3aabb",
-    "name": "Shield Block",
-    "description": "You can spend your reaction to add your shield’s defense value to your armor for the remainder of the current turn."
-  },
-  {
     "id": "2cb278e2-a464-43ac-a9e3-29aaabbdc278",
     "name": "Shapechange",
     "description": "As a master of communion with nature, you have learned to change your form into that of a wild beast. You have a number of uses for this ability equal to your Wisdom Modifier (minimum of 1).\n\nAs an action, you magically reshape your form to assume the shape of a beast of your choice, choosing one of the stat blocks at the end of this chapter that best fits the shape you chose (Ambusher or Brute). Your size, mental stats, and skill proficiencies stay the same, but your physical stats and abilities shift to match those of your chosen form. Your form might have bonuses listed that are added to any checks you make that they relate to.\n\nThe overall appearance of the chosen form is up to you, but its abilities must match one of the provided stat blocks. You remain in this form until you use a free action to will yourself back to your normal form, until you Rest, or until are reduced to 0 hit points."
@@ -235,7 +165,12 @@
     "description": "You can cast Primal spells, using a staff or other natural object as a spellcasting focus to channel your power. Without your spellcasting focus, you are incapable of casting even the simplest cantrips.\n\nYour Spellcasting Level is 1 at 1st level. Your Spellcasting level increases by 1 at 3rd, 5th, 7th, and 10th level. This is cumulative with any other spellcasting level increases you may get from identity features.\n\nThe entire Primal Spell List is available to you, and you can prepare a number of spells each day equal to your Wisdom Modifier + your level. In order to prepare a spell, you must have at least a single spell charge capable of casting it.\n\nYou know a number of cantrips from the Primal Spell List equal to your Wisdom Modifier . Whenever this increases, you learn another cantrip from your spell list.\n\nYou have a number of Spell Charges as shown on the Universal Spellcasting Chart. All of your expended Spell Charges regenerate at the end of a Rest."
   },
   {
-    "id": "8f2ea083-3afd-47e8-9ad2-3f3d406bc1bf",
+    "id": "3cac1695-2544-4f8b-a368-c00484e1a274",
+    "name": "Attack of Opportunity",
+    "description": "When an enemy leaves your melee reach, you can spend your reaction to make a single weapon attack against them."
+  },
+  {
+    "id": "97e608fc-0798-4e0d-adfd-6261a2480195",
     "name": "Shield Block",
     "description": "You can spend your reaction to add your shield’s defense value to your armor for the remainder of the current turn."
   }
