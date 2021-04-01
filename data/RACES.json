@@ -28,7 +28,7 @@
   {
     "id": "eb34666f-fc1c-498d-9e1c-44ef024a0cd1",
     "name": "Catfolk",
-    "imageURL": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/4808/298/340/340/636771219865406289.png",
+    "imageURL": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/10836/174/340/340/637266329893978901.png",
     "size": "Medium",
     "landSpeed": 30,
     "swimSpeed": 0,
@@ -130,7 +130,7 @@
   {
     "id": "5d97816a-78d9-464e-a607-a0d9fa278454",
     "name": "Feyborn",
-    "imageURL": "",
+    "imageURL": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/4808/279/340/340/636771218287282066.png",
     "size": "Tall",
     "landSpeed": 30,
     "swimSpeed": 0,
@@ -156,7 +156,7 @@
   {
     "id": "63811b9a-57d0-406d-b13a-087e4e1f2dd8",
     "name": "Gnome",
-    "imageURL": "",
+    "imageURL": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/4808/238/340/340/636771215623971660.png",
     "size": "Small",
     "landSpeed": 25,
     "swimSpeed": 0,
@@ -182,7 +182,7 @@
   {
     "id": "c8aa2c93-a828-4059-99d6-4273ea2966c3",
     "name": "Goblin",
-    "imageURL": "",
+    "imageURL": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/4808/282/340/340/636771218480367554.png",
     "size": "Medium",
     "landSpeed": 30,
     "swimSpeed": 0,
@@ -209,7 +209,7 @@
   {
     "id": "694e01b8-5de6-42bb-888b-fc17fac79607",
     "name": "Half Dragon",
-    "imageURL": "",
+    "imageURL": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/4808/221/340/340/636771214201929248.png",
     "size": "Medium",
     "landSpeed": 25,
     "swimSpeed": 0,
@@ -235,7 +235,7 @@
   {
     "id": "d2b99aa1-281c-4a42-bef1-025185590ef4",
     "name": "Half Giant",
-    "imageURL": "",
+    "imageURL": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/4808/265/340/340/636771217418040075.png",
     "size": "Tall",
     "landSpeed": 30,
     "swimSpeed": 0,
@@ -261,7 +261,7 @@
   {
     "id": "920e224c-0146-4884-bc1c-ffbd1c56a50b",
     "name": "Halfling",
-    "imageURL": "",
+    "imageURL": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/4808/242/340/340/636771216077429600.png",
     "size": "Small",
     "landSpeed": 25,
     "swimSpeed": 0,
@@ -287,7 +287,7 @@
   {
     "id": "609f7da6-5f90-49b3-86d7-de3174eb6496",
     "name": "Hobgoblin",
-    "imageURL": "",
+    "imageURL": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/4808/284/340/340/636771218734797400.png",
     "size": "Medium",
     "landSpeed": 30,
     "swimSpeed": 0,
@@ -313,7 +313,7 @@
   {
     "id": "f9329e3b-7243-4f6d-935b-22e983449c76",
     "name": "Human",
-    "imageURL": "",
+    "imageURL": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/4808/248/340/340/636771216546324720.png",
     "size": "Medium",
     "landSpeed": 30,
     "swimSpeed": 0,
@@ -345,7 +345,7 @@
   {
     "id": "d1480386-60c5-4d39-8b7a-29f75c5fb903",
     "name": "Lizardling",
-    "imageURL": "",
+    "imageURL": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/4808/291/340/340/636771219351469496.png",
     "size": "Medium",
     "landSpeed": 25,
     "swimSpeed": 0,
@@ -372,7 +372,7 @@
   {
     "id": "a135605b-c6c4-4049-8609-4eac563123dd",
     "name": "Merfolk",
-    "imageURL": "",
+    "imageURL": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/4808/300/340/340/636771220145505187.png",
     "size": "Medium",
     "landSpeed": 25,
     "swimSpeed": 15,
@@ -398,7 +398,7 @@
   {
     "id": "3bb5021b-9ee4-40e6-b3e0-1af0d9ff4168",
     "name": "Orc",
-    "imageURL": "",
+    "imageURL": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/7756/806/340/340/637094509988784959.png",
     "size": "Medium",
     "landSpeed": 25,
     "swimSpeed": 0,
@@ -424,7 +424,7 @@
   {
     "id": "b997df2e-0c33-4a79-81e3-03064ece69e7",
     "name": "Runemade",
-    "imageURL": "",
+    "imageURL": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/7745/909/340/340/637093534176301920.png",
     "size": "Medium",
     "landSpeed": 30,
     "swimSpeed": 0,
@@ -450,7 +450,7 @@
   {
     "id": "be3b7e98-2bea-4019-837d-c1dc51a7bc3c",
     "name": "Shifter",
-    "imageURL": "",
+    "imageURL": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/7744/803/340/340/637093441072378104.png",
     "size": "Medium",
     "landSpeed": 30,
     "swimSpeed": 0,
@@ -476,7 +476,7 @@
   {
     "id": "0ce35dd6-9557-4747-8825-6c75591f6a70",
     "name": "Tiefling",
-    "imageURL": "",
+    "imageURL": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/4808/252/340/340/636771216810902999.png",
     "size": "Medium",
     "landSpeed": 30,
     "swimSpeed": 0,
