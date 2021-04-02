@@ -1,11 +1,14 @@
 [
+
   {
     "id": "6e3674ab-0af9-4c3c-837e-ee1a2d5511ca",
     "name": "Aim",
     "description": "1 Action - you still yourself and focus your aim, granting your next ranged attack advantage.",
     "level": 1,
     "requirements": "",
-    "relevantStyles": "Ranged"
+    "relevantStyles": [
+      "Ranged"
+    ]
   },
   {
     "id": "22588978-94e6-40ca-9ea5-280d447b14bb",
@@ -13,7 +16,15 @@
     "description": "When an enemy leaves your melee reach, you can spend your reaction to make a single attack against them.",
     "level": 1,
     "requirements": "",
-    "relevantStyles": ["Dual Weilding", "Daggers / Finesse", "Fencing", "Two-Handed", "Weapon and Shield", "Brawling / Grappling", "Polearms"]
+    "relevantStyles": [
+      "Dual Weilding",
+      "Daggers / Finesse",
+      "Fencing",
+      "Two-Handed",
+      "Weapon and Shield",
+      "Brawling / Grappling",
+      "Polearms"
+      ]
   },
   {
     "id": "53ba5ecc-5291-4ed9-9f5b-946e57694a0b",
@@ -21,7 +32,9 @@
     "description": "When you make a check to attempt to maintain concentration on a spell, you can spend your reaction to give yourself advantage on that check.",
     "level": 1,
     "requirements": "",
-    "relevantStyles": ["Spellcasting"]
+    "relevantStyles": [
+      "Spellcasting"
+    ]
   },
   {
     "id": "11b68822-15de-4695-84ec-852dea02044e",
@@ -29,7 +42,10 @@
     "description": "1 Action - You make a melee attack with against an enemy in range. If this attack hits, you grab the target with your free hand. Your target is Grabbed, and you have advantage on all Grappling contest checks against them.",
     "level": 1,
     "requirements": "an empty off-hand",
-    "relevantStyles": ["Fencing", "Brawling / Grappling"]
+    "relevantStyles": [
+      "Fencing",
+       "Brawling / Grappling"
+      ]
   },
   {
     "id": "c831f152-77b1-4df8-b1ca-5e67b77249f2",
@@ -37,7 +53,9 @@
     "description": "When you cast a cantrip using two actions that has a single target, you can spend an additional action to add an additional target.",
     "level": 1,
     "requirements": "",
-    "relevantStyles": [ "Spellcasting"]
+    "relevantStyles": [
+       "Spellcasting"
+    ]
   },
   {
     "id": "2335bd28-f1c7-4b98-9e17-9b87a0e1ece5",
@@ -45,7 +63,9 @@
     "description": "1 Action - You throw a weapon with each hand at a single target. Make separate attack rolls for each weapon, but add their damage together and consider it a single instance when factoring in your target’s armor and resistances. These attacks are made at the same multi-attack penalty, but increase it as though you made two separate attacks.",
     "level": 1,
     "requirements": "A thrown weapon in each hand",
-    "relevantStyles": ["Dual Weilding"]
+    "relevantStyles": [
+      "Dual Weilding"
+    ]
   },
   {
     "id": "c1c0c895-24b9-4499-8668-74fd347b2261",
@@ -53,7 +73,10 @@
     "description": "1 Action - Make an attack against a single enemy with each weapon you are weilding. If both attacks hit: combine the damage and consider it a single instance when factoring in your target’s armor and resistances. These attacks are made at the same multi-attack penalty, but increase it as though you made two separate attacks",
     "level": 1,
     "requirements": "A weapon in each hand",
-    "relevantStyles": ["Dual Weilding", "Daggers / Finesse"]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Daggers / Finesse"
+      ]
   },
   {
     "id": "041a8831-02c6-423a-913a-f015499a52f3",
@@ -61,7 +84,9 @@
     "description": "1 Action - You make two quick ranged attacks against a single target. These attacks suffer the multiple attack penalty as normal.",
     "level": 1,
     "requirements": "a non-loading ranged weapon",
-    "relevantStyles": [ "Ranged"]
+    "relevantStyles": [
+       "Ranged"
+    ]
   },
   {
     "id": "f336096a-3fc4-49dc-998c-1dded7655d77",
@@ -69,7 +94,9 @@
     "description": "1 Action - You take a defensive stance and add +2 to your defense until the beginning of your next turn",
     "level": 1,
     "requirements": "one-handed weapon and an empty offhand",
-    "relevantStyles": [ "Fencing"]
+    "relevantStyles": [
+       "Fencing"
+    ]
   },
   {
     "id": "6dccd147-52d7-4481-8fff-dbe16b7f0fbb",
@@ -77,7 +104,15 @@
     "description": "1 Action - you make a single attack against an enemy within range. If your target has one of your allies within 5 feet of them and you are not adjacent to that ally, your attack gains advantage.",
     "level": 1,
     "requirements": "",
-    "relevantStyles": ["Dual Weilding", "Daggers / Finesse", "Fencing", "Two-Handed", "Weapon and Shield", "Brawling / Grappling", "Polearms" ]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Daggers / Finesse",
+       "Fencing",
+       "Two-Handed",
+       "Weapon and Shield",
+       "Brawling / Grappling",
+       "Polearms"
+      ]
   },
   {
     "id": "eca1ef5f-67ed-44f1-908b-861521162106",
@@ -85,7 +120,10 @@
     "description": "1 Action - Make a melee weapon attack. If this attack misses, it is not counted towards your multiple attack penalty.",
     "level": 1,
     "requirements": "weapon weilded in a single hand",
-    "relevantStyles": [ "Fencing", "Weapon and Shield"]
+    "relevantStyles": [
+       "Fencing",
+       "Weapon and Shield"
+      ]
   },
   {
     "id": "b643c32d-1fcb-4f84-84c8-0d8fea9cac6d",
@@ -93,7 +131,16 @@
     "description": "Whenever an enemy moves out of your reach, you can spend your reaction to Stride to keep pace with them. You keep the enemy in reach until either: they stop moving, or you have moved your full movement speed.",
     "level": 1,
     "requirements": "",
-    "relevantStyles": ["Dual Weilding", "Daggers / Finesse", "Fencing", "Two-Handed", "Weapon and Shield", "Brawling / Grappling", "Spellcasting", "Polearms"]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Daggers / Finesse",
+       "Fencing",
+       "Two-Handed",
+       "Weapon and Shield",
+       "Brawling / Grappling",
+       "Spellcasting",
+       "Polearms"
+      ]
   },
   {
     "id": "08efc3b0-6847-4cc1-93ab-af8c5ce1efe9",
@@ -101,7 +148,10 @@
     "description": "2 Actions - Make a powerful melee attack against your target. If this attack hits, double its base weapon damage dice. This attack counts as two attacks when calculating your multi-attack penalty.",
     "level": 1,
     "requirements": "A two-handed weapon",
-    "relevantStyles": ["Two-Handed", "Polearms"]
+    "relevantStyles": [
+      "Two-Handed",
+       "Polearms"
+      ]
   },
   {
     "id": "483e92d8-b2ec-422f-8bea-5f7190f73273",
@@ -109,7 +159,9 @@
     "description": "1 Action - You raise your shield, adding its defense value to your armor and any Reflex saving throws you make until the beginning of your next turn.",
     "level": 1,
     "requirements": "A shield",
-    "relevantStyles": [ "Weapon and Shield"]
+    "relevantStyles": [
+       "Weapon and Shield"
+    ]
   },
   {
     "id": "c6baa198-53a9-4650-abbb-42f5e8172f6d",
@@ -117,7 +169,17 @@
     "description": "When you fail a second attempt at a Will saving throw against a Fear or Charm effect, you can spend your reaction to reattempt it.",
     "level": 1,
     "requirements": "",
-    "relevantStyles": ["Dual Weilding", "Daggers / Finesse", "Fencing", "Two-Handed", "Weapon and Shield", "Brawling / Grappling", "Spellcasting", "Polearms", "Ranged"]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Daggers / Finesse",
+       "Fencing",
+       "Two-Handed",
+       "Weapon and Shield",
+       "Brawling / Grappling",
+       "Spellcasting",
+       "Polearms",
+       "Ranged"
+      ]
   },
   {
     "id": "d84dfd75-68a4-452a-a312-ede556383e6c",
@@ -125,7 +187,9 @@
     "description": "1 Action - You make an attack with your shield. This attack uses your martial weapon proficiency, and on hit your target takes 1d6 + Str damage and must make a Fortitude saving throw or be knocked prone.",
     "level": 1,
     "requirements": "A shield",
-    "relevantStyles": ["Weapon and Shield"]
+    "relevantStyles": [
+      "Weapon and Shield"
+    ]
   },
   {
     "id": "91729ebd-c1fa-4e20-9a0f-d1b033251671",
@@ -133,7 +197,9 @@
     "description": "When you are attacked by an enemy, you can spend your reaction to add your Shields Defense value to your Armor until the end of the current turn.",
     "level": 1,
     "requirements": "",
-    "relevantStyles": ["Weapon and Shield"]
+    "relevantStyles": [
+      "Weapon and Shield"
+    ]
   },
   {
     "id": "f8f65c61-8049-48be-92ae-812bb1920f3e",
@@ -141,7 +207,17 @@
     "description": "1 Action - you Step and then Stride",
     "level": 1,
     "requirements": "",
-    "relevantStyles": ["Dual Weilding", "Daggers / Finesse", "Fencing", "Two-Handed", "Weapon and Shield", "Brawling / Grappling", "Spellcasting", "Polearms", "Ranged"]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Daggers / Finesse",
+       "Fencing",
+       "Two-Handed",
+       "Weapon and Shield",
+       "Brawling / Grappling",
+       "Spellcasting",
+       "Polearms",
+       "Ranged"
+      ]
   },
   {
     "id": "7d1c1c76-cf0f-458b-bbc3-24e1784bb08b",
@@ -149,7 +225,15 @@
     "description": "2 Actions - You Stride twice. If you end your movement within reach of an enemy, you can make a melee attack against them as part of the action.",
     "level": 1,
     "requirements": "",
-    "relevantStyles": ["Dual Weilding", "Daggers / Finesse", "Fencing", "Two-Handed", "Weapon and Shield", "Brawling / Grappling", "Polearms"]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Daggers / Finesse",
+       "Fencing",
+       "Two-Handed",
+       "Weapon and Shield",
+       "Brawling / Grappling",
+       "Polearms"
+      ]
   },
   {
     "id": "a1500146-f1df-41ae-b78a-adf7bb753dd9",
@@ -157,7 +241,9 @@
     "description": "When you grapple, shove, trip, or disarm a foe they take additional Bludgeoning damage equal to your level + your Strength Modifier.",
     "level": 3,
     "requirements": "",
-    "relevantStyles": [ "Brawling / Grappling"]
+    "relevantStyles": [
+       "Brawling / Grappling"
+    ]
   },
   {
     "id": "b0473084-993d-412a-a024-5fad6ed09d52",
@@ -165,7 +251,13 @@
     "description": "When you kill an enemy with a melee weapon attack, you can spend your reaction to carry the momentum into an adjacent enemy. Make an attack against an enemy within reach and within 5 feet of your recently slain foe. This attack is made at the same multi-attack penalty as the triggering attack.",
     "level": 3,
     "requirements": "A strength weapon",
-    "relevantStyles": ["Dual Weilding", "Fencing", "Two-Handed", "Weapon and Shield", "Polearms"]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Fencing",
+       "Two-Handed",
+       "Weapon and Shield",
+       "Polearms"
+      ]
   },
   {
     "id": "006bccab-798c-4969-90c1-bbcca00c6a29",
@@ -173,7 +265,9 @@
     "description": "When an enemy you can see casts a spell, you can attempt to cancel out their casting. Make spell attack against a DC = 9 + the triggering spell's level + your enemy's casting modifier and expend a spell charge or spell points equal to the target spell’s level. On a successful check, their casting is wasted.",
     "level": 3,
     "requirements": "Spellcasting",
-    "relevantStyles": ["Spellcasting"]
+    "relevantStyles": [
+      "Spellcasting"
+    ]
   },
   {
     "id": "cd40cf1a-4ed8-421e-8aa4-c0084ce58fc1",
@@ -181,7 +275,10 @@
     "description": "2 Actions - Make 2 attacks with your primary weapon, and one attack with your offhand weapon. Combine the damage from these attacks and consider it a single instance when factoring in your target’s armor and resistances. These attacks are made at the same multi-attack penalty, but increase it as though you made three separate attacks",
     "level": 3,
     "requirements": "A weapon in each hand",
-    "relevantStyles": ["Dual Weilding", "Daggers / Finesse"]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Daggers / Finesse"
+      ]
   },
   {
     "id": "58c7a2c3-0add-46ab-a2f1-ef68c51f84c8",
@@ -189,7 +286,9 @@
     "description": "1 Action - You can slow down the casting of your spell to attempt to hide verbal and somatic components. Make a Deception contest check against any Observers’ Perception checks. On a success, those observers are unaware of your casting.",
     "level": 3,
     "requirements": "",
-    "relevantStyles": ["Spellcasting"]
+    "relevantStyles": [
+      "Spellcasting"
+    ]
   },
   {
     "id": "3766a23d-14a6-4938-8771-8fe036a4cb52",
@@ -197,7 +296,16 @@
     "description": "When an enemy attempts to move, cast a spell, or use an item while within your reach, they provoke an attack of opportunity from you.",
     "level": 3,
     "requirements": "",
-    "relevantStyles": ["Dual Weilding", "Daggers / Finesse", "Fencing", "Two-Handed", "Weapon and Shield", "Brawling / Grappling", "Polearms", "Ranged"]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Daggers / Finesse",
+       "Fencing",
+       "Two-Handed",
+       "Weapon and Shield",
+       "Brawling / Grappling",
+       "Polearms",
+       "Ranged"
+      ]
   },
   {
     "id": "b587a880-9505-40ce-bd37-81f7d7b369e1",
@@ -205,7 +313,15 @@
     "description": "1 Action -  You make a deception check against your enemy’s perception check. If you succeed, your next melee attack has advantage.",
     "level": 3,
     "requirements": "",
-    "relevantStyles": ["Dual Weilding", "Daggers / Finesse", "Fencing", "Two-Handed", "Weapon and Shield", "Brawling / Grappling", "Polearms"]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Daggers / Finesse",
+       "Fencing",
+       "Two-Handed",
+       "Weapon and Shield",
+       "Brawling / Grappling",
+       "Polearms"
+      ]
   },
   {
     "id": "efbd6a14-3525-437a-a9b1-215c0860e211",
@@ -213,7 +329,9 @@
     "description": "When an ally is targeted with an attack, you can spend your reaction to add your shield’s defense value to an allies defense and armor value until the end of the current turn.",
     "level": 3,
     "requirements": "Shield",
-    "relevantStyles": ["Weapon and Shield"]
+    "relevantStyles": [
+      "Weapon and Shield"
+    ]
   },
   {
     "id": "33f46f65-0982-41f7-a381-61df1a4a1ef2",
@@ -221,7 +339,9 @@
     "description": "1 action - You make a single attack against an enemy within 5 feet of you. This attack doesn’t suffer the disadvantage normally suffered by ranged attacks made in melee range. You can use this ability in place of an attack of opportunity",
     "level": 3,
     "requirements": "A ranged weapon",
-    "relevantStyles": ["Ranged"]
+    "relevantStyles": [
+      "Ranged"
+    ]
   },
   {
     "id": "dd509713-cd47-447c-966c-f10975cf6ac7",
@@ -229,7 +349,17 @@
     "description": "2 Actions - You stride up to 3 times",
     "level": 3,
     "requirements": "",
-    "relevantStyles": ["Dual Weilding", "Daggers / Finesse", "Fencing", "Two-Handed", "Weapon and Shield", "Brawling / Grappling", "Spellcasting", "Polearms", "Ranged"]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Daggers / Finesse",
+       "Fencing",
+       "Two-Handed",
+       "Weapon and Shield",
+       "Brawling / Grappling",
+       "Spellcasting",
+       "Polearms",
+       "Ranged"
+      ]
   },
   {
     "id": "746aecd1-a6c0-4918-acf3-8aa455c4a1e7",
@@ -237,7 +367,9 @@
     "description": "2 Actions - Make a single attack roll against two enemies within reach. If the attack hits one or both of the enemies, roll the damage for the attack only once. You have advantage on the damage roll for this attack.",
     "level": 3,
     "requirements": "a two-handed weapon",
-    "relevantStyles": ["Two-Handed"]
+    "relevantStyles": [
+      "Two-Handed"
+    ]
   },
   {
     "id": "2d259f2c-a359-4663-9572-ef85c50fc13b",
@@ -245,7 +377,9 @@
     "description": "2 Actions - Make two attacks against a single target. If your first attack hits, then the second attack has advantage. Combine the damage rolls for these attacks and treat them as a single attack when detracting armor and resistances. All attacks after this action suffer the multi-attack penalty as if you had made two attacks.",
     "level": 3,
     "requirements": "a dagger in each hand",
-    "relevantStyles": ["Daggers / Finesse"]
+    "relevantStyles": [
+      "Daggers / Finesse"
+    ]
   },
   {
     "id": "8d874356-323d-498f-948a-5072208f5858",
@@ -253,7 +387,14 @@
     "description": "1 Actions - Make a melee weapon attack against your target. On a hit, your target must make a Fortitude save against your Ability DC or have their movement speed reduced by 10 feet until the end of your next turn.",
     "level": 5,
     "requirements": "",
-    "relevantStyles": ["Dual Weilding", "Daggers / Finesse", "Fencing", "Two-Handed", "Weapon and Shield", "Polearms"]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Daggers / Finesse",
+       "Fencing",
+       "Two-Handed",
+       "Weapon and Shield",
+       "Polearms"
+      ]
   },
   {
     "id": "8469b1b0-e868-4128-a751-5c62482cef1f",
@@ -261,7 +402,17 @@
     "description": "1 Action - Your target must succeed on a Will save or have disadvantage on their next attack",
     "level": 5,
     "requirements": "",
-    "relevantStyles": ["Dual Weilding", "Daggers / Finesse", "Fencing", "Two-Handed", "Weapon and Shield", "Brawling / Grappling", "Spellcasting", "Polearms", "Ranged"]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Daggers / Finesse",
+       "Fencing",
+       "Two-Handed",
+       "Weapon and Shield",
+       "Brawling / Grappling",
+       "Spellcasting",
+       "Polearms",
+       "Ranged"
+      ]
   },
   {
     "id": "3f832708-1dac-4ce8-8f50-8b017e29e7ae",
@@ -269,7 +420,16 @@
     "description": "1 Action - Make an attack against your target. On a hit, your enemy must succeed at a Fortitude saving throw or drop a weapon or item that they are holding.",
     "level": 5,
     "requirements": "",
-    "relevantStyles": ["Dual Weilding", "Daggers / Finesse", "Fencing", "Two-Handed", "Weapon and Shield", "Brawling / Grappling", "Polearms", "Ranged"]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Daggers / Finesse",
+       "Fencing",
+       "Two-Handed",
+       "Weapon and Shield",
+       "Brawling / Grappling",
+       "Polearms",
+       "Ranged"
+      ]
   },
   {
     "id": "2280e23f-342a-4521-9162-85a341197e94",
@@ -277,7 +437,10 @@
     "description": "When you critically hit an enemy with a melee weapon attack, you can spend your reaction to grab that same enemy, automatically succeeding as if you had attempted to Grapple that foe.",
     "level": 5,
     "requirements": "",
-    "relevantStyles": ["Fencing", "Brawling / Grappling"]
+    "relevantStyles": [
+      "Fencing",
+       "Brawling / Grappling"
+      ]
   },
   {
     "id": "ed73ca1c-4c30-4508-bae2-1024587374ea",
@@ -285,7 +448,17 @@
     "description": "When you critically hit an enemy with an attack (weapon or spell), you can spend your reaction to Stride. This movement does not trigger reactions from any enemies.",
     "level": 5,
     "requirements": "",
-    "relevantStyles": ["Dual Weilding", "Daggers / Finesse", "Fencing", "Two-Handed", "Weapon and Shield", "Brawling / Grappling", "Spellcasting", "Polearms", "Ranged"]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Daggers / Finesse",
+       "Fencing",
+       "Two-Handed",
+       "Weapon and Shield",
+       "Brawling / Grappling",
+       "Spellcasting",
+       "Polearms",
+       "Ranged"
+      ]
   },
   {
     "id": "840dca8c-8049-4e34-86f5-3dc2b3c42dc9",
@@ -293,7 +466,15 @@
     "description": "2 Actions - Make a melee attack against your target. On a successful hit, initiate an Athletics contest to knock your target prone. If you are wielding a weapon with both hands or one that has the heavy tag, you gain advantage on the contest.",
     "level": 5,
     "requirements": "",
-    "relevantStyles": ["Dual Weilding", "Daggers / Finesse", "Fencing", "Two-Handed", "Weapon and Shield", "Brawling / Grappling", "Polearms"]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Daggers / Finesse",
+       "Fencing",
+       "Two-Handed",
+       "Weapon and Shield",
+       "Brawling / Grappling",
+       "Polearms"
+      ]
   },
   {
     "id": "244bcf24-db76-433e-8aa0-e46b5d56384a",
@@ -301,7 +482,14 @@
     "description": "1 Action - you extend your range, granting your weapon Reach and making a single attack. If your weapon already has reach, its range is extended by 5 feet.",
     "level": 5,
     "requirements": "",
-    "relevantStyles": ["Dual Weilding", "Daggers / Finesse", "Fencing", "Two-Handed", "Weapon and Shield", "Brawling / Grappling",  "Polearms"]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Daggers / Finesse",
+       "Fencing",
+       "Two-Handed",
+       "Weapon and Shield",
+       "Brawling / Grappling",  "Polearms"
+      ]
   },
   {
     "id": "8da568b2-2220-4c6a-b609-2bfd8f60f2a4",
@@ -309,7 +497,16 @@
     "description": "2 Actions - You can make two weapon attacks against a target in range. These attacks do not suffer, nor count towards, your multi-attack penalty",
     "level": 5,
     "requirements": "a non-loading weapon",
-    "relevantStyles": ["Dual Weilding", "Daggers / Finesse", "Fencing", "Two-Handed", "Weapon and Shield", "Brawling / Grappling", "Polearms", "Ranged"]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Daggers / Finesse",
+       "Fencing",
+       "Two-Handed",
+       "Weapon and Shield",
+       "Brawling / Grappling",
+       "Polearms",
+       "Ranged"
+      ]
   },
   {
     "id": "24d571a1-7280-4271-ba1f-cb42de450004",
@@ -317,7 +514,16 @@
     "description": "2 Actions - You strike an enemy that has damaged yourself or one of your allies since the start of its last turn. Make a weapon attack, if this attack hits, you have advantage its the damage roll.",
     "level": 5,
     "requirements": "",
-    "relevantStyles": ["Dual Weilding", "Daggers / Finesse", "Fencing", "Two-Handed", "Weapon and Shield", "Brawling / Grappling", "Polearms", "Ranged"]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Daggers / Finesse",
+       "Fencing",
+       "Two-Handed",
+       "Weapon and Shield",
+       "Brawling / Grappling",
+       "Polearms",
+       "Ranged"
+      ]
   },
   {
     "id": "e46ad86e-1380-4587-8ede-80230ec1faab",
@@ -325,7 +531,16 @@
     "description": "You can draw a weapon and attack as part of the same action",
     "level": 5,
     "requirements": "",
-    "relevantStyles": ["Dual Weilding", "Daggers / Finesse", "Fencing", "Two-Handed", "Weapon and Shield", "Brawling / Grappling", "Polearms", "Ranged"]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Daggers / Finesse",
+       "Fencing",
+       "Two-Handed",
+       "Weapon and Shield",
+       "Brawling / Grappling",
+       "Polearms",
+       "Ranged"
+      ]
   },
   {
     "id": "673d9926-f5a9-4196-ad0d-2b87bad73a13",
@@ -333,7 +548,9 @@
     "description": " 1 Action - You take the Stride action, and reload a single weapon with the loading property at the same time.",
     "level": 5,
     "requirements": "",
-    "relevantStyles": ["Ranged"]
+    "relevantStyles": [
+      "Ranged"
+    ]
   },
   {
     "id": "de1d860a-3535-484d-8093-b55880ddc0eb",
@@ -341,7 +558,14 @@
     "description": "2 Actions - Make a melee weapon attack against an enemy using a shield. You have advantage on the attack if you are wielding a two-handed weapon. On a successful hit, your enemy must make a Fortitude saving throw or drop their shield. ",
     "level": 5,
     "requirements": "A strength weapon",
-    "relevantStyles": ["Dual Weilding", "Fencing", "Two-Handed", "Weapon and Shield", "Brawling / Grappling", "Polearms"]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Fencing",
+       "Two-Handed",
+       "Weapon and Shield",
+       "Brawling / Grappling",
+       "Polearms"
+      ]
   },
   {
     "id": "6c427c5c-5a83-4cfe-9483-537191683566",
@@ -349,7 +573,17 @@
     "description": "2 Actions - Each enemy within 15 feet of you must make a Will saving throw against a DC 9 + your intimidation skill proficiency + your charisma. On a failed check, they have disadvantage on all attacks not targeting you.",
     "level": 5,
     "requirements": "",
-    "relevantStyles": ["Dual Weilding", "Daggers / Finesse", "Fencing", "Two-Handed", "Weapon and Shield", "Brawling / Grappling", "Spellcasting", "Polearms", "Ranged"]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Daggers / Finesse",
+       "Fencing",
+       "Two-Handed",
+       "Weapon and Shield",
+       "Brawling / Grappling",
+       "Spellcasting",
+       "Polearms",
+       "Ranged"
+      ]
   },
   {
     "id": "f73b041c-7a8b-4376-b58a-53eaba088610",
@@ -357,7 +591,9 @@
     "description": "1 Action - You take the Stride action, and Sustain a Spell at the same time.",
     "level": 5,
     "requirements": "",
-    "relevantStyles": [ "Spellcasting"]
+    "relevantStyles": [
+       "Spellcasting"
+    ]
   },
   {
     "id": "3767b9ae-65df-41a3-9583-aa00a955e3f2",
@@ -365,7 +601,9 @@
     "description": "2 Actions - You make an aimed attack targeting your opponents wings. On a successful hit, they must make a Fortitude saving throw against your Ability DC or lose the ability to fly.",
     "level": 5,
     "requirements": "a ranged weapon",
-    "relevantStyles": ["Ranged"]
+    "relevantStyles": [
+      "Ranged"
+    ]
   },
   {
     "id": "b4e008d0-5e13-413a-88e2-e30b34f73e7c",
@@ -373,7 +611,9 @@
     "description": "When you succeed on a saving throw against an enemy’s spell, you can spend your reaction to regain spell charges (or the equivalent amount of spell points) equal to half the level of the consumed spell.",
     "level": 7,
     "requirements": "",
-    "relevantStyles": ["Spellcasting"]
+    "relevantStyles": [
+      "Spellcasting"
+    ]
   },
   {
     "id": "78fcfdef-41a1-4bce-b4b5-9eb6f436db9c",
@@ -381,7 +621,16 @@
     "description": "2 Actions - You can make 3 weapon attacks against a target in range. These attacks do not suffer, nor count towards, your multi-attack penalty",
     "level": 7,
     "requirements": "a non-loading weapon",
-    "relevantStyles": ["Dual Weilding", "Daggers / Finesse", "Fencing", "Two-Handed", "Weapon and Shield", "Brawling / Grappling", "Polearms", "Ranged"]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Daggers / Finesse",
+       "Fencing",
+       "Two-Handed",
+       "Weapon and Shield",
+       "Brawling / Grappling",
+       "Polearms",
+       "Ranged"
+      ]
   },
   {
     "id": "0440ed6e-feaa-4fd7-97e8-3a15e5d4f36c",
@@ -389,7 +638,9 @@
     "description": "3 Actions - choose a point you can see within your weapon’s range. You make a ranged attack against each target within 15 feet of the chosen point. These attacks do not suffer from the multi-attack penalty, no matter how many enemies are targeted, however they do count towards it.",
     "level": 7,
     "requirements": "a ranged Weapon",
-    "relevantStyles": ["Ranged"]
+    "relevantStyles": [
+      "Ranged"
+    ]
   },
   {
     "id": "10b2dafb-5da1-4300-be3f-273d048e5b3f",
@@ -397,7 +648,9 @@
     "description": "1 Action - You use the sustain a spell action twice. You can use this ability only once per turn.",
     "level": 7,
     "requirements": "",
-    "relevantStyles": ["Spellcasting"]
+    "relevantStyles": [
+      "Spellcasting"
+    ]
   },
   {
     "id": "c8c17fbe-7b62-4501-b38f-55d6c127c187",
@@ -405,7 +658,15 @@
     "description": "2 Actions - You make a melee attack against your enemy. On a successful hit, they suffer damage as normal and have disadvantage on all Fortitude saving throws until the end of your next turn.",
     "level": 7,
     "requirements": "",
-    "relevantStyles": ["Dual Weilding", "Daggers / Finesse", "Fencing", "Two-Handed", "Weapon and Shield", "Brawling / Grappling", "Polearms"]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Daggers / Finesse",
+       "Fencing",
+       "Two-Handed",
+       "Weapon and Shield",
+       "Brawling / Grappling",
+       "Polearms"
+      ]
   },
   {
     "id": "ff0ac046-3c01-4318-b8af-29b2393a671c",
@@ -413,7 +674,9 @@
     "description": "3 Actions - You make a single cleaving attack. This attack has advantage, and ignored all armor and resistances. Your critical threshold is decreased by 1 for this strike.",
     "level": 7,
     "requirements": "a two-handed weapon",
-    "relevantStyles": ["Two-Handed"]
+    "relevantStyles": [
+      "Two-Handed"
+    ]
   },
   {
     "id": "bfe79d27-9a7c-4566-924e-a99eeedf39aa",
@@ -421,7 +684,10 @@
     "description": "You take 3 actions to attack with reckless speed. You attack twice with each weapon you are weilding. These attacks do not suffer from the multi-attack penalty, however they do count towards it.",
     "level": 7,
     "requirements": "",
-    "relevantStyles": ["Dual Weilding", "Daggers / Finesse"]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Daggers / Finesse"
+      ]
   },
   {
     "id": "7d9d5497-f73d-4564-a559-cd6453adbadf",
@@ -429,7 +695,9 @@
     "description": "When an enemy misses you with a spell attack or you succeed on a saving throw against one of their spells, you can make a ranged attack to reflect their own spell back against them. On a hit, your enemy suffers the effects of the spell as if they failed its saving throw or were hit by it directly.",
     "level": 7,
     "requirements": "",
-    "relevantStyles": ["Weapon and Shield"]
+    "relevantStyles": [
+      "Weapon and Shield"
+    ]
   },
   {
     "id": "df6b9236-7e56-45dd-9064-7c36b0112f7b",
@@ -437,7 +705,9 @@
     "description": "Your shield block action no longer requires a Reaction to use",
     "level": 7,
     "requirements": "",
-    "relevantStyles": ["Weapon and Shield"]
+    "relevantStyles": [
+      "Weapon and Shield"
+    ]
   },
   {
     "id": "0c767a60-3de7-4edb-98e5-0e1e1013a8f9",
@@ -445,7 +715,17 @@
     "description": "Gain an extra Reaction each round.",
     "level": 7,
     "requirements": "",
-    "relevantStyles": ["Dual Weilding", "Daggers / Finesse", "Fencing", "Two-Handed", "Weapon and Shield", "Brawling / Grappling", "Spellcasting", "Polearms", "Ranged"]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Daggers / Finesse",
+       "Fencing",
+       "Two-Handed",
+       "Weapon and Shield",
+       "Brawling / Grappling",
+       "Spellcasting",
+       "Polearms",
+       "Ranged"
+      ]
   },
   {
     "id": "f90dcca4-a389-43dc-853a-74d0f2ab62ec",
@@ -453,7 +733,9 @@
     "description": "When you successfully counterspell an enemy, they must make a saving throw against your Arcane Spellcasting DC or suffer the effects of their own spell, automatically failing any saves associated with it.",
     "level": 7,
     "requirements": "Counterspell",
-    "relevantStyles": ["Spellcasting"]
+    "relevantStyles": [
+      "Spellcasting"
+    ]
   },
   {
     "id": "f63808c0-1ad6-4d8f-a993-0f9f3bac3c66",
@@ -461,7 +743,9 @@
     "description": "You take 3 actions to carefully line up your shot, and make a ranged attack against your target. This attack has advantage, and automatically deals maximum damage on a hit. Your critical threat range is decreased by 1 with this strike.",
     "level": 7,
     "requirements": "",
-    "relevantStyles": ["Ranged"]
+    "relevantStyles": [
+      "Ranged"
+    ]
   },
   {
     "id": "7caa3d46-3ab6-4fc1-8341-9c137899e4f0",
@@ -469,6 +753,15 @@
     "description": "3 actions - you make a single melee attack against each enemy within your reach. These attacks do not suffer from the multi-attack penalty, no matter how many enemies are in range, however they do count towards it.",
     "level": 7,
     "requirements": "",
-    "relevantStyles": ["Dual Weilding", "Daggers / Finesse", "Fencing", "Two-Handed", "Weapon and Shield", "Brawling / Grappling", "Polearms"]
+    "relevantStyles": [
+      "Dual Weilding",
+       "Daggers / Finesse",
+       "Fencing",
+       "Two-Handed",
+       "Weapon and Shield",
+       "Brawling / Grappling",
+       "Polearms"
+      ]
   }
+
 ]
