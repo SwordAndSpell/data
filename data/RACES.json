@@ -459,7 +459,7 @@
       "Common",
       "FREE"
     ],
-    "ability": "Shifting:\\n\\nAs an action, you can assume a more bestial appearance. This transformation lasts for one minute, until you die, or until you revert to your normal appearance as a free action (whichever comes first). When you shift, you gain temporary hit points equal to your level + your Constitution modifier (minimum of 1 temporary hit point).\n\nYou also gain additional bonuses according to your subspecies.",
+    "ability": "Shifting:\n\nAs an action, you can assume a more bestial appearance. This transformation lasts for one minute, until you die, or until you revert to your normal appearance as a free action (whichever comes first). When you shift, you gain temporary hit points equal to your level + your Constitution modifier (minimum of 1 temporary hit point).\n\nYou also gain additional bonuses according to your subspecies.",
     "perkIDs": [
       "668e34c8-5970-4b8b-a315-530debe25f50",
       "ac29c38e-b239-40d1-91a7-25cb3b9a40fb",
