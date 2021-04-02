@@ -1,5 +1,35 @@
 [
   {
+    "id": "f9329e3b-7243-4f6d-935b-22e983449c76",
+    "name": "Human",
+    "imageURL": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/4808/248/340/340/636771216546324720.png",
+    "size": "Medium",
+    "landSpeed": 30,
+    "swimSpeed": 0,
+    "climbSpeed": 0,
+    "flySpeed": 0,
+    "burrowSpeed": 0,
+    "hitPoints": 8,
+    "languages": [
+      "Common",
+      "FREE"
+    ],
+    "ability": "",
+    "perkIDs": [
+      "0c808b63-4920-4436-9533-038029b2fd4e",
+      "208ddae9-8c92-44d2-8c6e-0a0bad6b4e5d",
+      "c11dd6b5-687f-48bd-adc8-fd27c6100599",
+      "45a7928f-7f7e-450f-8d36-805f8d1ed688",
+      "a984f674-e657-40d9-8716-d1434ab35099",
+      "58d1e361-e3fc-444b-bb00-6acb44bc303f",
+      "86143685-0155-4947-a7c0-9070eb33e0fa",
+      "9428bc8e-ce99-448a-a0fc-71b5da94981f",
+      "ad52ba56-c9e2-478d-a7a9-ee97c75d10df",
+      "d9eb7ef7-80e1-4fa4-868e-9592fa505f2d",
+      "ee345b2b-ce17-44d8-994b-36d5de9df4e9"
+    ]
+  },
+  {
     "id": "ae0a5e84-5b3a-4dd6-b0e8-2efc382b6151",
     "name": "Aasimar",
     "imageURL": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/4808/269/340/340/636771217817659368.png",
@@ -311,38 +341,6 @@
     ]
   },
   {
-    "id": "f9329e3b-7243-4f6d-935b-22e983449c76",
-    "name": "Human",
-    "imageURL": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/4808/248/340/340/636771216546324720.png",
-    "size": "Medium",
-    "landSpeed": 30,
-    "swimSpeed": 0,
-    "climbSpeed": 0,
-    "flySpeed": 0,
-    "burrowSpeed": 0,
-    "hitPoints": 8,
-    "languages": [
-      "Common",
-      "FREE"
-    ],
-    "ability": "",
-    "perkIDs": [
-      "0c808b63-4920-4436-9533-038029b2fd4e",
-      "208ddae9-8c92-44d2-8c6e-0a0bad6b4e5d",
-      "c11dd6b5-687f-48bd-adc8-fd27c6100599",
-      "45a7928f-7f7e-450f-8d36-805f8d1ed688",
-      "a984f674-e657-40d9-8716-d1434ab35099",
-      "58d1e361-e3fc-444b-bb00-6acb44bc303f",
-      "86143685-0155-4947-a7c0-9070eb33e0fa",
-      "9428bc8e-ce99-448a-a0fc-71b5da94981f",
-      "ad52ba56-c9e2-478d-a7a9-ee97c75d10df",
-      "d9eb7ef7-80e1-4fa4-868e-9592fa505f2d",
-      "ee345b2b-ce17-44d8-994b-36d5de9df4e9"
-    ],
-    "halfOrcPerks": [],
-    "halfElfPerks": []
-  },
-  {
     "id": "d1480386-60c5-4d39-8b7a-29f75c5fb903",
     "name": "Lizardling",
     "imageURL": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/4808/291/340/340/636771219351469496.png",
@@ -461,7 +459,7 @@
       "Common",
       "FREE"
     ],
-    "ability": "Shifting:\n\nAs an action, you can assume a more bestial appearance. This transformation lasts for one minute, until you die, or until you revert to your normal appearance as a free action (whichever comes first). When you shift, you gain temporary hit points equal to your level + your Constitution modifier (minimum of 1 temporary hit point).\n\nYou also gain additional bonuses according to your subspecies.",
+    "ability": "Shifting:\\n\\nAs an action, you can assume a more bestial appearance. This transformation lasts for one minute, until you die, or until you revert to your normal appearance as a free action (whichever comes first). When you shift, you gain temporary hit points equal to your level + your Constitution modifier (minimum of 1 temporary hit point).\n\nYou also gain additional bonuses according to your subspecies.",
     "perkIDs": [
       "668e34c8-5970-4b8b-a315-530debe25f50",
       "ac29c38e-b239-40d1-91a7-25cb3b9a40fb",
