@@ -385,7 +385,7 @@
   },
   {
     "id": "64a3c261-7ad8-4a92-98ce-7dba9bfe5da9",
-    "name": "Kalashtar (Rare)",
+    "name": "Telepath (Rare)",
     "description": "Whenever you are targeted by a spell or effect that causes you to make a Will saving throw, you can use your reaction to give yourself advantage on the save.\n\nYou have resistance to Psychic damage.",
     "requirements": "One of your ability boosts must be to Wisdom",
     "penalty": "You receive 2 racial perks instead of 3",

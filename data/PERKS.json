@@ -384,13 +384,13 @@
     "id": "45a7928f-7f7e-450f-8d36-805f8d1ed688",
     "name": "Mind Link",
     "description": "You can speak telepathically to any creature you can see within a number of feet equal to 10 * your level. You don't need to share a language for the creature to understand you, but the creature must be able to understand at least one language.\n\nWhen you're using this trait to speak with a creature telepathically, you may use your action to allow the creature to speak back to you telepathically. Once allowed, this effect lasts for one hour or until you use another action to end the link. The creature may only speak back as long as they are within the traits range and can see you.\n\nOpening a link to another creature severs the link with the original creature",
-    "requirements": "Kalashtar Subrace"
+    "requirements": "Telepath Subrace"
   },
   {
     "id": "ee345b2b-ce17-44d8-994b-36d5de9df4e9",
     "name": "Severed from Dreams",
     "description": "You are immune to spells and other magical effects that would cause you to dream, and as a byproduct are immune to non-magical effects that would put you to sleep.",
-    "requirements": "Kalashtar Subrace"
+    "requirements": "Telepath Subrace"
   },
   {
     "id": "ff1db454-345c-4a87-a64f-a54c4dab1b90",
