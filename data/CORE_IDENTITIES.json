@@ -2,7 +2,7 @@
   {
     "id": "50e1449c-0bbf-4c66-b32a-ed7cd080e154",
     "name": "Arcanist",
-    "healthAtFirstLevel": "At 1st level your Arcanist has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 6.",
+    "healthAtFirstLevel": "Racial hit points + your Constitution Modifier + 6.",
     "healthBeyondFirstLevel": "Each level after 1st, you gain a number of hit points equal to 1d6 or 4 + your Constitution Modifier.",
     "initialProficiencies": "Trained in Arcana (or another skill of your choice if you are already trained in Arcana)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, as well as staffs, daggers, and light crossbows.\n\nProficient with unarmored defense\n\nAbility DC is determined by your Intelligence Score.\n\nProficient in Arcane Spells (Intelligence is your casting modifier for these spells).",
     "startingEquipment": "At first level, you start with the equipment below:\n\n(a) a Staff or (b) a wand or (c) an arcane focus\n\n(a) a dagger or (b) a light crossbow\n\nwizard’s clothes\n\nA dagger\n\nA backpack with a bedroll, mess kit, torch, rations, waterskin, and 50’ of rope\n\n15 gold",
@@ -15,7 +15,7 @@
   {
     "id": "710085df-ccf0-40d1-a6fb-01eb6a3de967",
     "name": "Barbarian",
-    "healthAtFirstLevel": "At 1st level your Barbarian has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 12.",
+    "healthAtFirstLevel": "Racial hit points + your Constitution Modifier + 12.",
     "healthBeyondFirstLevel": "Each level after 1st, you gain a number of hit points equal to 1d12 or 7 + your Constitution Modifier.",
     "initialProficiencies": "Trained in Athletics or Intimidation (or another skill of your choice if you are already trained in both of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with with unarmed attacks, simple weapons, and martial weapons\n\nProficient with light armor, medium armor and unarmored defense\n\nProficient in the use of all Shields.\n\nAbility DC is determined by your Strength Score",
     "startingEquipment": "At first level, you start with the equipment below:\n\n(a) Greataxe or (b) any Martial Weapon\n\n(a) Two hand axes or (b) any simple weapon\n\n4 Javelins\n\nA backpack with a bedroll, tinderbox, torch, rations, waterskin, and 50’ of rope\n\n20 gold",
@@ -29,7 +29,7 @@
   {
     "id": "6ded6617-8848-4951-8fb5-aee6281b1344",
     "name": "Bard",
-    "healthAtFirstLevel": "At 1st level your Bard has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 8.",
+    "healthAtFirstLevel": "Racial hit points + your Constitution Modifier + 8.",
     "healthBeyondFirstLevel": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier.",
     "initialProficiencies": "Trained in Performance(or another skill of your choice if you are already trained in Performance)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks and simple weapons\n\nProficient with light armor and unarmored defense\n\nProficient in the use of bucklers\n\nAbility DC is determined by your Charisma Score\n\nProficient in Arcane Spells (Charisma is your spellcasting modifier for these spells)",
     "startingEquipment": "At first level, you start with the equipment below:\n\n(a) a Rapier or (b) a Longsword or (c) any simple weapon\n\n(a) a lute or (b) any other instrument or (c) a wand or arcane focus\n\nLeather armor\n\nA dagger\n\nA backpack with a bedroll, tinderbox, torch, rations, waterskin, and 50’ of rope\n\n25 gold",
@@ -42,7 +42,7 @@
   {
     "id": "05c8e233-43e5-4c64-9808-c17eee4da642",
     "name": "Champion",
-    "healthAtFirstLevel": "At 1st level your Champion has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 10.",
+    "healthAtFirstLevel": "Racial hit points + your Constitution Modifier + 10.",
     "healthBeyondFirstLevel": "Each level after 1st, you gain a number of hit points equal to 1d10 or 6 + your Constitution Modifier.",
     "initialProficiencies": "Trained in Religion(or another skill of your choice if you are already trained in Religion)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with all weapons and unarmed attacks.\n\nProficient with all armors and unarmored defense.\n\nProficient in the use of all shields.\n\nAbility DC is determined by your Charisma Score.\n\nProficient in Divine Spells (Charisma is your spellcasting modifier for these spells)",
     "startingEquipment": "At first level, you start with the equipment below:\n\n(a) a weapon and a shield or (b) two light weapons or (c) a bow and a quiver of arrows\n\n(a) leather armor or (b) a chain shirt or (c) ring mail\n\n(a) a holy symbol or (b) an emblazoned shield (c) a banner\n\nA backpack with a bedroll, mess kit, torch, rations, waterskin, and 50’ of rope\n\n20 gold",
@@ -56,7 +56,7 @@
   {
     "id": "791fae53-e0bb-4590-b319-6a1a8584d2ba",
     "name": "Inheritor",
-    "healthAtFirstLevel": "At 1st level your Inheritor has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 6.",
+    "healthAtFirstLevel": "Racial hit points + your Constitution Modifier + 6.",
     "healthBeyondFirstLevel": "Each level after 1st, you gain a number of hit points equal to 1d6 or 4 + your Constitution Modifier.",
     "initialProficiencies": "Trained in Arcana, Religion, or Nature depending on your bloodline (or another skill of your choice if you are already trained in the respective skill)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with all simple weapons\n\nProficient with unarmored defense\n\nProficient in Arcane, Divine, or Primal Spells depending on your bloodline (Constitution is your casting modifier for these spells)\n\nAbility DC is determined by your Constitution Score",
     "startingEquipment": "At first level, you start with the equipment below:\n\n(a) a light crossbow and 20 bolts or (b) any simple weapon\n\n(a) a staff or (b) a wand or (c) a bloodline relic to channel your spells through\n\nTwo daggers\n\nA backpack with a bedroll, an heirloom trinket, torch, rations, waterskin, and 50’ of rope\n\n20 gold",
@@ -71,7 +71,7 @@
   {
     "id": "c663ac9c-3c77-4e88-b129-37e489a08f84",
     "name": "Mystic",
-    "healthAtFirstLevel": "At 1st level your Mystic has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 8.",
+    "healthAtFirstLevel": "Racial hit points + your Constitution Modifier + 8.",
     "healthBeyondFirstLevel": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier.",
     "initialProficiencies": "Trained in Acrobatics or Insight (or another skill of your choice if you are already trained in both of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with simple weapons and unarmed attacks\n\nProficient in unarmored defense\n\nAbility DC is determined by your Wisdom or Dexterity Score (your choice)\n\nProficient in the type of spells granted by your bloodline",
     "startingEquipment": "At first level, you start with the equipment below:\n\n(a) a shortsword or (b) any simple weapon\n\n(a) two daggers or (b) ten darts\n\nSimple travelers clothes\n\nA backpack with a bedroll, torch, rations, waterskin, and 50’ of rope\n\n10 gold",
@@ -86,7 +86,7 @@
   {
     "id": "66f8d6d1-dd39-4f8f-8ce5-1a748b57cadb",
     "name": "Priest",
-    "healthAtFirstLevel": "At 1st level your Priest has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 8.",
+    "healthAtFirstLevel": "Racial hit points + your Constitution Modifier + 8.",
     "healthBeyondFirstLevel": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier.",
     "initialProficiencies": "Trained in Religion (or another skill of your choice if you are already trained in Religion)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with simple weapons and unarmed attacks\n\nProficient with light armor, medium armors and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Wisdom Score\n\nProficient in Divine Spells (Wisdom is your spellcasting modifier for these spells)",
     "startingEquipment": "At first level, you start with the equipment below:\n\n(a) a simple weapon and a shield or (b) two light weapons\n\n(a) leather armor or (b) a chain shirt\n\n(a) a holy symbol or (b) an emblazoned shield (c) a banner\n\nA backpack with a bedroll, mess kit, torch, rations, waterskin, and 50’ of rope\n\n20 gold",
@@ -99,7 +99,7 @@
   {
     "id": "d1c8bf4a-9745-4fa1-8686-410d851b3b08",
     "name": "Scoundrel",
-    "healthAtFirstLevel": "At 1st level your Scoundrel has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 8.",
+    "healthAtFirstLevel": "Racial hit points + your Constitution Modifier + 8.",
     "healthBeyondFirstLevel": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier.",
     "initialProficiencies": "Trained in Acrobatics, Stealth, or Thievery (or another skill of your choice if you are already trained in each of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with all simple weapons; additionally shortbows, shortswords, rapiers are simple weapons for you.\n\nProficient with light armor and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Dexterity Score",
     "startingEquipment": "At first level, you start with the equipment below:\n\n(a) rapier or (b) a shortsword\n\n(a) shortbow and a quiver of arrows (b) a shortsword\n\n(a) leather armor or (b) padded armor\n\ntwo daggers\n\nThieves’ tools\n\nA backpack with a bedroll, crowbar, climbing gear, torch, rations, waterskin, and 50’ of rope\n\n30 gold",
@@ -113,7 +113,7 @@
   {
     "id": "b81b1848-b8d5-4fa7-999b-c9daa04800e5",
     "name": "Spellblade",
-    "healthAtFirstLevel": "At 1st level your Spellblade has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 8.",
+    "healthAtFirstLevel": "Racial hit points + your Constitution Modifier + 8.",
     "healthBeyondFirstLevel": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier.",
     "initialProficiencies": "Trained in Arcana or Athletics or Acrobatics(or another skill of your choice if you are already trained in both of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons, and martial weapons\n\nProficient with light armor, medium armor and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Intelligence Score\n\nProficient in Arcane Spells (Intelligence is your casting modifier for these spells)",
     "startingEquipment": "At first level, you start with the equipment below:\n\n(a) a weapon and a shield or (b) two light weapons or (c) a bow and a quiver of arrows\n\n(a) leather armor or (b) a chain shirt\n\n(a) a magic staff or (b) a wand or (c) an arcane focus\n\nA backpack with a bedroll, mess kit, torch, rations, waterskin, and 50’ of rope\n\n15 gold",
@@ -128,7 +128,7 @@
   {
     "id": "6046d042-41df-4408-9a09-700e9b25c7b4",
     "name": "Warden",
-    "healthAtFirstLevel": "At 1st level your Warden has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 10.",
+    "healthAtFirstLevel": "Racial hit points + your Constitution Modifier + 10.",
     "healthBeyondFirstLevel": "Each level after 1st, you gain a number of hit points equal to 1d10 or 6 + your Constitution Modifier.",
     "initialProficiencies": "Trained in Nature (or another skill of your choice if you are already trained in Nature)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons, martial weapons, and firearms.\n\nProficient with light armor, medium armor and unarmored defense.\n\nProficient in the use of Bucklers and Shields.\n\nAbility DC is determined by your Wisdom Score\n\nProficient in Primal Spells (Wisdom is your spellcasting modifier for these spells)",
     "startingEquipment": "At first level, you start with the equipment below:\n\n(a) two shortswords (b) two melee weapons of your choice\n\n(a) leather armor or (b) scalemail\n\n(a) a wooden staff or (b) an item that binds you to nature\n\na bow and a quiver of arrows\n\nA backpack with a bedroll, mess kit, torch, rations, waterskin, and 50’ of rope\n\n10 gold",
@@ -142,7 +142,7 @@
   {
     "id": "916ba302-f8ec-415d-99fe-c207c1e8c1e3",
     "name": "Warrior",
-    "healthAtFirstLevel": "At 1st level your Warrior has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 10.",
+    "healthAtFirstLevel": "Racial hit points + your Constitution Modifier + 10.",
     "healthBeyondFirstLevel": "Each level after 1st, you gain a number of hit points equal to 1d10 or 6 + your Constitution Modifier.",
     "initialProficiencies": "Trained in Athletics or Acrobatics (or another skill of your choice if you are already trained in both of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons, martial weapons, and firearms\n\nProficient with with all armors and unarmored defense\n\nProficient in the use of all Shields\n\nAbility DC is determined by your Strength or Dexterity Score (your choice)",
     "startingEquipment": "At first level, you start with the equipment below:\n\n(a) ring mail or (b) a leather armor or (c) chain shirt\n\n(a) a martial weapon and a shield or (b) two martial weapons\n\n(a) a light crossbow and a brace of bolts or (b) two hand axes or (c) a longbow and a quiver of arrows\n\nTwo daggers\n\nA backpack with a bedroll, whetstone, torch, rations, waterskin, and 50’ of rope\n\n25 gold",
@@ -157,7 +157,7 @@
   {
     "id": "f92f039a-4bc9-44b3-aae6-ea4c2c2039d8",
     "name": "Wildling",
-    "healthAtFirstLevel": "At 1st level your Wildling has a number of hit points equal to:\n\nAny hit points gained from your race selection + your Constitution Modifier + 8.",
+    "healthAtFirstLevel": "Racial hit points + your Constitution Modifier + 8.",
     "healthBeyondFirstLevel": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier.",
     "initialProficiencies": "Trained in Nature (or another skill of your choice if you are already trained in Nature)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons\n\nProficient with light armor, medium armor and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Wisdom Score\n\nProficient in Primal Spells (Wisdom is your spellcasting modifier for these spells)",
     "startingEquipment": "At first level, you start with the equipment below:\n\n(a) a simple weapon and a wooden shield (b) a staff\n\n(a) a scimitar (b) a simple weapon\n\n(a) leather armor or (b) hide armor\n\n(a) a druidic staff or (b) a wand or (c) a natural object that binds you to nature\n\nA backpack with a bedroll, mess kit, torch, rations, waterskin, and 50’ of rope\n\n20 gold",
