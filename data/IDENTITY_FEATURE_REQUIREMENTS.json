@@ -413,7 +413,7 @@
   },
   {
     "id": "c190ebf9-b5a8-47b9-9bbc-6384f71f757c",
-    "name": "Mature Animal Companion"
+    "name": "Animal Companionm - Mature"
   },
   {
     "id": "632b1412-8ad9-4fc6-b67e-224480a30019",
@@ -713,7 +713,7 @@
   },
   {
     "id": "3a4da904-935d-4c7f-b4ff-99a7f86240b1",
-    "name": "Specialized Animal Companion"
+    "name": "Animal Companion - Specialized"
   },
   {
     "id": "99b0c92b-d44f-436e-9d7c-0b37e55c5b70",
@@ -781,6 +781,6 @@
   },
   {
     "id": "10b33527-c62d-4ef7-9d68-9a4b979259b2",
-    "name": "Young Animal Companion"
+    "name": "Animal Companion - Young"
   }
 ]
