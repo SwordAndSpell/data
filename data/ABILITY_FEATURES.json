@@ -39,7 +39,7 @@
   {
     "id": "11b68822-15de-4695-84ec-852dea02044e",
     "name": "Combat Grab",
-    "description": "1 Action - You make a melee attack with against an enemy in range. If this attack hits, you grab the target with your free hand. Your target is Grabbed, and you have advantage on all Grappling contest checks against them.",
+    "description": "1 Action - You make a melee attack against an enemy in range. If this attack hits, you grab the target with your free hand. Your target is Grabbed, and you have advantage on all Grappling contest checks against them.",
     "level": 1,
     "requirements": "an empty off-hand",
     "relevantStyles": [
@@ -64,7 +64,8 @@
     "level": 1,
     "requirements": "A thrown weapon in each hand",
     "relevantStyles": [
-      "Dual Weilding"
+      "Dual Weilding",
+      "Ranged"
     ]
   },
   {
@@ -537,7 +538,6 @@
        "Fencing",
        "Two-Handed",
        "Weapon and Shield",
-       "Brawling / Grappling",
        "Polearms",
        "Ranged"
       ]
