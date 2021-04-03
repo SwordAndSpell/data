@@ -57,7 +57,7 @@
   {
     "id": "742efff5-4911-4072-b934-925f39cc50b8",
     "name": "Spell Points",
-    "description": "At each spellcasting level, you have a number of Spell Points available to you as shown in the Spell Points column of the Universal Spell Point Chart.\n\nYou may expend a number of Spell Points, as shown in the table below, to cast a spell at a given level (at any level up to your Max Casting Level). I.E. if your Max Casting Level is 3rd, and you know the spell Burning Hands, you could use Spell Points to cast it at 1st, 2nd, or 3rd level.\n\nYou may not use Spell Points to cast a spell if it would reduce your total Spell Points available below 0."
+    "description": "At each spellcasting level, you have a number of Spell Points available to you as shown in the Spell Points column of the Universal Spell Point Chart.\n\nYou may expend a number of Spell Points, as shown in the Spell Point Costs table, to cast a spell at a given level (at any level up to your Max Casting Level). I.E. if your Max Casting Level is 3rd, and you know the spell Burning Hands, you could use Spell Points to cast it at 1st, 2nd, or 3rd level.\n\nYou may not use Spell Points to cast a spell if it would reduce your total Spell Points available below 0.\n\nThere is a intense cost associated with casting spells of 6th level or higher, and as such you can only cast one spell at each of those levels per day."
   },
   {
     "id": "acc3307c-daac-4aa3-abe2-9f966d3ddf89",
@@ -123,11 +123,6 @@
     "id": "7b4180be-36cf-463c-aa17-d69fa34486c4",
     "name": "Spellblade Spellcasting",
     "description": "You can cast Arcane spells, using a staff, wand, arcane talisman, or weapon as a focus for your spells. Without your spellcasting focus, you are incapable of casting even the simplest cantrips.\n\nYour Spellcasting Level is 1 at 1st level. Your Spellcasting level increases by 1 at 4th, and 7th level. This is cumulative with any other spellcasting level increases you may get from identity features.\n\nAt 1st level, you know spells from the Arcane spell list equal to your Intelligence modifier. Every time your spellcasting level or intelligence modifier increases, you learn 2 additional spells. These spells must be of a level less than or equal to your Max Casting Level.\n\nYou know a single Cantrip from the Arcane spell list, and learn another at 5th and 10th level.\n\nYou have a number of spell points as shown on the Spellblade spellcasting chart. All of your expended Spell Points regenerate at the end of a Rest.\n\n*Note - without taking the Empowered Upcasting feature, your Upcast Level is the same as your Max Casting Level."
-  },
-  {
-    "id": "5e2fffcd-7dee-4711-b847-1d5a25d32a52",
-    "name": "Spell Points",
-    "description": "At each spellcasting level, you have a number of Spell Points available to you as shown in the Spell Points column of the Universal Spell Point Chart.\n\nYou may expend a number of Spell Points, as shown in the table below, to cast a spell at a given level (at any level up to your Max Casting Level). I.E. if your Max Casting Level is 3rd, and you know the spell Burning Hands, you could use Spell points to cast it at 1st, 2nd, or 3rd level.\n\nYou may not use Spell Points to cast a spell if it would reduce your total Spell Points available below 0."
   },
   {
     "id": "73ed6294-2f5c-4b8a-9b6c-f944b9337c3a",

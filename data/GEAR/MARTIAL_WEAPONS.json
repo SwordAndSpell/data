@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Battleaxe",
+    "cost": "10g",
+    "damage": "1d8 Slashing",
+    "range": "Melee",
+    "weaponProperties": "Versatile (1d10)"
+  },
+  {
+    "name": "Blowgun",
+    "cost": "10g",
+    "damage": "1 Piercing",
+    "range": "Ranged (25/100)",
+    "weaponProperties": "Ammunition, Loading"
+  },
+  {
+    "name": "Blunderbuss",
+    "cost": "750g",
+    "damage": "4d4 Piercing",
+    "range": "Ranged (20/40)",
+    "weaponProperties": "Ammunition, Loading,Special, Two-handed"
+  },
+  {
+    "name": "Flail",
+    "cost": "10g",
+    "damage": "1d8 Bludgeoning",
+    "range": "Melee",
+    "weaponProperties": "-"
+  },
+  {
+    "name": "Flintlock Pistol",
+    "cost": "250g",
+    "damage": "1d10 Piercing",
+    "range": "Ranged (30/90)",
+    "weaponProperties": "Ammunition, Loading"
+  },
+  {
+    "name": "Glaive",
+    "cost": "20g",
+    "damage": "1d10 Slashing",
+    "range": "Melee",
+    "weaponProperties": "Heavy, Reach, Two-Handed"
+  },
+  {
+    "name": "Greataxe",
+    "cost": "30g",
+    "damage": "1d12 Slashing",
+    "range": "Melee",
+    "weaponProperties": "Heavy, Two-Handed"
+  },
+  {
+    "name": "Greatsword",
+    "cost": "50g",
+    "damage": "2d6 Slashing",
+    "range": "Melee",
+    "weaponProperties": "Heavy, Two-Handed"
+  },
+  {
+    "name": "Halberd",
+    "cost": "20g",
+    "damage": "1d10 Slashing",
+    "range": "Melee",
+    "weaponProperties": "Heavy, Reach, Two-Handed"
+  },
+  {
+    "name": "Hand Crossbow",
+    "cost": "75g",
+    "damage": "1d6 Piercing",
+    "range": "Ranged (30/120)",
+    "weaponProperties": "Ammunition, Light, Loading"
+  },
+  {
+    "name": "Heavy Crossbow",
+    "cost": "50g",
+    "damage": "1d10 Piercing",
+    "range": "Ranged (100/400)",
+    "weaponProperties": "Ammunition, Heavy, Loading, Two-handed"
+  },
+  {
+    "name": "Lance",
+    "cost": "10g",
+    "damage": "1d12 Piercing",
+    "range": "Melee",
+    "weaponProperties": "Reach, Special"
+  },
+  {
+    "name": "Longbow",
+    "cost": "50g",
+    "damage": "1d8 Piercing",
+    "range": "Ranged (180/600)",
+    "weaponProperties": "Ammunition, Heavy, Two-handed"
+  },
+  {
+    "name": "Longsword",
+    "cost": "15g",
+    "damage": "1d8 Slashing",
+    "range": "Melee",
+    "weaponProperties": "Versatile (1d10)"
+  },
+  {
+    "name": "Maul",
+    "cost": "10g",
+    "damage": "2d6 Bludgeoning",
+    "range": "Melee",
+    "weaponProperties": "Heavy, Two-Handed"
+  },
+  {
+    "name": "Morningstar",
+    "cost": "15g",
+    "damage": "1d8 Piercing",
+    "range": "Melee",
+    "weaponProperties": "-"
+  },
+  {
+    "name": "Musket",
+    "cost": "500g",
+    "damage": "1d12 Piercing",
+    "range": "Ranged (40/120)",
+    "weaponProperties": "Ammunition, Loading, Two-handed"
+  },
+  {
+    "name": "Pike",
+    "cost": "5g",
+    "damage": "1d10 Piercing",
+    "range": "Melee",
+    "weaponProperties": "Heavy, Reach, Two-Handed"
+  },
+  {
+    "name": "Rapier",
+    "cost": "25g",
+    "damage": "1d8 Piercing",
+    "range": "Melee",
+    "weaponProperties": "Finesse"
+  },
+  {
+    "name": "Scimitar",
+    "cost": "25g",
+    "damage": "1d6 Slashing",
+    "range": "Melee",
+    "weaponProperties": "Finesse, Light"
+  },
+  {
+    "name": "Shortsword",
+    "cost": "10g",
+    "damage": "1d6 Piercing",
+    "range": "Melee",
+    "weaponProperties": "Finesse, Light"
+  },
+  {
+    "name": "Trident",
+    "cost": "5g",
+    "damage": "2d4 Piercing",
+    "range": "Melee",
+    "weaponProperties": "Versatile (1d10), Thrown (20/60)"
+  },
+  {
+    "name": "War Pick",
+    "cost": "5g",
+    "damage": "1d8 Piercing",
+    "range": "Melee",
+    "weaponProperties": "-"
+  },
+  {
+    "name": "Warhammer",
+    "cost": "15g",
+    "damage": "1d8 Bludgeoning",
+    "range": "Melee",
+    "weaponProperties": "Versatile (1d10)"
+  },
+  {
+    "name": "Whip",
+    "cost": "2g",
+    "damage": "1d4 Slashing",
+    "range": "Melee",
+    "weaponProperties": "Finesse, Reach"
+  },
+  {
+    "name": "Net",
+    "cost": "1g",
+    "damage": "-",
+    "range": "Melee",
+    "weaponProperties": "Finesse, Special, Thrown (5/15)"
+  }
+ ]

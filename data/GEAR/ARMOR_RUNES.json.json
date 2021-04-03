@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Minor Protection",
+    "craftingLevelRequired": "Expert",
+    "goldCost": "500g",
+    "arcaniteCost": "5c",
+    "description": "+1 to Defense and Armor"
+  },
+  {
+    "name": "Protection",
+    "craftingLevelRequired": "Master",
+    "goldCost": "2500g",
+    "arcaniteCost": "15c",
+    "description": "+2 to Defense and Armor"
+  },
+  {
+    "name": "Major Protection",
+    "craftingLevelRequired": "Legendary",
+    "goldCost": "20,000g",
+    "arcaniteCost": "30c",
+    "description": "+3 to Defense and Armor"
+  },
+  {
+    "name": "Stealthy",
+    "craftingLevelRequired": "Expert",
+    "goldCost": "500g",
+    "arcaniteCost": "5c",
+    "description": "This armor does not impose disadvantage on stealth checks."
+  },
+  {
+    "name": "Mariner’s / Mountaineer’s",
+    "craftingLevelRequired": "Expert",
+    "goldCost": "500g",
+    "arcaniteCost": "5c",
+    "description": "This armor does not impose disadvantage while swimming or climbing"
+  },
+  {
+    "name": "Fortified",
+    "craftingLevelRequired": "Master",
+    "goldCost": "1500g",
+    "arcaniteCost": "10c",
+    "description": "+2 Armor"
+  },
+  {
+    "name": "Glamoured",
+    "craftingLevelRequired": "Master",
+    "goldCost": "1500g",
+    "arcaniteCost": "20c",
+    "description": "This armor has a permanent illusion to appear like a set of regular clothing"
+  },
+  {
+    "name": "Elemental Resist",
+    "craftingLevelRequired": "Master",
+    "goldCost": "2,500g",
+    "arcaniteCost": "20c",
+    "description": "Gain resistance to an element of your choice."
+  },
+  {
+    "name": "Anti-Magic",
+    "craftingLevelRequired": "Legendary",
+    "goldCost": "15,000g",
+    "arcaniteCost": "45c",
+    "description": "Once per day, gain advantage on a saving throw against a magical effect"
+  }
+ ]

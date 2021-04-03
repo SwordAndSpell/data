@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Padded",
+    "cost": "5g",
+    "defenseBonus": 1,
+    "maxDexterityBonus": 7,
+    "armorValue": 1,
+    "movementPenalty": "",
+    "strengthRequired": ""
+  },
+  {
+    "name": "Leather",
+    "cost": "10g",
+    "defenseBonus": 1,
+    "maxDexterityBonus": 6,
+    "armorValue": 0,
+    "movementPenalty": "",
+    "strengthRequired": ""
+  },
+  {
+    "name": "Hardened Leather",
+    "cost": "50g",
+    "defenseBonus": 2,
+    "maxDexterityBonus": 6,
+    "armorValue": 0,
+    "movementPenalty": "",
+    "strengthRequired": ""
+  },
+  {
+    "name": "Reinforced Leather",
+    "cost": "150g",
+    "defenseBonus": 2,
+    "maxDexterityBonus": 6,
+    "armorValue": 1,
+    "movementPenalty": "",
+    "strengthRequired": "11"
+  }
+ ]

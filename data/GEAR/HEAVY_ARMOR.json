@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Ring Mail*",
+    "cost": "30g",
+    "defenseBonus": 5,
+    "maxDexterityBonus": 2,
+    "armorValue": 2,
+    "movementPenalty": -10,
+    "strengthRequired": 13
+  },
+  {
+    "name": "Chain Mail*",
+    "cost": "75g",
+    "defenseBonus": 6,
+    "maxDexterityBonus": 1,
+    "armorValue": 3,
+    "movementPenalty": -10,
+    "strengthRequired": 13
+  },
+  {
+    "name": "Splint Mail*",
+    "cost": "400g",
+    "defenseBonus": 7,
+    "maxDexterityBonus": 0,
+    "armorValue": 3,
+    "movementPenalty": -10,
+    "strengthRequired": 15
+  },
+  {
+    "name": "Full Plate*",
+    "cost": "1500g",
+    "defenseBonus": 8,
+    "maxDexterityBonus": 0,
+    "armorValue": 4,
+    "movementPenalty": -10,
+    "strengthRequired": 17
+  }
+ ]

@@ -1,0 +1,92 @@
+[
+  {
+    "playerLevel": 1,
+    "trivialDC": 11,
+    "easyDC": 13,
+    "standardDC": 14,
+    "difficultDC": 15,
+    "expertDC": 16,
+    "impossibleDC": 18
+  },
+  {
+    "playerLevel": 2,
+    "trivialDC": 12,
+    "easyDC": 14,
+    "standardDC": 15,
+    "difficultDC": 16,
+    "expertDC": 17,
+    "impossibleDC": 19
+  },
+  {
+    "playerLevel": 3,
+    "trivialDC": 13,
+    "easyDC": 15,
+    "standardDC": 16,
+    "difficultDC": 17,
+    "expertDC": 18,
+    "impossibleDC": 20
+  },
+  {
+    "playerLevel": 4,
+    "trivialDC": 14,
+    "easyDC": 16,
+    "standardDC": 17,
+    "difficultDC": 18,
+    "expertDC": 19,
+    "impossibleDC": 21
+  },
+  {
+    "playerLevel": 5,
+    "trivialDC": 15,
+    "easyDC": 17,
+    "standardDC": 18,
+    "difficultDC": 19,
+    "expertDC": 20,
+    "impossibleDC": 22
+  },
+  {
+    "playerLevel": 6,
+    "trivialDC": 16,
+    "easyDC": 18,
+    "standardDC": 19,
+    "difficultDC": 20,
+    "expertDC": 21,
+    "impossibleDC": 23
+  },
+  {
+    "playerLevel": 7,
+    "trivialDC": 17,
+    "easyDC": 19,
+    "standardDC": 20,
+    "difficultDC": 21,
+    "expertDC": 22,
+    "impossibleDC": 24
+  },
+  {
+    "playerLevel": 8,
+    "trivialDC": 18,
+    "easyDC": 20,
+    "standardDC": 21,
+    "difficultDC": 22,
+    "expertDC": 23,
+    "impossibleDC": 25
+  },
+  {
+    "playerLevel": 9,
+    "trivialDC": 19,
+    "easyDC": 21,
+    "standardDC": 22,
+    "difficultDC": 23,
+    "expertDC": 24,
+    "impossibleDC": 26
+  },
+  {
+    "playerLevel": 10,
+    "trivialDC": 20,
+    "easyDC": 22,
+    "standardDC": 23,
+    "difficultDC": 24,
+    "expertDC": 25,
+    "impossibleDC": 27
+  }
+]
