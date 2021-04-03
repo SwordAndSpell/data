@@ -2,7 +2,7 @@
   {
     "id": "20ba67f7-013f-4e01-9f7b-ad57edc7bf2f",
     "name": "Acolyte",
-    "abilityBoostChoice": "Int or Wis",
+    "abilityBoostChoice": "Intelligence or Wisdom",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Religion",
     "loreAdvantage": "Scribing"
@@ -10,7 +10,7 @@
   {
     "id": "36406718-3a4d-46e3-819b-92f6c7116669",
     "name": "Acrobat",
-    "abilityBoostChoice": "Str or Dex",
+    "abilityBoostChoice": "Strength or Dexterity",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Acrobatics",
     "loreAdvantage": "Circus"
@@ -18,7 +18,7 @@
   {
     "id": "17e01865-54de-46da-8937-ef8a7957c726",
     "name": "Animal Whisperer",
-    "abilityBoostChoice": "Wis or Cha",
+    "abilityBoostChoice": "Wisdom or Charisma",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Nature",
     "loreAdvantage": "Animal Handling"
@@ -26,7 +26,7 @@
   {
     "id": "ce7c71ea-5376-45b0-af55-289119db87a7",
     "name": "Artisan",
-    "abilityBoostChoice": "Dex or Int",
+    "abilityBoostChoice": "Dexterity or Intelligence",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Crafting",
     "loreAdvantage": "Guild"
@@ -34,7 +34,7 @@
   {
     "id": "250082af-45c5-4ba5-912d-51fd37193bfe",
     "name": "Artist",
-    "abilityBoostChoice": "Dex or Cha",
+    "abilityBoostChoice": "Dexterity or Charisma",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Crafting",
     "loreAdvantage": "Art"
@@ -42,7 +42,7 @@
   {
     "id": "146f3782-b67e-4532-a26b-2849e0a890c0",
     "name": "Barkeep",
-    "abilityBoostChoice": "Con or Cha",
+    "abilityBoostChoice": "Constitutiton or Charisma",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Society",
     "loreAdvantage": "Alcohol / Taverns"
@@ -50,7 +50,7 @@
   {
     "id": "5c57a213-2f98-401b-8309-f4655e38b774",
     "name": "Barrister",
-    "abilityBoostChoice": "Int or Cha",
+    "abilityBoostChoice": "Intelligence or Charisma",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Society",
     "loreAdvantage": "Legal"
@@ -58,15 +58,15 @@
   {
     "id": "25ccfe46-4a5d-42f1-8171-d03f1a7914f0",
     "name": "Bounty Hunter",
-    "abilityBoostChoice": "Str or Wis",
+    "abilityBoostChoice": "Strength or Wisdom",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Survival",
-    "loreAdvantage": "Judicial"
+    "loreAdvantage": "Judicial / Underworld"
   },
   {
     "id": "f6c3ffb0-70ac-4ff8-a30e-662590f4819e",
     "name": "Charlatan",
-    "abilityBoostChoice": "Int or Cha",
+    "abilityBoostChoice": "Intelligence or Charisma",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Deception",
     "loreAdvantage": "Underworld"
@@ -74,7 +74,7 @@
   {
     "id": "a8700ec2-dbb5-40b3-95cd-16882e7ffffa",
     "name": "Criminal",
-    "abilityBoostChoice": "Dex or Int",
+    "abilityBoostChoice": "Dexterity or Intelligence",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Stealth",
     "loreAdvantage": "Underworld"
@@ -82,7 +82,7 @@
   {
     "id": "3a47b50a-cc0b-4988-8ce4-eb0ac802ca72",
     "name": "Detective",
-    "abilityBoostChoice": "Int or Wis",
+    "abilityBoostChoice": "Intelligence or Wisdom",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Society",
     "loreAdvantage": "Underworld"
@@ -90,15 +90,15 @@
   {
     "id": "881a6669-82bd-4942-9b7f-e3d425507327",
     "name": "Emissary",
-    "abilityBoostChoice": "Int or Cha",
+    "abilityBoostChoice": "Intelligence or Charisma",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Society",
-    "loreAdvantage": "Home City"
+    "loreAdvantage": "Home City / Politics"
   },
   {
     "id": "a9c7c80b-492c-4d08-96bb-12a3d049eb4d",
     "name": "Entertainer",
-    "abilityBoostChoice": "Dex or Cha",
+    "abilityBoostChoice": "Dexterity or Charisma",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Performance",
     "loreAdvantage": "Theater"
@@ -106,7 +106,7 @@
   {
     "id": "f57948cf-3f02-470c-a1c8-569e64c67d29",
     "name": "Farmhand",
-    "abilityBoostChoice": "Con or Wis",
+    "abilityBoostChoice": "Constitutiton or Wisdom",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Athletics",
     "loreAdvantage": "Farming"
@@ -114,7 +114,7 @@
   {
     "id": "197f7e93-c551-406a-b253-6ded1a2dcd27",
     "name": "Field Medic",
-    "abilityBoostChoice": "Con or Wis",
+    "abilityBoostChoice": "Constitutiton or Wisdom",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Medicine",
     "loreAdvantage": "Warfare"
@@ -122,7 +122,7 @@
   {
     "id": "758f4980-5e77-449c-9eb2-816e487f4bcf",
     "name": "Fortune Teller",
-    "abilityBoostChoice": "Int or Cha",
+    "abilityBoostChoice": "Intelligence or Charisma",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Arcana",
     "loreAdvantage": "Fortune Telling"
@@ -130,7 +130,7 @@
   {
     "id": "1092790b-3841-4773-bcfb-bc1a7bae438a",
     "name": "Gambler",
-    "abilityBoostChoice": "Dex or Cha",
+    "abilityBoostChoice": "Dexterity or Charisma",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Deception",
     "loreAdvantage": "Games of Chance"
@@ -138,7 +138,7 @@
   {
     "id": "f15b85c9-647d-4558-8658-6d5f6e2cd6d2",
     "name": "Gladiator",
-    "abilityBoostChoice": "Str or Cha",
+    "abilityBoostChoice": "Strength or Charisma",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Performance",
     "loreAdvantage": "Gladiatorial"
@@ -146,7 +146,7 @@
   {
     "id": "c2b87fd1-10d9-492d-964f-e3cbcfbe273b",
     "name": "Guard",
-    "abilityBoostChoice": "Str or Cha",
+    "abilityBoostChoice": "Strength or Charisma",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Intimidation",
     "loreAdvantage": "Legal or Warfare"
@@ -154,7 +154,7 @@
   {
     "id": "6342b4f5-9c6b-4df5-b3c1-b1276fc97908",
     "name": "Herbalist",
-    "abilityBoostChoice": "Con or Wis",
+    "abilityBoostChoice": "Constitutiton or Wisdom",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Nature",
     "loreAdvantage": "Herbalism"
@@ -162,7 +162,7 @@
   {
     "id": "05282b9b-9f1b-4317-9491-e33d4aad74a3",
     "name": "Hermit",
-    "abilityBoostChoice": "Con or Int",
+    "abilityBoostChoice": "Constitutiton or Intelligence",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Nature",
     "loreAdvantage": "Home Terrain"
@@ -170,7 +170,7 @@
   {
     "id": "523b7385-1068-4ce4-828a-f0ee0b27a940",
     "name": "Hunter",
-    "abilityBoostChoice": "Dex or Wis",
+    "abilityBoostChoice": "Dexterity or Wisdom",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Survival",
     "loreAdvantage": "Hunting"
@@ -178,15 +178,15 @@
   {
     "id": "4ed49624-110d-4117-9a59-c365c6c15878",
     "name": "Laborer",
-    "abilityBoostChoice": "Str or Con",
+    "abilityBoostChoice": "Strength or Constitutiton",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Athletics",
-    "loreAdvantage": "Labor Force"
+    "loreAdvantage": "Labor"
   },
   {
     "id": "d5117d60-2a49-4a9c-a861-3efac86baf77",
     "name": "Martial Disciple",
-    "abilityBoostChoice": "Str or Dex",
+    "abilityBoostChoice": "Strength or Dexterity",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Acrobatics or Athletics",
     "loreAdvantage": "Warfare"
@@ -194,15 +194,15 @@
   {
     "id": "0548ae0e-b4ae-452a-b9a9-26e22d918d1d",
     "name": "Merchant",
-    "abilityBoostChoice": "Int or Cha",
+    "abilityBoostChoice": "Intelligence or Charisma",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Persuasion",
-    "loreAdvantage": "Mercantile"
+    "loreAdvantage": "Mercantile / Trade"
   },
   {
     "id": "3c981adc-3a5b-4e32-ace2-597acb505153",
     "name": "Miner",
-    "abilityBoostChoice": "Str or Wis",
+    "abilityBoostChoice": "Strength or Wisdom",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Survival",
     "loreAdvantage": "Mining"
@@ -210,7 +210,7 @@
   {
     "id": "c9703372-d8d7-43f6-a423-5e706577d6f8",
     "name": "Noble",
-    "abilityBoostChoice": "Int or Cha",
+    "abilityBoostChoice": "Intelligence or Charisma",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Society",
     "loreAdvantage": "Heraldry"
@@ -218,15 +218,15 @@
   {
     "id": "9672c38f-b950-4fd5-8ca0-67f1ae2ceef0",
     "name": "Nomad",
-    "abilityBoostChoice": "Con or Wis",
+    "abilityBoostChoice": "Constitutiton or Wisdom",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Survival",
-    "loreAdvantage": "Travelers"
+    "loreAdvantage": "Travel"
   },
   {
     "id": "d8bec933-0961-4c41-a8ea-bd1839ec7c9e",
     "name": "Prisoner",
-    "abilityBoostChoice": "Str or Con",
+    "abilityBoostChoice": "Strength or Constitutiton",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Stealth",
     "loreAdvantage": "Underworld"
@@ -234,7 +234,7 @@
   {
     "id": "cad903c5-d5e8-4174-a1f8-672eb7f891f0",
     "name": "Sailor",
-    "abilityBoostChoice": "Str or Dex",
+    "abilityBoostChoice": "Strength or Dexterity",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Athletics",
     "loreAdvantage": "Sailing"
@@ -242,7 +242,7 @@
   {
     "id": "046dfa57-21f7-4f28-9f88-3fa760052053",
     "name": "Scholar",
-    "abilityBoostChoice": "Int or Wis",
+    "abilityBoostChoice": "Intelligence or Wisdom",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Arcana, Nature, or Religion",
     "loreAdvantage": "Academia"
@@ -250,7 +250,7 @@
   {
     "id": "12228902-3477-46e5-bb54-7370d5249e2c",
     "name": "Scout",
-    "abilityBoostChoice": "Dex or Wis",
+    "abilityBoostChoice": "Dexterity or Wisdom",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Survival",
     "loreAdvantage": "Terrain Lore"
@@ -258,7 +258,7 @@
   {
     "id": "c66e71a7-a5d2-4450-8e58-70d281b2bbdb",
     "name": "Street Urchin",
-    "abilityBoostChoice": "Dex or Con",
+    "abilityBoostChoice": "Dexterity or Constitutiton",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Thievery",
     "loreAdvantage": "Home City Lore"
@@ -266,7 +266,7 @@
   {
     "id": "24409540-7f51-4569-b043-6cc3fe912842",
     "name": "Tinkerer",
-    "abilityBoostChoice": "Dex or Int",
+    "abilityBoostChoice": "Dexterity or Intelligence",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Crafting",
     "loreAdvantage": "Engineering"
@@ -274,7 +274,7 @@
   {
     "id": "dd41f1ad-d262-4fa7-a6a6-17bad9c90a9d",
     "name": "Warrior",
-    "abilityBoostChoice": "Str or Con",
+    "abilityBoostChoice": "Strength or Constitutiton",
     "freeAbilityBoost": "Free",
     "trainedSkill": "Intimidation",
     "loreAdvantage": "Warfare"
