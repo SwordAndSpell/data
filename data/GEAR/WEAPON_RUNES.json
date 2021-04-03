@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Minor Striking",
+    "craftingLevelRequired": "Expert",
+    "goldCost": "500g",
+    "arcanitCost": "5c",
+    "description": "+1 to Attack and 2x base weapon dice for Damage rolls"
+  },
+  {
+    "name": "Striking",
+    "craftingLevelRequired": "Master",
+    "goldCost": "2500g",
+    "arcanitCost": "15c",
+    "description": "+2 to Attack and 3x base weapon dice for Damage rolls"
+  },
+  {
+    "name": "Major Striking",
+    "craftingLevelRequired": "Legendary",
+    "goldCost": "20,000g",
+    "arcanitCost": "30c",
+    "description": "+3 to Attack and 4x base weapon dice for Damage rolls"
+  },
+  {
+    "name": "Returning",
+    "craftingLevelRequired": "Expert",
+    "goldCost": "250g",
+    "arcanitCost": "5c",
+    "description": "Whenever you make a thrown attack with this weapon, it returns to your hand upon completion of the attack."
+  },
+  {
+    "name": "Shifting",
+    "craftingLevelRequired": "Expert",
+    "goldCost": "1500g",
+    "arcanitCost": "10c",
+    "description": "You may use an action to change the shape of this weapon into another of the same type (ranged -/-> melee)"
+  },
+  {
+    "name": "Elemental",
+    "craftingLevelRequired": "Master",
+    "goldCost": "5000g",
+    "arcanitCost": "15c",
+    "description": "This weapon deals an additional damage die of an elemental type of your choosing"
+  },
+  {
+    "name": "Keen",
+    "craftingLevelRequired": "Master",
+    "goldCost": "5000g",
+    "arcanitCost": "20c",
+    "description": "Your critical range with this weapon is decreased by 1."
+  },
+  {
+    "name": "Greater Shifting",
+    "craftingLevelRequired": "Master",
+    "goldCost": "5000g",
+    "arcanitCost": "25c",
+    "description": "You may use an action to change the shape of this weapon into another of any type."
+  },
+  {
+    "name": "Dancing",
+    "craftingLevelRequired": "Legendary",
+    "goldCost": "10,000g",
+    "arcanitCost": "30c",
+    "description": "As a 3 action ability, you can activate your weapon, which will begin to hover and act autonomously. At the beginning of your turn, it will fly up to 40’ towards your nearest enemy and attack them, using your melee attack and damage modifiers. At the end of your turn, succeed a DC5 flat check to keep the weapon active; otherwise it falls to the ground."
+  },
+  {
+    "name": "Swift",
+    "craftingLevelRequired": "Legendary",
+    "goldCost": "15,000g",
+    "arcanitCost": "40c",
+    "description": "On each of your turns, you gain an extra action that can only be used to make an attack with this weapon."
+  },
+  {
+    "name": "Vorpal",
+    "craftingLevelRequired": "Legendary",
+    "goldCost": "25,000g",
+    "arcanitCost": "50c",
+    "description": "On a natural 20 on die, your enemy must make a Fortitude saving throw against a DC = 9 + your melee attack modifier or be decapitated."
+  }
+ ]

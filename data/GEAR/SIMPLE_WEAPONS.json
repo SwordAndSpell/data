@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Club",
+    "cost": "1s",
+    "damage": "1d4 Bludgeoning",
+    "range": "Melee",
+    "weaponProperties": "Light"
+  },
+  {
+    "name": "Dagger",
+    "cost": "2g",
+    "damage": "1d4 Piercing",
+    "range": "Melee",
+    "weaponProperties": "Finesse, Light, Thrown (20/60)"
+  },
+  {
+    "name": "Dart",
+    "cost": "5c",
+    "damage": "1d4 Piercing",
+    "range": "Ranged",
+    "weaponProperties": "Finesse, Thrown (20/60)"
+  },
+  {
+    "name": "Greatclub",
+    "cost": "2s",
+    "damage": "1d8 Bludgeoning",
+    "range": "Melee",
+    "weaponProperties": "Two-Handed"
+  },
+  {
+    "name": "Handaxe",
+    "cost": "5g",
+    "damage": "1d6 Slashing",
+    "range": "Melee",
+    "weaponProperties": "Light, Thrown (20/60)"
+  },
+  {
+    "name": "Javelin",
+    "cost": "5s",
+    "damage": "1d6 Piercing",
+    "range": "Melee",
+    "weaponProperties": "Thrown (30/120)"
+  },
+  {
+    "name": "Light Crossbow",
+    "cost": "25g",
+    "damage": "1d8 Piercing",
+    "range": "Ranged (80/320)",
+    "weaponProperties": "Ammunition, Loading, Two-Handed"
+  },
+  {
+    "name": "Light Hammer",
+    "cost": "2g",
+    "damage": "1d4 Bludgeoning",
+    "range": "Melee",
+    "weaponProperties": "Light, Thrown (20/60)"
+  },
+  {
+    "name": "Mace",
+    "cost": "5g",
+    "damage": "1d6 Bludgeoning",
+    "range": "Melee",
+    "weaponProperties": "-"
+  },
+  {
+    "name": "Quarterstaff",
+    "cost": "2s",
+    "damage": "1d6 Bludgeoning",
+    "range": "Melee",
+    "weaponProperties": "Versatile (1d8)"
+  },
+  {
+    "name": "Sickle",
+    "cost": "1g",
+    "damage": "1d4 Slashing",
+    "range": "Melee",
+    "weaponProperties": "Light"
+  },
+  {
+    "name": "Shortbow",
+    "cost": "25g",
+    "damage": "1d6 Piercing",
+    "range": "Ranged (80/320)",
+    "weaponProperties": "Ammunition, Two-Handed"
+  },
+  {
+    "name": "Spear",
+    "cost": "1g",
+    "damage": "1d6 Piercing",
+    "range": "Melee",
+    "weaponProperties": "Versatile (1d8), Thrown (20/60)"
+  }
+ ]

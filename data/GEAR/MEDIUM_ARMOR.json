@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Hide",
+    "cost": "10g",
+    "defenseBonus": 2,
+    "maxDexterityBonus": 5,
+    "armorValue": 1,
+    "movementPenalty": -5,
+    "strengthRequired": 10
+  },
+  {
+    "name": "Chain Shirt",
+    "cost": "30g",
+    "defenseBonus": 3,
+    "maxDexterityBonus": 4,
+    "armorValue": 2,
+    "movementPenalty": -5,
+    "strengthRequired": 11
+  },
+  {
+    "name": "Scale Mail*",
+    "cost": "50g",
+    "defenseBonus": 4,
+    "maxDexterityBonus": 3,
+    "armorValue": 2,
+    "movementPenalty": -5,
+    "strengthRequired": 13
+  },
+  {
+    "name": "Breastplate",
+    "cost": "150g",
+    "defenseBonus": 5,
+    "maxDexterityBonus": 2,
+    "armorValue": 3,
+    "movementPenalty": -5,
+    "strengthRequired": 13
+  },
+  {
+    "name": "Half Plate*",
+    "cost": "400g",
+    "defenseBonus": 6,
+    "maxDexterityBonus": 2,
+    "armorValue": 3,
+    "movementPenalty": -5,
+    "strengthRequired": 15
+  }
+ ]

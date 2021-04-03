@@ -1,0 +1,62 @@
+[
+  {
+    "level": "Race Selection",
+    "featuresGranted": "Race Selection, Subrace Selection, General Race Perk Selection, 3 Ability Boosts, 1 Ability penalty ( can take an optional extra Ability Boost and Ability Penalty)",
+    "partOfCharacterCreation": true
+  },
+  {
+    "level": "Background",
+    "featuresGranted": "Pair of Ability Boosts (one limited, one free), Trained Skill, Lore Advantage",
+    "partOfCharacterCreation": true
+  },
+  {
+    "level": "Level 1",
+    "featuresGranted": "2 Ability Boosts, Core Identity, Health at 1st Level, Identity Feat,  Ability Feat",
+    "partOfCharacterCreation": true
+  },
+  {
+    "level": "Level 2",
+    "featuresGranted": "Ability Boost, Health Increase, Skill Increase, Identity Feat",
+    "partOfCharacterCreation": false
+  },
+  {
+    "level": "Level 3",
+    "featuresGranted": "Ability Boost, Health Increase, Skill Increase, Identity Feat, Ability Feat",
+    "partOfCharacterCreation": false
+  },
+  {
+    "level": "Level 4",
+    "featuresGranted": "2 Ability Boosts, Health Increase, Skill Increase, Identity Feat",
+    "partOfCharacterCreation": false
+  },
+  {
+    "level": "Level 5",
+    "featuresGranted": "Ability Boost, Health Increase, Skill Increase, Identity Feat, Ability Feat",
+    "partOfCharacterCreation": false
+  },
+  {
+    "level": "Level 6",
+    "featuresGranted": "Ability Boost, Health Increase, Skill Increase, Identity Feat",
+    "partOfCharacterCreation": false
+  },
+  {
+    "level": "Level 7",
+    "featuresGranted": "2 Ability Boosts, Health Increase, Skill Increase, Identity Feat, Ability Feat",
+    "partOfCharacterCreation": false
+  },
+  {
+    "level": "Level 8",
+    "featuresGranted": "Ability Boost, Health Increase, Skill Increase, Identity Feat",
+    "partOfCharacterCreation": false
+  },
+  {
+    "level": "Level 9",
+    "featuresGranted": "Ability Boost, Health Increase, Skill Increase, Identity Feat, Ability Feat",
+    "partOfCharacterCreation": false
+  },
+  {
+    "level": "Level 10",
+    "featuresGranted": "2 Ability Boosts, Health Increase, Skill Increase, Identity Feat",
+    "partOfCharacterCreation": false
+  }
+ ]

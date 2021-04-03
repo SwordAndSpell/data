@@ -1,0 +1,110 @@
+[
+  {
+    "spellCastingLevel": 1,
+    "firstLevelCharges": 3,
+    "secondLevelCharges": null,
+    "thirdLevelCharges": null,
+    "fourthLevelCharges": null,
+    "fifthLevelCharges": null,
+    "sixthLevelCharges": null,
+    "seventhLevelCharges": null,
+    "eighthLevelCharges": null,
+    "ninthLevelCharges": null
+  },
+  {
+    "spellCastingLevel": 2,
+    "firstLevelCharges": 3,
+    "secondLevelCharges": 2,
+    "thirdLevelCharges": null,
+    "fourthLevelCharges": null,
+    "fifthLevelCharges": null,
+    "sixthLevelCharges": null,
+    "seventhLevelCharges": null,
+    "eighthLevelCharges": null,
+    "ninthLevelCharges": null
+  },
+  {
+    "spellCastingLevel": 3,
+    "firstLevelCharges": 4,
+    "secondLevelCharges": 3,
+    "thirdLevelCharges": 2,
+    "fourthLevelCharges": null,
+    "fifthLevelCharges": null,
+    "sixthLevelCharges": null,
+    "seventhLevelCharges": null,
+    "eighthLevelCharges": null,
+    "ninthLevelCharges": null
+  },
+  {
+    "spellCastingLevel": 4,
+    "firstLevelCharges": 4,
+    "secondLevelCharges": 3,
+    "thirdLevelCharges": 3,
+    "fourthLevelCharges": 2,
+    "fifthLevelCharges": null,
+    "sixthLevelCharges": null,
+    "seventhLevelCharges": null,
+    "eighthLevelCharges": null,
+    "ninthLevelCharges": null
+  },
+  {
+    "spellCastingLevel": 5,
+    "firstLevelCharges": 4,
+    "secondLevelCharges": 4,
+    "thirdLevelCharges": 3,
+    "fourthLevelCharges": 3,
+    "fifthLevelCharges": 2,
+    "sixthLevelCharges": null,
+    "seventhLevelCharges": null,
+    "eighthLevelCharges": null,
+    "ninthLevelCharges": null
+  },
+  {
+    "spellCastingLevel": 6,
+    "firstLevelCharges": 4,
+    "secondLevelCharges": 4,
+    "thirdLevelCharges": 3,
+    "fourthLevelCharges": 3,
+    "fifthLevelCharges": 2,
+    "sixthLevelCharges": 2,
+    "seventhLevelCharges": null,
+    "eighthLevelCharges": null,
+    "ninthLevelCharges": null
+  },
+  {
+    "spellCastingLevel": 7,
+    "firstLevelCharges": 4,
+    "secondLevelCharges": 4,
+    "thirdLevelCharges": 3,
+    "fourthLevelCharges": 3,
+    "fifthLevelCharges": 3,
+    "sixthLevelCharges": 2,
+    "seventhLevelCharges": 1,
+    "eighthLevelCharges": null,
+    "ninthLevelCharges": null
+  },
+  {
+    "spellCastingLevel": 8,
+    "firstLevelCharges": 4,
+    "secondLevelCharges": 4,
+    "thirdLevelCharges": 3,
+    "fourthLevelCharges": 3,
+    "fifthLevelCharges": 3,
+    "sixthLevelCharges": 3,
+    "seventhLevelCharges": 2,
+    "eighthLevelCharges": 1,
+    "ninthLevelCharges": null
+  },
+  {
+    "spellCastingLevel": 9,
+    "firstLevelCharges": 4,
+    "secondLevelCharges": 4,
+    "thirdLevelCharges": 3,
+    "fourthLevelCharges": 3,
+    "fifthLevelCharges": 3,
+    "sixthLevelCharges": 3,
+    "seventhLevelCharges": 2,
+    "eighthLevelCharges": 2,
+    "ninthLevelCharges": 1
+  }
+ ]

@@ -1,0 +1,56 @@
+[
+  {
+    "spellcastingLevel": 1,
+    "spellPoints": 7,
+    "maxCastingLevel": "1st",
+    "upcastLevel": "2nd"
+  },
+  {
+    "spellcastingLevel": 2,
+    "spellPoints": 14,
+    "maxCastingLevel": "2nd",
+    "upcastLevel": "3rd"
+  },
+  {
+    "spellcastingLevel": 3,
+    "spellPoints": 30,
+    "maxCastingLevel": "3rd",
+    "upcastLevel": "4th"
+  },
+  {
+    "spellcastingLevel": 4,
+    "spellPoints": 48,
+    "maxCastingLevel": "4th",
+    "upcastLevel": "5th"
+  },
+  {
+    "spellcastingLevel": 5,
+    "spellPoints": 72,
+    "maxCastingLevel": "5th",
+    "upcastLevel": "6th"
+  },
+  {
+    "spellcastingLevel": 6,
+    "spellPoints": 89,
+    "maxCastingLevel": "6th",
+    "upcastLevel": "7th"
+  },
+  {
+    "spellcastingLevel": 7,
+    "spellPoints": 106,
+    "maxCastingLevel": "7th",
+    "upcastLevel": "8th"
+  },
+  {
+    "spellcastingLevel": 8,
+    "spellPoints": 135,
+    "maxCastingLevel": "8th",
+    "upcastLevel": "9th"
+  },
+  {
+    "spellcastingLevel": 9,
+    "spellPoints": 160,
+    "maxCastingLevel": "9th",
+    "upcastLevel": "9th"
+  }
+ ]

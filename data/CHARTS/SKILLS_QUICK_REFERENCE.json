@@ -1,0 +1,83 @@
+[
+  {
+    "abilityScoreModifier": -1,
+    "unskileld": -1,
+    "apprentice": 1,
+    "traiend": 3,
+    "expert": 5,
+    "master": 7,
+    "legendary": 9
+  },
+  {
+    "abilityScoreModifier": 0,
+    "unskileld": 0,
+    "apprentice": 2,
+    "traiend": 4,
+    "expert": 6,
+    "master": 8,
+    "legendary": 10
+  },
+  {
+    "abilityScoreModifier": 1,
+    "unskileld": 1,
+    "apprentice": 3,
+    "traiend": 5,
+    "expert": 7,
+    "master": 9,
+    "legendary": 11
+  },
+  {
+    "abilityScoreModifier": 2,
+    "unskileld": 2,
+    "apprentice": 4,
+    "traiend": 6,
+    "expert": 8,
+    "master": 10,
+    "legendary": 12
+  },
+  {
+    "abilityScoreModifier": 3,
+    "unskileld": 3,
+    "apprentice": 5,
+    "traiend": 7,
+    "expert": 9,
+    "master": 11,
+    "legendary": 13
+  },
+  {
+    "abilityScoreModifier": 4,
+    "unskileld": 4,
+    "apprentice": 6,
+    "traiend": 8,
+    "expert": 10,
+    "master": 12,
+    "legendary": 14
+  },
+  {
+    "abilityScoreModifier": 5,
+    "unskileld": 5,
+    "apprentice": 7,
+    "traiend": 9,
+    "expert": 11,
+    "master": 13,
+    "legendary": 15
+  },
+  {
+    "abilityScoreModifier": 6,
+    "unskileld": 6,
+    "apprentice": 8,
+    "traiend": 10,
+    "expert": 12,
+    "master": 14,
+    "legendary": 16
+  },
+  {
+    "abilityScoreModifier": 7,
+    "unskileld": 7,
+    "apprentice": 9,
+    "traiend": 11,
+    "expert": 13,
+    "master": 15,
+    "legendary": 17
+  }
+ ]

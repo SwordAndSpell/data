@@ -1,0 +1,38 @@
+[
+ {
+   "spellLevel": "1st",
+   "spellPointCost": 2
+ },
+ {
+   "spellLevel": "2nd",
+   "spellPointCost": 3
+ },
+ {
+   "spellLevel": "3rd",
+   "spellPointCost": 5
+ },
+ {
+   "spellLevel": "4th",
+   "spellPointCost": 6
+ },
+ {
+   "spellLevel": "5th",
+   "spellPointCost": 7
+ },
+ {
+   "spellLevel": "6th*",
+   "spellPointCost": 9
+ },
+ {
+   "spellLevel": "7th*",
+   "spellPointCost": 10
+ },
+ {
+   "spellLevel": "8th*",
+   "spellPointCost": 11
+ },
+ {
+   "spellLevel": "9th*",
+   "spellPointCost": 13
+ }
+]
