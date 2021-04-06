@@ -237,8 +237,8 @@
   },
   {
     "id": "a1500146-f1df-41ae-b78a-adf7bb753dd9",
-    "name": "Bully",
-    "description": "When you grapple, shove, trip, or disarm a foe they take additional Bludgeoning damage equal to your level + your Strength Modifier.",
+    "name": "Rough 'Em Up",
+    "description": "When you grapple, shove, trip, or disarm a foe you can spend your reaction to force them to take additional Bludgeoning damage equal to your level + your Strength Modifier.",
     "level": 3,
     "requirements": "",
     "relevantStyles": [
