@@ -1,61 +1,76 @@
 [
   {
+    "id": "e4053db4-b79d-4162-a6fc-dab6b6df2e69",
     "name": "Adamantine",
     "description": "While wearing a set of armor made from adamantium, any critical hits you suffer are reduced to regular hits."
   },
   {
+    "id": "1edecdf9-4b29-48f1-956e-18da683c8674",
     "name": "Ammunition",
     "description": "You may use a weapon with this type to make a ranged attack, at the cost of 1 ammunition per attack. This ammunition could be arrows, bolts, darts, or a similar projectile. Drawing the ammunition from a quiver or other case is considered part of the attack action."
   },
   {
+    "id": "e4055a8b-0e27-4c64-afe1-f28de9485a4f",
     "name": "Finesse",
     "description": "When making an attack with a finesse weapon, you may choose whether to use your Strength or Dexterity modifier for the attack rolls."
   },
   {
+    "id": "4d0d254a-bde3-4359-aa82-1991bd5fd883",
     "name": "Heavy",
     "description": "Creatures of Small size have disadvantage when using heavy weapons."
   },
   {
+    "id": "abf928a6-962e-4e07-9059-1c919d112c6d",
     "name": "Light",
     "description": "When wielding a light weapon in your main hand, you may also wield another light weapon in your offhand."
   },
   {
+    "id": "d9bdbc13-b41b-43b4-a918-d39c97568dd7",
     "name": "Loading",
     "description": "When attacking with a weapon that has the loading feature, you must use an action to reload your weapon before you can attack with it again."
   },
   {
+    "id": "9913ad07-1bae-4f42-b0a0-82fbe64bb647",
     "name": "Mithral",
     "description": "Armor made of mithral does not impose disadvantage on stealth rolls."
   },
   {
+    "id": "e5eaadfc-7228-41a4-8699-c4bc80440e5f",
     "name": "Reach",
     "description": "A weapon with the Reach tag has an extra 5 feet of range for all melee attacks (10 feet instead of the usual 5 feet range for melee weapons)."
   },
   {
+    "id": "d6e664c2-5110-4609-9537-77548431ea3e",
     "name": "Silvered",
     "description": "Some monsters have immunity or resistance to attacks made with non-magical weapons. You may hire a blacksmith to silver your weapon, potentially circumnavigating this resistance. The cost to silver a weapon is typically around 100 gold, paying for both the silver and the expertise to plate the weapon without damaging its effectiveness."
   },
   {
+    "id": "5333a91a-2fc6-4932-bc5b-6ee74a9c366f",
     "name": "Special - Blunderbuss",
     "description": "This ranged weapon does not have disadvantage on attack rolls against creatures that are within 5 feet of you."
   },
   {
+    "id": "a9421ed2-ca57-41cd-bec6-e1ae731695ab",
     "name": "Special - Lance",
     "description": "You have disadvantage when you use the lance against a target within 5 feet of you. When you aren’t mounted, the lance requires two hands to wield."
   },
   {
+    "id": "86681cb2-aa8f-43f2-b622-ae095c4a635e",
     "name": "Special - Net",
     "description": "Any large or smaller creature hit by the net is restrained until they are freed. A net has no effect on creatures that are formless, or creatures that are huge or larger. A creature can use its action to free itself or another creature from the net, with a DC 10 Strength check for success. Dealing 5 damage to the net (Defense 10) also destroys it and frees the creature trapped inside."
   },
   {
+    "id": "746e6e06-2a5d-4705-97de-f039c012e431",
     "name": "Thrown",
     "description": "You may make a ranged attack with a thrown weapon. When making a ranged attack with a thrown weapon, you use whatever ability you would normally use for the weapon if it was a melee attack. For example, a javelin does not have the finesse tag, so a ranged attack with it must use your strength modifier. A dagger has the finesse tag, so for a ranged attack you may use either your strength or your dexterity for any attacks made with it at range."
   },
   {
+    "id": "d0ec4bbe-4f84-4126-9932-1d3390e9e5f4",
     "name": "Two-Handed",
     "description": "This weapon must be wielded with two hands in order to make an attack with it. It can be held with a single hand while not using it (albeit in an unwieldy fashion)"
   },
   {
+    "id": "d99f6635-c746-405d-b003-7bad0d18b8c1",
     "name": "Versatile",
     "description": "This weapon can be used in either on or two hands. The dice in parentheses is the dice you use for damage rolls when wielding the weapon with both hands."
   }

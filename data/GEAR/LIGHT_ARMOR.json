@@ -1,5 +1,6 @@
 [
   {
+    "id": "f8adc9cd-af23-45be-b3cb-4c17744f3038",
     "name": "Padded",
     "cost": "5g",
     "defenseBonus": 1,
@@ -9,6 +10,7 @@
     "strengthRequired": ""
   },
   {
+    "id": "b810d194-9c7c-48dc-b2db-ad5ec6ac8124",
     "name": "Leather",
     "cost": "10g",
     "defenseBonus": 1,
@@ -18,6 +20,7 @@
     "strengthRequired": ""
   },
   {
+    "id": "8a2e3d18-3eca-4661-84d6-750404a10718",
     "name": "Hardened Leather",
     "cost": "50g",
     "defenseBonus": 2,
@@ -27,6 +30,7 @@
     "strengthRequired": ""
   },
   {
+    "id": "e93f84dc-21f3-4cd1-a450-5a2544a65cd0",
     "name": "Reinforced Leather",
     "cost": "150g",
     "defenseBonus": 2,

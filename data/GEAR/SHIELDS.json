@@ -1,5 +1,6 @@
 [
   {
+    "id": "7afe9f75-a007-4417-acfd-1c2e210787ce",
     "name": "Buckler",
     "cost": "5g",
     "defenseBonus": 1,
@@ -8,6 +9,7 @@
     "specialAbility": "Allows you to use simple items and objects with your shield hand"
   },
   {
+    "id": "3e28fdf0-6319-42b2-9291-b0b798c2d131",
     "name": "Kite Shield",
     "cost": "10g",
     "defenseBonus": 2,
@@ -16,6 +18,7 @@
     "specialAbility": ""
   },
   {
+    "id": "14e67b7d-3bfd-4d78-8ab1-4afa1945ab2c",
     "name": "Tower Shield",
     "cost": "50g",
     "defenseBonus": 3,

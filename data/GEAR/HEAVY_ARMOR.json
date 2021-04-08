@@ -1,5 +1,6 @@
 [
   {
+    "id": "aea2d460-07e3-4dd4-b767-962ae023ab3f",
     "name": "Ring Mail*",
     "cost": "30g",
     "defenseBonus": 5,
@@ -9,6 +10,7 @@
     "strengthRequired": 13
   },
   {
+    "id": "77b377cf-972f-40ae-87a2-c51a258b44af",
     "name": "Chain Mail*",
     "cost": "75g",
     "defenseBonus": 6,
@@ -18,6 +20,7 @@
     "strengthRequired": 13
   },
   {
+    "id": "691c3241-20ce-4a86-9e27-5aafb3de5a5b",
     "name": "Splint Mail*",
     "cost": "400g",
     "defenseBonus": 7,
@@ -27,6 +30,7 @@
     "strengthRequired": 15
   },
   {
+    "id": "430ec95b-442f-4c1c-a282-27fa0ff11c8a",
     "name": "Full Plate*",
     "cost": "1500g",
     "defenseBonus": 8,

@@ -1,5 +1,6 @@
 [
   {
+    "id": "69368272-a84a-4299-8421-8db2bd5891f5",
     "name": "Club",
     "cost": "1s",
     "damage": "1d4 Bludgeoning",
@@ -7,6 +8,7 @@
     "weaponProperties": "Light"
   },
   {
+    "id": "cecc160f-e687-4137-90e3-d0206350b2ca",
     "name": "Dagger",
     "cost": "2g",
     "damage": "1d4 Piercing",
@@ -14,6 +16,7 @@
     "weaponProperties": "Finesse, Light, Thrown (20/60)"
   },
   {
+    "id": "28a3d683-ff49-46da-92ae-3024de57be7f",
     "name": "Dart",
     "cost": "5c",
     "damage": "1d4 Piercing",
@@ -21,6 +24,7 @@
     "weaponProperties": "Finesse, Thrown (20/60)"
   },
   {
+    "id": "f1e1f85c-398d-4551-923d-677b6b0aaba0",
     "name": "Greatclub",
     "cost": "2s",
     "damage": "1d8 Bludgeoning",
@@ -28,6 +32,7 @@
     "weaponProperties": "Two-Handed"
   },
   {
+    "id": "76c634cc-8751-4981-8e27-556ae44d70df",
     "name": "Handaxe",
     "cost": "5g",
     "damage": "1d6 Slashing",
@@ -35,6 +40,7 @@
     "weaponProperties": "Light, Thrown (20/60)"
   },
   {
+    "id": "58892e82-dbf1-4978-80a3-536bea1009d4",
     "name": "Javelin",
     "cost": "5s",
     "damage": "1d6 Piercing",
@@ -42,6 +48,7 @@
     "weaponProperties": "Thrown (30/120)"
   },
   {
+    "id": "3486f6c9-de8d-4186-9296-b9809fdf473b",
     "name": "Light Crossbow",
     "cost": "25g",
     "damage": "1d8 Piercing",
@@ -49,6 +56,7 @@
     "weaponProperties": "Ammunition, Loading, Two-Handed"
   },
   {
+    "id": "195ab78b-2070-4773-b049-a60f03202c7f",
     "name": "Light Hammer",
     "cost": "2g",
     "damage": "1d4 Bludgeoning",
@@ -56,6 +64,7 @@
     "weaponProperties": "Light, Thrown (20/60)"
   },
   {
+    "id": "1ce371e8-23de-4a5a-93f3-c17a0b08affa",
     "name": "Mace",
     "cost": "5g",
     "damage": "1d6 Bludgeoning",
@@ -63,6 +72,7 @@
     "weaponProperties": "-"
   },
   {
+    "id": "01a4bf21-0611-486c-a88d-357532ec228a",
     "name": "Quarterstaff",
     "cost": "2s",
     "damage": "1d6 Bludgeoning",
@@ -70,6 +80,7 @@
     "weaponProperties": "Versatile (1d8)"
   },
   {
+    "id": "aeb80193-8fac-4f08-a2fc-77de872bcdc4",
     "name": "Sickle",
     "cost": "1g",
     "damage": "1d4 Slashing",
@@ -77,6 +88,7 @@
     "weaponProperties": "Light"
   },
   {
+    "id": "eeed9b46-080d-4534-801c-74a60b2c17fd",
     "name": "Shortbow",
     "cost": "25g",
     "damage": "1d6 Piercing",
@@ -84,6 +96,7 @@
     "weaponProperties": "Ammunition, Two-Handed"
   },
   {
+    "id": "4ace940b-c925-4ab6-b31f-5ed8d56da809",
     "name": "Spear",
     "cost": "1g",
     "damage": "1d6 Piercing",

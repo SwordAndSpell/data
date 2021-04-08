@@ -1,5 +1,6 @@
 [
   {
+    "id": "c1e310ae-daeb-44cc-ac8f-786c0a9941b1",
     "name": "Minor Striking",
     "craftingLevelRequired": "Expert",
     "goldCost": "500g",
@@ -7,6 +8,7 @@
     "description": "+1 to Attack and 2x base weapon dice for Damage rolls"
   },
   {
+    "id": "2a1bc65b-0db7-48ca-b554-4005350b95bf",
     "name": "Striking",
     "craftingLevelRequired": "Master",
     "goldCost": "2500g",
@@ -14,6 +16,7 @@
     "description": "+2 to Attack and 3x base weapon dice for Damage rolls"
   },
   {
+    "id": "2a05bd6e-54aa-4d0c-ade4-ee70c409578b",
     "name": "Major Striking",
     "craftingLevelRequired": "Legendary",
     "goldCost": "20,000g",
@@ -21,6 +24,7 @@
     "description": "+3 to Attack and 4x base weapon dice for Damage rolls"
   },
   {
+    "id": "f301eab1-1905-422e-8d4a-fff8ae0068a6",
     "name": "Returning",
     "craftingLevelRequired": "Expert",
     "goldCost": "250g",
@@ -28,6 +32,7 @@
     "description": "Whenever you make a thrown attack with this weapon, it returns to your hand upon completion of the attack."
   },
   {
+    "id": "99cf3568-b00d-49bd-befc-e54db76a5f06",
     "name": "Shifting",
     "craftingLevelRequired": "Expert",
     "goldCost": "1500g",
@@ -35,6 +40,7 @@
     "description": "You may use an action to change the shape of this weapon into another of the same type (ranged -/-> melee)"
   },
   {
+    "id": "5946051c-9b49-4227-85cb-5af4796e413b",
     "name": "Elemental",
     "craftingLevelRequired": "Master",
     "goldCost": "5000g",
@@ -42,6 +48,7 @@
     "description": "This weapon deals an additional damage die of an elemental type of your choosing"
   },
   {
+    "id": "fa07aa98-4306-4ed1-a49e-6ccbf490a40c",
     "name": "Keen",
     "craftingLevelRequired": "Master",
     "goldCost": "5000g",
@@ -49,6 +56,7 @@
     "description": "Your critical range with this weapon is decreased by 1."
   },
   {
+    "id": "aa96dd6c-ad66-4406-9be6-9cba5fa1f7b6",
     "name": "Greater Shifting",
     "craftingLevelRequired": "Master",
     "goldCost": "5000g",
@@ -56,6 +64,7 @@
     "description": "You may use an action to change the shape of this weapon into another of any type."
   },
   {
+    "id": "324fbf80-fed7-408f-949e-6c6d5a6c9cf8",
     "name": "Dancing",
     "craftingLevelRequired": "Legendary",
     "goldCost": "10,000g",
@@ -63,6 +72,7 @@
     "description": "As a 3 action ability, you can activate your weapon, which will begin to hover and act autonomously. At the beginning of your turn, it will fly up to 40’ towards your nearest enemy and attack them, using your melee attack and damage modifiers. At the end of your turn, succeed a DC5 flat check to keep the weapon active; otherwise it falls to the ground."
   },
   {
+    "id": "0cf6ebb0-35c8-4edf-ae51-006e8e27111d",
     "name": "Swift",
     "craftingLevelRequired": "Legendary",
     "goldCost": "15,000g",
@@ -70,6 +80,7 @@
     "description": "On each of your turns, you gain an extra action that can only be used to make an attack with this weapon."
   },
   {
+    "id": "f6a09e07-dee5-4324-a956-c1c35209b822",
     "name": "Vorpal",
     "craftingLevelRequired": "Legendary",
     "goldCost": "25,000g",

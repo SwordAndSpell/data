@@ -1,5 +1,6 @@
 [
   {
+    "id": "182ef62b-2da4-4df2-84a2-5946b508b7de",
     "name": "Hide",
     "cost": "10g",
     "defenseBonus": 2,
@@ -9,6 +10,7 @@
     "strengthRequired": 10
   },
   {
+    "id": "bd398101-3130-41ff-9b7c-b69b772ed180",
     "name": "Chain Shirt",
     "cost": "30g",
     "defenseBonus": 3,
@@ -18,6 +20,7 @@
     "strengthRequired": 11
   },
   {
+    "id": "08dc2967-a9b7-46dc-9209-f9b4255c4b83",
     "name": "Scale Mail*",
     "cost": "50g",
     "defenseBonus": 4,
@@ -27,6 +30,7 @@
     "strengthRequired": 13
   },
   {
+    "id": "4efe158f-6879-4bd5-aba8-131495c06f25",
     "name": "Breastplate",
     "cost": "150g",
     "defenseBonus": 5,
@@ -36,6 +40,7 @@
     "strengthRequired": 13
   },
   {
+    "id": "181b7577-3376-4d6c-bf7d-c50d58dfb16c",
     "name": "Half Plate*",
     "cost": "400g",
     "defenseBonus": 6,

@@ -1,5 +1,6 @@
 [
   {
+    "id": "0fc9c188-23ec-401e-ad05-784e10cf7b10",
     "name": "Battleaxe",
     "cost": "10g",
     "damage": "1d8 Slashing",
@@ -7,6 +8,7 @@
     "weaponProperties": "Versatile (1d10)"
   },
   {
+    "id": "2d9fcb8f-8e3e-4b76-bc81-2b839b423897",
     "name": "Blowgun",
     "cost": "10g",
     "damage": "1 Piercing",
@@ -14,6 +16,7 @@
     "weaponProperties": "Ammunition, Loading"
   },
   {
+    "id": "b3a491e6-118e-452b-8ab6-42b2398e0b10",
     "name": "Blunderbuss",
     "cost": "750g",
     "damage": "4d4 Piercing",
@@ -21,6 +24,7 @@
     "weaponProperties": "Ammunition, Loading,Special, Two-handed"
   },
   {
+    "id": "857fff51-5ba6-41a2-bc41-33c3e4838196",
     "name": "Flail",
     "cost": "10g",
     "damage": "1d8 Bludgeoning",
@@ -28,6 +32,7 @@
     "weaponProperties": "-"
   },
   {
+    "id": "3360a3d2-e710-4a15-8dde-4502c1f4d70d",
     "name": "Flintlock Pistol",
     "cost": "250g",
     "damage": "1d10 Piercing",
@@ -35,6 +40,7 @@
     "weaponProperties": "Ammunition, Loading"
   },
   {
+    "id": "8b524c04-78e0-4e9e-9b62-b7c31a52d39c",
     "name": "Glaive",
     "cost": "20g",
     "damage": "1d10 Slashing",
@@ -42,6 +48,7 @@
     "weaponProperties": "Heavy, Reach, Two-Handed"
   },
   {
+    "id": "7467d86c-a642-42ab-b807-68eb3e2c2ada",
     "name": "Greataxe",
     "cost": "30g",
     "damage": "1d12 Slashing",
@@ -49,6 +56,7 @@
     "weaponProperties": "Heavy, Two-Handed"
   },
   {
+    "id": "b463af9c-db8a-4eec-bcfd-a61afc00b18c",
     "name": "Greatsword",
     "cost": "50g",
     "damage": "2d6 Slashing",
@@ -56,6 +64,7 @@
     "weaponProperties": "Heavy, Two-Handed"
   },
   {
+    "id": "70fcb90d-33de-4e12-8617-53a4aab1db12",
     "name": "Halberd",
     "cost": "20g",
     "damage": "1d10 Slashing",
@@ -63,6 +72,7 @@
     "weaponProperties": "Heavy, Reach, Two-Handed"
   },
   {
+    "id": "740883e2-75a9-4645-9ece-04789f29475e",
     "name": "Hand Crossbow",
     "cost": "75g",
     "damage": "1d6 Piercing",
@@ -70,6 +80,7 @@
     "weaponProperties": "Ammunition, Light, Loading"
   },
   {
+    "id": "ec3582f8-05c7-4b09-9717-3e3f3d496829",
     "name": "Heavy Crossbow",
     "cost": "50g",
     "damage": "1d10 Piercing",
@@ -77,6 +88,7 @@
     "weaponProperties": "Ammunition, Heavy, Loading, Two-handed"
   },
   {
+    "id": "1d32cd22-0092-4626-9ca4-e31fba71add7",
     "name": "Lance",
     "cost": "10g",
     "damage": "1d12 Piercing",
@@ -84,6 +96,7 @@
     "weaponProperties": "Reach, Special"
   },
   {
+    "id": "95090f45-63c3-44cf-be7d-c20b9e1d25f1",
     "name": "Longbow",
     "cost": "50g",
     "damage": "1d8 Piercing",
@@ -91,6 +104,7 @@
     "weaponProperties": "Ammunition, Heavy, Two-handed"
   },
   {
+    "id": "43a70302-0cb9-4a8f-ae3f-194c23cb3579",
     "name": "Longsword",
     "cost": "15g",
     "damage": "1d8 Slashing",
@@ -98,6 +112,7 @@
     "weaponProperties": "Versatile (1d10)"
   },
   {
+    "id": "4e721b98-e77f-42a5-bafc-763d61e2ac4b",
     "name": "Maul",
     "cost": "10g",
     "damage": "2d6 Bludgeoning",
@@ -105,6 +120,7 @@
     "weaponProperties": "Heavy, Two-Handed"
   },
   {
+    "id": "2eec5fe6-c508-4702-93de-f5a93ca7071e",
     "name": "Morningstar",
     "cost": "15g",
     "damage": "1d8 Piercing",
@@ -112,6 +128,7 @@
     "weaponProperties": "-"
   },
   {
+    "id": "310f719b-8983-4c2c-93cb-37bcb49558f4",
     "name": "Musket",
     "cost": "500g",
     "damage": "1d12 Piercing",
@@ -119,6 +136,7 @@
     "weaponProperties": "Ammunition, Loading, Two-handed"
   },
   {
+    "id": "5665d34c-b16c-4928-8404-23e04cdadf63",
     "name": "Pike",
     "cost": "5g",
     "damage": "1d10 Piercing",
@@ -126,6 +144,7 @@
     "weaponProperties": "Heavy, Reach, Two-Handed"
   },
   {
+    "id": "2360bc21-81ef-4e86-b345-0f551c5da1bd",
     "name": "Rapier",
     "cost": "25g",
     "damage": "1d8 Piercing",
@@ -133,6 +152,7 @@
     "weaponProperties": "Finesse"
   },
   {
+    "id": "2699b787-6ff9-4400-af24-92fe32e024ee",
     "name": "Scimitar",
     "cost": "25g",
     "damage": "1d6 Slashing",
@@ -140,6 +160,7 @@
     "weaponProperties": "Finesse, Light"
   },
   {
+    "id": "86608526-1386-414f-8da8-5ae9686c1458",
     "name": "Shortsword",
     "cost": "10g",
     "damage": "1d6 Piercing",
@@ -147,6 +168,7 @@
     "weaponProperties": "Finesse, Light"
   },
   {
+    "id": "a0ec6e8c-e00f-4ff0-a717-0d1afb7cf0f0",
     "name": "Trident",
     "cost": "5g",
     "damage": "2d4 Piercing",
@@ -154,6 +176,7 @@
     "weaponProperties": "Versatile (1d10), Thrown (20/60)"
   },
   {
+    "id": "4f8b9d5b-0303-406a-8e27-64b14093a966",
     "name": "War Pick",
     "cost": "5g",
     "damage": "1d8 Piercing",
@@ -161,6 +184,7 @@
     "weaponProperties": "-"
   },
   {
+    "id": "101f1dc6-2659-489e-acbb-888972de6ef3",
     "name": "Warhammer",
     "cost": "15g",
     "damage": "1d8 Bludgeoning",
@@ -168,6 +192,7 @@
     "weaponProperties": "Versatile (1d10)"
   },
   {
+    "id": "92852d97-0213-4930-b7a2-f02ea30ea1ef",
     "name": "Whip",
     "cost": "2g",
     "damage": "1d4 Slashing",
@@ -175,6 +200,7 @@
     "weaponProperties": "Finesse, Reach"
   },
   {
+    "id": "318b00d7-205c-47e1-908d-f8665d5601b2",
     "name": "Net",
     "cost": "1g",
     "damage": "-",
