@@ -24,6 +24,14 @@
     "description": "+3 to Attack and 4x base weapon dice for Damage rolls"
   },
   {
+    "id": "2ea0d07e-72ef-4f95-b7c8-be23a39eeb60",
+    "name": "Silvered",
+    "craftingLevelRequired": "Trained",
+    "goldCost": "100g",
+    "arcaniteCost": "1c",
+    "description": "Your weapon gains the Silvered property"
+  },
+  {
     "id": "f301eab1-1905-422e-8d4a-fff8ae0068a6",
     "name": "Returning",
     "craftingLevelRequired": "Expert",
