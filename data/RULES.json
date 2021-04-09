@@ -287,49 +287,142 @@
     "subsections": [
       {
         "name": "Acrobatics",
-      "description": "- Balance: 1 Action - Move across a narrow surface or uneven ground. \n\n - Tumble Through *T*: 1 Action - Move through the space of one enemy."
+        "description": "- Balance: 1 Action - Move across a narrow surface or uneven ground. \n\n - Tumble Through *T*: 1 Action - Move through the space of one enemy."
       },
       {
         "name": "Athletics",
-      "description": "- Climb: 1 Action - Move up, down, or across an incline (requires an athletics check). \n\n - Force Open: 1 Action - Forcefully open a door, window, or container. \n\n - Grapple: 1 Action - Attempt to grapple an opponent (athletics contest). \n\n - High Jump: 2 Actions - Stride and then vertically jump 3 feet and horizontally 5 feet. \n\n - Long Jump: 2 Actions - Stride and then horizontally jump 10 feet (15 feet if your Speed is 35 feet or more)\n\n - Shove: 1 Action - Contested Athletics checks or be knocked 5 feet in a direction of your choice (+5 feet if Expert or higher).\n\n - Swim: 1 Action - Propel yourself through water (requires an athletics check). \n\n - Trip: 1 Action - force an enemy to make a Fortitude saving throw DC 9 + Athletics + Str. \n\n - Disarm *E*: 1 Action - Knock something out of an opponent’s grasp."
+        "description": "- Climb: 1 Action - Move up, down, or across an incline (requires an athletics check). \n\n - Force Open: 1 Action - Forcefully open a door, window, or container. \n\n - Grapple: 1 Action - Attempt to grapple an opponent (athletics contest). \n\n - High Jump: 2 Actions - Stride and then vertically jump 3 feet and horizontally 5 feet. \n\n - Long Jump: 2 Actions - Stride and then horizontally jump 10 feet (15 feet if your Speed is 35 feet or more)\n\n - Shove: 1 Action - Contested Athletics checks or be knocked 5 feet in a direction of your choice (+5 feet if Expert or higher).\n\n - Swim: 1 Action - Propel yourself through water (requires an athletics check). \n\n - Trip: 1 Action - force an enemy to make a Fortitude saving throw DC 9 + Athletics + Str. \n\n - Disarm *E*: 1 Action - Knock something out of an opponent’s grasp."
       },
       {
         "name": "Deception",
-      "description": "- Create a Diversion: 1 Action - Draw creatures’ attention elsewhere."
+        "description": "- Create a Diversion: 1 Action - Draw creatures’ attention elsewhere."
       },
       {
         "name": "Intimidation",
-      "description": "- Demoralize *E*: 1 Action - Shake an enemy’s resolve, giving them disadvantage on their next action (that requires a check) (requires an intimidation check vs your target's Will save)."
+        "description": "- Demoralize *E*: 1 Action - Shake an enemy’s resolve, giving them disadvantage on their next action (that requires a check) (requires an intimidation check vs your target's Will save)."
       },
       {
         "name": "Medicine",
-      "description": "- Administer First Aid *E*: 2 Actions - Perform first aid on a dying/bleeding creature, they heal 1 hit point on a success (DC = 10 + 5 * the number of wounds the target has)."
+        "description": "- Administer First Aid *E*: 2 Actions - Perform first aid on a dying/bleeding creature, they heal 1 hit point on a success (DC = 10 + 5 * the number of wounds the target has)."
       },
       {
         "name": "Nature",
-      "description": "- Command an Animal *T*: 1 Action - Your animal companion or mount gains two actions to use at your direction."
+        "description": "- Command an Animal *T*: 1 Action - Your animal companion or mount gains two actions to use at your direction."
       },
       {
         "name": "Stealth",
-      "description": "- Conceal an Object *S*: 1 Action -Hide a small object on your person. \n\n - Hide *S*: 1 Action - Use cover or concealment to become hidden. \n\n - Sneak *S*: 1 Action - Move to another place while being undetected, you move at half your movement speed during this action."
+        "description": "- Conceal an Object *S*: 1 Action -Hide a small object on your person. \n\n - Hide *S*: 1 Action - Use cover or concealment to become hidden. \n\n - Sneak *S*: 1 Action - Move to another place while being undetected, you move at half your movement speed during this action."
       },
       {
         "name": "Thievery",
-      "description": "- Palm an Object: 1 Action - Palm a small, unattended object. \n\n - Steal: 1 Action - Take a small object from another creature. \n\n - Disable Device *T*: 1 Action - Disarm a trap or another complex device. \n\n - Pick a Lock *T*: 1 Action - Open a lock without a key."
+        "description": "- Palm an Object: 1 Action - Palm a small, unattended object. \n\n - Steal: 1 Action - Take a small object from another creature. \n\n - Disable Device *T*: 1 Action - Disarm a trap or another complex device. \n\n - Pick a Lock *T*: 1 Action - Open a lock without a key."
       }
-
     ]
   },
   {
-    "name": "",
-    "description": ""
+    "name": "Movement, Terrain, and Traveling",
+    "description": "Depending on the situation, your character or parties movement speed can vary greatly.",
+    "subsections": [
+      {
+        "name": "Movement Speed",
+        "description": ""
+      },
+      {
+        "name": "Difficult Terrain",
+        "description": "Your character's speed, or travel pace listed below assumes relatively simple terrain: roads, open plains, or clear dungeon corridors. But adventurers often face dense forests, deep swamps, rubble-filled ruins, steep mountains, and ice-covered ground—all considered Difficult Terrain.\n\nYou move at half speed in difficult terrain— moving 1 foot in Difficult Terrain costs 2 feet of movement—so you can cover only half the normal distance in a minute, an hour, or a day."
+      },
+      {
+        "name": "Travel Pace",
+        "description": "While traveling, a group of adventurers can move at around 3 miles per hour, or 24 miles in a day."
+      },
+      {
+        "name": "Forced March",
+        "description": "The Travel Pace assumes that characters travel for 8 hours a day. They can push on beyond that limit, at the risk of Exhaustion.\n\nFor each additional hour of Travel beyond 8 hours, the characters can cover an additional 3 miles, and each character must make a Fortitude saving throw at the end of the hour.\n\nThe DC is 10 + 3 for each hour past 8 hours. On a failed saving throw, a character suffers one level of Exhaustion (see Conditions)."
+      }
+    ]
   },
   {
-    "name": "",
-    "description": ""
+    "name": "Mounts",
+    "description": "On your turn, you can use one of your actions to Mount a willing creature. If the creature has not been trained as a mount, or is not willing, the action requires a successful Nature check. \n\nA mount is considered independent if it has an Intelligence score of 6 or higher. Regardless of your mount's Intelligence, they are granted temporary hit points equal to 4 times your level while they serve as your mount. These temporary hit points expire whenever they are not being ridden.\n\nA mount acts during its rider’s initiative, but has its own set of actions and a single reaction. Non-independent mounts do not use their actions unless commanded to do so by their rider. Independent mounts use their actions at their behest under the control of the DM, often following a set of “general tactics” defined by the player while training with the mount.\n\nWhile mounted, you can use an action to take the Command an Animal action. When you do so, your mount gains two actions to use at your behest. Most animals know the Leap, Seek, Stride, and Strike basic actions. If your mount is independent, a single Command action is sufficient to provide them orders for all of their actions (regardless of how many they may get each turn).\n\nIf an animal knows a special action, such as a horse’s Gallop, you can Command the Animal to perform the activity, but you must spend as many actions on Command an Animal as the activity’s number of actions. You can also spend multiple actions to Command the Animal to perform that number of basic actions on its next turn; for instance, you could spend 3 actions to Command an Animal to Stride three times or to Stride twice and then Strike.\n\nWhile mounted, you have advantage on all melee attacks against creatures smaller than your mount, and you have half-cover against all melee attacks that do not have the reach property. All attacks against your mount are made as normal. ",
+    "subsections": [
+      {
+        "name": "Taming a Mount",
+        "description": "When in the wilds, it is possible for a player to encounter wild creature’s suitable to serve as a mount, intelligent or otherwise. In order to be tameable, the mount must possess the necessary biological features to serve as a mount, and must be at least one size larger than the tamer (or grow to be one size larger by maturity).\n\nThe tamer must attempt a Nature check with a DC of  15 + Creature’s level, with the result of the roll being determined by the table below:"
+      }
+    ],
+    "chart": [
+      {
+        "modifier": "-5 or lower",
+        "result": "The creature becomes hostile and attacks you with one of the attacks in its stat block. You are thrown from the creature’s back, the attack automatically hits, and you are knocked prone. You can make a DC 15+ the creature’s level Athletics check to remount the creature, and then can attempt to continue the taming process. Your next taming check against this creature has disadvantage."
+      },
+      {
+        "modifier": "-4  to -1",
+        "result": "You attempt to train your mount, but the creature is spooked and attempts to buck you off. Make a DC 13 + creature’s level athletics check or be bucked off the creature. If you succeed, immediately repeat the check to tame the creature again. If you fail, you are knocked prone, take 1d6 bludgeoning damage, and must continue the taming process with the DC being increased by 1"
+      },
+      {
+        "modifier": "0",
+        "result": "You pacify the creature, and it begins to trust you. It serves as a willing mount for the next 8 hours, at which point you must repeat the check to continue the taming process."
+      },
+      {
+        "modifier": "+1 to +4",
+        "result": "You begin to form a bond with the creature. It serves as a willing mount for the next 24 hours, at which point you must repeat the check to continue the taming process. The DC for further checks is lowered by 1."
+      },
+      {
+        "modifier": "+5 or Higher",
+        "result": "Your bond solidifies with the creature, and it becomes your permanent mount and loyal ally."
+      }
+    ]
   },
   {
-    "name": "",
-    "description": ""
+    "name": "Vehicles",
+    "description": "For short spans of time (up to an hour), many animals move much faster than Humanoids. A mounted character can ride at a gallop for about an hour, covering up to 10 miles. If fresh Mounts are available every 8 to 10 miles, characters can cover larger distances at this pace, but this is very rare except in densely populated areas.\n\nCharacters in wagons, carriages, or other Land Vehicles travel up to 4 miles an hour, except where conditions don't permit vehicles to travel swiftly. Characters in a waterborne vessel are limited to the speed of the vessel. Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day.\n\nCertain Special Mounts, such as a Pegasus or Griffon, or Special vehicles, such as a Carpet of Flying, allow you to Travel more swiftly."
+  },
+  {
+    "name": "Falling",
+    "description": "In the rare situation when your character is clumsy and falls, is pushed, or otherwise leaps from a great height, they suffer bludgeoning damage equal to 3d6 for every 10 feet they fall. This damage ignores any armor or resistances."
+  },
+  {
+    "name": "Sneaking, Observed, Concealed, Undetected, and Invisible",
+    "description": "Over the course of your adventures, you or one of your enemies might find it profitable to hide, or otherwise obscure themselves from view. The following conditions describe a character's visibility, and the rules for interacting with them in each setting",
+    "subsections": [
+      {
+        "name": "Observed",
+        "description": "Any creature that is not hiding or is in plain sight of another creature is Observed. A creature that is observed can be attacked or interacted with at will. There is no bonus or penalty to interacting with them. A creature can attempt to become Concealed or Undetected by making a Stealth Check to hide from all creatures observing it."
+      },
+      {
+        "name": "Concealed",
+        "description": "A creature that is obscured from onlookers (such as in a partial hiding place, by a thick fog, or other vision impairing effect) is considered Concealed. While concealed, other creatures know what space you are in, but can’t tell your precise pose or exact location. \n\nYou can still be targeted, but you are tougher to hit or interact with. Any creature that attempts to target you with an attack, spell, or other effect must first make a DC 5 Flat check before attempting their action. If the check fails, their attack, spell, or other effect misses you completely. Area effects are not subject to this Flat check. "
+      },
+      {
+        "name": "Invisible",
+        "description": "When you are Invisible, other creatures cannot see you, tell which space you occupy, or target you, though you can still be affected by abilities that target an area. While you are Invisible, you have advantage on all attacks.\n\nWhile you are Invisible a creature can guess which square you’re in to try targeting you. It must pick a square and attempt an attack. This works like targeting a hidden creature (but instead requires a DC 11 flat check), but the flat check and attack roll are rolled in secret by the GM, who doesn’t reveal whether the attack missed due to failing the flat check, failing the attack roll, or choosing the wrong square."
+      },
+      {
+        "name": "Undetected",
+        "description": "While undetected, creatures around you are completely unaware of your presence. You’re considered Invisible as long as you remain undetected. Creatures can Seek to attempt to detect you.\n\nIf a creature succeeds at its Perception check against your Stealth DC, you become either invisible or concealed depending on the method you were using for stealth. \n\nIf you become invisible while someone can already see you, you start out Concealed to the observer (instead of undetected) until you successfully Sneak. You can’t become observed while invisible except via special abilities or magic."
+      }
+    ]
+  },
+  {
+    "name": "Vision and Light",
+    "description": "The presence or absence of light in an Environment creates three categories of illumination: Bright Light, Dim Light, and Darkness.",
+    "subsections": [
+      {
+        "name": "Bright Light / Daylight",
+        "description": "Most creatures see normally. Even gloomy days provide bright light, as do torches, lanterns, fires, and other sources of Illumination within a specific radius."
+      },
+      {
+        "name": "Dim Light / Shadows",
+        "description": "Details are lightly obscured in this light. An area of dim light is usually a boundary between a source of bright light, such as a torch or campfire, and surrounding darkness. The soft light of twilight and dawn also counts as dim light. A particularly brilliant full moon might bathe the land in dim light. Any check or roll that requires detailed perception (such as attacks, saving throws, or skill checks) has mitigatable disadvantage while in dim light."
+      },
+      {
+        "name": "Darkness",
+        "description": "Darkness heavily obscures an area. Characters face darkness outdoors at night (even most moonlit nights), within the confines of an unlit dungeon or a subterranean vault, in an unlit building,  or in an area of magical Darkness. Characters cannot see in darkness without magical assistance, and any check that requires vision automatically fails."
+      }
+    ]
+  },
+  {
+    "name": "Sizes",
+    "description": "Tiny - 4 may occupy a single 5 foot square\n\n- Small - 5 foot Square, but treated as small when calculating carry weight, grappling abilities, or other size related factors\n\n- Medium - 5 foot Square\n\n- Tall - 5 foot Square, but treated as large when calculating carry weight, grappling abilities, or other size related factors\n\n- Large - 10 foot Square\n\n- Huge - 15 foot Square\n\n- Giant - 20 foot Square\n\n- Gargantuan - 25 foot Square"
   }
 ]
