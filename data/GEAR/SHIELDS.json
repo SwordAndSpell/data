@@ -13,7 +13,7 @@
     "name": "Kite Shield",
     "cost": "10g",
     "defenseBonus": 2,
-    "movementPenalty": -5,
+    "movementPenalty": "-5",
     "strengthRequired": 11,
     "specialAbility": ""
   },
@@ -22,7 +22,7 @@
     "name": "Tower Shield",
     "cost": "50g",
     "defenseBonus": 3,
-    "movementPenalty": -10,
+    "movementPenalty": "-10",
     "strengthRequired": 15,
     "specialAbility": "As a single action, you may plant the shield in the ground to provide ¾ cover yourself and anyone behind you.\n\nYou may not move until you use an action to re-shoulder the shield"
   }
