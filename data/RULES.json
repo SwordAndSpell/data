@@ -30,14 +30,17 @@
     ]
   },
   {
+    "id": "cd505420-863b-4f94-a849-3af55820288c",
     "name": "Checks",
     "description": "A check is any attempt made by a player to accomplish a task in game. All checks are made by rolling a d20, and adding whatever modifier is relevant to the situation, whether that be your saving throw modifier, skill modifier, attack modifier, or just your standard ability modifiers.\n\nThis combined total is compared against the DC (difficulty class) of the task, with a “meet it to beat it” mindset. DC’s may or may not be known to the player, and the DM will inform them as to whether they have succeeded or failed.\n\nFor example, a rogue is attempting to pick a lock (with a Hidden DC of 17). The DM calls for a Thievery check, for which the rogue rolls a 12. The rogue has a +5 Thievery skill, and so they Succeed on the skill check!"
   },
   {
+    "id": "e5403cf1-b3bf-4eba-b2eb-fa956fe9fb51",
     "name": "Skill Proficiency Ranks",
     "description": "Each of your skills uses a “proficiency bonus” when determining the results of your roll. This bonus is determined by your proficiency level with the required skill. There are 6 levels of proficiency, ranging from Unskilled to Legendary. The calculations for each are as follows:\n\n- Unskilled: 0\n\n- Apprentice: 2\n\n- Trained: 4\n\n- Expert: 6\n\n- Master: 8\n\n- Legendary: 10"
   },
   {
+    "id": "ce740c40-b21f-46b9-8582-b80eac5b4df1",
     "name": "Luck",
     "description": "Each character has a luck pool with a number of points in it equal to their level + their charisma modifier (minimum of 1). This pool represents your character's innate ability to draw on the magical forces of the world around them \"pushing\" on the fabric of reality to bend it to their will.",
     "subsections": [
@@ -52,34 +55,42 @@
     ]
   },
   {
+    "id": "85b71b1b-cbcd-492c-a142-4c4838aac7f6",
     "name": "Critical Success and Failure",
     "description": "Whenever you roll an ability check, saving throw, attack roll, or any other check, there is always the chance to critically succeed or fail.\n\nA critical success occurs when you roll a natural 20 on the dice, or when your roll + any modifiers exceeds the target DC by ten or more. When attacking an enemy, a critical success results in doubling the number of damage dice rolled.\n\nA critical failure occurs when you roll a natural 1 on the dice, or when your roll + any modifiers fails to meet the target DC by ten or more."
   },
   {
+    "id": "5b630d53-408d-43d7-8961-766d49d867ce",
     "name": "Perception",
     "description": "Your perception bonus is your character’s ability to notice details in your surroundings.\n\nYour perception bonus is your Wisdom Modifier + your level.\n\nSometimes the DM may ask for your passive perception for determining things you notice while traveling or not actively looking. This score is calculated as 10 + your Wisdom Modifier + your level."
   },
   {
+    "id": "54a55587-e782-49ea-85d4-35ca1bef93f8",
     "name": "Advantage and Disadvantage",
     "description": "Sometimes, circumstances may call for a bonus or penalty to your roll. These effects may be minor (like half cover providing a +2 bonus to your Defense), or could be greater. For greater effects, your DM might rule that you have advantage or disadvantage on the roll. In the case of advantage, you will roll the d20 twice and keep the higher of the two rolls. In the case of disadvantage you do the same, only keeping the lower of the two rolls."
   },
   {
+    "id": "0e206d10-f906-45d6-92a1-b7230b5d159f",
     "name": "Attack Rolls",
     "description": "When making a melee attack you will roll a d20, and add any “To Hit” modifiers you may have. Usually this is your Strength Modifier + you level (if you are proficient with the weapon), but certain weapons (such as finesse weapons) may allow you to use Dexterity or another Ability Score to make the attack roll.\n\nWhen making a ranged attack you will roll a d20, and add any “To Hit” modifiers you may have. Usually this is your Dexterity Modifier + your level (if you are proficient with the weapon), but certain weapons may allow you to use Strength or another Ability to make the attack (for example thrown weapons).\n\nWhen making a spell attack (ranged or melee) you will roll a d20 and add your Spell Attack modifier to the roll. This modifier is calculated using the relevant Ability Score + your level (if you are proficient in spells of that type)."
   },
   {
+    "id": "ad943f8c-97d3-4403-ac4f-14224bd1b62d",
     "name": "Damage Rolls",
     "description": "When you hit an enemy with a melee attack, you may add your Strength modifier to the damage roll of the attack. This remains true for any melee weapon, even if that weapon allowed you to use a different Ability Score to make the attack roll.\n\nWhen you hit an enemy with a ranged attack with a ‘fired’ weapon (guns, bows, slings, etc…) , you may NOT add any Ability Score modifier to the damage roll. This remains true regardless if the weapon allows you to make the attack roll with an alternate Ability Score.\n\nWhen you hit an enemy with a ranged attack with a thrown weapon (javelins, darts, throwing knives or axes, etc...) , you may add your Strength modifier to the damage roll of the attack. This remains true regardless if the weapon allows you to make the attack roll with an alternate Ability Score."
   },
   {
+    "id": "62e7b505-fab5-40bb-8faa-27422255b028",
     "name": "Multiple Attack Penalty",
     "description": "Whenever a player takes the Attack action as one of their actions on their turn, they may make a single Melee, Ranged, or Thrown attack. \n\nIf they choose to take this action a second or third time on their turn, that attack roll is made with disadvantage. Some feats, spells, or other abilities might mitigate this disadvantage, negate it entirely, or even replace it with advantage.\n\nCertain characters might take the Multi-attack Ability Feature, which allows them to make multiple attacks in quick succession without facing the multi-attack penalty . Unless otherwise specified, additional attacks you make in the round after completing  a multi-attack ability count each previous attack made when determining your multi-attack penalty."
   },
   {
+    "id": "b5fd5a7f-3950-422c-8d98-8d7c8ac61a57",
     "name": "Range Increments",
     "description": "Each ranged weapon has a pair of ranges associated with it that determine its effectiveness.\n\nThe first number in a weapons range increment is its effective range: any attacks made up to this distance are made normally.\n\nThe second number in a weapon’s range increment is its maximum range: any attacks made at a distance between the effective range and its maximum range are made with disadvantage.\n\nIt is impossible to make a successful attack against an enemy at a distance greater than a weapon’s maximum range."
   },
   {
+    "id": "9949b7c0-523a-4a98-a8fa-7626d8619ec7",
     "name": "Damage",
     "description": "Each attack or damaging effect has an Type associated with it. This damage type can be mundane or magical (a bonfire deals regular or mundane fire damage, whereas a meteor storm from a spell deals magical fire damage).",
     "subsections": [
@@ -94,62 +105,77 @@
     ]
   },
   {
+    "id": "c0e02a91-08f3-43fa-b358-0b1e2596671d",
     "name": "Resistance and Weaknesses",
     "description": "Some creatures or armors are resistant or weak to attacks from certain elements.\n\nWhen a target has Weakness to an element, all damage it takes of that type is doubled (rounded up).\n\nWhen a target has Resistance to an element, all damage it takes of that type is halved (rounded down)"
   },
   {
+    "id": "09075f22-8cf4-4a98-8676-c5a8b988bb8b",
     "name": "Defense Rating",
     "description": "Defense Rating is numeric value of how difficult your character is to damage with an attack. In order to damage a character or object, the attacker must make an attack roll that meets or exceeds their target's Defense.\n\n- Defense =  9 + Dexterity Modifier (minimum of 0, up to your armor’s Defense Cap) + Armor’s Defense Bonus (min 0) + your level.\n\n- Touch Defense = 9 + Dexterity Modifier (minimum of 0, up to your armor’s Defense Cap (if you are wearing armor) + your level\n\n- Still Defense = 9 + Armor’s Defense Bonus + Your level\n\nEach armor set has a different bonus it applies to increase your Defense, and has a maximum Dexterity Bonus that can be applied to your Defense calculation while wearing it.\n\nEach armor also has an Armor value, which is a flat reduction to all damage that your character takes.\n\nCertain armors require a specific level of strength in order to wear them and still move properly. If you do not meet the Strength required for a set of armor, you suffer the full movement speed penalty for wearing that armor. If you do meet the Strength requirement for a set of armor, you can reduce its movement penalty by up to 5 feet. The powerful build racial perk further reduces this penalty by 5 feet.\n\nArmor sets marked with an * are noisy, and force you to make all stealth checks with disadvantage while wearing them.\n\nIf you lack proficiency with a given type of armor and still choose to wear it, you gain its full benefits, however: you suffer its full movement penalty regardless of your strength score, make all attack rolls with disadvantage, make all saving throws with disadvantage, and any target you force to make a saving throw does so with advantage."
   },
   {
+    "id": "803f28bc-47a1-4614-99b3-3cd4d064a585",
     "name": "Casting a Spell and Concentration",
     "description": "Most spells have a casting time of two actions, though there are some quick spells and cantrips that have a casting time of one action and some exceptionally powerful spells with a casting time of 3 actions. \n\nEach class with the spellcasting feature has slightly different mechanics, but there are a few general rules that all spell casters must follow.\n\n- If a spell requires concentration, you must take the Sustain a Spell action as the first action on each of your turns in order to maintain concentration on that spell. If you are concentrating on multiple spells: you may order the Sustain a Spell actions however you wish but they must be done before you can take any other actions.\n\n- Whenever you take damage from an attack, you must make a Fortitude saving throw to maintain concentration on your actively held spells. If you are holding concentration on multiple spells: you make separate rolls for each spell. The DC for these checks is equal to half the damage suffered by the attack (rounded up) or 11, whichever is higher."
   },
   {
+    "id": "9a56cb0a-51e8-45a1-b63e-2b2c1354cb8a",
     "name": "Spell Attacks",
     "description": "When making a spell attack you are proficient with: roll a d20 and add your casting modifier + your level to the roll. This attack does not add any modifiers to the damage rolls of the attack. All damage from spell attacks is considered magical, regardless of its damage type."
   },
   {
+    "id": "494c303b-5fb5-416c-9198-dcf77ac7b0d1",
     "name": "Spell Save DC",
     "description": "Sometimes a spell or other effect you initiate will cause your target to make a saving throw to avoid its effect. The Difficulty Class for this save is determined by the following calculation:\n\nSpell Save DC = 9 + your casting ability modifier + your level (if you are proficient with spells of that type)."
   },
   {
+    "id": "b997fba8-7568-46f2-bfd5-43e51aa0025c",
     "name": "Arcanite",
     "description": "Whenever a spell is cast there is a magical byproduct created called Arcanite. Arcanite is a highly unstable compound used in the production of all magical items. With the right care, Arcanite can be kept stable for almost a week, but without the proper storage it will fade within 24 hours. The standard unit of measurement for Arcanite is approximately equivalent to the level of spell casting required to create it. So 1c Arcanite is the byproduct of a single first level spell being cast, while 3c  might be from a single 3rd level spell, three 1st level spells, or a 2nd and 1st level spell. \n\nAs Arcanite is impossible to hoard, Arcanite collectors have replaced treasure hunters in many areas."
   },
   {
+    "id": "ee0ad6ba-6767-45a7-8b2c-d7463bc7d534",
     "name": "Runes and Gear Upgrades",
     "description": "Every weapon or set of armor can be upgraded by a skilled enough craftsman. Depending on the quality of the weapon or armor, it might have 1, 2, or 3 rune slots.\n\nRunes fall into two major categories, armor, and weapon runes.\n\nProtection runes for armor and striking runes for weapons do not stack."
   },
   {
+    "id": "35cb9bd4-6f93-4ca8-bb7b-7574cf6e5a3c",
     "name": "Initiative",
     "description": "It is often best to avoid conflict, however there are times when it may be unavoidable. In cases of combat, Initiative will be rolled to determine the order in which characters will act. The calculation for this roll is:\n\nD20 + your Wisdom Modifier + your Dexterity Modifier + your level\n\nThis roll captures your overall awareness (Wisdom) and your alacrity / ability to quickly act on perceived threats (Dexterity)."
   },
   {
+    "id": "5ea707b7-cad8-47bd-8abf-859cda7c2e58",
     "name": "Saving Throws",
     "description": "Throughout your adventuring, you will face many dangers both mundane and magical. These hazards will force you to make a saving throw: a roll to escape or avoid the harmful effect.\n\nThere are three types of saving throws, each based on different ability scores. The details and calculations for these saving throws are as follows:\n\n- Fortitude: (Con or Str + Your Level), used to “endure” (Str to physically resist the effect, constitution to endure its aftermath)\n\n- Reflex: (Dex or Wis + Your Level), used to “avoid” (wisdom to discern a threat, dexterity to get out of its way)\n\n- Will: (Int or Cha + Your Level), used to “resist” (intelligence to understand the attack on your mind, charisma to overpower it)"
   },
   {
+    "id": "84dde60c-4037-480b-b9a7-f6ea5cf1423a",
     "name": "Skills and their Uses",
     "description": "Arcana: understanding Arcane Magic, the other planes, and archaic runes.\n\n- Athletics: physical prowess and capabilities\n\n- Crafting: turn raw materials into usable items\n\n- Deception: lie convincingly and without repercussions\n\n- Insight: read the truth in a situation or in another person\n\n- Intimidation: convince someone to see things your way … or else\n\n- Investigation: detailed inspection to reveal hidden workings, meaning, or other details\n\n- Lore / History: recall knowledge about a particular topic\n\n- Medicine: practical and theoretical applications of anatomy and herbology\n\n- Nature: interacting with nature in any way, whether that be with plants, animals, or the elements both natural and magical\n\n- Performance: you put on one hell of a show\n\n- Persuasion: convince people to see your side, without cracking skulls\n\n- Religion: knowledge of all entities divine and unholy, the upper and lower planes, and cultural religious history\n\n- Society: understand local customs, familiar with culture locally and nationally, ability to blend in by societal standards\n\n- Stealth: remain hidden in a number of surroundings\n\n- Survival: subsist and thrive in hostile environments\n\n- Thievery: lockpick locks, palm objects, pick pockets, and keister valuables"
   },
   {
+    "id": "b273d5b1-378a-4a5b-8e78-fb75c53c3566",
     "name": "Skill Increases",
     "description": "Each of the skills above has its own unique proficiency bonus that is progressed independently by using “skill increases”. \n\nAt 1st level, your character gains a number of skill increases equal to 2 + their Intelligence modifier (even if your modifier is negative), and a skill they are automatically at the Trained proficiency level with.\n\nAt each level after 1st, your character gains a Skill Increase. This increase is used to raise your proficiency level in a single skill by 1 level. The skill proficiency progression is as follows:\n\nUntrained -> Apprentice -> Trained -> Expert -> Master -> Legendary\n\nWhenever your intelligence modifier increases, you gain an additional skill increase."
   },
   {
+    "id": "b1d9d0a7-7e12-4c27-ba8e-289b2872b73b",
     "name": "Flat Checks",
     "description": "There are times when a certain check will not qualify to have any of your character’s skill proficiencies or other ability score bonuses added to it. In this case, your DM may call for a “flat check”. A flat check is one where the final result of the roll is the result of the roll of the d20 without adding any additional modifiers."
   },
   {
+    "id": "f29b346b-fec6-4025-bd6e-5e41d8400000",
     "name": "Secret Checks",
     "description": "There are times when knowing the result of your roll might adversely affect the integrity of the scene at play. In such cases as these, the DM will ask you for your bonus in a given situation, and roll the d20 themselves. Regardless of the roll, they will inform you of the result (success / failure, etc). \n\nFor example: you and your party are delving into an ancient ruin, and you declare that you wish to search for traps. You know that you have a +8 bonus to perception. If you rolled the dice yourself, and saw that you rolled a 19 on dice, you would be extremely confident that there were no traps around. In the same way, if you rolled a 2 on the dice, even if the DM informs you that “You don’t find any traps” you are likely to proceed with caution as you the player know that the character’s roll wasn’t particularly effective.\n\nIn this scenario, knowing your character’s roll greatly influences your character’s behavior in a way they couldn’t explain in game. Using hidden rolls, you would know that “with a +8 to perception, I am pretty good at finding traps” but would be unaware of what dice roll you got. When the DM tells you “you don’t find any traps” your only option is to take that statement and follow it as your character would.\n\nAnother such case is stealth. When your character attempts to hide, they are often unaware of their success in doing so. In cases of extreme failure their lack of stealth may be blatantly obvious, but a successful attempt to hide is often a hidden roll."
   },
   {
+    "id": "74e479ac-2dbe-4380-a597-3b09858b9ca5",
     "name": "Contest Checks",
     "description": "At certain points in gameplay, players and their enemies will engage in conflict that might be resolved by contested checks. One such example is a Grapple: where a player attempts to grab an enemy, or Sneaking: where a player tries to remain unnoticed while doing other actions.\n\nThese contests are resolved in the following way:\n\nThe DM determines who is the Initiator or Instigator in the action, and who is the passive / reactive participant.\n\nThe DM determines what the appropriate skills are for each participant to use\n\nThe Instigator makes the appropriate skill check, which sets the DC for the passive participant to MEET TO BEAT\n\nThe results play out based on the result of the contest."
   },
   {
+    "id": "d9bca4ba-aa12-4ad1-8ace-05e5ddd38c53",
     "name": "Conditions",
     "description": "Throughout your adventures, various spells, traps, or other dangers might impose a series of conditions upon your character that alter their interactions and roles. These conditions are as follows:",
     "subsections": [
@@ -208,6 +234,7 @@
     ]
   },
   {
+    "id": "b846bcf0-19e6-41ab-84c2-22ed5fdf2b22",
     "name": "Cover",
     "description": "Walls, trees, creatures, and other obstacles can provide cover during combat, making a target more difficult to harm. A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover.\n\nThere are three degrees of cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren’t added together. For example, if a target is behind a creature that gives half cover and a tree trunk that gives three-quarters cover, the target has three-quarters cover.",
     "subsections": [
@@ -226,6 +253,7 @@
     ]
   },
   {
+    "id": "fe2dfece-61b0-45aa-82c4-bc975f65c244",
     "name": "Exhaustion",
     "description": "Missing a night’s rest, as well as some special abilities and environmental hazards, such as starvation and the long-­term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in five levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect’s description.",
     "chart": [
@@ -252,18 +280,22 @@
     ]
   },
   {
+    "id": "93c6288e-bb81-41c6-a6c5-90e3c4652144",
     "name": "Hit Points",
     "description": "Your character’s total hit points are calculated using the following algorithm.\n\nTotal Hit Points = {hit points at 1st level} + {hit dice roll from each subsequent level up} + {Constitution modifier * your current level -1}\n\nYour hit points at 1st level = Your racial hit points + your identity hit die maximum + your con modifier.\n\nYour hit points at subsequent levels is a collection of numbers from either rolling your identity’s hit dice at each level up, or by taking your identity’s average hit dice roll.\n\nThe Con modifier in this algorithm is retroactive, meaning that you do not have to track when your constitution modifier increases. (increasing your constitution modifier by 1 with result in an increase in Hit Points equal to your level)."
   },
   {
+    "id": "c690c45f-6aab-4710-b9e2-686022f78d06",
     "name": "Rest",
     "description": "A Rest is a period of extended downtime at least 8 hours long, during which a character sleeps or performs light activity: reading, talking, eating, or standing watch for no more than 2 hours. If the rest is interrupted by strenuous activity, the characters must begin the rest again to gain any benefit from it.\n\nAt the end of a Rest, a character regains a number of hit points equal to their level multiplied by their constitution modifier, and is cured of a single wound.\n\nA character can’t benefit from more than one Rest in a 24-hour period, and a character must have at least 1 hit point at the start of the rest to gain its benefits."
   },
   {
+    "id": "b6282d04-9df7-4fae-80f6-40c790900676",
     "name": "Wounds and Dying",
     "description": "Whenever your hit points are reduced to 0 (or below): you are knocked unconscious and begin to fade from this life. At the beginning of each of your turns while unconscious you must make a series of checks (once per round) to determine whether your condition stabilizes or deteriorates. \n\nThis check is a flat (no modifiers added) roll with a challenge DC of 10 (meet it to beat it). After 3 successful saves, you are stabilized: still unconscious and at 0 hit points, but you stop making death saving throws and are no longer dying. After 3 failed saves your character dies. These successes or failures do not need to be consecutive: keep track of both until you get three of a kind. \n\n If you roll a 20 on your death saving throw, you gain 1 hit point and immediately stand up and can take actions this turn. If you roll a 1, it counts as two failed rolls. If you suffer any damage while at 0 hit points, it adds 1 failed saving throw to your tally. If the damage comes from a critical hit, it counts as two instead.\n\nWhenever you are stabilized or healed to 1 hit point from unconscious you gain a wound. The next time you are reduced to 0 hit points, you begin with a number of failed saving throws equal to the number of wounds you have. If you have 3 wounds and are reduced to 0 hit points, you instantly die."
   },
   {
+    "id": "0056100e-5916-4ff0-a8be-f32878cfda5d",
     "name": "Actions",
     "description": "Each round of combat gains 3 actions and a reaction at the beginning of each of their turns. Reactions may be spent whenever a relevant trigger occurs, and actions are spent on that player’s turn. Players are ordered by their initiative rolls, which occur at the beginning of each combat encounter.",
     "subsections": [
@@ -282,6 +314,7 @@
     ]
   },
   {
+    "id": "a9f68e41-c180-464d-b3ff-6d06ed5b2f1b",
     "name": "Skill Actions",
     "description": "*ATEML* Denotes that an action requires at least the listed proficiency to perform that action. A range denotes that the ability may or may not be usable in given circumstances.\n\n*S* Denotes that a check is often a secret check, with the DM rolling using your modifiers.",
     "subsections": [
@@ -320,6 +353,7 @@
     ]
   },
   {
+    "id": "548b01e9-901b-49df-8907-768ef1b2e9b8",
     "name": "Movement, Terrain, and Traveling",
     "description": "Depending on the situation, your character or parties movement speed can vary greatly.",
     "subsections": [
@@ -342,6 +376,7 @@
     ]
   },
   {
+    "id": "17e8063b-4740-4612-b736-2b107e9af052",
     "name": "Mounts",
     "description": "On your turn, you can use one of your actions to Mount a willing creature. If the creature has not been trained as a mount, or is not willing, the action requires a successful Nature check. \n\nA mount is considered independent if it has an Intelligence score of 6 or higher. Regardless of your mount's Intelligence, they are granted temporary hit points equal to 4 times your level while they serve as your mount. These temporary hit points expire whenever they are not being ridden.\n\nA mount acts during its rider’s initiative, but has its own set of actions and a single reaction. Non-independent mounts do not use their actions unless commanded to do so by their rider. Independent mounts use their actions at their behest under the control of the DM, often following a set of “general tactics” defined by the player while training with the mount.\n\nWhile mounted, you can use an action to take the Command an Animal action. When you do so, your mount gains two actions to use at your behest. Most animals know the Leap, Seek, Stride, and Strike basic actions. If your mount is independent, a single Command action is sufficient to provide them orders for all of their actions (regardless of how many they may get each turn).\n\nIf an animal knows a special action, such as a horse’s Gallop, you can Command the Animal to perform the activity, but you must spend as many actions on Command an Animal as the activity’s number of actions. You can also spend multiple actions to Command the Animal to perform that number of basic actions on its next turn; for instance, you could spend 3 actions to Command an Animal to Stride three times or to Stride twice and then Strike.\n\nWhile mounted, you have advantage on all melee attacks against creatures smaller than your mount, and you have half-cover against all melee attacks that do not have the reach property. All attacks against your mount are made as normal. ",
     "subsections": [
@@ -374,14 +409,17 @@
     ]
   },
   {
+    "id": "9ed319ce-9497-4ad3-bef4-a07aa7634982",
     "name": "Vehicles",
     "description": "For short spans of time (up to an hour), many animals move much faster than Humanoids. A mounted character can ride at a gallop for about an hour, covering up to 10 miles. If fresh Mounts are available every 8 to 10 miles, characters can cover larger distances at this pace, but this is very rare except in densely populated areas.\n\nCharacters in wagons, carriages, or other Land Vehicles travel up to 4 miles an hour, except where conditions don't permit vehicles to travel swiftly. Characters in a waterborne vessel are limited to the speed of the vessel. Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day.\n\nCertain Special Mounts, such as a Pegasus or Griffon, or Special vehicles, such as a Carpet of Flying, allow you to Travel more swiftly."
   },
   {
+    "id": "15f3684a-da05-4752-b1af-0131c7569e56",
     "name": "Falling",
     "description": "In the rare situation when your character is clumsy and falls, is pushed, or otherwise leaps from a great height, they suffer bludgeoning damage equal to 3d6 for every 10 feet they fall. This damage ignores any armor or resistances."
   },
   {
+    "id": "292514d1-4858-47a5-80e5-150cc5b96f09",
     "name": "Sneaking, Observed, Concealed, Undetected, and Invisible",
     "description": "Over the course of your adventures, you or one of your enemies might find it profitable to hide, or otherwise obscure themselves from view. The following conditions describe a character's visibility, and the rules for interacting with them in each setting",
     "subsections": [
@@ -404,6 +442,7 @@
     ]
   },
   {
+    "id": "1902cf13-d8d6-495d-b3ab-130e993bddc2",
     "name": "Vision and Light",
     "description": "The presence or absence of light in an Environment creates three categories of illumination: Bright Light, Dim Light, and Darkness.",
     "subsections": [
@@ -422,6 +461,7 @@
     ]
   },
   {
+    "id": "e25ca78a-6846-4bb6-b7b7-9ae24b4f5118",
     "name": "Sizes",
     "description": "Tiny - 4 may occupy a single 5 foot square\n\n- Small - 5 foot Square, but treated as small when calculating carry weight, grappling abilities, or other size related factors\n\n- Medium - 5 foot Square\n\n- Tall - 5 foot Square, but treated as large when calculating carry weight, grappling abilities, or other size related factors\n\n- Large - 10 foot Square\n\n- Huge - 15 foot Square\n\n- Giant - 20 foot Square\n\n- Gargantuan - 25 foot Square"
   }
