@@ -2,6 +2,7 @@
   {
     "Name": "Acid Splash",
     "Tags": ["Arcane", "Primal"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "Instantaneous",
     "School": "Conjuration",
@@ -13,6 +14,7 @@
   {
     "Name": "Blade Ward",
     "Tags": ["Arcane", "Divine"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "1 round",
     "School": "Abjuration",
@@ -24,6 +26,7 @@
   {
     "Name": "Control Flames",
     "Tags": ["Arcane","Primal"],
+    "Level": 0,
     "Casting Speed": "1 Action",
     "Duration": "Varies",
     "School": "Transmutation",
@@ -35,6 +38,7 @@
   {
     "Name": "Create Bonfire",
     "Tags": ["Primal"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "Lasts up to 1 minute",
     "School": "Conjuration",
@@ -46,6 +50,7 @@
   {
     "Name": "Dancing Lights",
     "Tags": ["Arcane"],
+    "Level": 0,
     "Casting Speed": "1 Action",
     "Duration": "Lasts up to 1 minute",
     "School": "Evocation",
@@ -57,6 +62,7 @@
   {
     "Name": "Dark Lash (Occult)",
     "Tags": ["Arcane"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "1 round",
     "School": "Necromancy",
@@ -68,6 +74,7 @@
   {
     "Name": "Daze",
     "Tags": ["Divine"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "Instantaneous",
     "School": "Enchantment",
@@ -79,6 +86,7 @@
   {
     "Name": "Detect Magic ",
     "Tags": ["Arcane", "Divine", "Primal"],
+    "Level": 0,
     "Casting Speed": "3 Actions",
     "Duration": "Instantaneous",
     "School": "Divination",
@@ -90,6 +98,7 @@
   {
     "Name": "Detect Poison and Disease",
     "Tags": ["Arcane", "Divine", "Primal"],
+    "Level": 0,
     "Casting Speed": "1 Action",
     "Duration": "Up to 10 Minutes",
     "School": "Divination",
@@ -101,6 +110,7 @@
   {
     "Name": "Divine Lance",
     "Tags": ["Divine"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "Instantaneous",
     "School": "Enchantment",
@@ -112,6 +122,7 @@
   {
     "Name": "Druidcraft",
     "Tags": ["Primal"],
+    "Level": 0,
     "Casting Speed": "1 Action",
     "Duration": "Instantaneous",
     "School": "Transmutation",
@@ -123,6 +134,7 @@
   {
     "Name": "Eldritch Blast",
     "Tags": ["Arcane"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "Instantaneous",
     "School": "Evocation",
@@ -134,6 +146,7 @@
   {
     "Name": "Elemental Resistance",
     "Tags": ["Arcane", "Divine", "Primal"],
+    "Level": 0,
     "Casting time": "3 Actions",
     "Duration": "Up to 10 minutes",
     "School": "Abjuration",
@@ -145,6 +158,7 @@
   {
     "Name": "Electric Arc",
     "Tags": ["Arcane", "Primal"],
+    "Level": 0,
     "Casting time": "2 Actions",
     "Duration": "Instantaneous",
     "School": "Evocation",
@@ -156,6 +170,7 @@
   {
     "Name": "Encode Thoughts (Occult)",
     "Tags": ["Arcane"],
+    "Level": 0,
     "Casting Speed": "1 Action",
     "Duration": "Until Dispelled",
     "School": "Enchantment",
@@ -167,6 +182,7 @@
   {
     "Name": "Fire Bolt",
     "Tags": ["Arcane", "Primal"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "Instantaneous",
     "School": "Evocation",
@@ -178,6 +194,7 @@
   {
     "Name": "Frostbite",
     "Tags": ["Arcane", "Primal"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "Instantaneous",
     "School": "Evocation",
@@ -189,6 +206,7 @@
   {
     "Name": "Fling",
     "Tags": ["Arcane", "Divine"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "Instantaneous",
     "School": "Transmutation",
@@ -200,6 +218,7 @@
   {
     "Name": "Guidance",
     "Tags": [ "Divine"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "Up to 1 minute",
     "School": "Divination",
@@ -211,6 +230,7 @@
   {
     "Name": "Gust",
     "Tags": ["Primal"],
+    "Level": 0,
     "Casting Speed": "1 Action",
     "Duration": "Instantaneous",
     "School": "Transmutation",
@@ -222,6 +242,7 @@
   {
     "Name": "Infestation",
     "Tags": ["Primal"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "Instantaneous",
     "School": "Conjuration",
@@ -233,6 +254,7 @@
   {
     "Name": "Light",
     "Tags": ["Divine"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "1 hour",
     "School": "Evocation",
@@ -244,6 +266,7 @@
   {
     "Name": "Lightning Lash",
     "Tags": ["Arcane", "Primal"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "Instantaneous",
     "School": "Evocation",
@@ -255,6 +278,7 @@
   {
     "Name": "Mage Hand",
     "Tags": ["Arcane"],
+    "Level": 0,
     "Casting Speed": "1 Action",
     "Duration": "1 minute",
     "School": "Conjuration",
@@ -266,6 +290,7 @@
   {
     "Name": "Mending",
     "Tags": ["Divine", "Primal"],
+    "Level": 0,
     "Casting Speed": "1 minute",
     "Duration": "Instantaneous",
     "School": "Transmutation",
@@ -277,6 +302,7 @@
   {
     "Name": "Mental Assault (Occult)",
     "Tags": ["Arcane"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "Up to 1 round",
     "School": "Enchantment",
@@ -288,6 +314,7 @@
   {
     "Name": "Message",
     "Tags": ["Arcane", "Divine", "Primal"],
+    "Level": 0,
     "Casting Speed": "1-3 Actions",
     "Duration": "1 round",
     "School": "Transmutation",
@@ -299,6 +326,7 @@
   {
     "Name": "Minor Illusion",
     "Tags": ["Arcane", "Divine", "Primal"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "1 minute",
     "School": "Illusion",
@@ -310,6 +338,7 @@
   {
     "Name": "Mold Earth",
     "Tags": ["Primal"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "varies",
     "School": "Transmutation",
@@ -321,6 +350,7 @@
   {
     "Name": "Poison Spray",
     "Tags": ["Arcane", "Primal"],
+    "Level": 0,
     "Casting Speed": "1 Action",
     "Duration": "Instantaneous",
     "School": "Conjuration",
@@ -332,6 +362,7 @@
   {
     "Name": "Prestidigitation",
     "Tags": ["Arcane"],
+    "Level": 0,
     "Casting Speed": "1 Action",
     "Duration": "Up to 1 hour",
     "School": "Transmutation",
@@ -343,6 +374,7 @@
   {
     "Name": "Primal Savagery",
     "Tags": ["Primal"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "Instantaneous",
     "School": "Transmutation",
@@ -354,6 +386,7 @@
   {
     "Name": "Produce Flame",
     "Tags": ["Primal"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "10 minutes",
     "School": "Conjuration",
@@ -365,6 +398,7 @@
   {
     "Name": "Ray of Frost",
     "Tags": ["Arcane", "Primal"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "Instantaneous",
     "School": "Evocation",
@@ -376,6 +410,7 @@
   {
     "Name": "Sacred Flame",
     "Tags": ["Divine"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "Instantaneous",
     "School": "Evocation",
@@ -387,6 +422,7 @@
   {
     "Name": "Sapping Sting",
     "Tags": ["Primal"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "Instantaneous",
     "School": "Necromancy",
@@ -398,6 +434,7 @@
   {
     "Name": "Shape Water",
     "Tags": ["Primal"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "Varies",
     "School": "Transmutation",
@@ -409,6 +446,7 @@
   {
     "Name": "Shillelagh",
     "Tags": ["Primal"],
+    "Level": 0,
     "Casting Speed": "1 Action",
     "Duration": "1 minute",
     "School": "Transmutation",
@@ -420,6 +458,7 @@
   {
     "Name": "Shocking Grasp",
     "Tags": ["Arcane", "Primal"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "Instantaneous",
     "School": "Evocation",
@@ -431,6 +470,7 @@
   {
     "Name": "Spare the Dying",
     "Tags": ["Divine", "Primal"],
+    "Level": 0,
     "Casting Speed": "1 Action",
     "Duration": "Instantaneous",
     "School": "Necromancy",
@@ -442,6 +482,7 @@
   {
     "Name": "Sword Burst",
     "Tags": ["Arcane", "Divine"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "Instantaneous",
     "School": "Conjuration",
@@ -453,6 +494,7 @@
   {
     "Name": "Thaumaturgy",
     "Tags": ["Divine"],
+    "Level": 0,
     "Casting Speed": "1 Action",
     "Duration": "Varies",
     "School": "Transmutation",
@@ -464,6 +506,7 @@
   {
     "Name": "Thorn Whip",
     "Tags": ["Primal"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "Instantaneous",
     "School": "Transmutation",
@@ -475,6 +518,7 @@
   {
     "Name": "Thunderclap",
     "Tags": ["Arcane", "Primal"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "Instantaneous",
     "School": "Evocation",
@@ -486,6 +530,7 @@
   {
     "Name": "Toll the Dead",
     "Tags": ["Divine"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "Instantaneous",
     "School": "Necromancy",
@@ -497,6 +542,7 @@
   {
     "Name": "True Strike",
     "Tags": ["Arcane", "Divine"],
+    "Level": 0,
     "Casting Speed": "2 Actions",
     "Duration": "Up to 1 round",
     "School": "Divination",
@@ -508,6 +554,7 @@
   {
     "Name": "Vicious Mockery (Occult)",
     "Tags": ["Arcane"],
+    "Level": 0,
     "Casting Speed": "1 Action",
     "Duration": "Instantaneous",
     "School": "Enchantment",
@@ -519,6 +566,7 @@
   {
     "Name": "Ward the Innocent",
     "Tags": ["Divine"],
+    "Level": 0,
     "Casting Speed": "3 Actions",
     "Duration": "Up to 1 minute",
     "School": "Abjuration",
@@ -530,6 +578,7 @@
   {
     "Name": "Word of Radiance",
     "Tags": ["Divine"],
+    "Level": 0,
     "Casting Speed": "1 Action",
     "Duration": "Instantaneous",
     "School": "Evocation",
