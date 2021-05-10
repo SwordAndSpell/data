@@ -22,7 +22,7 @@
   {
     "id": "dbc7dccf-75bd-429c-a5e4-486a4e644a66",
     "name": "Thick Skin",
-    "description": "When you are not wearing armor, your Defense score is equal to 9 + your Dexterity Modifier + your Constitution Modifier + your level, your Stuck Defense score is equal to 9 + your Constitution Modifier + your level, and your Naked Defense is equal to 9 + your Dexterity Modifier + your Constitution Modifier + your level.\n\nWhen wearing Light or Medium armor, you can use your Constitution Modifier in place of your Dexterity modifier when determining your defense. Using your Constitution Modifier this way allows you to ignore the Dexterity bonus maximums for light and medium armors."
+    "description": "When you are not wearing armor, your defense scores are calculated as follows: \n\nDefense score = 9 + your Dexterity Modifier + your Constitution Modifier + your level\n\nStuck Defense = 9 + your Constitution Modifier + your level\n\nNaked Defense = 9 + your Dexterity Modifier + your Constitution Modifier + your level.\n\nWhen wearing Light or Medium armor, you can use your Constitution Modifier in place of your Dexterity modifier when determining your defense. Using your Constitution Modifier this way allows you to ignore the Dexterity bonus maximums for light and medium armors."
   },
   {
     "id": "99aee4f0-cedd-41a8-bca7-24c5884d0dfc",
@@ -72,7 +72,7 @@
   {
     "id": "6a45b2e7-f139-43fb-ad2c-b9c4b79d29b6",
     "name": "Prescient",
-    "description": "When you are not wearing armor, your Defense score is equal to 9 + your Dexterity Modifier + your Wisdom modifier + your level, your Stuck Defense score is equal to 9 + your level, and your Touch Defense is equal to 9 + your Wisdom Modifier + your Dexterity Modifier + your level.\n\nAdditionally, while you are not wearing armor, your movement speed increases by 10 feet."
+    "description": "When you are not wearing armor, your Defense calculations are as follows: \n\nDefense = 9 + your Dexterity Modifier + your Wisdom modifier + your level\n\nStuck Defense = 9 + your level\n\nTouch Defense = 9 + your Wisdom Modifier + your Dexterity Modifier + your level.\n\nAdditionally, while you are not wearing armor, your movement speed increases by 10 feet."
   },
   {
     "id": "58d34625-cb48-4f2a-96df-779282480f00",
@@ -97,12 +97,12 @@
   {
     "id": "35b29f30-7f18-4ae8-bf5e-f70dd4a98012",
     "name": "Font of Healing and Harm",
-    "description": "As a Priest, you have access to a Font of Healing and Harm that you can tap into. You always have the spells Heal and Harm prepared, and they don’t count towards the number of spells you have prepared for the day. This font provides you with a number of casts of these spells (cast at a level equal to ½ your spellcasting level, rounded up) per day equal to your Wisdom Modifier."
+    "description": "As a Priest, you have access to a Font of Healing and Harm that you can tap into. You always have the spells Heal and Harm prepared, and they don’t count towards the number of spells you have prepared for the day.\n\nThis font provides you with a number of casts of these spells (cast at a level equal to ½ your spellcasting level, rounded up) per day equal to your Wisdom Modifier."
   },
   {
     "id": "0d1c7944-fc97-4c14-b098-8056ac92d073",
     "name": "Sneak Attack",
-    "description": "You are capable of targeting your enemy’s weak points to inflict massive damage. When you make an attack roll with a finesse weapon that does slashing or piercing damage against an enemy and you have advantage on the attack, or when an ally is within 5’ of your target, you can add additional d6s of the same damage type equal to your level. You can use this ability once per turn."
+    "description": "You are capable of targeting your enemy’s weak points to inflict massive damage. When you make an attack roll with a finesse weapon that does slashing or piercing damage against an enemy and you have advantage on the attack, or when an ally is within 5 feet of your target, you can add additional d6s of the same damage type equal to your level. You can use this ability once per turn."
   },
   {
     "id": "69ae7236-0fcc-4eae-be2f-da482a0c3e6f",
@@ -187,7 +187,7 @@
   {
     "id": "8c1a9d98-ee20-4bba-a08b-6def7b764d4c",
     "name": "Starting Equipment",
-    "description": "At first level, you start with the equipment below:\n\n• (a) a Staff or (b) a wand or (c) an arcane focus\n\n• (a) a dagger or (b) a light crossbow\n\n• Wizard’s clothes\n\n• A dagger\n\n• A backpack with a bedroll, mess kit, torch, rations, waterskin, and 50’ of rope\n\n• 15 gold"
+    "description": "At first level, you start with the equipment below:\n\n• (a) a Staff or (b) a wand or (c) an arcane focus\n\n• (a) a dagger or (b) a light crossbow\n\n• Wizard’s clothes\n\n• A dagger\n\n• A backpack with a bedroll, mess kit, torch, rations, waterskin, and 50 feet of rope\n\n• 15 gold"
   },
   {
     "id": "c91c22be-dff7-42a3-9abe-e9baa496eb02",
@@ -207,7 +207,7 @@
   {
     "id": "ec029efc-3421-4c8e-b5e0-b607c2b2bcd5",
     "name": "Starting Equipment",
-    "description": "At first level, you start with the equipment below:\n\n• (a) Greataxe or (b) any Martial Weapon\n\n• (a) Two hand axes or (b) any simple weapon\n\n• 4 Javelins\n\n• A backpack with a bedroll, tinderbox, torch, rations, waterskin, and 50’ of rope\n\n• 20 gold"
+    "description": "At first level, you start with the equipment below:\n\n• (a) Greataxe or (b) any Martial Weapon\n\n• (a) Two hand axes or (b) any simple weapon\n\n• 4 Javelins\n\n• A backpack with a bedroll, tinderbox, torch, rations, waterskin, and 50 feet of rope\n\n• 20 gold"
   },
   {
     "id": "21c399ae-c3b6-447b-98d6-a1e7c1669678",
@@ -227,7 +227,7 @@
   {
     "id": "bf3a0c34-92ed-41e5-bb1e-e15f86a34d0a",
     "name": "Starting Equipment",
-    "description": "At first level, you start with the equipment below:\n\n• (a) a Rapier or (b) a Longsword or (c) any simple weapon\n\n• (a) a lute or (b) any other instrument or (c) a wand or arcane focus\n\n• Leather armor\n\n• A dagger\n\n• A backpack with a bedroll, tinderbox, torch, rations, waterskin, and 50’ of rope\n\n• 25 gold"
+    "description": "At first level, you start with the equipment below:\n\n• (a) a Rapier or (b) a Longsword or (c) any simple weapon\n\n• (a) a lute or (b) any other instrument or (c) a wand or arcane focus\n\n• Leather armor\n\n• A dagger\n\n• A backpack with a bedroll, tinderbox, torch, rations, waterskin, and 50 feet of rope\n\n• 25 gold"
   },
   {
     "id": "c62ac6c7-7fa5-4ab6-9bfc-77238ba117cd",
@@ -247,7 +247,7 @@
   {
     "id": "190af154-bf3b-493d-8851-18827cc76540",
     "name": "Starting Equipment",
-    "description": "At first level, you start with the equipment below:\n\n• (a) a weapon and a shield or (b) two light weapons or (c) a bow and a quiver of arrows\n\n• (a) leather armor or (b) a chain shirt or (c) ring mail\n\n• (a) a holy symbol or (b) an emblazoned shield (c) a banner\n\n• A backpack with a bedroll, mess kit, torch, rations, waterskin, and 50’ of rope\n\n• 20 gold"
+    "description": "At first level, you start with the equipment below:\n\n• (a) a weapon and a shield or (b) two light weapons or (c) a bow and a quiver of arrows\n\n• (a) leather armor or (b) a chain shirt or (c) ring mail\n\n• (a) a holy symbol or (b) an emblazoned shield (c) a banner\n\n• A backpack with a bedroll, mess kit, torch, rations, waterskin, and 50 feet of rope\n\n• 20 gold"
   },
   {
     "id": "0b15f79e-0b2e-4d15-8572-91a4a445c6e0",
@@ -267,7 +267,7 @@
   {
     "id": "e1021544-2c89-491e-a2a6-81dd26805393",
     "name": "Starting Equipment",
-    "description": "At first level, you start with the equipment below:\n\n• (a) a light crossbow and 20 bolts or (b) any simple weapon\n\n• (a) a staff or (b) a wand or (c) a bloodline relic to channel your spells through\n\n• Two daggers\n\n• A backpack with a bedroll, an heirloom trinket, torch, rations, waterskin, and 50’ of rope\n\n• 20 gold"
+    "description": "At first level, you start with the equipment below:\n\n• (a) a light crossbow and 20 bolts or (b) any simple weapon\n\n• (a) a staff or (b) a wand or (c) a bloodline relic to channel your spells through\n\n• Two daggers\n\n• A backpack with a bedroll, an heirloom trinket, torch, rations, waterskin, and 50 feet of rope\n\n• 20 gold"
   },
   {
     "id": "f6280e37-6e91-42cf-b7b4-5d0067055ba4",
@@ -287,7 +287,7 @@
   {
     "id": "806adfb1-50b8-4baa-8767-adc45d76e3c9",
     "name": "Starting Equipment",
-    "description": "At first level, you start with the equipment below:\n\n• (a) a shortsword or (b) any simple weapon\n\n• (a) two daggers or (b) ten darts\n\n• Simple travelers clothes\n\n• A backpack with a bedroll, torch, rations, waterskin, and 50’ of rope\n\n• 10 gold"
+    "description": "At first level, you start with the equipment below:\n\n• (a) a shortsword or (b) any simple weapon\n\n• (a) two daggers or (b) ten darts\n\n• Simple travelers clothes\n\n• A backpack with a bedroll, torch, rations, waterskin, and 50 feet of rope\n\n• 10 gold"
   },
   {
     "id": "775353bd-c3f7-4324-856d-a09d363f685d",
@@ -307,7 +307,7 @@
   {
     "id": "f54c9299-d6b6-4ba3-ade8-c860349c8c7a",
     "name": "Starting Equipment",
-    "description": "At first level, you start with the equipment below:\n\n• (a) a simple weapon and a shield or (b) two light weapons\n\n• (a) leather armor or (b) a chain shirt\n\n• (a) a holy symbol or (b) an emblazoned shield (c) a banner\n\n• A backpack with a bedroll, mess kit, torch, rations, waterskin, and 50’ of rope\n\n• 20 gold"
+    "description": "At first level, you start with the equipment below:\n\n• (a) a simple weapon and a shield or (b) two light weapons\n\n• (a) leather armor or (b) a chain shirt\n\n• (a) a holy symbol or (b) an emblazoned shield (c) a banner\n\n• A backpack with a bedroll, mess kit, torch, rations, waterskin, and 50 feet of rope\n\n• 20 gold"
   },
   {
     "id": "be490c66-4d16-48f4-bd69-e88cde37f803",
@@ -327,7 +327,7 @@
   {
     "id": "b1ce4460-ff6e-4354-8113-b7ec881bf532",
     "name": "Starting Equipment",
-    "description": "At first level, you start with the equipment below:\n\n• (a) rapier or (b) a shortsword\n\n• (a) shortbow and a quiver of arrows (b) a shortsword\n\n• (a) leather armor or (b) padded armor\n\n• two daggers\n\n• Thieves’ tools\n\n• A backpack with a bedroll, crowbar, climbing gear, torch, rations, waterskin, and 50’ of rope\n\n• 30 gold"
+    "description": "At first level, you start with the equipment below:\n\n• (a) rapier or (b) a shortsword\n\n• (a) shortbow and a quiver of arrows (b) a shortsword\n\n• (a) leather armor or (b) padded armor\n\n• two daggers\n\n• Thieves’ tools\n\n• A backpack with a bedroll, crowbar, climbing gear, torch, rations, waterskin, and 50 feet of rope\n\n• 30 gold"
   },
   {
     "id": "bf883285-07f1-40a3-a6a8-427007fc820a",
@@ -347,7 +347,7 @@
   {
     "id": "e95e1e81-cc74-405f-a9dc-fa277fd68b0c",
     "name": "Starting Equipment",
-    "description": "At first level, you start with the equipment below:\n\n• (a) a weapon and a shield or (b) two light weapons or (c) a bow and a quiver of arrows\n\n• (a) leather armor or (b) a chain shirt\n\n• (a) a magic staff or (b) a wand or (c) an arcane focus\n\n• A backpack with a bedroll, mess kit, torch, rations, waterskin, and 50’ of rope\n\n• 15 gold"
+    "description": "At first level, you start with the equipment below:\n\n• (a) a weapon and a shield or (b) two light weapons or (c) a bow and a quiver of arrows\n\n• (a) leather armor or (b) a chain shirt\n\n• (a) a magic staff or (b) a wand or (c) an arcane focus\n\n• A backpack with a bedroll, mess kit, torch, rations, waterskin, and 50 feet of rope\n\n• 15 gold"
   },
   {
     "id": "4e2029b4-b30d-46fb-aab8-5a01a6aa0ed3",
@@ -367,7 +367,7 @@
   {
     "id": "06f53cf3-92ac-4163-90b5-bc212fe9ea82",
     "name": "Starting Equipment",
-    "description": "At first level, you start with the equipment below:\n\n• (a) two shortswords (b) two melee weapons of your choice\n\n• (a) leather armor or (b) scalemail\n\n• (a) a wooden staff or (b) an item that binds you to nature\n\n• a bow and a quiver of arrows\n\n• A backpack with a bedroll, mess kit, torch, rations, waterskin, and 50’ of rope\n\n• 10 gold"
+    "description": "At first level, you start with the equipment below:\n\n• (a) two shortswords (b) two melee weapons of your choice\n\n• (a) leather armor or (b) scalemail\n\n• (a) a wooden staff or (b) an item that binds you to nature\n\n• a bow and a quiver of arrows\n\n• A backpack with a bedroll, mess kit, torch, rations, waterskin, and 50 feet of rope\n\n• 10 gold"
   },
   {
     "id": "d9cfe3a9-c8f6-40ef-84d4-61a26f55eb84",
@@ -387,7 +387,7 @@
   {
     "id": "67ea2beb-9bd8-437d-aaf3-42fa181d7ced",
     "name": "Starting Equipment",
-    "description": "At first level, you start with the equipment below:\n\n• (a) ring mail or (b) a leather armor or (c) chain shirt\n\n• (a) a martial weapon and a shield or (b) two martial weapons\n\n• (a) a light crossbow and a brace of bolts or (b) two hand axes or (c) a longbow and a quiver of arrows\n\n• Two daggers\n\n• A backpack with a bedroll, whetstone, torch, rations, waterskin, and 50’ of rope\n\n• 25 gold"
+    "description": "At first level, you start with the equipment below:\n\n• (a) ring mail or (b) a leather armor or (c) chain shirt\n\n• (a) a martial weapon and a shield or (b) two martial weapons\n\n• (a) a light crossbow and a brace of bolts or (b) two hand axes or (c) a longbow and a quiver of arrows\n\n• Two daggers\n\n• A backpack with a bedroll, whetstone, torch, rations, waterskin, and 50 feet of rope\n\n• 25 gold"
   },
   {
     "id": "5db3eaeb-c969-42e6-b6e7-152befd56e41",
@@ -407,6 +407,6 @@
   {
     "id": "33340eac-a2f1-4656-acbd-7d4e5cbd2ee4",
     "name": "Starting Equipment",
-    "description": "At first level, you start with the equipment below:\n\n• (a) a simple weapon and a wooden shield (b) a staff\n\n• (a) a scimitar (b) a simple weapon\n\n• (a) leather armor or (b) hide armor\n\n• (a) a druidic staff or (b) a wand or (c) a natural object that binds you to nature\n\n• A backpack with a bedroll, mess kit, torch, rations, waterskin, and 50’ of rope\n\n• 20 gold"
+    "description": "At first level, you start with the equipment below:\n\n• (a) a simple weapon and a wooden shield (b) a staff\n\n• (a) a scimitar (b) a simple weapon\n\n• (a) leather armor or (b) hide armor\n\n• (a) a druidic staff or (b) a wand or (c) a natural object that binds you to nature\n\n• A backpack with a bedroll, mess kit, torch, rations, waterskin, and 50 feet of rope\n\n• 20 gold"
   }
 ]

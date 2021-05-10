@@ -98,7 +98,7 @@
   {
     "id": "43298e98-ebb4-4d48-b0b2-19ea0220321b",
     "name": "Rock-foot",
-    "description": "You have advantage on athletics checks against being grappled, shoved, or knocked prone. Your fists are as if made of stone. Your unarmed attacks do 1d6 + your strength modifier bludgeoning damage.\n\nIf you do not already have proficiency with unarmed attacks, your proficiency is Trained for the purposes of determining your attack modifiers.",
+    "description": "You have advantage on athletics checks against being grappled, shoved, or knocked prone. Your fists are as if made of stone. Your unarmed attacks do 1d6 + your strength modifier bludgeoning damage.\n\nYou are proficient with unarmed attacks.",
     "requirements": "",
     "penalty": "",
     "raceID": "db207097-a108-4be7-b16c-639c409d870d"
