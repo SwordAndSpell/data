@@ -6,7 +6,7 @@
     "defense": "12 + the spell's level",
     "armor": "the spell's level",
     "hitPoints": "10 * the spell's level",
-    "speed": "Land: 30ft, Fly 30ft\n\nHover (Beholderkin only)",
+    "speed": "Land: 30ft, Fly 30ft\nHover (Beholderkin only)",
     "strength": "16 (+3)",
     "dexterity": "10 (+0)",
     "constitution": "16 (+3)",
@@ -34,15 +34,15 @@
       },
       {
         "name": "Eye Ray (Beholderkin Only)",
-        "description": "Ranged Attack: your spell attack modifier to hit, range 150 ft, one target.\n\nOn Hit: 1d8 + 3 + the spell's level psychic damage"
+        "description": "Ranged Attack: your spell attack modifier to hit, range 150 ft, one target.\nOn Hit: 1d8 + 3 + the spell's level psychic damage"
       },
       {
         "name": "Claws (Slaad Only)",
-        "description": "Melee Attack: your spell attack modifier to hit, reach 5 ft, one target.\n\nOn Hit: 1d10 + 3 + the spell's level slashing damage. If the target is a creature, it can't regain hit points until the start of the aberration's next turn"
+        "description": "Melee Attack: your spell attack modifier to hit, reach 5 ft, one target.\nOn Hit: 1d10 + 3 + the spell's level slashing damage. If the target is a creature, it can't regain hit points until the start of the aberration's next turn"
       },
       {
         "name": "Psychic Slam (Star Spawn Only)",
-        "description": "Melee Attack: your spell attack modifier to hit, reach 5 ft, one target.\n\nOn Hit: 1d8 + 3 + the spell's level psychic damage"
+        "description": "Melee Attack: your spell attack modifier to hit, reach 5 ft, one target.\nOn Hit: 1d8 + 3 + the spell's level psychic damage"
       }
     ]
   },
@@ -63,7 +63,7 @@
     "fortitude": "4 + the spell's level",
     "reflex": "2 + the spell's level",
     "will": "-3 + the spell's level",
-    "senses": "Darkvision 120ft (Air and Water Only)\n\nKeen Hearing and Smell (Land)",
+    "senses": "Darkvision 120ft (Air and Water Only)\nKeen Hearing and Smell (Land)",
     "abilities": [
       {
         "name": "",
