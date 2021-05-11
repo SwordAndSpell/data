@@ -6,7 +6,7 @@
     "defense": "12 + the spell's level",
     "armor": "the spell's level",
     "hitPoints": "10 * the spell's level",
-    "speed": "Land: 30ft, Fly 30ft",
+    "speed": "Land: 30ft",
     "strength": "16 (+3)",
     "dexterity": "10 (+0)",
     "constitution": "16 (+3)",
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "id": "07e05a75-fa45-4480-960d-f06f51538e14",
+    "id": "7b5f8e81-9ec5-45b4-9da4-c3d8607fa311",
     "name": "Aberrant Spirit - Beholderkin",
     "type": "Medium Aberration",
     "defense": "12 + the spell's level",
@@ -72,13 +72,13 @@
     ]
   },
   {
-    "id": "07e05a75-fa45-4480-960d-f06f51538e14",
+    "id": "1735f285-c09a-4ba7-ad84-97fe53f4a9fe",
     "name": "Aberrant Spirit - Star Spawn",
     "type": "Medium Aberration",
     "defense": "12 + the spell's level",
     "armor": "the spell's level",
     "hitPoints": "10 * the spell's level",
-    "speed": "Land: 30ft, Fly 30ft",
+    "speed": "Land: 30ft",
     "strength": "16 (+3)",
     "dexterity": "10 (+0)",
     "constitution": "16 (+3)",
@@ -108,13 +108,13 @@
     ]
   },
   {
-    "id": "00e2e1bb-aa01-4222-bd2e-9220bd703efc",
-    "name": "Bestial Spirit",
+    "id": "0173c249-2354-428f-8d60-5c2121fddebf",
+    "name": "Bestial Spirit - Air",
     "type": "Medium Beast",
     "defense": "12 + the spell's level",
     "armor": "1/2 the spell's level",
-    "hitPoints": "20 (Air) or 30 (Land and Water) + 5 * the spell's level",
-    "speed": "Land: 30ft\nClimb 30ft (Land Only), Fly 30ft (Air Only), Swim 30ft (Water Only)",
+    "hitPoints": "20 + 5 * the spell's level",
+    "speed": "Land: 15ft, Fly 50ft",
     "strength": "18 (+4)",
     "dexterity": "11 (+0)",
     "constitution": "16 (+3)",
@@ -125,31 +125,98 @@
     "reflex": "2 + the spell's level",
     "will": "-3 + the spell's level",
     "resistances": "None",
-    "senses": "Darkvision 120ft (Air and Water Only)\nKeen Hearing and Smell (Land)",
+    "senses": "Darkvision 120ft",
     "abilities": [
       {
-        "name": "",
-        "description": ""
-      },
-      {
-        "name": "",
-        "description": ""
+        "name": "Flyby",
+        "description": "The beast doesn't provoke opportunity attacks when it flies out of an enemy's reach"
       }
     ],
     "actions": [
       {
-        "name": "",
-        "description": ""
+        "name": "Multi-attack",
+        "description": "The beast makes a number of attacks equal to half this spell's level (rounded down)."
       },
       {
-        "name": "",
-        "description": ""
+        "name": "Maul",
+        "description": "Melee Attack: your spell modifier to hit, reach 5ft., one target.\nOn Hit: 1d8+4+ the spells level piercing or slashing damage (your choice when you summon the creature)."
+      }
+    ]
+  },
+  {
+    "id": "c7262f0b-489e-4978-afab-d9fb5adb56e2",
+    "name": "Bestial Spirit - Land",
+    "type": "Medium Beast",
+    "defense": "12 + the spell's level",
+    "armor": "1/2 the spell's level",
+    "hitPoints": "30+ 5 * the spell's level",
+    "speed": "Land: 30ft, Climb 30ft",
+    "strength": "18 (+4)",
+    "dexterity": "11 (+0)",
+    "constitution": "16 (+3)",
+    "intelligence": "4 (-3)",
+    "wisdom": "14 (+2)",
+    "charisma": "5 (-3)",
+    "fortitude": "4 + the spell's level",
+    "reflex": "2 + the spell's level",
+    "will": "-3 + the spell's level",
+    "resistances": "None",
+    "senses": "Keen Hearing and Smell",
+    "abilities": [
+      {
+        "name": "Pack Tactics",
+        "description": "The beast has advantage on an attack roll against a creature if at least one of the beast's allies is within 5 feet of the creature and the ally isn't incapacitated"
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-attack",
+        "description": "The beast makes a number of attacks equal to half this spell's level (rounded down)."
       },
       {
-        "name": "",
-        "description": ""
+        "name": "Maul",
+        "description": "Melee Attack: your spell modifier to hit, reach 5ft., one target.\nOn Hit: 1d8+4+ the spells level piercing or slashing damage (your choice when you summon the creature)."
+      }
+    ]
+  },
+  {
+    "id": "bc925f86-dd52-413f-a5a8-493f9fe34c46",
+    "name": "Bestial Spirit - Water",
+    "type": "Medium Beast",
+    "defense": "12 + the spell's level",
+    "armor": "1/2 the spell's level",
+    "hitPoints": "30 + 5 * the spell's level",
+    "speed": "Swim 40ft",
+    "strength": "18 (+4)",
+    "dexterity": "11 (+0)",
+    "constitution": "16 (+3)",
+    "intelligence": "4 (-3)",
+    "wisdom": "14 (+2)",
+    "charisma": "5 (-3)",
+    "fortitude": "4 + the spell's level",
+    "reflex": "2 + the spell's level",
+    "will": "-3 + the spell's level",
+    "resistances": "Cold",
+    "senses": "Darkvision 120ft",
+    "abilities": [
+      {
+        "name": "Pack Tactics",
+        "description": "The beast has advantage on an attack roll against a creature if at least one of the beast's allies is within 5 feet of the creature and the ally isn't incapacitated"
+      },
+      {
+        "name": "Water Breathing",
+        "description": "The beast can breathe only underwater"
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-attack",
+        "description": "The beast makes a number of attacks equal to half this spell's level (rounded down)."
+      },
+      {
+        "name": "Maul",
+        "description": "Melee Attack: your spell modifier to hit, reach 5ft., one target.\nOn Hit: 1d8+4+ the spells level piercing or slashing damage (your choice when you summon the creature)."
       }
     ]
   }
-
 ]
