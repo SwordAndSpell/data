@@ -1,12 +1,12 @@
 [
   {
     "id": "07e05a75-fa45-4480-960d-f06f51538e14",
-    "name": "Aberrant Spirit",
+    "name": "Aberrant Spirit - Slaad",
     "type": "Medium Aberration",
     "defense": "12 + the spell's level",
     "armor": "the spell's level",
     "hitPoints": "10 * the spell's level",
-    "speed": "Land: 30ft, Fly 30ft\nHover (Beholderkin only)",
+    "speed": "Land: 30ft, Fly 30ft",
     "strength": "16 (+3)",
     "dexterity": "10 (+0)",
     "constitution": "16 (+3)",
@@ -16,14 +16,83 @@
     "fortitude": "3 + the spell's level",
     "reflex": "2 + the spell's level",
     "will": "4 + the spell's level",
+    "resistances": "Resistant to Psychic damage",
     "senses": "Darkvision 120ft",
     "abilities": [
       {
-        "name": "Regeneration (Slaad Only)",
+        "name": "Regeneration",
         "description": "The aberration regains 5 hit points at the start of its turn, as long as it has at least one hit point."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-attack",
+        "description": "The aberration makes a number of attacks equal to half this spell's level (rounded down)."
       },
       {
-        "name": "Whispering Aura (Star Spawn Only)",
+        "name": "Claws",
+        "description": "Melee Attack: your spell attack modifier to hit, reach 5 ft, one target.\nOn Hit: 1d10 + 3 + the spell's level slashing damage. If the target is a creature, it can't regain hit points until the start of the aberration's next turn"
+      }
+    ]
+  },
+  {
+    "id": "07e05a75-fa45-4480-960d-f06f51538e14",
+    "name": "Aberrant Spirit - Beholderkin",
+    "type": "Medium Aberration",
+    "defense": "12 + the spell's level",
+    "armor": "the spell's level",
+    "hitPoints": "10 * the spell's level",
+    "speed": "Land: 30ft, Fly 30ft, Hover ",
+    "strength": "16 (+3)",
+    "dexterity": "10 (+0)",
+    "constitution": "16 (+3)",
+    "intelligence": "18 (+4)",
+    "wisdom": "12 (+2)",
+    "charisma": "6 (-2)",
+    "fortitude": "3 + the spell's level",
+    "reflex": "2 + the spell's level",
+    "will": "4 + the spell's level",
+    "resistances": "Resistant to Psychic damage",
+    "senses": "Darkvision 120ft",
+    "abilities": [
+      {
+        "name": "Float",
+        "description": "The aberration cannot be forced to cease its flight except by negating its innate magical nature, such as with an anti-magic field."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-attack",
+        "description": "The aberration makes a number of attacks equal to half this spell's level (rounded down)."
+      },
+      {
+        "name": "Eye Ray",
+        "description": "Ranged Attack: your spell attack modifier to hit, range 150 ft, one target.\nOn Hit: 1d8 + 3 + the spell's level psychic damage"
+      }
+    ]
+  },
+  {
+    "id": "07e05a75-fa45-4480-960d-f06f51538e14",
+    "name": "Aberrant Spirit - Star Spawn",
+    "type": "Medium Aberration",
+    "defense": "12 + the spell's level",
+    "armor": "the spell's level",
+    "hitPoints": "10 * the spell's level",
+    "speed": "Land: 30ft, Fly 30ft",
+    "strength": "16 (+3)",
+    "dexterity": "10 (+0)",
+    "constitution": "16 (+3)",
+    "intelligence": "18 (+4)",
+    "wisdom": "12 (+2)",
+    "charisma": "6 (-2)",
+    "fortitude": "3 + the spell's level",
+    "reflex": "2 + the spell's level",
+    "will": "4 + the spell's level",
+    "resistances": "Resistant to Psychic damage",
+    "senses": "Darkvision 120ft",
+    "abilities": [
+      {
+        "name": "Whispering Aura",
         "description": "At the start of each of the aberration's turns (provided the aberration is conscious), each creature within 5 feet of the aberration must make a Will saving throw against your spell save DC or take 2d6 Psychic damage"
       }
     ],
@@ -33,15 +102,7 @@
         "description": "The aberration makes a number of attacks equal to half this spell's level (rounded down)."
       },
       {
-        "name": "Eye Ray (Beholderkin Only)",
-        "description": "Ranged Attack: your spell attack modifier to hit, range 150 ft, one target.\nOn Hit: 1d8 + 3 + the spell's level psychic damage"
-      },
-      {
-        "name": "Claws (Slaad Only)",
-        "description": "Melee Attack: your spell attack modifier to hit, reach 5 ft, one target.\nOn Hit: 1d10 + 3 + the spell's level slashing damage. If the target is a creature, it can't regain hit points until the start of the aberration's next turn"
-      },
-      {
-        "name": "Psychic Slam (Star Spawn Only)",
+        "name": "Psychic Slam",
         "description": "Melee Attack: your spell attack modifier to hit, reach 5 ft, one target.\nOn Hit: 1d8 + 3 + the spell's level psychic damage"
       }
     ]
@@ -53,7 +114,7 @@
     "defense": "12 + the spell's level",
     "armor": "1/2 the spell's level",
     "hitPoints": "20 (Air) or 30 (Land and Water) + 5 * the spell's level",
-    "speed": "Land: 30ft, Climb 30ft (Land Only), Fly 30ft (Air Only), Swim 30ft (Water Only)",
+    "speed": "Land: 30ft\nClimb 30ft (Land Only), Fly 30ft (Air Only), Swim 30ft (Water Only)",
     "strength": "18 (+4)",
     "dexterity": "11 (+0)",
     "constitution": "16 (+3)",
@@ -63,6 +124,7 @@
     "fortitude": "4 + the spell's level",
     "reflex": "2 + the spell's level",
     "will": "-3 + the spell's level",
+    "resistances": "None",
     "senses": "Darkvision 120ft (Air and Water Only)\nKeen Hearing and Smell (Land)",
     "abilities": [
       {
