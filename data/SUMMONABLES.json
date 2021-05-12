@@ -32,7 +32,7 @@
       },
       {
         "name": "Eye Ray",
-        "description": "Ranged Attack: your spell attack modifier to hit, range 150ft, one target.\nOn Hit: 1d8 + 3 + the spell's level psychic damage"
+        "description": "Ranged Attack: your spell attack modifier to hit, range 150ft, one target.\nOn Hit: 1d8 + the spell's level psychic damage"
       }
     ]
   },
@@ -299,11 +299,6 @@
       }
     ]
   },
-
-
-
-
-
   {
     "id": "fe13ee60-177c-4c00-901b-c4671229f210",
     "name": "Construct Spirit - Clay",
@@ -415,14 +410,6 @@
       }
     ]
   },
-
-
-
-
-
-
-
-
   {
     "id": "f5819e1c-bf7c-4537-b00d-f7a9fe21eafa",
     "name": "Elemental Spirit - Air",
@@ -568,6 +555,310 @@
       {
         "name": "Slam",
         "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d10 + 4 + the spells level Bludgeoning damage."
+      }
+    ]
+  },
+  {
+    "id": "422d97d9-68ae-426f-a183-baa394ceda4e",
+    "name": "Fey Spirit - Fuming",
+    "type": "Small Fey",
+    "defense": "11 + 2 * the spell's level",
+    "armor": "2",
+    "hitPoints": "10 * the spell's level",
+    "speed": "Land 40ft.",
+    "strength": "12 (+1)",
+    "dexterity": "16 (+3)",
+    "constitution": "14 (+2)",
+    "intelligence": "14 (+2)",
+    "wisdom": "10 (+0)",
+    "charisma": "16 (+3)",
+    "fortitude": "2 + the spell's level",
+    "reflex": "3 + the spell's level",
+    "will": "3 + the spell's level",
+    "resistances": "None",
+    "immunities": "Charmed",
+    "senses": "Darkvision 60ft",
+    "abilities": [
+      {
+        "name": "Fey Step",
+        "description": "As an action, the fey can magically teleport up to 30 feet to an unoccupied space that it can see. Then, it has advantage on the next attack roll it makes before the end of its turn."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-attack",
+        "description": "The fey makes a number of attacks equal to half this spell's level (rounded down)."
+      },
+      {
+        "name": "Fey Blade",
+        "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d6 + 1 + the spells level Slashing damage and 1d6 Arcane damage."
+      }
+    ]
+  },
+  {
+    "id": "8061770b-3cf5-4b23-a7e0-ae321d53f73d",
+    "name": "Fey Spirit - Mirthful",
+    "type": "Small Fey",
+    "defense": "11 + 2 * the spell's level",
+    "armor": "2",
+    "hitPoints": "10 * the spell's level",
+    "speed": "Land 40ft.",
+    "strength": "12 (+1)",
+    "dexterity": "16 (+3)",
+    "constitution": "14 (+2)",
+    "intelligence": "14 (+2)",
+    "wisdom": "10 (+0)",
+    "charisma": "16 (+3)",
+    "fortitude": "2 + the spell's level",
+    "reflex": "3 + the spell's level",
+    "will": "3 + the spell's level",
+    "resistances": "None",
+    "immunities": "Charmed",
+    "senses": "Darkvision 60ft",
+    "abilities": [
+      {
+        "name": "Fey Step",
+        "description": "As an action, the fey can magically teleport up to 30 feet to an unoccupied space that it can see. Then, it can force one creature that it can see within 10 feet to make a Will saving throw against your Spell Save DC. On a failed save, the target is Charmed by you for 1 minute or until it takes damage."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-attack",
+        "description": "The fey makes a number of attacks equal to half this spell's level (rounded down)."
+      },
+      {
+        "name": "Fey Blade",
+        "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d6 + 1 + the spells level Slashing damage and 1d6 Arcane damage."
+      }
+    ]
+  },
+  {
+    "id": "43a24944-52f5-4295-92c1-e17f44f98d35",
+    "name": "Fey Spirit - Tricksy",
+    "type": "Small Fey",
+    "defense": "11 + 2 * the spell's level",
+    "armor": "2",
+    "hitPoints": "10 * the spell's level",
+    "speed": "Land 40ft.",
+    "strength": "12 (+1)",
+    "dexterity": "16 (+3)",
+    "constitution": "14 (+2)",
+    "intelligence": "14 (+2)",
+    "wisdom": "10 (+0)",
+    "charisma": "16 (+3)",
+    "fortitude": "2 + the spell's level",
+    "reflex": "3 + the spell's level",
+    "will": "3 + the spell's level",
+    "resistances": "None",
+    "immunities": "Charmed",
+    "senses": "Darkvision 60ft",
+    "abilities": [
+      {
+        "name": "Fey Step",
+        "description": "As an action, the fey can magically teleport up to 30 feet to an unoccupied space that it can see. Then, the fey can cause one 5-foot cube within reach to be filled with magical darkness until the end of its next turn."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-attack",
+        "description": "The fey makes a number of attacks equal to half this spell's level (rounded down)."
+      },
+      {
+        "name": "Fey Blade",
+        "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d6 + 1 + the spells level Slashing damage and 1d6 Arcane damage."
+      }
+    ]
+  },
+  {
+    "id": "1f285174-4f55-4f70-8222-a4050299f2f9",
+    "name": "Fiendish Spirit - Demon",
+    "type": "Large Fiend",
+    "defense": "12 + 2 * the spell's level",
+    "armor": "4",
+    "hitPoints": "15 * the spell's level",
+    "speed": "Land 40ft, Climb 40ft.",
+    "strength": "12 (+1)",
+    "dexterity": "16 (+3)",
+    "constitution": "14 (+2)",
+    "intelligence": "14 (+2)",
+    "wisdom": "10 (+0)",
+    "charisma": "16 (+3)",
+    "fortitude": "2 + the spell's level",
+    "reflex": "3 + the spell's level",
+    "will": "3 + the spell's level",
+    "resistances": "Fire",
+    "immunities": "Poison",
+    "senses": "Darkvision 60ft",
+    "abilities": [
+      {
+        "name": "Magic Resistance",
+        "description": "The fiend has advantage on saving throws against spells and other magical effects."
+      },
+      {
+        "name": "Death Throes",
+        "description": "When the fiend drops to 0 hit points or when the spell ends, the fiend explodes, and each creature within 10 feet of it must make a Reflex saving throw against your Spell Save DC/ A creature takes 2d10 + this spells level in Fire damage on a failed save, or half as much damage on a successful one."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-attack",
+        "description": "The fiend makes a number of attacks equal to half this spell's level (rounded down)."
+      },
+      {
+        "name": "Bite",
+        "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d12 + 3 + the spells level Dark damage."
+      }
+    ]
+  },
+  {
+    "id": "bd710cf6-ace2-4361-8959-2766781b606f",
+    "name": "Fiendish Spirit - Devil",
+    "type": "Large Fiend",
+    "defense": "12 + 2 * the spell's level",
+    "armor": "4",
+    "hitPoints": "15 * the spell's level",
+    "speed": "Land 40ft, Fly 60ft.",
+    "strength": "12 (+1)",
+    "dexterity": "16 (+3)",
+    "constitution": "14 (+2)",
+    "intelligence": "14 (+2)",
+    "wisdom": "10 (+0)",
+    "charisma": "16 (+3)",
+    "fortitude": "2 + the spell's level",
+    "reflex": "3 + the spell's level",
+    "will": "3 + the spell's level",
+    "resistances": "Fire",
+    "immunities": "Poison",
+    "senses": "Darkvision 60ft",
+    "abilities": [
+      {
+        "name": "Magic Resistance",
+        "description": "The fiend has advantage on saving throws against spells and other magical effects."
+      },
+      {
+        "name": "Devil's Sight",
+        "description": "Your vision is not impeded by magical Darkness or other illusory effects."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-attack",
+        "description": "The fiend makes a number of attacks equal to half this spell's level (rounded down)."
+      },
+      {
+        "name": "Hurl Abyssal Flame",
+        "description": "Ranged Attack: your spell modifier to hit, range 150ft, one target.\nOn Hit: 2d6 + the spells level Dark damage."
+      }
+    ]
+  },
+  {
+    "id": "ef4120de-be9d-4eea-8567-56625be1aa9d",
+    "name": "Undead Spirit - Ghost",
+    "type": "Medium Undead",
+    "defense": "11 + 2 * the spell's level",
+    "armor": "2",
+    "hitPoints": "10 * the spell's level",
+    "speed": "Land 30ft, Fly 40ft., Hover",
+    "strength": "12 (+1)",
+    "dexterity": "16 (+3)",
+    "constitution": "14 (+2)",
+    "intelligence": "4 (-3)",
+    "wisdom": "10 (+0)",
+    "charisma": "9 (-1)",
+    "fortitude": "2 + the spell's level",
+    "reflex": "3 + the spell's level",
+    "will": "-1 + the spell's level",
+    "resistances": "Dark, Poison",
+    "immunities": "Fear",
+    "senses": "Darkvision 60ft",
+    "abilities": [
+      {
+        "name": "Incorporeal Passage",
+        "description": "The spirit can move through other creatures and objects as if they were difficult terrain. If it ends its turn inside an object, it is shunted to the nearest unoccupied space and takes 1d10 Arcane damage for every 5 feet traveled."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-attack",
+        "description": "The undead makes a number of attacks equal to half this spell's level (rounded down)."
+      },
+      {
+        "name": "Deathly Touch",
+        "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d8 + 3 + the spells level Dark damage, and the creature must succeed a Will saving throw against your Spell Save DC or be frightened of the undead until the end of its next turn."
+      }
+    ]
+  },
+  {
+    "id": "d7174cb2-570a-446e-bc05-4d405a237bf4",
+    "name": "Undead Spirit - Putrid",
+    "type": "Medium Undead",
+    "defense": "11 + 2 * the spell's level",
+    "armor": "2",
+    "hitPoints": "10 * the spell's level",
+    "speed": "Land 30ft",
+    "strength": "12 (+1)",
+    "dexterity": "16 (+3)",
+    "constitution": "14 (+2)",
+    "intelligence": "4 (-3)",
+    "wisdom": "10 (+0)",
+    "charisma": "9 (-1)",
+    "fortitude": "2 + the spell's level",
+    "reflex": "3 + the spell's level",
+    "will": "-1 + the spell's level",
+    "resistances": "Dark, Poison",
+    "immunities": "Fear",
+    "senses": "Darkvision 60ft",
+    "abilities": [
+      {
+        "name": "Festering Aura",
+        "description": "Any creature other than you that starts its turn within 5 feet of the undead must succeed on a Fortitude saving throw against your Spell Save DC or be poisoned until the start of its next turn."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-attack",
+        "description": "The undead makes a number of attacks equal to half this spell's level (rounded down)."
+      },
+      {
+        "name": "Rotting Claw",
+        "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d6 + 3 + the spells level Dark damage, if the target is poisoned: it must succeed on a Fortitude saving throw against your Spell Save DC or be Paralyzed until the end of its next turn."
+      }
+    ]
+  },
+  {
+    "id": "e1504011-1685-4795-8f71-2c702d801c2d",
+    "name": "Undead Spirit - Skeletal",
+    "type": "Medium Undead",
+    "defense": "11 + 2 * the spell's level",
+    "armor": "2",
+    "hitPoints": "10 * the spell's level",
+    "speed": "Land 30ft",
+    "strength": "12 (+1)",
+    "dexterity": "16 (+3)",
+    "constitution": "14 (+2)",
+    "intelligence": "4 (-3)",
+    "wisdom": "10 (+0)",
+    "charisma": "9 (-1)",
+    "fortitude": "2 + the spell's level",
+    "reflex": "3 + the spell's level",
+    "will": "-1 + the spell's level",
+    "resistances": "Dark, Poison",
+    "immunities": "Fear",
+    "senses": "Darkvision 60ft",
+    "abilities": [
+      {
+        "name": "Dry Bones",
+        "description": "The skeletal spirit is resistant to Slashing and Piercing damage, but vulnerable to Bludgeoning damage."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-attack",
+        "description": "The undead makes a number of attacks equal to half this spell's level (rounded down)."
+      },
+      {
+        "name": "Grave Bolt",
+        "description": "Ranged Attack: your spell modifier to hit, range 150ft, one target.\nOn Hit: 2d4 + the spells level Dark damage."
       }
     ]
   }
