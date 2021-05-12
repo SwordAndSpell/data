@@ -2,8 +2,8 @@
   {
     "id": "7b5f8e81-9ec5-45b4-9da4-c3d8607fa311",
     "name": "Aberrant Spirit - Beholderkin",
-    "type": "Medium Aberration",
-    "defense": "12 + the spell's level",
+    "type": "1/2 the spell's level",
+    "defense": "11 + 2 * the spell's level",
     "armor": "the spell's level",
     "hitPoints": "10 * the spell's level",
     "speed": "Land: 30ft, Fly 30ft, Hover ",
@@ -16,7 +16,7 @@
     "fortitude": "3 + the spell's level",
     "reflex": "2 + the spell's level",
     "will": "4 + the spell's level",
-    "resistances": "Resistant to Psychic damage",
+    "resistances": "Psychic",
     "senses": "Darkvision 120ft",
     "abilities": [
       {
@@ -31,7 +31,7 @@
       },
       {
         "name": "Eye Ray",
-        "description": "Ranged Attack: your spell attack modifier to hit, range 150 ft, one target.\nOn Hit: 1d8 + 3 + the spell's level psychic damage"
+        "description": "Ranged Attack: your spell attack modifier to hit, range 150ft, one target.\nOn Hit: 1d8 + 3 + the spell's level psychic damage"
       }
     ]
   },
@@ -39,8 +39,8 @@
     "id": "07e05a75-fa45-4480-960d-f06f51538e14",
     "name": "Aberrant Spirit - Slaad",
     "type": "Medium Aberration",
-    "defense": "12 + the spell's level",
-    "armor": "the spell's level",
+    "defense": "11 + 2 * the spell's level",
+    "armor": "1/2 the spell's level",
     "hitPoints": "10 * the spell's level",
     "speed": "Land: 30ft",
     "strength": "16 (+3)",
@@ -52,7 +52,7 @@
     "fortitude": "3 + the spell's level",
     "reflex": "2 + the spell's level",
     "will": "4 + the spell's level",
-    "resistances": "Resistant to Psychic damage",
+    "resistances": "Psychic",
     "senses": "Darkvision 120ft",
     "abilities": [
       {
@@ -67,7 +67,7 @@
       },
       {
         "name": "Claws",
-        "description": "Melee Attack: your spell attack modifier to hit, reach 5 ft, one target.\nOn Hit: 1d10 + 3 + the spell's level slashing damage. If the target is a creature, it can't regain hit points until the start of the aberration's next turn"
+        "description": "Melee Attack: your spell attack modifier to hit, reach 5ft, one target.\nOn Hit: 1d10 + 3 + the spell's level slashing damage. If the target is a creature, it can't regain hit points until the start of the aberration's next turn"
       }
     ]
   },
@@ -75,8 +75,8 @@
     "id": "1735f285-c09a-4ba7-ad84-97fe53f4a9fe",
     "name": "Aberrant Spirit - Star Spawn",
     "type": "Medium Aberration",
-    "defense": "12 + the spell's level",
-    "armor": "the spell's level",
+    "defense": "11 + 2 * the spell's level",
+    "armor": "1/2 the spell's level",
     "hitPoints": "10 * the spell's level",
     "speed": "Land: 30ft",
     "strength": "16 (+3)",
@@ -88,7 +88,7 @@
     "fortitude": "3 + the spell's level",
     "reflex": "2 + the spell's level",
     "will": "4 + the spell's level",
-    "resistances": "Resistant to Psychic damage",
+    "resistances": "Psychic",
     "senses": "Darkvision 120ft",
     "abilities": [
       {
@@ -103,7 +103,7 @@
       },
       {
         "name": "Psychic Slam",
-        "description": "Melee Attack: your spell attack modifier to hit, reach 5 ft, one target.\nOn Hit: 1d8 + 3 + the spell's level psychic damage"
+        "description": "Melee Attack: your spell attack modifier to hit, reach 5ft, one target.\nOn Hit: 1d8 + 3 + the spell's level psychic damage"
       }
     ]
   },
@@ -111,8 +111,8 @@
     "id": "0173c249-2354-428f-8d60-5c2121fddebf",
     "name": "Bestial Spirit - Air",
     "type": "Medium Beast",
-    "defense": "12 + the spell's level",
-    "armor": "1/2 the spell's level",
+    "defense": "11 + 2 * the spell's level",
+    "armor": "1",
     "hitPoints": "20 + 5 * the spell's level",
     "speed": "Land: 15ft, Fly 50ft",
     "strength": "18 (+4)",
@@ -139,7 +139,7 @@
       },
       {
         "name": "Maul",
-        "description": "Melee Attack: your spell modifier to hit, reach 5ft., one target.\nOn Hit: 1d8+4+ the spells level piercing or slashing damage (your choice when you summon the creature)."
+        "description": "Melee Attack: your spell modifier to hit, reach 5t., one target.\nOn Hit: 1d8+4+ the spells level piercing or slashing damage (your choice when you summon the creature)."
       }
     ]
   },
@@ -147,8 +147,8 @@
     "id": "c7262f0b-489e-4978-afab-d9fb5adb56e2",
     "name": "Bestial Spirit - Land",
     "type": "Medium Beast",
-    "defense": "12 + the spell's level",
-    "armor": "1/2 the spell's level",
+    "defense": "11 + 2 * the spell's level",
+    "armor": "2",
     "hitPoints": "30+ 5 * the spell's level",
     "speed": "Land: 30ft, Climb 30ft",
     "strength": "18 (+4)",
@@ -175,7 +175,7 @@
       },
       {
         "name": "Maul",
-        "description": "Melee Attack: your spell modifier to hit, reach 5ft., one target.\nOn Hit: 1d8+4+ the spells level piercing or slashing damage (your choice when you summon the creature)."
+        "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d8+4+ the spells level piercing or slashing damage (your choice when you summon the creature)."
       }
     ]
   },
@@ -183,8 +183,8 @@
     "id": "bc925f86-dd52-413f-a5a8-493f9fe34c46",
     "name": "Bestial Spirit - Water",
     "type": "Medium Beast",
-    "defense": "12 + the spell's level",
-    "armor": "1/2 the spell's level",
+    "defense": "11 + 2 * the spell's level",
+    "armor": "2",
     "hitPoints": "30 + 5 * the spell's level",
     "speed": "Swim 40ft",
     "strength": "18 (+4)",
@@ -215,7 +215,192 @@
       },
       {
         "name": "Maul",
-        "description": "Melee Attack: your spell modifier to hit, reach 5ft., one target.\nOn Hit: 1d8+4+ the spells level piercing or slashing damage (your choice when you summon the creature)."
+        "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d8+4+ the spells level piercing or slashing damage (your choice when you summon the creature)."
+      }
+    ]
+  },
+  {
+    "id": "8c6a656f-1c69-46c0-b348-2390973c5893",
+    "name": "Celestial Spirit - Avenger",
+    "type": "Large Celestial",
+    "defense": "11 + 2 * the spell's level",
+    "armor": "the spell's level",
+    "hitPoints": "10 * the spell's level",
+    "speed": "Land 30ft, Fly 40ft",
+    "strength": "16 (+3)",
+    "dexterity": "14 (+2)",
+    "constitution": "16 (+3)",
+    "intelligence": "10 (+0)",
+    "wisdom": "14 (+2)",
+    "charisma": "16 (+3)",
+    "fortitude": "3 + the spell's level",
+    "reflex": "2 + the spell's level",
+    "will": "3 + the spell's level",
+    "resistances": "Radiant",
+    "senses": "Darkvision 60ft",
+    "abilities": [
+      {
+        "name": "Healing Touch",
+        "description": "Once per summon, the celestial can touch another creature causing it to regain hit points equal to 2d8 + the spell's level"
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-attack",
+        "description": "The celestial makes a number of attacks equal to half this spell's level (rounded down)."
+      },
+      {
+        "name": "Radiant Bow",
+        "description": "Ranged Attack: your spell modifier to hit, range 150ft/600ft, one target.\nOn Hit: 2d6 + the spells level radiant damage."
+      }
+    ]
+  },
+  {
+    "id": "6be5e28d-b4e0-47fd-9daf-47d0d7bdd47c",
+    "name": "Celestial Spirit - Defender",
+    "type": "Large Celestial",
+    "defense": "13 + 2 * the spell's level",
+    "armor": "the spell's level",
+    "hitPoints": "10 * the spell's level",
+    "speed": "Land 30ft, Fly 40ft",
+    "strength": "16 (+3)",
+    "dexterity": "14 (+2)",
+    "constitution": "16 (+3)",
+    "intelligence": "10 (+0)",
+    "wisdom": "14 (+2)",
+    "charisma": "16 (+3)",
+    "fortitude": "3 + the spell's level",
+    "reflex": "2 + the spell's level",
+    "will": "3 + the spell's level",
+    "resistances": "Radiant",
+    "senses": "Darkvision 60ft",
+    "abilities": [
+      {
+        "name": "Healing Touch",
+        "description": "Once per summon, the celestial can touch another creature causing it to regain hit points equal to 2d8 + the spell's level"
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-attack",
+        "description": "The celestial makes a number of attacks equal to half this spell's level (rounded down)."
+      },
+      {
+        "name": "Radiant Mace",
+        "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d10 + 3 + the spells level radiant damage, and the celestial can choose a friendly creature within range of the target to gain the amount dealt in temporary hit points."
+      }
+    ]
+  },
+
+
+
+
+
+  {
+    "id": "fe13ee60-177c-4c00-901b-c4671229f210",
+    "name": "Construct Spirit - Clay",
+    "type": "Medium Construct",
+    "defense": "13 + 2 * the spell's level",
+    "armor": "2",
+    "hitPoints": "5 + 15 * the spell's level",
+    "speed": "Land 30ft",
+    "strength": "18 (+4)",
+    "dexterity": "10 (+0)",
+    "constitution": "18 (+4)",
+    "intelligence": "14 (+2)",
+    "wisdom": "11 (+0)",
+    "charisma": "5 (-3)",
+    "fortitude": "4 + the spell's level",
+    "reflex": "2 + the spell's level",
+    "will": "0 + the spell's level",
+    "resistances": "Poison",
+    "senses": "Darkvision 60ft",
+    "abilities": [
+      {
+        "name": "Berserk Lashing",
+        "description": "When the construct takes damage, it can spend its reaction to make a slam attack against a random creature within 5 feet of it. If there is no creature within reach, it can move up to half its speed towards an enemy it can see without provoking attacks of opportunity."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-attack",
+        "description": "The construct makes a number of attacks equal to half this spell's level (rounded down)."
+      },
+      {
+        "name": "Slam",
+        "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d8 + 4 + the spells level bludgeoning damage."
+      }
+    ]
+  },
+  {
+    "id": "c3095813-b6dc-436c-ba06-7e179fe0ec97",
+    "name": "Construct Spirit - Metal",
+    "type": "Medium Construct",
+    "defense": "13 + 2 * the spell's level",
+    "armor": "4",
+    "hitPoints": "5 + 15 * the spell's level",
+    "speed": "Land 30ft",
+    "strength": "18 (+4)",
+    "dexterity": "10 (+0)",
+    "constitution": "18 (+4)",
+    "intelligence": "14 (+2)",
+    "wisdom": "11 (+0)",
+    "charisma": "5 (-3)",
+    "fortitude": "4 + the spell's level",
+    "reflex": "2 + the spell's level",
+    "will": "0 + the spell's level",
+    "resistances": "Poison",
+    "senses": "Darkvision 60ft",
+    "abilities": [
+      {
+        "name": "Heated Body",
+        "description": "Any creature that touches the construct or hits it with a melee attack while within 5 feet of it takes 1d10 Fire damage."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-attack",
+        "description": "The construct makes a number of attacks equal to half this spell's level (rounded down)."
+      },
+      {
+        "name": "Slam",
+        "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d8 + 4 + the spells level bludgeoning damage."
+      }
+    ]
+  },
+  {
+    "id": "1d26ea5e-3d96-46fd-950f-b20d91b8c461",
+    "name": "Construct Spirit - Stone",
+    "type": "Medium Construct",
+    "defense": "13 + 2 * the spell's level",
+    "armor": "3",
+    "hitPoints": "5 + 15 * the spell's level",
+    "speed": "Land 30ft",
+    "strength": "18 (+4)",
+    "dexterity": "10 (+0)",
+    "constitution": "18 (+4)",
+    "intelligence": "14 (+2)",
+    "wisdom": "11 (+0)",
+    "charisma": "5 (-3)",
+    "fortitude": "4 + the spell's level",
+    "reflex": "2 + the spell's level",
+    "will": "0 + the spell's level",
+    "resistances": "Poison",
+    "senses": "Darkvision 60ft",
+    "abilities": [
+      {
+        "name": "Stony Lethargy",
+        "description": "When a creature the construct can see starts its turn within 10 feet, the construct can force it to make a Will saving throw against your Spell Save DC. On a failed save, the target can't use reactions and its speed is halved until the start of its next turn."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-attack",
+        "description": "The construct makes a number of attacks equal to half this spell's level (rounded down)."
+      },
+      {
+        "name": "Slam",
+        "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d8 + 4 + the spells level bludgeoning damage."
       }
     ]
   }
