@@ -1,0 +1,34 @@
+[
+  {
+    "id": "7b5f8e81-9ec5-45b4-9da4-c3d8607fa311",
+    "name": "Brute - Young",
+    "type": "Small Beast",
+    "defense": "13 + Dex + your Level",
+    "armor": "1 + (your Level /2)",
+    "hitPoints": "(8 + CON) * your Level",
+    "speed": "Land: 25ft, Swim or Climb: 25ft",
+    "strength": "+3",
+    "dexterity": "+2",
+    "constitution": "+2",
+    "intelligence": "-3",
+    "wisdom": "+1",
+    "charisma": "+0",
+    "fortitude": "3 + your level",
+    "reflex": "2 + your level",
+    "will": "1 + your level",
+    "senses": "Low-Light Vision\nKeen Smell",
+    "skills": "Intimidation, Survival, Athletics, Acrobatics, Perception",
+    "abilities": [
+      {
+        "name": "Float",
+        "description": "The aberration cannot be forced to cease its flight except by negating its innate magical nature, such as with an anti-magic field."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Bite",
+        "description": "Melee Attack: Strength + your level to hit, reach 5ft, one target.\nOn Hit: 1d8 + STR Slashing damage"
+      }
+    ]
+  }
+]
