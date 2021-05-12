@@ -1,7 +1,7 @@
 [
   {
     "id": "7b5f8e81-9ec5-45b4-9da4-c3d8607fa311",
-    "name": "Aberrant Spirit - Beholderkin",
+    "name": "Aberrant - Beholderkin",
     "type": "1/2 the spell's level",
     "defense": "11 + 2 * the spell's level",
     "armor": "the spell's level",
@@ -38,7 +38,7 @@
   },
   {
     "id": "07e05a75-fa45-4480-960d-f06f51538e14",
-    "name": "Aberrant Spirit - Slaad",
+    "name": "Aberrant - Slaad",
     "type": "Medium Aberration",
     "defense": "11 + 2 * the spell's level",
     "armor": "1/2 the spell's level",
@@ -75,7 +75,7 @@
   },
   {
     "id": "1735f285-c09a-4ba7-ad84-97fe53f4a9fe",
-    "name": "Aberrant Spirit - Star Spawn",
+    "name": "Aberrant - Star Spawn",
     "type": "Medium Aberration",
     "defense": "11 + 2 * the spell's level",
     "armor": "1/2 the spell's level",
@@ -112,7 +112,7 @@
   },
   {
     "id": "0173c249-2354-428f-8d60-5c2121fddebf",
-    "name": "Bestial Spirit - Air",
+    "name": "Bestial - Air",
     "type": "Medium Beast",
     "defense": "11 + 2 * the spell's level",
     "armor": "1",
@@ -149,7 +149,7 @@
   },
   {
     "id": "c7262f0b-489e-4978-afab-d9fb5adb56e2",
-    "name": "Bestial Spirit - Land",
+    "name": "Bestial - Land",
     "type": "Medium Beast",
     "defense": "11 + 2 * the spell's level",
     "armor": "2",
@@ -186,7 +186,7 @@
   },
   {
     "id": "bc925f86-dd52-413f-a5a8-493f9fe34c46",
-    "name": "Bestial Spirit - Water",
+    "name": "Bestial - Water",
     "type": "Medium Beast",
     "defense": "11 + 2 * the spell's level",
     "armor": "2",
@@ -227,7 +227,7 @@
   },
   {
     "id": "8c6a656f-1c69-46c0-b348-2390973c5893",
-    "name": "Celestial Spirit - Avenger",
+    "name": "Celestial - Avenger",
     "type": "Large Celestial",
     "defense": "11 + 2 * the spell's level",
     "armor": "the spell's level",
@@ -264,7 +264,7 @@
   },
   {
     "id": "6be5e28d-b4e0-47fd-9daf-47d0d7bdd47c",
-    "name": "Celestial Spirit - Defender",
+    "name": "Celestial - Defender",
     "type": "Large Celestial",
     "defense": "13 + 2 * the spell's level",
     "armor": "the spell's level",
@@ -301,7 +301,7 @@
   },
   {
     "id": "fe13ee60-177c-4c00-901b-c4671229f210",
-    "name": "Construct Spirit - Clay",
+    "name": "Construct - Clay",
     "type": "Medium Construct",
     "defense": "13 + 2 * the spell's level",
     "armor": "2",
@@ -338,7 +338,7 @@
   },
   {
     "id": "c3095813-b6dc-436c-ba06-7e179fe0ec97",
-    "name": "Construct Spirit - Metal",
+    "name": "Construct - Metal",
     "type": "Medium Construct",
     "defense": "13 + 2 * the spell's level",
     "armor": "4",
@@ -375,7 +375,7 @@
   },
   {
     "id": "1d26ea5e-3d96-46fd-950f-b20d91b8c461",
-    "name": "Construct Spirit - Stone",
+    "name": "Construct - Stone",
     "type": "Medium Construct",
     "defense": "13 + 2 * the spell's level",
     "armor": "3",
@@ -412,7 +412,7 @@
   },
   {
     "id": "f5819e1c-bf7c-4537-b00d-f7a9fe21eafa",
-    "name": "Elemental Spirit - Air",
+    "name": "Elemental - Air",
     "type": "Medium Elemental",
     "defense": "11 + 2 * the spell's level",
     "armor": "1",
@@ -449,7 +449,7 @@
   },
   {
     "id": "01b1cf94-6ccc-4355-afbe-41140429a7ef",
-    "name": "Elemental Spirit - Earth",
+    "name": "Elemental - Earth",
     "type": "Medium Elemental",
     "defense": "11 + 2 * the spell's level",
     "armor": "4",
@@ -486,7 +486,7 @@
   },
   {
     "id": "c2a2cc40-fc23-4747-b8de-b4a023752ceb",
-    "name": "Elemental Spirit - Fire",
+    "name": "Elemental - Fire",
     "type": "Medium Elemental",
     "defense": "11 + 2 * the spell's level",
     "armor": "2",
@@ -523,7 +523,7 @@
   },
   {
     "id": "82e389dc-3d0c-4cbf-88df-1b1f5f5d825f",
-    "name": "Elemental Spirit - Water",
+    "name": "Elemental - Water",
     "type": "Medium Elemental",
     "defense": "11 + 2 * the spell's level",
     "armor": "3",
@@ -560,7 +560,7 @@
   },
   {
     "id": "422d97d9-68ae-426f-a183-baa394ceda4e",
-    "name": "Fey Spirit - Fuming",
+    "name": "Fey - Fuming",
     "type": "Small Fey",
     "defense": "11 + 2 * the spell's level",
     "armor": "2",
@@ -597,7 +597,7 @@
   },
   {
     "id": "8061770b-3cf5-4b23-a7e0-ae321d53f73d",
-    "name": "Fey Spirit - Mirthful",
+    "name": "Fey - Mirthful",
     "type": "Small Fey",
     "defense": "11 + 2 * the spell's level",
     "armor": "2",
@@ -634,7 +634,7 @@
   },
   {
     "id": "43a24944-52f5-4295-92c1-e17f44f98d35",
-    "name": "Fey Spirit - Tricksy",
+    "name": "Fey - Tricksy",
     "type": "Small Fey",
     "defense": "11 + 2 * the spell's level",
     "armor": "2",
@@ -671,7 +671,7 @@
   },
   {
     "id": "1f285174-4f55-4f70-8222-a4050299f2f9",
-    "name": "Fiendish Spirit - Demon",
+    "name": "Fiendish - Demon",
     "type": "Large Fiend",
     "defense": "12 + 2 * the spell's level",
     "armor": "4",
@@ -712,7 +712,7 @@
   },
   {
     "id": "bd710cf6-ace2-4361-8959-2766781b606f",
-    "name": "Fiendish Spirit - Devil",
+    "name": "Fiendish - Devil",
     "type": "Large Fiend",
     "defense": "12 + 2 * the spell's level",
     "armor": "4",
@@ -753,7 +753,7 @@
   },
   {
     "id": "ef4120de-be9d-4eea-8567-56625be1aa9d",
-    "name": "Undead Spirit - Ghost",
+    "name": "Undead - Ghost",
     "type": "Medium Undead",
     "defense": "11 + 2 * the spell's level",
     "armor": "2",
@@ -790,7 +790,7 @@
   },
   {
     "id": "d7174cb2-570a-446e-bc05-4d405a237bf4",
-    "name": "Undead Spirit - Putrid",
+    "name": "Undead - Putrid",
     "type": "Medium Undead",
     "defense": "11 + 2 * the spell's level",
     "armor": "2",
@@ -827,7 +827,7 @@
   },
   {
     "id": "e1504011-1685-4795-8f71-2c702d801c2d",
-    "name": "Undead Spirit - Skeleton",
+    "name": "Undead - Skeleton",
     "type": "Medium Undead",
     "defense": "11 + 2 * the spell's level",
     "armor": "2",
