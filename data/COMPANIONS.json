@@ -1,6 +1,6 @@
 [
   {
-    "id": "7b5f8e81-9ec5-45b4-9da4-c3d8607fa311",
+    "id": "308f7343-1d3f-4a3e-a85c-6c543d8ad8e1",
     "name": "Brute - Young",
     "type": "Small Beast",
     "defense": "13 + Dex + your Level",
@@ -16,18 +16,134 @@
     "fortitude": "3 + your level",
     "reflex": "2 + your level",
     "will": "1 + your level",
-    "senses": "Low-Light Vision\nKeen Smell",
+    "senses": "Low-Light Vision\nKeen Hearing and Smell",
     "skills": "Intimidation, Survival, Athletics, Acrobatics, Perception",
     "abilities": [
       {
-        "name": "Float",
-        "description": "The aberration cannot be forced to cease its flight except by negating its innate magical nature, such as with an anti-magic field."
+        "name": "Rage - 1 Action",
+        "description": "Lasts up to 1 minute - Your companion doubles its strength score when calculating its damage from its melee attacks, and increases its armor value by 2. The animal companion no longer responds to commands for the duration, and focuses only on the nearest enemy to it."
       }
     ],
     "actions": [
       {
         "name": "Bite",
         "description": "Melee Attack: Strength + your level to hit, reach 5ft, one target.\nOn Hit: 1d8 + STR Slashing damage"
+      }
+    ]
+  },
+  {
+    "id": "8b03788a-2741-4810-9195-1f064c7d3352",
+    "name": "Brute - Mature",
+    "type": "Medium Beast",
+    "defense": "13 + Dex + your Level",
+    "armor": "1 + (your Level /2)",
+    "hitPoints": "(8 + CON) * your Level",
+    "speed": "Land: 25ft, Swim or Climb: 25ft",
+    "strength": "+4",
+    "dexterity": "+3",
+    "constitution": "+3",
+    "intelligence": "-2",
+    "wisdom": "+2",
+    "charisma": "+1",
+    "fortitude": "4 + your level",
+    "reflex": "3 + your level",
+    "will": "2 + your level",
+    "senses": "Low-Light Vision\nKeen Hearing and Smell",
+    "skills": "Intimidation, Survival, Athletics, Acrobatics, Perception",
+    "abilities": [
+      {
+        "name": "Rage - 1 Action",
+        "description": "Lasts up to 1 minute - Your companion doubles its strength score when calculating its damage from its melee attacks, and increases its armor value by 2. The animal companion no longer responds to commands for the duration, and focuses only on the nearest enemy to it."
+      },
+      {
+        "name": "Pack Hunter",
+        "description": "Your companion has advantage on all melee attacks when you or another ally is within 5 feet of its target."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Bite",
+        "description": "Melee Attack: Strength + your level to hit, reach 5ft, one target.\nOn Hit: 1d8 + STR Slashing damage"
+      }
+    ]
+  },
+  {
+    "id": "9da609d1-4df9-4d33-9162-b0ebe38d6cc4",
+    "name": "Brute - Specialized",
+    "type": "Large Beast",
+    "defense": "13 + Dex + your Level",
+    "armor": "1 + (your Level /2)",
+    "hitPoints": "(8 + CON) * your Level",
+    "speed": "Land: 25ft, Swim or Climb: 25ft",
+    "strength": "+5",
+    "dexterity": "+3",
+    "constitution": "+4",
+    "intelligence": "-1",
+    "wisdom": "+2",
+    "charisma": "+2",
+    "fortitude": "5 + your level",
+    "reflex": "3 + your level",
+    "will": "2 + your level",
+    "senses": "Low-Light Vision\nKeen Hearing and Smell",
+    "skills": "Intimidation, Survival, Athletics, Acrobatics, Perception",
+    "abilities": [
+      {
+        "name": "Rage - 1 Action",
+        "description": "Lasts up to 1 minute - Your companion doubles its strength score when calculating its damage from its melee attacks, and increases its armor value by 2. The animal companion no longer responds to commands for the duration, and focuses only on the nearest enemy to it."
+      },
+      {
+        "name": "Pack Hunter",
+        "description": "Your companion has advantage on all melee attacks when you or another ally is within 5 feet of its target."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-Attack - 2 Actions",
+        "description": "Your companion makes two attacks without suffering the multi-attack penalty"
+      },
+      {
+        "name": "Bite",
+        "description": "Melee Attack: Strength + your level to hit, reach 5ft, one target.\nOn Hit: 2d8 + STR Slashing damage"
+      }
+    ]
+  },
+  {
+    "id": "b1c41aed-d700-4cc5-ab68-f1563ea3d326",
+    "name": "Brute - Apex",
+    "type": "Large Beast",
+    "defense": "13 + Dex + your Level",
+    "armor": "1 + (your Level /2)",
+    "hitPoints": "(8 + CON) * your Level",
+    "speed": "Land: 25ft, Swim or Climb: 25ft",
+    "strength": "+6",
+    "dexterity": "+4",
+    "constitution": "+5",
+    "intelligence": "+0",
+    "wisdom": "+3",
+    "charisma": "+3",
+    "fortitude": "6 + your level",
+    "reflex": "4 + your level",
+    "will": "3 + your level",
+    "senses": "Low-Light Vision\nKeen Hearing and Smell",
+    "skills": "Intimidation, Survival, Athletics, Acrobatics, Perception",
+    "abilities": [
+      {
+        "name": "Rage - 1 Action",
+        "description": "Lasts up to 1 minute - Your companion doubles its strength score when calculating its damage from its melee attacks, and increases its armor value by 2. The animal companion no longer responds to commands for the duration, and focuses only on the nearest enemy to it."
+      },
+      {
+        "name": "Pack Hunter",
+        "description": "Your companion has advantage on all melee attacks when you or another ally is within 5 feet of its target."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-Attack - 2 Actions",
+        "description": "Your companion makes three attacks without suffering the multi-attack penalty"
+      },
+      {
+        "name": "Bite",
+        "description": "Melee Attack: Strength + your level to hit, reach 5ft, one target.\nOn Hit: 3d8 + STR Slashing damage"
       }
     ]
   }
