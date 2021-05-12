@@ -827,7 +827,7 @@
   },
   {
     "id": "e1504011-1685-4795-8f71-2c702d801c2d",
-    "name": "Undead Spirit - Skeletal",
+    "name": "Undead Spirit - Skeleton",
     "type": "Medium Undead",
     "defense": "11 + 2 * the spell's level",
     "armor": "2",
