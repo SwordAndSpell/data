@@ -17,6 +17,7 @@
     "reflex": "2 + the spell's level",
     "will": "4 + the spell's level",
     "resistances": "Psychic",
+    "immunities": "Fear",
     "senses": "Darkvision 120ft",
     "abilities": [
       {
@@ -53,6 +54,7 @@
     "reflex": "2 + the spell's level",
     "will": "4 + the spell's level",
     "resistances": "Psychic",
+    "immunities": "Fear",
     "senses": "Darkvision 120ft",
     "abilities": [
       {
@@ -89,6 +91,7 @@
     "reflex": "2 + the spell's level",
     "will": "4 + the spell's level",
     "resistances": "Psychic",
+    "immunities": "Fear",
     "senses": "Darkvision 120ft",
     "abilities": [
       {
@@ -116,7 +119,7 @@
     "hitPoints": "20 + 5 * the spell's level",
     "speed": "Land: 15ft, Fly 50ft",
     "strength": "18 (+4)",
-    "dexterity": "11 (+0)",
+    "dexterity": "10 (+0)",
     "constitution": "16 (+3)",
     "intelligence": "4 (-3)",
     "wisdom": "14 (+2)",
@@ -125,6 +128,7 @@
     "reflex": "2 + the spell's level",
     "will": "-3 + the spell's level",
     "resistances": "None",
+    "immunities": "None",
     "senses": "Darkvision 120ft",
     "abilities": [
       {
@@ -152,7 +156,7 @@
     "hitPoints": "30+ 5 * the spell's level",
     "speed": "Land: 30ft, Climb 30ft",
     "strength": "18 (+4)",
-    "dexterity": "11 (+0)",
+    "dexterity": "10 (+0)",
     "constitution": "16 (+3)",
     "intelligence": "4 (-3)",
     "wisdom": "14 (+2)",
@@ -161,6 +165,7 @@
     "reflex": "2 + the spell's level",
     "will": "-3 + the spell's level",
     "resistances": "None",
+    "immunities": "None",
     "senses": "Keen Hearing and Smell",
     "abilities": [
       {
@@ -188,7 +193,7 @@
     "hitPoints": "30 + 5 * the spell's level",
     "speed": "Swim 40ft",
     "strength": "18 (+4)",
-    "dexterity": "11 (+0)",
+    "dexterity": "10 (+0)",
     "constitution": "16 (+3)",
     "intelligence": "4 (-3)",
     "wisdom": "14 (+2)",
@@ -197,6 +202,7 @@
     "reflex": "2 + the spell's level",
     "will": "-3 + the spell's level",
     "resistances": "Cold",
+    "immunities": "None",
     "senses": "Darkvision 120ft",
     "abilities": [
       {
@@ -237,6 +243,7 @@
     "reflex": "2 + the spell's level",
     "will": "3 + the spell's level",
     "resistances": "Radiant",
+    "immunities": "Charm, Fear",
     "senses": "Darkvision 60ft",
     "abilities": [
       {
@@ -273,6 +280,7 @@
     "reflex": "2 + the spell's level",
     "will": "3 + the spell's level",
     "resistances": "Radiant",
+    "immunities": "Charm, Fear",
     "senses": "Darkvision 60ft",
     "abilities": [
       {
@@ -308,12 +316,13 @@
     "dexterity": "10 (+0)",
     "constitution": "18 (+4)",
     "intelligence": "14 (+2)",
-    "wisdom": "11 (+0)",
+    "wisdom": "10 (+0)",
     "charisma": "5 (-3)",
     "fortitude": "4 + the spell's level",
     "reflex": "2 + the spell's level",
     "will": "0 + the spell's level",
     "resistances": "Poison",
+    "immunities": "Charm, Fear, Incapacitation, Petrification",
     "senses": "Darkvision 60ft",
     "abilities": [
       {
@@ -328,7 +337,7 @@
       },
       {
         "name": "Slam",
-        "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d8 + 4 + the spells level bludgeoning damage."
+        "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d8 + 4 + the spells level Bludgeoning damage."
       }
     ]
   },
@@ -344,12 +353,13 @@
     "dexterity": "10 (+0)",
     "constitution": "18 (+4)",
     "intelligence": "14 (+2)",
-    "wisdom": "11 (+0)",
+    "wisdom": "10 (+0)",
     "charisma": "5 (-3)",
     "fortitude": "4 + the spell's level",
     "reflex": "2 + the spell's level",
     "will": "0 + the spell's level",
     "resistances": "Poison",
+    "immunities": "Charm, Fear, Incapacitation, Petrification",
     "senses": "Darkvision 60ft",
     "abilities": [
       {
@@ -364,7 +374,7 @@
       },
       {
         "name": "Slam",
-        "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d8 + 4 + the spells level bludgeoning damage."
+        "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d8 + 4 + the spells level Bludgeoning damage."
       }
     ]
   },
@@ -380,12 +390,13 @@
     "dexterity": "10 (+0)",
     "constitution": "18 (+4)",
     "intelligence": "14 (+2)",
-    "wisdom": "11 (+0)",
+    "wisdom": "10 (+0)",
     "charisma": "5 (-3)",
     "fortitude": "4 + the spell's level",
     "reflex": "2 + the spell's level",
     "will": "0 + the spell's level",
     "resistances": "Poison",
+    "immunities": "Charm, Fear, Incapacitation, Petrification",
     "senses": "Darkvision 60ft",
     "abilities": [
       {
@@ -400,7 +411,163 @@
       },
       {
         "name": "Slam",
-        "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d8 + 4 + the spells level bludgeoning damage."
+        "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d8 + 4 + the spells level Bludgeoning damage."
+      }
+    ]
+  },
+
+
+
+
+
+
+
+
+  {
+    "id": "f5819e1c-bf7c-4537-b00d-f7a9fe21eafa",
+    "name": "Elemental Spirit - Air",
+    "type": "Medium Elemental",
+    "defense": "11 + 2 * the spell's level",
+    "armor": "1",
+    "hitPoints": "12 * the spell's level",
+    "speed": "Land 40ft, Fly 40ft, Hover",
+    "strength": "18 (+4)",
+    "dexterity": "15 (+2)",
+    "constitution": "16 (+3)",
+    "intelligence": "4 (-3)",
+    "wisdom": "10 (+0)",
+    "charisma": "16 (+3)",
+    "fortitude": "4 + the spell's level",
+    "reflex": "2 + the spell's level",
+    "will": "3 + the spell's level",
+    "resistances": "Lightning, Thunder",
+    "immunities": "Poison",
+    "senses": "Darkvision 60ft",
+    "abilities": [
+      {
+        "name": "Amorphous Form",
+        "description": "The elemental can move through a space as narrow as 1 inch without squeezing."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-attack",
+        "description": "The elemental makes a number of attacks equal to half this spell's level (rounded down)."
+      },
+      {
+        "name": "Slam",
+        "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d10 + 4 + the spells level Bludgeoning damage."
+      }
+    ]
+  },
+  {
+    "id": "01b1cf94-6ccc-4355-afbe-41140429a7ef",
+    "name": "Elemental Spirit - Earth",
+    "type": "Medium Elemental",
+    "defense": "11 + 2 * the spell's level",
+    "armor": "4",
+    "hitPoints": "12 * the spell's level",
+    "speed": "Land 40ft, Burrow 40ft",
+    "strength": "18 (+4)",
+    "dexterity": "15 (+2)",
+    "constitution": "16 (+3)",
+    "intelligence": "4 (-3)",
+    "wisdom": "10 (+0)",
+    "charisma": "16 (+3)",
+    "fortitude": "4 + the spell's level",
+    "reflex": "2 + the spell's level",
+    "will": "3 + the spell's level",
+    "resistances": "Piercing and Slashing",
+    "immunities": "Poison",
+    "senses": "Darkvision 60ft",
+    "abilities": [
+      {
+        "name": "Amorphous Form",
+        "description": "The elemental can move through a space as narrow as 1 inch without squeezing."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-attack",
+        "description": "The elemental makes a number of attacks equal to half this spell's level (rounded down)."
+      },
+      {
+        "name": "Slam",
+        "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d10 + 4 + the spells level Bludgeoning or Piercing damage."
+      }
+    ]
+  },
+  {
+    "id": "c2a2cc40-fc23-4747-b8de-b4a023752ceb",
+    "name": "Elemental Spirit - Fire",
+    "type": "Medium Elemental",
+    "defense": "11 + 2 * the spell's level",
+    "armor": "2",
+    "hitPoints": "12 * the spell's level",
+    "speed": "Land 50ft.",
+    "strength": "18 (+4)",
+    "dexterity": "15 (+2)",
+    "constitution": "16 (+3)",
+    "intelligence": "4 (-3)",
+    "wisdom": "10 (+0)",
+    "charisma": "16 (+3)",
+    "fortitude": "4 + the spell's level",
+    "reflex": "2 + the spell's level",
+    "will": "3 + the spell's level",
+    "resistances": "None",
+    "immunities": "Poison, Fire",
+    "senses": "Darkvision 60ft",
+    "abilities": [
+      {
+        "name": "Amorphous Form",
+        "description": "The elemental can move through a space as narrow as 1 inch without squeezing."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-attack",
+        "description": "The elemental makes a number of attacks equal to half this spell's level (rounded down)."
+      },
+      {
+        "name": "Slam",
+        "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d10 + 4 + the spells level Fire damage."
+      }
+    ]
+  },
+  {
+    "id": "82e389dc-3d0c-4cbf-88df-1b1f5f5d825f",
+    "name": "Elemental Spirit - Water",
+    "type": "Medium Elemental",
+    "defense": "11 + 2 * the spell's level",
+    "armor": "3",
+    "hitPoints": "12 * the spell's level",
+    "speed": "Land 40ft, Swim 40ft.",
+    "strength": "18 (+4)",
+    "dexterity": "15 (+2)",
+    "constitution": "16 (+3)",
+    "intelligence": "4 (-3)",
+    "wisdom": "10 (+0)",
+    "charisma": "16 (+3)",
+    "fortitude": "4 + the spell's level",
+    "reflex": "2 + the spell's level",
+    "will": "3 + the spell's level",
+    "resistances": "Acid",
+    "immunities": "Poison",
+    "senses": "Darkvision 60ft",
+    "abilities": [
+      {
+        "name": "Amorphous Form",
+        "description": "The elemental can move through a space as narrow as 1 inch without squeezing."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-attack",
+        "description": "The elemental makes a number of attacks equal to half this spell's level (rounded down)."
+      },
+      {
+        "name": "Slam",
+        "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d10 + 4 + the spells level Bludgeoning damage."
       }
     ]
   }
