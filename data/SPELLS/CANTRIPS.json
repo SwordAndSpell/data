@@ -30,7 +30,7 @@
   {
     "id": "7bd7cad5-ecef-4a00-a1cf-d6340f6e4d55",
     "name": "Control Flames",
-    "tags": ["Arcane","Primal"],
+    "tags": ["Arcane", "Primal"],
     "level": 0,
     "castingSpeed": "1 Action",
     "duration": "Varies",

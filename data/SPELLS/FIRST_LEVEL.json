@@ -505,7 +505,7 @@
     "id": "c2c7cc11-e7cc-4b60-9db2-601b0207be40",
     "name": "Grease",
     "level": 1,
-    "tags": ["Arcane","Primal"],
+    "tags": ["Arcane", "Primal"],
     "castingSpeed": "2 Actions",
     "duration": "1 minute",
     "school": "Conjuration",
