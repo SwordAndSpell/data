@@ -182,7 +182,7 @@
   {
     "id": "35cd7266-b75f-4dd1-8894-7e06f37bde99",
     "name": "Initial Proficiencies",
-    "description": "Trained in Arcana (or another skill of your choice if you are already trained in Arcana)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, as well as staffs, daggers, and light crossbows.\n\nProficient with unarmored defense\n\nAbility DC is determined by your Intelligence Score.\n\nProficient in Arcane Spells (Intelligence is your casting modifier for these spells).\n\nProficient in a number of languages equal to 1 +half your Intelligence modifier (rounded down)"
+    "description": "Trained in Arcana (or another skill of your choice if you are already trained in Arcana)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, as well as staffs, daggers, and light crossbows.\n\nProficient with unarmored defense\n\nAbility DC is determined by your Intelligence Score.\n\nProficient in Arcane Spells (Intelligence is your casting modifier for these spells).\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)"
   },
   {
     "id": "8c1a9d98-ee20-4bba-a08b-6def7b764d4c",
@@ -202,7 +202,7 @@
   {
     "id": "55397765-c885-4d0f-824e-e398b38f0af7",
     "name": "Initial Proficiencies",
-    "description": "Trained in Athletics or Intimidation (or another skill of your choice if you are already trained in both of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with with unarmed attacks, simple weapons, and martial weapons\n\nProficient with light armor, medium armor and unarmored defense\n\nProficient in the use of all Shields.\n\nAbility DC is determined by your Strength Score\n\nProficient in a number of languages equal to 1 +half your Intelligence modifier (rounded down)"
+    "description": "Trained in Athletics or Intimidation (or another skill of your choice if you are already trained in both of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with with unarmed attacks, simple weapons, and martial weapons\n\nProficient with light armor, medium armor and unarmored defense\n\nProficient in the use of all Shields.\n\nAbility DC is determined by your Strength Score\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)"
   },
   {
     "id": "ec029efc-3421-4c8e-b5e0-b607c2b2bcd5",
@@ -222,7 +222,7 @@
   {
     "id": "3e2bb318-2ad1-406a-9289-cf7983067d31",
     "name": "Initial Proficiencies",
-    "description": "Trained in Performance(or another skill of your choice if you are already trained in Performance)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks and simple weapons\n\nProficient with light armor and unarmored defense\n\nProficient in the use of bucklers\n\nAbility DC is determined by your Charisma Score\n\nProficient in Arcane Spells (Charisma is your spellcasting modifier for these spells)\n\nProficient in a number of languages equal to 1 +half your Intelligence modifier (rounded down)"
+    "description": "Trained in Performance(or another skill of your choice if you are already trained in Performance)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks and simple weapons\n\nProficient with light armor and unarmored defense\n\nProficient in the use of bucklers\n\nAbility DC is determined by your Charisma Score\n\nProficient in Arcane Spells (Charisma is your spellcasting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)"
   },
   {
     "id": "bf3a0c34-92ed-41e5-bb1e-e15f86a34d0a",
@@ -242,7 +242,7 @@
   {
     "id": "e7998fe6-4d86-4648-b96f-b0b7c69a46bb",
     "name": "Initial Proficiencies",
-    "description": "Trained in Religion(or another skill of your choice if you are already trained in Religion)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with all weapons and unarmed attacks.\n\nProficient with all armors and unarmored defense.\n\nProficient in the use of all shields.\n\nAbility DC is determined by your Charisma Score.\n\nProficient in Divine Spells (Charisma is your spellcasting modifier for these spells)\n\nProficient in a number of languages equal to 1 +half your Intelligence modifier (rounded down)"
+    "description": "Trained in Religion(or another skill of your choice if you are already trained in Religion)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with all weapons and unarmed attacks.\n\nProficient with all armors and unarmored defense.\n\nProficient in the use of all shields.\n\nAbility DC is determined by your Charisma Score.\n\nProficient in Divine Spells (Charisma is your spellcasting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)"
   },
   {
     "id": "190af154-bf3b-493d-8851-18827cc76540",
@@ -262,7 +262,7 @@
   {
     "id": "ded264b9-8de0-4571-8fde-742f17e4ba79",
     "name": "Initial Proficiencies",
-    "description": "Trained in Arcana, Religion, or Nature depending on your bloodline (or another skill of your choice if you are already trained in the respective skill)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with all simple weapons\n\nProficient with unarmored defense\n\nProficient in Arcane, Divine, or Primal Spells depending on your bloodline (Constitution is your casting modifier for these spells)\n\nAbility DC is determined by your Constitution Score\n\nProficient in a number of languages equal to 1 +half your Intelligence modifier (rounded down)"
+    "description": "Trained in Arcana, Religion, or Nature depending on your bloodline (or another skill of your choice if you are already trained in the respective skill)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with all simple weapons\n\nProficient with unarmored defense\n\nProficient in Arcane, Divine, or Primal Spells depending on your bloodline (Constitution is your casting modifier for these spells)\n\nAbility DC is determined by your Constitution Score\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)"
   },
   {
     "id": "e1021544-2c89-491e-a2a6-81dd26805393",
@@ -282,7 +282,7 @@
   {
     "id": "06f95c96-cae8-42c4-b5d5-6723a0fb9197",
     "name": "Initial Proficiencies",
-    "description": "Trained in Acrobatics or Insight (or another skill of your choice if you are already trained in both of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with simple weapons and unarmed attacks\n\nProficient in unarmored defense\n\nAbility DC is determined by your Wisdom or Dexterity Score (your choice)\n\nProficient in a number of languages equal to 1 +half your Intelligence modifier (rounded down)"
+    "description": "Trained in Acrobatics or Insight (or another skill of your choice if you are already trained in both of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with simple weapons and unarmed attacks\n\nProficient in unarmored defense\n\nAbility DC is determined by your Wisdom or Dexterity Score (your choice)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)"
   },
   {
     "id": "806adfb1-50b8-4baa-8767-adc45d76e3c9",
@@ -302,7 +302,7 @@
   {
     "id": "d4ccf48c-51f4-4dad-94eb-8fbe9dc20d15",
     "name": "Initial Proficiencies",
-    "description": "Trained in Religion (or another skill of your choice if you are already trained in Religion)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with simple weapons and unarmed attacks\n\nProficient with light armor, medium armors and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Wisdom Score\n\nProficient in Divine Spells (Wisdom is your spellcasting modifier for these spells)\n\nProficient in a number of languages equal to 1 +half your Intelligence modifier (rounded down)"
+    "description": "Trained in Religion (or another skill of your choice if you are already trained in Religion)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with simple weapons and unarmed attacks\n\nProficient with light armor, medium armors and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Wisdom Score\n\nProficient in Divine Spells (Wisdom is your spellcasting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)"
   },
   {
     "id": "f54c9299-d6b6-4ba3-ade8-c860349c8c7a",
@@ -322,7 +322,7 @@
   {
     "id": "a40affb3-f3ea-4483-b748-64557bb23022",
     "name": "Initial Proficiencies",
-    "description": "Trained in Acrobatics, Stealth, or Thievery (or another skill of your choice if you are already trained in each of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with all simple weapons; additionally shortbows, shortswords, rapiers are simple weapons for you.\n\nProficient with light armor and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Dexterity Score\n\nProficient in a number of languages equal to 1 +half your Intelligence modifier (rounded down)"
+    "description": "Trained in Acrobatics, Stealth, or Thievery (or another skill of your choice if you are already trained in each of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with all simple weapons; additionally shortbows, shortswords, rapiers are simple weapons for you.\n\nProficient with light armor and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Dexterity Score\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)"
   },
   {
     "id": "b1ce4460-ff6e-4354-8113-b7ec881bf532",
@@ -342,7 +342,7 @@
   {
     "id": "ff5aa117-a718-4984-82b9-0c27b5ee738b",
     "name": "Initial Proficiencies",
-    "description": "Trained in Arcana or Athletics or Acrobatics(or another skill of your choice if you are already trained in each of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons, and martial weapons\n\nProficient with light armor, medium armor and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Intelligence Score\n\nProficient in Arcane Spells (Intelligence is your casting modifier for these spells)\n\nProficient in a number of languages equal to 1 +half your Intelligence modifier (rounded down)"
+    "description": "Trained in Arcana or Athletics or Acrobatics(or another skill of your choice if you are already trained in each of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons, and martial weapons\n\nProficient with light armor, medium armor and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Intelligence Score\n\nProficient in Arcane Spells (Intelligence is your casting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)"
   },
   {
     "id": "e95e1e81-cc74-405f-a9dc-fa277fd68b0c",
@@ -362,7 +362,7 @@
   {
     "id": "873fcb41-9b80-41c9-9ad2-cab3ad5211c6",
     "name": "Initial Proficiencies",
-    "description": "Trained in Nature (or another skill of your choice if you are already trained in Nature)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons, martial weapons, and firearms.\n\nProficient with light armor, medium armor and unarmored defense.\n\nProficient in the use of Bucklers and Shields.\n\nAbility DC is determined by your Wisdom Score\n\nProficient in Primal Spells (Wisdom is your spellcasting modifier for these spells)\n\nProficient in a number of languages equal to 1 +half your Intelligence modifier (rounded down)"
+    "description": "Trained in Nature (or another skill of your choice if you are already trained in Nature)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons, martial weapons, and firearms.\n\nProficient with light armor, medium armor and unarmored defense.\n\nProficient in the use of Bucklers and Shields.\n\nAbility DC is determined by your Wisdom Score\n\nProficient in Primal Spells (Wisdom is your spellcasting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)"
   },
   {
     "id": "06f53cf3-92ac-4163-90b5-bc212fe9ea82",
@@ -382,7 +382,7 @@
   {
     "id": "ee751115-9815-48b7-a72c-6b9dbcf0bea1",
     "name": "Initial Proficiencies",
-    "description": "Trained in Athletics or Acrobatics (or another skill of your choice if you are already trained in both of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons, martial weapons, and firearms\n\nProficient with with all armors and unarmored defense\n\nProficient in the use of all Shields\n\nAbility DC is determined by your Strength or Dexterity Score (your choice)\n\nProficient in a number of languages equal to 1 +half your Intelligence modifier (rounded down)"
+    "description": "Trained in Athletics or Acrobatics (or another skill of your choice if you are already trained in both of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons, martial weapons, and firearms\n\nProficient with with all armors and unarmored defense\n\nProficient in the use of all Shields\n\nAbility DC is determined by your Strength or Dexterity Score (your choice)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)"
   },
   {
     "id": "67ea2beb-9bd8-437d-aaf3-42fa181d7ced",
@@ -402,7 +402,7 @@
   {
     "id": "2724679a-680c-460f-a6e4-489f2c1e0723",
     "name": "Initial Proficiencies",
-    "description": "Trained in Nature (or another skill of your choice if you are already trained in Nature)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons\n\nProficient with light armor, medium armor and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Wisdom Score\n\nProficient in Primal Spells (Wisdom is your spellcasting modifier for these spells)\n\nProficient in a number of languages equal to 1 +half your Intelligence modifier (rounded down)"
+    "description": "Trained in Nature (or another skill of your choice if you are already trained in Nature)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons\n\nProficient with light armor, medium armor and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Wisdom Score\n\nProficient in Primal Spells (Wisdom is your spellcasting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)"
   },
   {
     "id": "33340eac-a2f1-4656-acbd-7d4e5cbd2ee4",
