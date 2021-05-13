@@ -4501,6 +4501,22 @@
     "fifthLevelSpells": ""
   },
   {
+    "id": "99cd20c7-71b0-4a37-8fda-a37f1f694b87",
+    "name": "Furious Form",
+    "identity": [
+      "Wildling"
+    ],
+    "requirementIDs": [
+      "55c9dc98-47c7-4f9d-b121-94fbce8d3f14"
+    ],
+    "description": "You can use your Wildshape form's Multi-attack Ability",
+    "firstLevelSpells": "",
+    "secondLevelSpells": "",
+    "thirdLevelSpells": "",
+    "fourthLevelSpells": "",
+    "fifthLevelSpells": ""
+  },
+  {
     "id": "3e842523-be71-4507-ba26-c2a6d97ad460",
     "name": "Empowered Form",
     "identity": [
