@@ -112,7 +112,7 @@
   },
   {
     "id": "0173c249-2354-428f-8d60-5c2121fddebf",
-    "name": "Bestial - Air",
+    "name": "Beast - Air",
     "type": "Medium Beast",
     "defense": "11 + 2 * the spell's level",
     "armor": "1",
@@ -149,7 +149,7 @@
   },
   {
     "id": "c7262f0b-489e-4978-afab-d9fb5adb56e2",
-    "name": "Bestial - Land",
+    "name": "Beast - Land",
     "type": "Medium Beast",
     "defense": "11 + 2 * the spell's level",
     "armor": "2",
@@ -186,7 +186,7 @@
   },
   {
     "id": "bc925f86-dd52-413f-a5a8-493f9fe34c46",
-    "name": "Bestial - Water",
+    "name": "Beast - Water",
     "type": "Medium Beast",
     "defense": "11 + 2 * the spell's level",
     "armor": "2",
@@ -671,7 +671,7 @@
   },
   {
     "id": "1f285174-4f55-4f70-8222-a4050299f2f9",
-    "name": "Fiendish - Demon",
+    "name": "Fiend - Demon",
     "type": "Large Fiend",
     "defense": "12 + 2 * the spell's level",
     "armor": "4",
@@ -712,7 +712,7 @@
   },
   {
     "id": "bd710cf6-ace2-4361-8959-2766781b606f",
-    "name": "Fiendish - Devil",
+    "name": "Fiend - Devil",
     "type": "Large Fiend",
     "defense": "12 + 2 * the spell's level",
     "armor": "4",

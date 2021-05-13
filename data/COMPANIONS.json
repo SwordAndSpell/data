@@ -3,9 +3,9 @@
     "id": "308f7343-1d3f-4a3e-a85c-6c543d8ad8e1",
     "name": "Brute - Young",
     "type": "Small Beast",
-    "defense": "13 + Dex + your Level",
-    "armor": "1 + (your Level /2)",
-    "hitPoints": "(8 + 2) * your Level",
+    "defense": "13 + 2(DEX) + your Level",
+    "armor": "1 + (your Level / 2)",
+    "hitPoints": "(8 + 2(CON)) * your Level",
     "speed": "Land: 25ft, Swim or Climb: 25ft",
     "strength": "+3",
     "dexterity": "+2",
@@ -18,6 +18,7 @@
     "will": "1 + your level",
     "senses": "Low-Light Vision\nKeen Hearing and Smell",
     "skills": "Intimidation, Survival, Athletics, Acrobatics, Perception",
+    "skillLevel": "Apprentice",
     "abilities": [
       {
         "name": "Rage - 1 Action",
@@ -35,9 +36,9 @@
     "id": "8b03788a-2741-4810-9195-1f064c7d3352",
     "name": "Brute - Mature",
     "type": "Medium Beast",
-    "defense": "13 + Dex + your Level",
-    "armor": "1 + (your Level /2)",
-    "hitPoints": "(8 + 3) * your Level",
+    "defense": "13 + 3(DEX) + your Level",
+    "armor": "1 + (your Level / 2)",
+    "hitPoints": "(8 + 3(CON)) * your Level",
     "speed": "Land: 25ft, Swim or Climb: 25ft",
     "strength": "+4",
     "dexterity": "+3",
@@ -50,6 +51,7 @@
     "will": "2 + your level",
     "senses": "Low-Light Vision\nKeen Hearing and Smell",
     "skills": "Intimidation, Survival, Athletics, Acrobatics, Perception",
+    "skillLevel": "Trained",
     "abilities": [
       {
         "name": "Rage - 1 Action",
@@ -71,9 +73,9 @@
     "id": "9da609d1-4df9-4d33-9162-b0ebe38d6cc4",
     "name": "Brute - Specialized",
     "type": "Large Beast",
-    "defense": "13 + Dex + your Level",
-    "armor": "1 + (your Level /2)",
-    "hitPoints": "(8 + 4) * your Level",
+    "defense": "13 + 3(DEX) + your Level",
+    "armor": "1 + (your Level / 2)",
+    "hitPoints": "(8 + 4(CON)) * your Level",
     "speed": "Land: 25ft, Swim or Climb: 25ft",
     "strength": "+5",
     "dexterity": "+3",
@@ -86,6 +88,7 @@
     "will": "2 + your level",
     "senses": "Low-Light Vision\nKeen Hearing and Smell",
     "skills": "Intimidation, Survival, Athletics, Acrobatics, Perception",
+    "skillLevel": "Expert",
     "abilities": [
       {
         "name": "Rage - 1 Action",
@@ -111,9 +114,9 @@
     "id": "b1c41aed-d700-4cc5-ab68-f1563ea3d326",
     "name": "Brute - Apex",
     "type": "Large Beast",
-    "defense": "13 + Dex + your Level",
-    "armor": "1 + (your Level /2)",
-    "hitPoints": "(8 + 5) * your Level",
+    "defense": "13 + 4(DEX) + your Level",
+    "armor": "1 + (your Level / 2)",
+    "hitPoints": "(8 + 5(CON)) * your Level",
     "speed": "Land: 25ft, Swim or Climb: 25ft",
     "strength": "+6",
     "dexterity": "+4",
@@ -126,6 +129,7 @@
     "will": "3 + your level",
     "senses": "Low-Light Vision\nKeen Hearing and Smell",
     "skills": "Intimidation, Survival, Athletics, Acrobatics, Perception",
+    "skillLevel": "Master",
     "abilities": [
       {
         "name": "Rage - 1 Action",
@@ -144,6 +148,72 @@
       {
         "name": "Bite",
         "description": "Melee Attack: 6 + your level to hit, reach 5ft, one target.\nOn Hit: 3d8 + 6 Slashing damage"
+      }
+    ]
+  },
+  {
+    "id": "1d1d6c45-3b18-41af-90ce-df51450830ac",
+    "name": "Stalker - Young",
+    "type": "Small Beast",
+    "defense": "13 + 3(DEX) + your Level",
+    "armor": "your Level / 2",
+    "hitPoints": "(5 + 1(CON)) * your Level",
+    "speed": "Land: 35ft, Swim or Climb: 35ft",
+    "strength": "+2",
+    "dexterity": "+3",
+    "constitution": "+1",
+    "intelligence": "-2",
+    "wisdom": "-1",
+    "charisma": "-1",
+    "fortitude": "2 + your level",
+    "reflex": "3 + your level",
+    "will": "-1 + your level",
+    "senses": "Darkvision 60ft\nKeen Hearing and Smell",
+    "skills": "Stealth, Investigation, Athletics, Acrobatics, Perception",
+    "skillLevel": "Apprentice",
+    "abilities": [
+      {
+        "name": "Pounce - 1 Action",
+        "description": "Your companion strides up to 15 feet before making an attack against its target, on a successful hit the target must make a Fortitude saving throw against your class DC or be knocked prone."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Claw",
+        "description": "Melee Attack: 3 + your level to hit, reach 5ft, one target.\nOn Hit: 1d6 + 2 Slashing damage"
+      }
+    ]
+  },
+  {
+    "id": "f7ba6cd9-4c1f-43b8-b1df-df01c661014a",
+    "name": "Avian - Young",
+    "type": "Small Beast",
+    "defense": "12 + 3(DEX) + your Level",
+    "armor": "1",
+    "hitPoints": "(4 + 1(CON)) * your Level",
+    "speed": "Land: 10ft, Fly: 50ft",
+    "strength": "+2",
+    "dexterity": "+3",
+    "constitution": "+1",
+    "intelligence": "-3",
+    "wisdom": "+2",
+    "charisma": "-1",
+    "fortitude": "2 + your level",
+    "reflex": "3 + your level",
+    "will": "-1 + your level",
+    "senses": "Darkvision 120ft",
+    "skills": "Survival, Investigation, Athletics, Acrobatics, Perception",
+    "skillLevel": "Apprentice",
+    "abilities": [
+      {
+        "name": "Flyby - 2 Actions",
+        "description": "Your companion flies up to its full movement speed and makes a talon attack against any creature along its path. This movement does not provoke opportunity attacks."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Talon",
+        "description": "Melee Attack: 3 + your level to hit, reach 5ft, one target.\nOn Hit: 1d4 + 2 Slashing damage"
       }
     ]
   }
