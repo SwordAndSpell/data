@@ -509,7 +509,7 @@
     "requirementIDs": [
       "a3559aa0-15f3-44f5-8ae9-34280b118893"
     ],
-    "description": "You can add _ your level (rounded up) to any skill check that you do not have at least Apprentice Proficiency in.",
+    "description": "You can add 1/2 your level (rounded up) to any skill check that you do not have at least Apprentice Proficiency in.",
     "firstLevelSpells": "",
     "secondLevelSpells": "",
     "thirdLevelSpells": "",

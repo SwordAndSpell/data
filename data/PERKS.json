@@ -97,7 +97,7 @@
   {
     "id": "71f7485e-af72-4624-8cc3-d5e24739cae6",
     "name": "Dwarven Armor Training",
-    "description": "You reduce the movement penalties from heavy and medium armor by 5 feet. You gain proficiency in light armor. If you already have proficiency in light armor, you instead gain proficiency in medium armor. If you already have proficiency in medium armor, you gain proficiency in heavy armor."
+    "description": "You reduce the movement penalties from heavy and medium armor by 5 feet. You gain proficiency in light armor. If you already have proficiency in light armor, you instead gain proficiency in medium armor. If you already have proficiency in medium armor, you gain proficiency in heavy armor. If you already have proficiency in heavy armor, your armor bonus is increased by 1."
   },
   {
     "id": "b49a79c2-78ba-4862-a5a3-9ed2b7859d62",

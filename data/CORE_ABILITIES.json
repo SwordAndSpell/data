@@ -82,7 +82,7 @@
   {
     "id": "b83c0a32-26e0-4b4b-b3bc-0ac87ba6182f",
     "name": "Flurry of Blows",
-    "description": "Immediately after you take the Attack action on your turn, you can make two unarmed strikes as a single action. These strikes do not suffer the multi-attack penalty, but do count towards it."
+    "description": "Immediately after you take the Attack action on your turn, you can spend 1 Ki to make two unarmed strikes as a single action. These strikes do not suffer the multi-attack penalty, but do count towards it."
   },
   {
     "id": "6db4da1a-e820-41ca-9933-f6746405cb3a",
@@ -282,7 +282,7 @@
   {
     "id": "06f95c96-cae8-42c4-b5d5-6723a0fb9197",
     "name": "Initial Proficiencies",
-    "description": "Trained in Acrobatics or Insight (or another skill of your choice if you are already trained in both of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with simple weapons and unarmed attacks\n\nProficient in unarmored defense\n\nAbility DC is determined by your Wisdom or Dexterity Score (your choice)\n\nProficient in the type of spells granted by your bloodline\n\nProficient in a number of languages equal to 1 +half your Intelligence modifier (rounded down)"
+    "description": "Trained in Acrobatics or Insight (or another skill of your choice if you are already trained in both of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with simple weapons and unarmed attacks\n\nProficient in unarmored defense\n\nAbility DC is determined by your Wisdom or Dexterity Score (your choice)\n\nProficient in a number of languages equal to 1 +half your Intelligence modifier (rounded down)"
   },
   {
     "id": "806adfb1-50b8-4baa-8767-adc45d76e3c9",
