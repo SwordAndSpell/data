@@ -1,0 +1,235 @@
+[
+  {
+    "id": "118bd196-acd0-49f9-ba72-e959f3adfa16",
+    "name": "Brute Form",
+    "type": "Large Beast",
+    "defense": "13 + Your level",
+    "armor": "your Wisdom / 2",
+    "hitPoints": "You gain 20 + 3 * Your level in temporary HP",
+    "speed": "Land: 30ft, Swim 15ft",
+    "strength": "Your Wisdom",
+    "dexterity": "14 (+2)",
+    "constitution": "16 (+3)",
+    "fortitude": "Wis + Your level",
+    "reflex": "Yours +2",
+    "will": "Unchanged",
+    "senses": "Keen Hearing and Smell",
+    "skills": [
+      {
+        "name": "Acrobatics",
+        "value": "Bonus: +1"
+      },
+      {
+        "name": "Athletics",
+        "value": "Bonus: Your Wisdom"
+      },
+      {
+        "name": "Intimidation",
+        "value": "Bonus: Your Wisdom"
+      },
+      {
+        "name": "Investigation",
+        "value": "Disadvantage"
+      },
+      {
+        "name": "Perception",
+        "value": "Advantage"
+      },
+      {
+        "name": "Stealth",
+        "value": "Disadvantage"
+      },
+      {
+        "name": "Survival",
+        "value": "Advantage"
+      }
+    ],
+    "choose": 1,
+    "abilities": [
+      {
+        "name": "Charge",
+        "description": "If you move at least 15 feet in a straight line towards your target before attacking with a melee attack, they suffer an additional 1d8 damage from the attack."
+      },
+      {
+        "name": "Rampage",
+        "description": "When you reduce a creature to 0 hit points with an attack on your turn, you can use your reaction to move up to half your movement speed (towards a new target) and make a claw attack."
+      },
+      {
+        "name": "Taunt",
+        "description": "You force a target within 10 feet to make a Will saving throw against your Ability DC. On a failed save, your target has disadvantage on all attacks against any target other than yourself."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-attack - 2 Actions",
+        "description": "Your form is capable of making two claw attacks, or a claw attack and a bite / gore attack without suffering a multi-attack penalty"
+      },
+      {
+        "name": "Claws - 1 Action",
+        "description": "Melee Attack: Wisdom + Your Level to hit, reach 5ft, one target.\nOn Hit: 1d6 + Your Wisdom Slashing Damage"
+      },
+      {
+        "name": "Bite / Gore - 1 Action",
+        "description": "Melee Attack: Wisdom + Your Level to hit, reach 5ft, one target.\nOn Hit: 1d8 + Your Wisdom Piercing Damage"
+      }
+    ]
+  },
+  {
+    "id": "9f3ad435-a591-4999-8d71-0907c9e53c7f",
+    "name": "Ambusher Form",
+    "type": "Medium Beast",
+    "defense": "10 + Your Wisdom + Your level",
+    "armor": "2",
+    "hitPoints": "You gain 10 + 2 * Your level in temporary HP",
+    "speed": "Land: 40ft, Climb 20ft",
+    "strength": "14 (+2)",
+    "dexterity": "Your Wisdom",
+    "constitution": "16 (+3)",
+    "fortitude": "Yours +2",
+    "reflex": "Your Wisdom + Your Level",
+    "will": "Unchanged",
+    "senses": "Darkvision 60ft",
+    "skills": [
+      {
+        "name": "Acrobatics",
+        "value": "Bonus: Your Wisdom"
+      },
+      {
+        "name": "Athletics",
+        "value": "Bonus: +2"
+      },
+      {
+        "name": "Intimidation",
+        "value": "Bonus: Your Wisdom"
+      },
+      {
+        "name": "Investigation",
+        "value": "Disadvantage"
+      },
+      {
+        "name": "Perception",
+        "value": "Advantage"
+      },
+      {
+        "name": "Stealth",
+        "value": "Bonus: Your Wisdom"
+      },
+      {
+        "name": "Survival",
+        "value": "Advantage"
+      }
+    ],
+    "choose": 1,
+    "abilities": [
+      {
+        "name": "Pounce",
+        "description": "If you move at least 15 feet in a straight line towards your target before attacking with a melee attack, they must make a Fortitude saving throw against your Ability DC or be knocked Prone. Any Bite attacks you make against targets knocked prone by this ability have their critical range reduced by 1."
+      },
+      {
+        "name": "Ambush",
+        "description": "When you attack an enemy from stealth or from a flanking position, you have advantage on the attack roll "
+      },
+      {
+        "name": "Rampage",
+        "description": "When you reduce a creature to 0 hit points with an attack on your turn, you can use your reaction to move up to half your movement speed (towards a new target) and make a claw attack."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-attack - 2 Actions",
+        "description": "Your form is capable of making two claw attacks, or a claw attack and a bite attack without suffering a multi-attack penalty"
+      },
+      {
+        "name": "Claws - 1 Action",
+        "description": "Melee Attack: Wisdom + Your Level to hit, reach 5ft, one target.\nOn Hit: 1d6 + 2 Slashing Damage"
+      },
+      {
+        "name": "Bite - 1 Action",
+        "description": "Melee Attack: Wisdom + Your Level to hit, reach 5ft, one target.\nOn Hit: 1d8 + 2 Piercing Damage"
+      }
+    ]
+  },
+  {
+    "id": "cfc9e944-08b4-41d1-bfbb-9defabf8a4c7",
+    "name": "Monstrosity Form",
+    "type": "Large Monstrosity",
+    "defense": "10 + Your Wisdom + Your level",
+    "armor": "Your Wisdom / 2 ",
+    "hitPoints": "You gain 5 * Your level in temporary HP",
+    "speed": "Land: 40ft, Climb 20ft, Swim 20ft",
+    "strength": "Your Wisdom",
+    "dexterity": "Your Wisdom",
+    "constitution": "16 (+3)",
+    "fortitude": "Your Wisdom + Your Level",
+    "reflex": "Your Wisdom + Your Level",
+    "will": "Unchanged",
+    "senses": "Darkvision 120ft, Keen Hearing and Smell",
+    "skills": [
+      {
+        "name": "Acrobatics",
+        "value": "Bonus: Your Wisdom"
+      },
+      {
+        "name": "Athletics",
+        "value": "Bonus: Your Wisdom"
+      },
+      {
+        "name": "Intimidation",
+        "value": "Bonus: Your Wisdom"
+      },
+      {
+        "name": "Investigation",
+        "value": "Disadvantage"
+      },
+      {
+        "name": "Perception",
+        "value": "Advantage"
+      },
+      {
+        "name": "Stealth",
+        "value": "Bonus: Your Wisdom"
+      },
+      {
+        "name": "Survival",
+        "value": "Advantage"
+      }
+    ],
+    "choose": 2,
+    "abilities": [
+      {
+        "name": "Magical Resistance - Reaction",
+        "description": "You can spend your reaction gain a +3 bonus to any saving throw against a magical effect"
+      },
+      {
+        "name": "Elemental Breath - 2 Actions",
+        "description": "You exhale an element of your choice (Acid, Cold, Fire, Lightning, Poison) in a 20 foot cone. Each target within the cone must make a Reflex save or take Xd6 elemental damage, where X is your Wisdom modifier. On a successful save, targets take half damage from the effect. Usable once per shift."
+      },
+      {
+        "name": "Displacement - 1 Action",
+        "description": "You teleport up to 40 feet to an unoccupied space that you can see."
+      },
+      {
+        "name": "Wings",
+        "description": "You gain a Fly speed of 40 ft."
+      },
+      {
+        "name": "Spike Fling - 1 Action",
+        "description": "Ranged Attack: Wisdom + Your Level to hit, Range 90ft, one target.\nOn hit 2d6+Wis Poison damage.\nYou can replace any one attack from your multi-attack with this action."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-attack - 2 Actions",
+        "description": "Your form is capable of making two claw attacks and a bite / gore attack without suffering the multi-attack penalty"
+      },
+      {
+        "name": "Claws - 1 Action",
+        "description": "Melee Attack: Wisdom + Your Level to hit, reach 5ft, one target.\nOn Hit: 3d4 + Your Wisdom Slashing Damage"
+      },
+      {
+        "name": "Bite / Gore - 1 Action",
+        "description": "Melee Attack: Wisdom + Your Level to hit, reach 5ft, one target.\nOn Hit: 1d12 + Your Wisdom Piercing Damage"
+      }
+    ]
+  }
+]
