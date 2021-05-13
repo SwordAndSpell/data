@@ -163,7 +163,7 @@
     "dexterity": "+3",
     "constitution": "+1",
     "intelligence": "-2",
-    "wisdom": "-1",
+    "wisdom": "+1",
     "charisma": "-1",
     "fortitude": "2 + your level",
     "reflex": "3 + your level",
@@ -181,6 +181,125 @@
       {
         "name": "Claw",
         "description": "Melee Attack: 3 + your level to hit, reach 5ft, one target.\nOn Hit: 1d6 + 2 Slashing damage"
+      }
+    ]
+  },
+  {
+    "id": "4888cbbf-a7f8-47de-be99-4b24b87b1db7",
+    "name": "Stalker - Mature",
+    "type": "Medium Beast",
+    "defense": "13 + 4(DEX) + your Level",
+    "armor": "your Level / 2",
+    "hitPoints": "(5 + 2(CON)) * your Level",
+    "speed": "Land: 35ft, Swim or Climb: 35ft",
+    "strength": "+3",
+    "dexterity": "+4",
+    "constitution": "+2",
+    "intelligence": "-1",
+    "wisdom": "+2",
+    "charisma": "+0",
+    "fortitude": "3 + your level",
+    "reflex": "4 + your level",
+    "will": "0 + your level",
+    "senses": "Darkvision 60ft\nKeen Hearing and Smell",
+    "skills": "Stealth, Investigation, Athletics, Acrobatics, Perception",
+    "skillLevel": "Trained",
+    "abilities": [
+      {
+        "name": "Pounce - 1 Action",
+        "description": "Your companion strides up to 15 feet before making an attack against its target, on a successful hit the target must make a Fortitude saving throw against your class DC or be knocked prone."
+      },
+      {
+        "name": "Darting Strike",
+        "description": "Your companion steps up to 10 feet, makes a single attack, and then steps up to 10 feet again. (Note: step does not trigger attacks of opportunity)"
+      }
+    ],
+    "actions": [
+      {
+        "name": "Claw",
+        "description": "Melee Attack: 4 + your level to hit, reach 5ft, one target.\nOn Hit: 1d6 + 3 Slashing damage"
+      }
+    ]
+  },
+  {
+    "id": "9d07f454-3ea1-40bb-8dc0-68cc06a8728c",
+    "name": "Stalker - Specialized",
+    "type": "Large Beast",
+    "defense": "13 + 5(DEX) + your Level",
+    "armor": "your Level / 2",
+    "hitPoints": "(5 + 2(CON)) * your Level",
+    "speed": "Land: 35ft, Swim or Climb: 35ft",
+    "strength": "+3",
+    "dexterity": "+5",
+    "constitution": "+2",
+    "intelligence": "+0",
+    "wisdom": "+3",
+    "charisma": "+1",
+    "fortitude": "3 + your level",
+    "reflex": "5 + your level",
+    "will": "1 + your level",
+    "senses": "Darkvision 60ft\nKeen Hearing and Smell",
+    "skills": "Stealth, Investigation, Athletics, Acrobatics, Perception",
+    "skillLevel": "Expert",
+    "abilities": [
+      {
+        "name": "Pounce - 1 Action",
+        "description": "Your companion strides up to 15 feet before making an attack against its target, on a successful hit the target must make a Fortitude saving throw against your class DC or be knocked prone."
+      },
+      {
+        "name": "Darting Strike",
+        "description": "Your companion steps up to 10 feet, makes a single attack, and then steps up to 10 feet again. (Note: step does not trigger attacks of opportunity)"
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-Attack - 2 Actions",
+        "description": "Your companion makes two attacks without suffering the multi-attack penalty"
+      },
+      {
+        "name": "Claw",
+        "description": "Melee Attack: 5 + your level to hit, reach 5ft, one target.\nOn Hit: 2d6 + 3 Slashing damage"
+      }
+    ]
+  },
+  {
+    "id": "ee899cf0-a367-4412-a13a-300f3c5b34da",
+    "name": "Stalker - Apex",
+    "type": "Large Beast",
+    "defense": "13 + 6(DEX) + your Level",
+    "armor": "your Level / 2",
+    "hitPoints": "(5 + 3(CON)) * your Level",
+    "speed": "Land: 35ft, Swim or Climb: 35ft",
+    "strength": "+4",
+    "dexterity": "+6",
+    "constitution": "+3",
+    "intelligence": "+1",
+    "wisdom": "+4",
+    "charisma": "+2",
+    "fortitude": "4 + your level",
+    "reflex": "6 + your level",
+    "will": "2 + your level",
+    "senses": "Darkvision 60ft\nKeen Hearing and Smell",
+    "skills": "Stealth, Investigation, Athletics, Acrobatics, Perception",
+    "skillLevel": "Master",
+    "abilities": [
+      {
+        "name": "Pounce - 1 Action",
+        "description": "Your companion strides up to 15 feet before making an attack against its target, on a successful hit the target must make a Fortitude saving throw against your class DC or be knocked prone."
+      },
+      {
+        "name": "Darting Strike",
+        "description": "Your companion steps up to 10 feet, makes a single attack, and then steps up to 10 feet again. (Note: step does not trigger attacks of opportunity)"
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-Attack - 2 Actions",
+        "description": "Your companion makes three attacks without suffering the multi-attack penalty"
+      },
+      {
+        "name": "Claw",
+        "description": "Melee Attack: 6 + your level to hit, reach 5ft, one target.\nOn Hit: 3d6 + 4 Slashing damage"
       }
     ]
   },
@@ -214,6 +333,125 @@
       {
         "name": "Talon",
         "description": "Melee Attack: 3 + your level to hit, reach 5ft, one target.\nOn Hit: 1d4 + 2 Slashing damage"
+      }
+    ]
+  },
+  {
+    "id": "d9fa1fc7-10f8-48f2-9c02-79afb533a11b",
+    "name": "Avian - Mature",
+    "type": "Medium Beast",
+    "defense": "12 + 4(DEX) + your Level",
+    "armor": "1",
+    "hitPoints": "(4 + 2(CON)) * your Level",
+    "speed": "Land: 10ft, Fly: 50ft",
+    "strength": "+3",
+    "dexterity": "+4",
+    "constitution": "+1",
+    "intelligence": "-2",
+    "wisdom": "+3",
+    "charisma": "0",
+    "fortitude": "3 + your level",
+    "reflex": "4 + your level",
+    "will": "0 + your level",
+    "senses": "Darkvision 120ft",
+    "skills": "Survival, Investigation, Athletics, Acrobatics, Perception",
+    "skillLevel": "Trained",
+    "abilities": [
+      {
+        "name": "Flyby - 2 Actions",
+        "description": "Your companion flies up to its full movement speed and makes a talon attack against any creature along its path. This movement does not provoke opportunity attacks."
+      },
+      {
+        "name": "Hamstring - 1 Actions",
+        "description": "Your companion goes for its target’s tendons, hamstringing it on a successful strike. Your companion makes a melee attack, and on a hit forces its target to make a Fortitude saving throw against your Ability DC. On a failed save, your target’s move speed is reduced by 15 feet until the start of your next turn."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Talon",
+        "description": "Melee Attack: 4 + your level to hit, reach 5ft, one target.\nOn Hit: 1d4 + 3 Slashing damage"
+      }
+    ]
+  },
+  {
+    "id": "d9fa1fc7-10f8-48f2-9c02-79afb533a11b",
+    "name": "Avian - Specialized",
+    "type": "Large Beast",
+    "defense": "12 + 5(DEX) + your Level",
+    "armor": "1",
+    "hitPoints": "(4 + 2(CON)) * your Level",
+    "speed": "Land: 10ft, Fly: 50ft",
+    "strength": "+3",
+    "dexterity": "+5",
+    "constitution": "+2",
+    "intelligence": "-2",
+    "wisdom": "+4",
+    "charisma": "1",
+    "fortitude": "3 + your level",
+    "reflex": "5 + your level",
+    "will": "1 + your level",
+    "senses": "Darkvision 120ft",
+    "skills": "Survival, Investigation, Athletics, Acrobatics, Perception",
+    "skillLevel": "Expert",
+    "abilities": [
+      {
+        "name": "Flyby - 2 Actions",
+        "description": "Your companion flies up to its full movement speed and makes a talon attack against any creature along its path. This movement does not provoke opportunity attacks."
+      },
+      {
+        "name": "Hamstring - 1 Actions",
+        "description": "Your companion goes for its target’s tendons, hamstringing it on a successful strike. Your companion makes a melee attack, and on a hit forces its target to make a Fortitude saving throw against your Ability DC. On a failed save, your target’s move speed is reduced by 15 feet until the start of your next turn."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-Attack - 2 Actions",
+        "description": "Your companion makes two attacks without suffering the multi-attack penalty"
+      },
+      {
+        "name": "Talon",
+        "description": "Melee Attack: 5 + your level to hit, reach 5ft, one target.\nOn Hit: 2d4 + 3 Slashing damage"
+      }
+    ]
+  },
+  {
+    "id": "a8deb12b-55f3-4159-9161-c2d09042d18e",
+    "name": "Avian - Apex",
+    "type": "Large Beast",
+    "defense": "12 + 6(DEX) + your Level",
+    "armor": "1",
+    "hitPoints": "(4 + 3(CON)) * your Level",
+    "speed": "Land: 10ft, Fly: 50ft",
+    "strength": "+4",
+    "dexterity": "+5",
+    "constitution": "+3",
+    "intelligence": "-1",
+    "wisdom": "+5",
+    "charisma": "2",
+    "fortitude": "4 + your level",
+    "reflex": "6 + your level",
+    "will": "2 + your level",
+    "senses": "Darkvision 120ft",
+    "skills": "Survival, Investigation, Athletics, Acrobatics, Perception",
+    "skillLevel": "Master",
+    "abilities": [
+      {
+        "name": "Flyby - 2 Actions",
+        "description": "Your companion flies up to its full movement speed and makes a talon attack against any creature along its path. This movement does not provoke opportunity attacks."
+      },
+      {
+        "name": "Hamstring - 1 Actions",
+        "description": "Your companion goes for its target’s tendons, hamstringing it on a successful strike. Your companion makes a melee attack, and on a hit forces its target to make a Fortitude saving throw against your Ability DC. On a failed save, your target’s move speed is reduced by 15 feet until the start of your next turn."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multi-Attack - 2 Actions",
+        "description": "Your companion makes three attacks without suffering the multi-attack penalty"
+      },
+      {
+        "name": "Talon",
+        "description": "Melee Attack: 6 + your level to hit, reach 5ft, one target.\nOn Hit: 3d4 + 4 Slashing damage"
       }
     ]
   }
