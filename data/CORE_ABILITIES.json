@@ -2,411 +2,493 @@
   {
     "id": "883f802c-1a78-4da3-a0c7-93cd544f4ef5",
     "name": "Spellbook",
-    "description": "You have a spellbook that you use to prepare your spells for each day. This tome grows with your knowledge, and can be added to by copying down any spells you might find as part of your adventures.\n\nAt 1st level you have 10 Arcane spells in your spellbook, and add 4 more each time your spellcasting level increases.\n\nIf you lose your spellbook, you can create a new copy and re-transcribe all of the spells you have prepared at that time, but any spells not prepared are lost with the book. It is for this reason that many enterprising wizards have backup spellbooks stashed in many places."
+    "description": "You have a spellbook that you use to prepare your spells for each day. This tome grows with your knowledge, and can be added to by copying down any spells you might find as part of your adventures.\n\nAt 1st level you have 10 Arcane spells in your spellbook, and add 4 more each time your spellcasting level increases.\n\nIf you lose your spellbook, you can create a new copy and re-transcribe all of the spells you have prepared at that time, but any spells not prepared are lost with the book. It is for this reason that many enterprising wizards have backup spellbooks stashed in many places.",
+    "links": []
   },
   {
     "id": "b82be9c2-f1d8-4c53-812b-d397e3119a69",
     "name": "Arcanist Spellcasting",
-    "description": "You can cast Arcane spells, using a wand, staff, or other arcane item as a spellcasting focus to channel your power. Without your spellcasting focus, you are incapable of casting even the simplest cantrips. Intelligence is your spellcasting ability.\n\nYour Spellcasting Level is 1 at 1st level. Your Spellcasting level increases by 1 at 3rd, 5th, 7th, and 10th level. This is cumulative with any other spellcasting level increases you may get from identity features.\n\nYour spellbook contains the sum total of your arcane knowledge, and at the end of each rest you can prepare a number of spells from it each day equal to your 2 * your Intelligence Modifier + your spellcasting level. You know a number of cantrips from the Arcane Spell List equal to your Intelligence Modifier. Whenever this modifier increases, you learn another cantrip from your spell list.\n\nYou have a number of Spell Charges as shown on the Universal Spellcasting Chart. All of your expended Spell Charges regenerate at the end of a Rest."
+    "description": "You can cast Arcane spells, using a wand, staff, or other arcane item as a spellcasting focus to channel your power. Without your spellcasting focus, you are incapable of casting even the simplest cantrips. Intelligence is your spellcasting ability.\n\nYour Spellcasting Level is 1 at 1st level. Your Spellcasting level increases by 1 at 3rd, 5th, 7th, and 10th level. This is cumulative with any other spellcasting level increases you may get from identity features.\n\nYour spellbook contains the sum total of your arcane knowledge, and at the end of each rest you can prepare a number of spells from it each day equal to your 2 * your Intelligence Modifier + your spellcasting level. You know a number of cantrips from the Arcane Spell List equal to your Intelligence Modifier. Whenever this modifier increases, you learn another cantrip from your spell list.\n\nYou have a number of Spell Charges as shown on the Universal Spellcasting Chart. All of your expended Spell Charges regenerate at the end of a Rest.",
+    "links": []
   },
   {
     "id": "72437019-146f-45c5-b9d9-3f43f3af0e1d",
     "name": "Arcane Recovery",
-    "description": "Once per day, you can spend 10 minutes studying your spellbook to regain a number of spell charges equal to 2 *  your Spellcasting Level, as well as re-prepare your spells for the day."
+    "description": "Once per day, you can spend 10 minutes studying your spellbook to regain a number of spell charges equal to 2 *  your Spellcasting Level, as well as re-prepare your spells for the day.",
+    "links": []
   },
   {
     "id": "afd86ce7-e94d-4d6c-a6b9-d34af83a9581",
     "name": "Rage",
-    "description": "As an action, you can unleash the power within yourself and enter a rage. While raging, you gain the following benefits:\n\n- Your armor value is equal to your Constitution Modifier (if it is higher than your regular armor value).\n\n- You gain additional damage to your unarmed and melee weapon attack rolls equal to 1/2 your level (rounded up) with the attack.\n\n- Any additional benefits granted by identity choices"
+    "description": "As an action, you can unleash the power within yourself and enter a rage. While raging, you gain the following benefits:\n\n- Your armor value is equal to your Constitution Modifier (if it is higher than your regular armor value).\n\n- You gain additional damage to your unarmed and melee weapon attack rolls equal to 1/2 your level (rounded up) with the attack.\n\n- Any additional benefits granted by identity choices",
+    "links": []
   },
   {
     "id": "dbc7dccf-75bd-429c-a5e4-486a4e644a66",
     "name": "Thick Skin",
-    "description": "When you are not wearing armor, your defense scores are calculated as follows: \n\nDefense score = 9 + your Dexterity Modifier + your Constitution Modifier + your level\n\nStuck Defense = 9 + your Constitution Modifier + your level\n\nNaked Defense = 9 + your Dexterity Modifier + your Constitution Modifier + your level.\n\nWhen wearing Light or Medium armor, you can use your Constitution Modifier in place of your Dexterity modifier when determining your defense. Using your Constitution Modifier this way allows you to ignore the Dexterity bonus maximums for light and medium armors."
+    "description": "When you are not wearing armor, your defense scores are calculated as follows: \n\nDefense score = 9 + your Dexterity Modifier + your Constitution Modifier + your level\n\nStuck Defense = 9 + your Constitution Modifier + your level\n\nNaked Defense = 9 + your Dexterity Modifier + your Constitution Modifier + your level.\n\nWhen wearing Light or Medium armor, you can use your Constitution Modifier in place of your Dexterity modifier when determining your defense. Using your Constitution Modifier this way allows you to ignore the Dexterity bonus maximums for light and medium armors.",
+    "links": []
   },
   {
     "id": "99aee4f0-cedd-41a8-bca7-24c5884d0dfc",
     "name": "Inpiration",
-    "description": "You can inspire others through stirring words or music. To do so, you may use an action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d4.\n\nOnce within the next 10 minutes, the creature can roll the inspiration die and add the number rolled to any d20 roll. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.\n\nYou can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a rest.\n\nYour Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d6 at 3rd level, a d8 at 5th level, a d10 at 7th level, and a d12 at 9th level."
+    "description": "You can inspire others through stirring words or music. To do so, you may use an action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d4.\n\nOnce within the next 10 minutes, the creature can roll the inspiration die and add the number rolled to any d20 roll. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.\n\nYou can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a rest.\n\nYour Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d6 at 3rd level, a d8 at 5th level, a d10 at 7th level, and a d12 at 9th level.",
+    "links": []
   },
   {
     "id": "cf3237fd-07fd-4317-af7a-774f62d4dbf7",
     "name": "Bardic Spellcasting",
-    "description": "You can cast Arcane and Occult spells, using a wand, instrument, or other arcane implement as a spellcasting focus to channel your power. Without your spellcasting focus, you are incapable of casting even the simplest cantrips. Charisma is your spellcasting ability.\n\nYour Spellcasting Level is 1 at 1st level. Your Spellcasting level increases by 1 at 3rd, 5th, 7th, and 10th level. This is cumulative with any other spellcasting level increases you may get from identity features.\n\nAt 1st level, you know 4 spells from the Arcane spell list. These spells can have the Occult tag. Each time your spellcasting level increases, you learn two additional spells.\n\nAt each spellcasting level (Including 1st level), you learn a single spell of your choice from any spell list. This spell must be of a level you can cast, and is an Arcane spell for you.\n\nYou know a number of cantrips from the Arcane Spell List equal to your Charisma Modifier. Whenever this modifier increases, you learn another cantrip from your spell list.\n\nYou have a number of Spell Charges as shown on the Universal Spellcasting Chart. All of your expended Spell Charges regenerate at the end of a Rest."
+    "description": "You can cast Arcane and Occult spells, using a wand, instrument, or other arcane implement as a spellcasting focus to channel your power. Without your spellcasting focus, you are incapable of casting even the simplest cantrips. Charisma is your spellcasting ability.\n\nYour Spellcasting Level is 1 at 1st level. Your Spellcasting level increases by 1 at 3rd, 5th, 7th, and 10th level. This is cumulative with any other spellcasting level increases you may get from identity features.\n\nAt 1st level, you know 4 spells from the Arcane spell list. These spells can have the Occult tag. Each time your spellcasting level increases, you learn two additional spells.\n\nAt each spellcasting level (Including 1st level), you learn a single spell of your choice from any spell list. This spell must be of a level you can cast, and is an Arcane spell for you.\n\nYou know a number of cantrips from the Arcane Spell List equal to your Charisma Modifier. Whenever this modifier increases, you learn another cantrip from your spell list.\n\nYou have a number of Spell Charges as shown on the Universal Spellcasting Chart. All of your expended Spell Charges regenerate at the end of a Rest.",
+    "links": []
   },
   {
     "id": "77fcc450-95d8-434a-a706-b792098f1a5b",
     "name": "Champion Spellcasting",
-    "description": "You can cast Divine spells, using a holy symbol, emblazoned shield, or banner as a spellcasting focus to channel your power. Without your spellcasting focus, you are incapable of casting even the simplest cantrips. Charisma is your spellcasting ability.\n\nYour Spellcasting Level is 1 at 1st level. Your Spellcasting level increases by 1 at 4th, and 7th level. This is cumulative with any other spellcasting level increases you may get from identity features.\n\nAt 1st level, you know spells from the Divine spell list equal to 2 * your Charisma modifier. Each time your spellcasting level or Charisma modifier increases, you learn two  additional spells.\n\nYou know a single Cantrip from the Divine spell list, and learn another at 5th and 10th level.\n\nYou have a number of Spell Charges as shown on the Universal Spellcasting Chart. All of your expended Spell Charges regenerate at the end of a Rest."
+    "description": "You can cast Divine spells, using a holy symbol, emblazoned shield, or banner as a spellcasting focus to channel your power. Without your spellcasting focus, you are incapable of casting even the simplest cantrips. Charisma is your spellcasting ability.\n\nYour Spellcasting Level is 1 at 1st level. Your Spellcasting level increases by 1 at 4th, and 7th level. This is cumulative with any other spellcasting level increases you may get from identity features.\n\nAt 1st level, you know spells from the Divine spell list equal to 2 * your Charisma modifier. Each time your spellcasting level or Charisma modifier increases, you learn two  additional spells.\n\nYou know a single Cantrip from the Divine spell list, and learn another at 5th and 10th level.\n\nYou have a number of Spell Charges as shown on the Universal Spellcasting Chart. All of your expended Spell Charges regenerate at the end of a Rest.",
+    "links": []
   },
   {
     "id": "54138a2e-094c-4b94-99cf-818779074554",
     "name": "Smite",
-    "description": "When you hit an enemy with a weapon attack, you can expend a spell charge to deal extra damage to that enemy of an elemental type of your choice (chosen at 1st level). This damage is equal to 1d8 + 1d8 per level of the spell charge."
+    "description": "When you hit an enemy with a weapon attack, you can expend a spell charge to deal extra damage to that enemy of an elemental type of your choice (chosen at 1st level). This damage is equal to 1d8 + 1d8 per level of the spell charge.",
+    "links": []
   },
   {
     "id": "a47760b9-fdf0-4e44-b6c6-34c9a7667f95",
     "name": "Bloodline",
-    "description": "You can draw from the mystical energies of a past ancestor to cast spells. Choose a bloodline origin from the Empowered Bloodlines list, which will determine the spell list available to you as you level up. Additionally, your bloodline grants you a special ability at 1st level."
+    "description": "You can draw from the mystical energies of a past ancestor to cast spells. Choose a bloodline origin from the Empowered Bloodlines list, which will determine the spell list available to you as you level up. Additionally, your bloodline grants you a special ability at 1st level.",
+    "links": []
   },
   {
     "id": "befb553f-747a-4fc9-8e8a-e7bd2a259f55",
     "name": "Bloodline Spellcasting",
-    "description": "You can cast spells from the spell list granted by your bloodline, using a wand, staff, holy symbol, or other bloodline relic as a spellcasting focus to channel your power. Without your spellcasting focus, you are incapable of casting even the simplest cantrips. Constitution is your spellcasting ability.\n\nYour Spellcasting Level is 1 at 1st level.Your Spellcasting level increases by 1 at 3rd, 5th, 7th, and 10th level. This is cumulative with any other spellcasting level increases you may get from identity features.\n\nAt 1st level, you know 4 spells from the spell list determined by your bloodline. Every time your spellcasting level or Constitution modifier increases, you learn an additional 2 spells. These spells must be of a level less than or equal to your Max Casting Level.\n\nYou know a number of cantrips equal to your Constitution Modifier. Whenever this modifier increases, you learn an additional cantrip from your spell list."
+    "description": "You can cast spells from the spell list granted by your bloodline, using a wand, staff, holy symbol, or other bloodline relic as a spellcasting focus to channel your power. Without your spellcasting focus, you are incapable of casting even the simplest cantrips. Constitution is your spellcasting ability.\n\nYour Spellcasting Level is 1 at 1st level.Your Spellcasting level increases by 1 at 3rd, 5th, 7th, and 10th level. This is cumulative with any other spellcasting level increases you may get from identity features.\n\nAt 1st level, you know 4 spells from the spell list determined by your bloodline. Every time your spellcasting level or Constitution modifier increases, you learn an additional 2 spells. These spells must be of a level less than or equal to your Max Casting Level.\n\nYou know a number of cantrips equal to your Constitution Modifier. Whenever this modifier increases, you learn an additional cantrip from your spell list.",
+    "links": []
   },
   {
     "id": "742efff5-4911-4072-b934-925f39cc50b8",
     "name": "Spell Points",
-    "description": "At each spellcasting level, you have a number of Spell Points available to you as shown in the Spell Points column of the Universal Spell Point Chart.\n\nYou may expend a number of Spell Points, as shown in the Spell Point Costs table, to cast a spell at a given level (at any level up to your Max Casting Level). I.E. if your Max Casting Level is 3rd, and you know the spell Burning Hands, you could use Spell Points to cast it at 1st, 2nd, or 3rd level.\n\nYou may not use Spell Points to cast a spell if it would reduce your total Spell Points available below 0.\n\nThere is a intense cost associated with casting spells of 6th level or higher, and as such you can only cast one spell at each of those levels per day."
+    "description": "At each spellcasting level, you have a number of Spell Points available to you as shown in the Spell Points column of the Universal Spell Point Chart.\n\nYou may expend a number of Spell Points, as shown in the Spell Point Costs table, to cast a spell at a given level (at any level up to your Max Casting Level). I.E. if your Max Casting Level is 3rd, and you know the spell Burning Hands, you could use Spell Points to cast it at 1st, 2nd, or 3rd level.\n\nYou may not use Spell Points to cast a spell if it would reduce your total Spell Points available below 0.\n\nThere is a intense cost associated with casting spells of 6th level or higher, and as such you can only cast one spell at each of those levels per day.",
+    "links": []
   },
   {
     "id": "acc3307c-daac-4aa3-abe2-9f966d3ddf89",
     "name": "Empowered Upcasting",
-    "description": "Your bloodline allows you to cast spells beyond your normal limits.\n\nFor the purposes of upcasting, you can treat your Upcast Level as your Max Spell Level when determining how high of a level you will cast your chosen spell at, and how many spell points you will expend.\n\nYou have a number of uses of this ability equal to your Constitution Modifier. You regain all expended uses of this ability at the end of a rest."
+    "description": "Your bloodline allows you to cast spells beyond your normal limits.\n\nFor the purposes of upcasting, you can treat your Upcast Level as your Max Spell Level when determining how high of a level you will cast your chosen spell at, and how many spell points you will expend.\n\nYou have a number of uses of this ability equal to your Constitution Modifier. You regain all expended uses of this ability at the end of a rest.",
+    "links": []
   },
   {
     "id": "363aa163-8b9c-4115-bf79-c1195dfc3296",
     "name": "Metamagic",
-    "description": "You learn three of the metamagic options detailed in the Metamagic Options List. You can use only one Metamagic option on a spell when you cast it, unless otherwise noted."
+    "description": "You learn three of the metamagic options detailed in the Metamagic Options List. You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.",
+    "links": []
   },
   {
     "id": "6a45b2e7-f139-43fb-ad2c-b9c4b79d29b6",
     "name": "Prescient",
-    "description": "When you are not wearing armor, your Defense calculations are as follows: \n\nDefense = 9 + your Dexterity Modifier + your Wisdom modifier + your level\n\nStuck Defense = 9 + your level\n\nTouch Defense = 9 + your Wisdom Modifier + your Dexterity Modifier + your level.\n\nAdditionally, while you are not wearing armor, your movement speed increases by 10 feet."
+    "description": "When you are not wearing armor, your Defense calculations are as follows: \n\nDefense = 9 + your Dexterity Modifier + your Wisdom modifier + your level\n\nStuck Defense = 9 + your level\n\nTouch Defense = 9 + your Wisdom Modifier + your Dexterity Modifier + your level.\n\nAdditionally, while you are not wearing armor, your movement speed increases by 10 feet.",
+    "links": []
   },
   {
     "id": "58d34625-cb48-4f2a-96df-779282480f00",
     "name": "Ki",
-    "description": "You have a number of Ki points equal to your Wisdom Modifier + 2 * your level. You can use these points to activate special abilities. Your pool of Ki points completely refills at the end of each Rest. At 1st level, you have access to the following abilities:\n\nPatient Defense:You can spend 2 ki points to take the Dodge action as a free action on your turn.\n\nStep of the Wind - You can spend 1 ki point to take the Stride or Step action as a free action on your turn, when you do so your jump distance is doubled for the turn."
+    "description": "You have a number of Ki points equal to your Wisdom Modifier + 2 * your level. You can use these points to activate special abilities. Your pool of Ki points completely refills at the end of each Rest. At 1st level, you have access to the following abilities:\n\nPatient Defense:You can spend 2 ki points to take the Dodge action as a free action on your turn.\n\nStep of the Wind - You can spend 1 ki point to take the Stride or Step action as a free action on your turn, when you do so your jump distance is doubled for the turn.",
+    "links": []
   },
   {
     "id": "b83c0a32-26e0-4b4b-b3bc-0ac87ba6182f",
     "name": "Flurry of Blows",
-    "description": "Immediately after you take the Attack action on your turn, you can spend 1 Ki to make two unarmed strikes as a single action. These strikes do not suffer the multi-attack penalty, but do count towards it."
+    "description": "Immediately after you take the Attack action on your turn, you can spend 1 Ki to make two unarmed strikes as a single action. These strikes do not suffer the multi-attack penalty, but do count towards it.",
+    "links": []
   },
   {
     "id": "6db4da1a-e820-41ca-9933-f6746405cb3a",
     "name": "Martial Arts Dice",
-    "description": "Your discipline and practice has allowed you to hone your fighting style with certain weapons. Whenever you are wielding a simple weapon or no weapon at all, you can use your Dexterity Modifier in the place of your strength modifier for both attack and damage rolls with that weapon (or your unarmed strike).\n\nAdditionally at level one you gain a dice that can be used in place of any damage die when you make an attack with a simple or unarmed attack. This damage dice is a d4 at level 1, and increases to a d6 at level 3, a d8 at level 5, a d10 at level 7, and a d12 at level 9."
+    "description": "Your discipline and practice has allowed you to hone your fighting style with certain weapons. Whenever you are wielding a simple weapon or no weapon at all, you can use your Dexterity Modifier in the place of your strength modifier for both attack and damage rolls with that weapon (or your unarmed strike).\n\nAdditionally at level one you gain a dice that can be used in place of any damage die when you make an attack with a simple or unarmed attack. This damage dice is a d4 at level 1, and increases to a d6 at level 3, a d8 at level 5, a d10 at level 7, and a d12 at level 9.",
+    "links": []
   },
   {
     "id": "14eafe0f-1145-48ad-ae96-55adffcdb823",
     "name": "Priest Spellcasting",
-    "description": "You can cast Divine spells, using a holy symbol, emblazoned shield, or banner as a spellcasting focus to channel your power. Without your spellcasting focus, you are incapable of casting even the simplest cantrips.\n\nYour Spellcasting Level is 1 at 1st level. Your Spellcasting level increases by 1 at 3rd, 5th, 7th, and 10th level. This is cumulative with any other spellcasting level increases you may get from identity features.\n\nThe entire Divine Spell List is available to you, and you can prepare a number of spells each day equal to your Wisdom Modifier + your spellcasting level. In order to prepare a spell, you must have at least a single spell charge capable of casting it.\n\nYou know a number of cantrips from the Divine Spell List equal to your Wisdom Modifier . Whenever this increases, you learn an additional cantrip from the Divine spell list.\n\nYou have a number of Spell Charges as shown on the Priest spellcasting chart. All of your expended Spell Charges regenerate at the end of a Rest."
+    "description": "You can cast Divine spells, using a holy symbol, emblazoned shield, or banner as a spellcasting focus to channel your power. Without your spellcasting focus, you are incapable of casting even the simplest cantrips.\n\nYour Spellcasting Level is 1 at 1st level. Your Spellcasting level increases by 1 at 3rd, 5th, 7th, and 10th level. This is cumulative with any other spellcasting level increases you may get from identity features.\n\nThe entire Divine Spell List is available to you, and you can prepare a number of spells each day equal to your Wisdom Modifier + your spellcasting level. In order to prepare a spell, you must have at least a single spell charge capable of casting it.\n\nYou know a number of cantrips from the Divine Spell List equal to your Wisdom Modifier . Whenever this increases, you learn an additional cantrip from the Divine spell list.\n\nYou have a number of Spell Charges as shown on the Priest spellcasting chart. All of your expended Spell Charges regenerate at the end of a Rest.",
+    "links": []
   },
   {
     "id": "35b29f30-7f18-4ae8-bf5e-f70dd4a98012",
     "name": "Font of Healing and Harm",
-    "description": "As a Priest, you have access to a Font of Healing and Harm that you can tap into. You always have the spells Heal and Harm prepared, and they don’t count towards the number of spells you have prepared for the day.\n\nThis font provides you with a number of casts of these spells (cast at a level equal to ½ your spellcasting level, rounded up) per day equal to your Wisdom Modifier."
+    "description": "As a Priest, you have access to a Font of Healing and Harm that you can tap into. You always have the spells Heal and Harm prepared, and they don’t count towards the number of spells you have prepared for the day.\n\nThis font provides you with a number of casts of these spells (cast at a level equal to ½ your spellcasting level, rounded up) per day equal to your Wisdom Modifier.",
+    "links": []
   },
   {
     "id": "0d1c7944-fc97-4c14-b098-8056ac92d073",
     "name": "Sneak Attack",
-    "description": "You are capable of targeting your enemy’s weak points to inflict massive damage. When you make an attack roll with a finesse weapon that does slashing or piercing damage against an enemy and you have advantage on the attack, or when an ally is within 5 feet of your target, you can add additional d6s of the same damage type equal to your level. You can use this ability once per turn."
+    "description": "You are capable of targeting your enemy’s weak points to inflict massive damage. When you make an attack roll with a finesse weapon that does slashing or piercing damage against an enemy and you have advantage on the attack, or when an ally is within 5 feet of your target, you can add additional d6s of the same damage type equal to your level. You can use this ability once per turn.",
+    "links": []
   },
   {
     "id": "69ae7236-0fcc-4eae-be2f-da482a0c3e6f",
     "name": "Thief Speak",
-    "description": "During your rogue training you learned Thief Speak, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thief speak understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.\n\nIn addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run."
+    "description": "During your rogue training you learned Thief Speak, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thief speak understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.\n\nIn addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.",
+    "links": []
   },
   {
     "id": "adba79f0-c4ff-4de4-a9b0-e61e32ee9364",
     "name": "Thieves’ Knack",
-    "description": "When you make an attempt at a skill check and are Untrained in that skill, you can add +2 to your skill check result."
+    "description": "When you make an attempt at a skill check and are Untrained in that skill, you can add +2 to your skill check result.",
+    "links": []
   },
   {
     "id": "00c404e5-1d8f-406a-bd7c-b1acfc8501c0",
     "name": "Arcane Assistance",
-    "description": "Whenever you or an ally within 60 feet attempts an attack roll, ability check, or saving throw, you can spend your reaction to magically assist in that attempt, adding your Intelligence modifier to the roll. You can add this bonus after you see the roll, but not after the DM has declared the results of the roll.\n\nYou can use this feature a number of times per day equal to your Intelligence Modifier."
+    "description": "Whenever you or an ally within 60 feet attempts an attack roll, ability check, or saving throw, you can spend your reaction to magically assist in that attempt, adding your Intelligence modifier to the roll. You can add this bonus after you see the roll, but not after the DM has declared the results of the roll.\n\nYou can use this feature a number of times per day equal to your Intelligence Modifier.",
+    "links": []
   },
   {
     "id": "7b4180be-36cf-463c-aa17-d69fa34486c4",
     "name": "Spellblade Spellcasting",
-    "description": "You can cast Arcane spells, using a staff, wand, arcane talisman, or weapon as a focus for your spells. Without your spellcasting focus, you are incapable of casting even the simplest cantrips.\n\nYour Spellcasting Level is 1 at 1st level. Your Spellcasting level increases by 1 at 4th, and 7th level. This is cumulative with any other spellcasting level increases you may get from identity features.\n\nAt 1st level, you know spells from the Arcane spell list equal to 2 * your Intelligence modifier. Every time your spellcasting level or intelligence modifier increases, you learn 2 additional spells. These spells must be of a level less than or equal to your Max Casting Level.\n\nYou know a single Cantrip from the Arcane spell list, and learn another at 5th and 10th level.\n\nYou have a number of spell points as shown on the Spellblade spellcasting chart. All of your expended Spell Points regenerate at the end of a Rest.\n\n*Note - without taking the Empowered Upcasting feature, your Upcast Level is the same as your Max Casting Level."
+    "description": "You can cast Arcane spells, using a staff, wand, arcane talisman, or weapon as a focus for your spells. Without your spellcasting focus, you are incapable of casting even the simplest cantrips.\n\nYour Spellcasting Level is 1 at 1st level. Your Spellcasting level increases by 1 at 4th, and 7th level. This is cumulative with any other spellcasting level increases you may get from identity features.\n\nAt 1st level, you know spells from the Arcane spell list equal to 2 * your Intelligence modifier. Every time your spellcasting level or intelligence modifier increases, you learn 2 additional spells. These spells must be of a level less than or equal to your Max Casting Level.\n\nYou know a single Cantrip from the Arcane spell list, and learn another at 5th and 10th level.\n\nYou have a number of spell points as shown on the Spellblade spellcasting chart. All of your expended Spell Points regenerate at the end of a Rest.\n\n*Note - without taking the Empowered Upcasting feature, your Upcast Level is the same as your Max Casting Level.",
+    "links": []
   },
   {
     "id": "73ed6294-2f5c-4b8a-9b6c-f944b9337c3a",
     "name": "Hunter's Mark",
-    "description": "You use an action to choose a creature you can see within range and mystically mark it as your quarry. Whenever you hit this target with a weapon or unarmed attack, the target suffers an extra 1d4 of damage matching the type of your attack, and you have advantage on any Perception or Survival checks you make to find it.\n\nThis mark lasts for 1 minute, or until your target is reduced to 0 hit points. The marks damage increases to 1d6 and duration increases to 10 minutes at level 3, 1d8 / 1 hour at level 5, 1d10 / 1 day at level 7, and 1d12 / 1 week at level 9."
+    "description": "You use an action to choose a creature you can see within range and mystically mark it as your quarry. Whenever you hit this target with a weapon or unarmed attack, the target suffers an extra 1d4 of damage matching the type of your attack, and you have advantage on any Perception or Survival checks you make to find it.\n\nThis mark lasts for 1 minute, or until your target is reduced to 0 hit points. The marks damage increases to 1d6 and duration increases to 10 minutes at level 3, 1d8 / 1 hour at level 5, 1d10 / 1 day at level 7, and 1d12 / 1 week at level 9.",
+    "links": []
   },
   {
     "id": "f708cd3a-7430-409d-b9dd-5f554cfeec72",
     "name": "Warden Spellcasting",
-    "description": "You can cast Primal spells, using a staff, weapon, or other natural object as a spellcasting focus to channel your power. Without your spellcasting focus, you are incapable of casting even the simplest cantrips.\n\nYour Spellcasting Level is 1 at 1st level. Your Spellcasting level increases by 1 at 4th and 7th level. This is cumulative with any other spellcasting level increases you may get from identity features.\n\nThe entire Primal Spell List is available to you, and you can prepare a number of spells each day equal to your Wisdom Modifier + ½ your Level (rounded up). In order to prepare a spell, you must have at least a single spell charge capable of casting it.\n\nYou know a single Cantrip from the Primal spell list, and learn another at 5th and 10th level.\n\nYou have a number of Spell Charges as shown on the Universal Spellcasting Chart. All of your expended Spell Charges regenerate at the end of a Rest."
+    "description": "You can cast Primal spells, using a staff, weapon, or other natural object as a spellcasting focus to channel your power. Without your spellcasting focus, you are incapable of casting even the simplest cantrips.\n\nYour Spellcasting Level is 1 at 1st level. Your Spellcasting level increases by 1 at 4th and 7th level. This is cumulative with any other spellcasting level increases you may get from identity features.\n\nThe entire Primal Spell List is available to you, and you can prepare a number of spells each day equal to your Wisdom Modifier + ½ your Level (rounded up). In order to prepare a spell, you must have at least a single spell charge capable of casting it.\n\nYou know a single Cantrip from the Primal spell list, and learn another at 5th and 10th level.\n\nYou have a number of Spell Charges as shown on the Universal Spellcasting Chart. All of your expended Spell Charges regenerate at the end of a Rest.",
+    "links": []
   },
   {
     "id": "badb28c0-72ea-4c66-ac0d-9d0d6f47b66a",
     "name": "Action Surge",
-    "description": "You gain the following ability: You can channel your adrenaline to gain 2 additional actions and an additional reaction. These actions must be used on your current turn, but the extra reaction doesn’t expire until the start of your next turn. You can use this ability a number of times equal to your Constitution Modifier (minimum once). Your uses of this ability recharge each day when you complete a rest."
+    "description": "You gain the following ability: You can channel your adrenaline to gain 2 additional actions and an additional reaction. These actions must be used on your current turn, but the extra reaction doesn’t expire until the start of your next turn. You can use this ability a number of times equal to your Constitution Modifier (minimum once). Your uses of this ability recharge each day when you complete a rest.",
+    "links": []
   },
   {
     "id": "09cfac69-ca23-4c19-9b64-ff7629ef0947",
     "name": "Second Wind",
-    "description": "You can use an action to regain hit points equal to 1d10 + your Constitution Modifier + your level. You can use this ability once per day."
+    "description": "You can use an action to regain hit points equal to 1d10 + your Constitution Modifier + your level. You can use this ability once per day.",
+    "links": []
   },
   {
     "id": "9e052ffe-02ac-4256-bade-bd746c15d6ec",
     "name": "Manuever Dice",
-    "description": "Many of your abilities granted by the Ability Features you choose will allow you to make a check or roll damage dice. Whenever you use one of these abilities, you can add your Maneuver Dice to the d20 roll for any skill check, or to the attack or damage roll for any attack. You can only use this dice once per action.\n\nThis dice is a d4 at level 1, increases to a d6 at level 3, a d8 at level 5, a d10 at level 7, and a d12 at level 9."
+    "description": "Many of your abilities granted by the Ability Features you choose will allow you to make a check or roll damage dice. Whenever you use one of these abilities, you can add your Maneuver Dice to the d20 roll for any skill check, or to the attack or damage roll for any attack. You can only use this dice once per action.\n\nThis dice is a d4 at level 1, increases to a d6 at level 3, a d8 at level 5, a d10 at level 7, and a d12 at level 9.",
+    "links": []
   },
   {
     "id": "2cb278e2-a464-43ac-a9e3-29aaabbdc278",
     "name": "Shapechange",
-    "description": "As a master of communion with nature, you have learned to change your form into that of a wild beast. You have a number of uses for this ability equal to your Wisdom Modifier (minimum of 1).\n\nAs an action, you magically reshape your form to assume the shape of a beast of your choice, choosing one of the stat blocks at the end of this chapter that best fits the shape you chose (Ambusher or Brute). Your size, mental stats, and skill proficiencies stay the same, but your physical stats and abilities shift to match those of your chosen form. Your form might have bonuses listed that are added to any checks you make that they relate to.\n\nThe overall appearance of the chosen form is up to you, but its abilities must match one of the provided stat blocks. You remain in this form until you use a free action to will yourself back to your normal form, until you Rest, or until are reduced to 0 hit points."
+    "description": "As a master of communion with nature, you have learned to change your form into that of a wild beast. You have a number of uses for this ability equal to your Wisdom Modifier (minimum of 1).\n\nAs an action, you magically reshape your form to assume the shape of a beast of your choice, choosing one of the stat blocks at the end of this chapter that best fits the shape you chose (Ambusher or Brute). Your size, mental stats, and skill proficiencies stay the same, but your physical stats and abilities shift to match those of your chosen form. Your form might have bonuses listed that are added to any checks you make that they relate to.\n\nThe overall appearance of the chosen form is up to you, but its abilities must match one of the provided stat blocks. You remain in this form until you use a free action to will yourself back to your normal form, until you Rest, or until are reduced to 0 hit points.",
+    "links": []
   },
   {
     "id": "e0780401-fd90-4795-939d-94b8a01f7776",
     "name": "Wildling Spellcasting",
-    "description": "You can cast Primal spells, using a staff or other natural object as a spellcasting focus to channel your power. Without your spellcasting focus, you are incapable of casting even the simplest cantrips.\n\nYour Spellcasting Level is 1 at 1st level. Your Spellcasting level increases by 1 at 3rd, 5th, 7th, and 10th level. This is cumulative with any other spellcasting level increases you may get from identity features.\n\nThe entire Primal Spell List is available to you, and you can prepare a number of spells each day equal to your Wisdom Modifier + your level. In order to prepare a spell, you must have at least a single spell charge capable of casting it.\n\nYou know a number of cantrips from the Primal Spell List equal to your Wisdom Modifier . Whenever this increases, you learn another cantrip from your spell list.\n\nYou have a number of Spell Charges as shown on the Universal Spellcasting Chart. All of your expended Spell Charges regenerate at the end of a Rest."
+    "description": "You can cast Primal spells, using a staff or other natural object as a spellcasting focus to channel your power. Without your spellcasting focus, you are incapable of casting even the simplest cantrips.\n\nYour Spellcasting Level is 1 at 1st level. Your Spellcasting level increases by 1 at 3rd, 5th, 7th, and 10th level. This is cumulative with any other spellcasting level increases you may get from identity features.\n\nThe entire Primal Spell List is available to you, and you can prepare a number of spells each day equal to your Wisdom Modifier + your level. In order to prepare a spell, you must have at least a single spell charge capable of casting it.\n\nYou know a number of cantrips from the Primal Spell List equal to your Wisdom Modifier . Whenever this increases, you learn another cantrip from your spell list.\n\nYou have a number of Spell Charges as shown on the Universal Spellcasting Chart. All of your expended Spell Charges regenerate at the end of a Rest.",
+    "links": []
   },
   {
     "id": "3cac1695-2544-4f8b-a368-c00484e1a274",
     "name": "Attack of Opportunity",
-    "description": "When an enemy leaves your melee reach, you can spend your reaction to make a single weapon attack against them."
+    "description": "When an enemy leaves your melee reach, you can spend your reaction to make a single weapon attack against them.",
+    "links": []
   },
   {
     "id": "97e608fc-0798-4e0d-adfd-6261a2480195",
     "name": "Shield Block",
-    "description": "You can spend your reaction to add your shield’s defense value to your armor for the remainder of the current turn."
+    "description": "You can spend your reaction to add your shield’s defense value to your armor for the remainder of the current turn.",
+    "links": []
   },
   {
     "id": "bee8e701-10e8-415e-99a5-347e81e7ce90",
     "name": "Health at 1st Level",
-    "description": "Racial hit points + your Constitution Modifier + 6."
+    "description": "Racial hit points + your Constitution Modifier + 6.",
+    "links": []
   },
   {
     "id": "7e684de9-8b9b-4819-8425-e551bb9ef53e",
     "name": "Health Beyond 1st Level",
-    "description": "Each level after 1st, you gain a number of hit points equal to 1d6 or 4 + your Constitution Modifier."
+    "description": "Each level after 1st, you gain a number of hit points equal to 1d6 or 4 + your Constitution Modifier.",
+    "links": []
   },
   {
     "id": "35cd7266-b75f-4dd1-8894-7e06f37bde99",
     "name": "Initial Proficiencies",
-    "description": "Trained in Arcana (or another skill of your choice if you are already trained in Arcana)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, as well as staffs, daggers, and light crossbows.\n\nProficient with unarmored defense\n\nAbility DC is determined by your Intelligence Score.\n\nProficient in Arcane Spells (Intelligence is your casting modifier for these spells).\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)"
+    "description": "Trained in Arcana (or another skill of your choice if you are already trained in Arcana)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, as well as staffs, daggers, and light crossbows.\n\nProficient with unarmored defense\n\nAbility DC is determined by your Intelligence Score.\n\nProficient in Arcane Spells (Intelligence is your casting modifier for these spells).\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)",
+    "links": []
   },
   {
     "id": "8c1a9d98-ee20-4bba-a08b-6def7b764d4c",
     "name": "Starting Equipment",
-    "description": "At first level, you start with the equipment below:\n\n• (a) a Staff or (b) a wand or (c) an arcane focus\n\n• (a) a dagger or (b) a light crossbow\n\n• Wizard’s clothes\n\n• A dagger\n\n• A backpack with a bedroll, mess kit, torch, rations, waterskin, and 50 feet of rope\n\n• 15 gold"
+    "description": "At first level, you start with the equipment below:\n\n• (a) a Staff or (b) a wand or (c) an arcane focus\n\n• (a) a dagger or (b) a light crossbow\n\n• Wizard’s clothes\n\n• A dagger\n\n• A backpack with a bedroll, mess kit, torch, rations, waterskin, and 50 feet of rope\n\n• 15 gold",
+    "links": []
   },
   {
     "id": "c91c22be-dff7-42a3-9abe-e9baa496eb02",
     "name": "Health at 1st Level",
-    "description": "Racial hit points + your Constitution Modifier + 12."
+    "description": "Racial hit points + your Constitution Modifier + 12.",
+    "links": []
   },
   {
     "id": "ff586d7d-2604-443c-9f1f-997a57392389",
     "name": "Health Beyond 1st Level",
-    "description": "Each level after 1st, you gain a number of hit points equal to 1d12 or 7 + your Constitution Modifier."
+    "description": "Each level after 1st, you gain a number of hit points equal to 1d12 or 7 + your Constitution Modifier.",
+    "links": []
   },
   {
     "id": "55397765-c885-4d0f-824e-e398b38f0af7",
     "name": "Initial Proficiencies",
-    "description": "Trained in Athletics or Intimidation (or another skill of your choice if you are already trained in both of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with with unarmed attacks, simple weapons, and martial weapons\n\nProficient with light armor, medium armor and unarmored defense\n\nProficient in the use of all Shields.\n\nAbility DC is determined by your Strength Score\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)"
+    "description": "Trained in Athletics or Intimidation (or another skill of your choice if you are already trained in both of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with with unarmed attacks, simple weapons, and martial weapons\n\nProficient with light armor, medium armor and unarmored defense\n\nProficient in the use of all Shields.\n\nAbility DC is determined by your Strength Score\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)",
+    "links": []
   },
   {
     "id": "ec029efc-3421-4c8e-b5e0-b607c2b2bcd5",
     "name": "Starting Equipment",
-    "description": "At first level, you start with the equipment below:\n\n• (a) Greataxe or (b) any Martial Weapon\n\n• (a) Two hand axes or (b) any simple weapon\n\n• 4 Javelins\n\n• A backpack with a bedroll, tinderbox, torch, rations, waterskin, and 50 feet of rope\n\n• 20 gold"
+    "description": "At first level, you start with the equipment below:\n\n• (a) Greataxe or (b) any Martial Weapon\n\n• (a) Two hand axes or (b) any simple weapon\n\n• 4 Javelins\n\n• A backpack with a bedroll, tinderbox, torch, rations, waterskin, and 50 feet of rope\n\n• 20 gold",
+    "links": []
   },
   {
     "id": "21c399ae-c3b6-447b-98d6-a1e7c1669678",
     "name": "Health at 1st Level",
-    "description": "Racial hit points + your Constitution Modifier + 8."
+    "description": "Racial hit points + your Constitution Modifier + 8.",
+    "links": []
   },
   {
     "id": "2f3ba3b6-bcc6-480b-bb5a-727dafd6542a",
     "name": "Health Beyond 1st Level",
-    "description": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier."
+    "description": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier.",
+    "links": []
   },
   {
     "id": "3e2bb318-2ad1-406a-9289-cf7983067d31",
     "name": "Initial Proficiencies",
-    "description": "Trained in Performance(or another skill of your choice if you are already trained in Performance)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks and simple weapons\n\nProficient with light armor and unarmored defense\n\nProficient in the use of bucklers\n\nAbility DC is determined by your Charisma Score\n\nProficient in Arcane Spells (Charisma is your spellcasting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)"
+    "description": "Trained in Performance(or another skill of your choice if you are already trained in Performance)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks and simple weapons\n\nProficient with light armor and unarmored defense\n\nProficient in the use of bucklers\n\nAbility DC is determined by your Charisma Score\n\nProficient in Arcane Spells (Charisma is your spellcasting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)",
+    "links": []
   },
   {
     "id": "bf3a0c34-92ed-41e5-bb1e-e15f86a34d0a",
     "name": "Starting Equipment",
-    "description": "At first level, you start with the equipment below:\n\n• (a) a Rapier or (b) a Longsword or (c) any simple weapon\n\n• (a) a lute or (b) any other instrument or (c) a wand or arcane focus\n\n• Leather armor\n\n• A dagger\n\n• A backpack with a bedroll, tinderbox, torch, rations, waterskin, and 50 feet of rope\n\n• 25 gold"
+    "description": "At first level, you start with the equipment below:\n\n• (a) a Rapier or (b) a Longsword or (c) any simple weapon\n\n• (a) a lute or (b) any other instrument or (c) a wand or arcane focus\n\n• Leather armor\n\n• A dagger\n\n• A backpack with a bedroll, tinderbox, torch, rations, waterskin, and 50 feet of rope\n\n• 25 gold",
+    "links": []
   },
   {
     "id": "c62ac6c7-7fa5-4ab6-9bfc-77238ba117cd",
     "name": "Health at 1st Level",
-    "description": "Racial hit points + your Constitution Modifier + 10."
+    "description": "Racial hit points + your Constitution Modifier + 10.",
+    "links": []
   },
   {
     "id": "e4e5c203-8fe9-498e-8e02-a95a844d146c",
     "name": "Health Beyond 1st Level",
-    "description": "Each level after 1st, you gain a number of hit points equal to 1d10 or 6 + your Constitution Modifier."
+    "description": "Each level after 1st, you gain a number of hit points equal to 1d10 or 6 + your Constitution Modifier.",
+    "links": []
   },
   {
     "id": "e7998fe6-4d86-4648-b96f-b0b7c69a46bb",
     "name": "Initial Proficiencies",
-    "description": "Trained in Religion(or another skill of your choice if you are already trained in Religion)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with all weapons and unarmed attacks.\n\nProficient with all armors and unarmored defense.\n\nProficient in the use of all shields.\n\nAbility DC is determined by your Charisma Score.\n\nProficient in Divine Spells (Charisma is your spellcasting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)"
+    "description": "Trained in Religion(or another skill of your choice if you are already trained in Religion)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with all weapons and unarmed attacks.\n\nProficient with all armors and unarmored defense.\n\nProficient in the use of all shields.\n\nAbility DC is determined by your Charisma Score.\n\nProficient in Divine Spells (Charisma is your spellcasting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)",
+    "links": []
   },
   {
     "id": "190af154-bf3b-493d-8851-18827cc76540",
     "name": "Starting Equipment",
-    "description": "At first level, you start with the equipment below:\n\n• (a) a weapon and a shield or (b) two light weapons or (c) a bow and a quiver of arrows\n\n• (a) leather armor or (b) a chain shirt or (c) ring mail\n\n• (a) a holy symbol or (b) an emblazoned shield (c) a banner\n\n• A backpack with a bedroll, mess kit, torch, rations, waterskin, and 50 feet of rope\n\n• 20 gold"
+    "description": "At first level, you start with the equipment below:\n\n• (a) a weapon and a shield or (b) two light weapons or (c) a bow and a quiver of arrows\n\n• (a) leather armor or (b) a chain shirt or (c) ring mail\n\n• (a) a holy symbol or (b) an emblazoned shield (c) a banner\n\n• A backpack with a bedroll, mess kit, torch, rations, waterskin, and 50 feet of rope\n\n• 20 gold",
+    "links": []
   },
   {
     "id": "0b15f79e-0b2e-4d15-8572-91a4a445c6e0",
     "name": "Health at 1st Level",
-    "description": "Racial hit points + your Constitution Modifier + 6."
+    "description": "Racial hit points + your Constitution Modifier + 6.",
+    "links": []
   },
   {
     "id": "f5df4fd7-88bd-4d9d-b439-25ebc4d3cdb6",
     "name": "Health Beyond 1st Level",
-    "description": "Each level after 1st, you gain a number of hit points equal to 1d6 or 4 + your Constitution Modifier."
+    "description": "Each level after 1st, you gain a number of hit points equal to 1d6 or 4 + your Constitution Modifier.",
+    "links": []
   },
   {
     "id": "ded264b9-8de0-4571-8fde-742f17e4ba79",
     "name": "Initial Proficiencies",
-    "description": "Trained in Arcana, Religion, or Nature depending on your bloodline (or another skill of your choice if you are already trained in the respective skill)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with all simple weapons\n\nProficient with unarmored defense\n\nProficient in Arcane, Divine, or Primal Spells depending on your bloodline (Constitution is your casting modifier for these spells)\n\nAbility DC is determined by your Constitution Score\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)"
+    "description": "Trained in Arcana, Religion, or Nature depending on your bloodline (or another skill of your choice if you are already trained in the respective skill)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with all simple weapons\n\nProficient with unarmored defense\n\nProficient in Arcane, Divine, or Primal Spells depending on your bloodline (Constitution is your casting modifier for these spells)\n\nAbility DC is determined by your Constitution Score\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)",
+    "links": []
   },
   {
     "id": "e1021544-2c89-491e-a2a6-81dd26805393",
     "name": "Starting Equipment",
-    "description": "At first level, you start with the equipment below:\n\n• (a) a light crossbow and 20 bolts or (b) any simple weapon\n\n• (a) a staff or (b) a wand or (c) a bloodline relic to channel your spells through\n\n• Two daggers\n\n• A backpack with a bedroll, an heirloom trinket, torch, rations, waterskin, and 50 feet of rope\n\n• 20 gold"
+    "description": "At first level, you start with the equipment below:\n\n• (a) a light crossbow and 20 bolts or (b) any simple weapon\n\n• (a) a staff or (b) a wand or (c) a bloodline relic to channel your spells through\n\n• Two daggers\n\n• A backpack with a bedroll, an heirloom trinket, torch, rations, waterskin, and 50 feet of rope\n\n• 20 gold",
+    "links": []
   },
   {
     "id": "f6280e37-6e91-42cf-b7b4-5d0067055ba4",
     "name": "Health at 1st Level",
-    "description": "Racial hit points + your Constitution Modifier + 8."
+    "description": "Racial hit points + your Constitution Modifier + 8.",
+    "links": []
   },
   {
     "id": "bbe1fc42-231a-450c-87a2-15c7f26646c6",
     "name": "Health Beyond 1st Level",
-    "description": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier."
+    "description": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier.",
+    "links": []
   },
   {
     "id": "06f95c96-cae8-42c4-b5d5-6723a0fb9197",
     "name": "Initial Proficiencies",
-    "description": "Trained in Acrobatics or Insight (or another skill of your choice if you are already trained in both of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with simple weapons and unarmed attacks\n\nProficient in unarmored defense\n\nAbility DC is determined by your Wisdom or Dexterity Score (your choice)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)"
+    "description": "Trained in Acrobatics or Insight (or another skill of your choice if you are already trained in both of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with simple weapons and unarmed attacks\n\nProficient in unarmored defense\n\nAbility DC is determined by your Wisdom or Dexterity Score (your choice)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)",
+    "links": []
   },
   {
     "id": "806adfb1-50b8-4baa-8767-adc45d76e3c9",
     "name": "Starting Equipment",
-    "description": "At first level, you start with the equipment below:\n\n• (a) a shortsword or (b) any simple weapon\n\n• (a) two daggers or (b) ten darts\n\n• Simple travelers clothes\n\n• A backpack with a bedroll, torch, rations, waterskin, and 50 feet of rope\n\n• 10 gold"
+    "description": "At first level, you start with the equipment below:\n\n• (a) a shortsword or (b) any simple weapon\n\n• (a) two daggers or (b) ten darts\n\n• Simple travelers clothes\n\n• A backpack with a bedroll, torch, rations, waterskin, and 50 feet of rope\n\n• 10 gold",
+    "links": []
   },
   {
     "id": "775353bd-c3f7-4324-856d-a09d363f685d",
     "name": "Health at 1st Level",
-    "description": "Racial hit points + your Constitution Modifier + 8."
+    "description": "Racial hit points + your Constitution Modifier + 8.",
+    "links": []
   },
   {
     "id": "67c1d55a-1f53-4b30-9564-517468815786",
     "name": "Health Beyond 1st Level",
-    "description": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier."
+    "description": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier.",
+    "links": []
   },
   {
     "id": "d4ccf48c-51f4-4dad-94eb-8fbe9dc20d15",
     "name": "Initial Proficiencies",
-    "description": "Trained in Religion (or another skill of your choice if you are already trained in Religion)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with simple weapons and unarmed attacks\n\nProficient with light armor, medium armors and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Wisdom Score\n\nProficient in Divine Spells (Wisdom is your spellcasting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)"
+    "description": "Trained in Religion (or another skill of your choice if you are already trained in Religion)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with simple weapons and unarmed attacks\n\nProficient with light armor, medium armors and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Wisdom Score\n\nProficient in Divine Spells (Wisdom is your spellcasting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)",
+    "links": []
   },
   {
     "id": "f54c9299-d6b6-4ba3-ade8-c860349c8c7a",
     "name": "Starting Equipment",
-    "description": "At first level, you start with the equipment below:\n\n• (a) a simple weapon and a shield or (b) two light weapons\n\n• (a) leather armor or (b) a chain shirt\n\n• (a) a holy symbol or (b) an emblazoned shield (c) a banner\n\n• A backpack with a bedroll, mess kit, torch, rations, waterskin, and 50 feet of rope\n\n• 20 gold"
+    "description": "At first level, you start with the equipment below:\n\n• (a) a simple weapon and a shield or (b) two light weapons\n\n• (a) leather armor or (b) a chain shirt\n\n• (a) a holy symbol or (b) an emblazoned shield (c) a banner\n\n• A backpack with a bedroll, mess kit, torch, rations, waterskin, and 50 feet of rope\n\n• 20 gold",
+    "links": []
   },
   {
     "id": "be490c66-4d16-48f4-bd69-e88cde37f803",
     "name": "Health at 1st Level",
-    "description": "Racial hit points + your Constitution Modifier + 8."
+    "description": "Racial hit points + your Constitution Modifier + 8.",
+    "links": []
   },
   {
     "id": "37fb1b00-b629-461f-8e0b-5989e8d26f91",
     "name": "Health Beyond 1st Level",
-    "description": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier."
+    "description": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier.",
+    "links": []
   },
   {
     "id": "a40affb3-f3ea-4483-b748-64557bb23022",
     "name": "Initial Proficiencies",
-    "description": "Trained in Acrobatics, Stealth, or Thievery (or another skill of your choice if you are already trained in each of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with all simple weapons; additionally shortbows, shortswords, rapiers are simple weapons for you.\n\nProficient with light armor and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Dexterity Score\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)"
+    "description": "Trained in Acrobatics, Stealth, or Thievery (or another skill of your choice if you are already trained in each of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with all simple weapons; additionally shortbows, shortswords, rapiers are simple weapons for you.\n\nProficient with light armor and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Dexterity Score\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)",
+    "links": []
   },
   {
     "id": "b1ce4460-ff6e-4354-8113-b7ec881bf532",
     "name": "Starting Equipment",
-    "description": "At first level, you start with the equipment below:\n\n• (a) rapier or (b) a shortsword\n\n• (a) shortbow and a quiver of arrows (b) a shortsword\n\n• (a) leather armor or (b) padded armor\n\n• two daggers\n\n• Thieves’ tools\n\n• A backpack with a bedroll, crowbar, climbing gear, torch, rations, waterskin, and 50 feet of rope\n\n• 30 gold"
+    "description": "At first level, you start with the equipment below:\n\n• (a) rapier or (b) a shortsword\n\n• (a) shortbow and a quiver of arrows (b) a shortsword\n\n• (a) leather armor or (b) padded armor\n\n• two daggers\n\n• Thieves’ tools\n\n• A backpack with a bedroll, crowbar, climbing gear, torch, rations, waterskin, and 50 feet of rope\n\n• 30 gold",
+    "links": []
   },
   {
     "id": "bf883285-07f1-40a3-a6a8-427007fc820a",
     "name": "Health at 1st Level",
-    "description": "Racial hit points + your Constitution Modifier + 8."
+    "description": "Racial hit points + your Constitution Modifier + 8.",
+    "links": []
   },
   {
     "id": "1c081f99-9065-4c4e-97bb-57794aafb44b",
     "name": "Health Beyond 1st Level",
-    "description": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier."
+    "description": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier.",
+    "links": []
   },
   {
     "id": "ff5aa117-a718-4984-82b9-0c27b5ee738b",
     "name": "Initial Proficiencies",
-    "description": "Trained in Arcana or Athletics or Acrobatics(or another skill of your choice if you are already trained in each of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons, and martial weapons\n\nProficient with light armor, medium armor and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Intelligence Score\n\nProficient in Arcane Spells (Intelligence is your casting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)"
+    "description": "Trained in Arcana or Athletics or Acrobatics(or another skill of your choice if you are already trained in each of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons, and martial weapons\n\nProficient with light armor, medium armor and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Intelligence Score\n\nProficient in Arcane Spells (Intelligence is your casting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)",
+    "links": []
   },
   {
     "id": "e95e1e81-cc74-405f-a9dc-fa277fd68b0c",
     "name": "Starting Equipment",
-    "description": "At first level, you start with the equipment below:\n\n• (a) a weapon and a shield or (b) two light weapons or (c) a bow and a quiver of arrows\n\n• (a) leather armor or (b) a chain shirt\n\n• (a) a magic staff or (b) a wand or (c) an arcane focus\n\n• A backpack with a bedroll, mess kit, torch, rations, waterskin, and 50 feet of rope\n\n• 15 gold"
+    "description": "At first level, you start with the equipment below:\n\n• (a) a weapon and a shield or (b) two light weapons or (c) a bow and a quiver of arrows\n\n• (a) leather armor or (b) a chain shirt\n\n• (a) a magic staff or (b) a wand or (c) an arcane focus\n\n• A backpack with a bedroll, mess kit, torch, rations, waterskin, and 50 feet of rope\n\n• 15 gold",
+    "links": []
   },
   {
     "id": "4e2029b4-b30d-46fb-aab8-5a01a6aa0ed3",
     "name": "Health at 1st Level",
-    "description": "Racial hit points + your Constitution Modifier + 10."
+    "description": "Racial hit points + your Constitution Modifier + 10.",
+    "links": []
   },
   {
     "id": "a95cfb4b-f46c-4290-b625-ee4f2f483d8a",
     "name": "Health Beyond 1st Level",
-    "description": "Each level after 1st, you gain a number of hit points equal to 1d10 or 6 + your Constitution Modifier."
+    "description": "Each level after 1st, you gain a number of hit points equal to 1d10 or 6 + your Constitution Modifier.",
+    "links": []
   },
   {
     "id": "873fcb41-9b80-41c9-9ad2-cab3ad5211c6",
     "name": "Initial Proficiencies",
-    "description": "Trained in Nature (or another skill of your choice if you are already trained in Nature)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons, martial weapons, and firearms.\n\nProficient with light armor, medium armor and unarmored defense.\n\nProficient in the use of Bucklers and Shields.\n\nAbility DC is determined by your Wisdom Score\n\nProficient in Primal Spells (Wisdom is your spellcasting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)"
+    "description": "Trained in Nature (or another skill of your choice if you are already trained in Nature)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons, martial weapons, and firearms.\n\nProficient with light armor, medium armor and unarmored defense.\n\nProficient in the use of Bucklers and Shields.\n\nAbility DC is determined by your Wisdom Score\n\nProficient in Primal Spells (Wisdom is your spellcasting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)",
+    "links": []
   },
   {
     "id": "06f53cf3-92ac-4163-90b5-bc212fe9ea82",
     "name": "Starting Equipment",
-    "description": "At first level, you start with the equipment below:\n\n• (a) two shortswords (b) two melee weapons of your choice\n\n• (a) leather armor or (b) scalemail\n\n• (a) a wooden staff or (b) an item that binds you to nature\n\n• a bow and a quiver of arrows\n\n• A backpack with a bedroll, mess kit, torch, rations, waterskin, and 50 feet of rope\n\n• 10 gold"
+    "description": "At first level, you start with the equipment below:\n\n• (a) two shortswords (b) two melee weapons of your choice\n\n• (a) leather armor or (b) scalemail\n\n• (a) a wooden staff or (b) an item that binds you to nature\n\n• a bow and a quiver of arrows\n\n• A backpack with a bedroll, mess kit, torch, rations, waterskin, and 50 feet of rope\n\n• 10 gold",
+    "links": []
   },
   {
     "id": "d9cfe3a9-c8f6-40ef-84d4-61a26f55eb84",
     "name": "Health at 1st Level",
-    "description": "Racial hit points + your Constitution Modifier + 10."
+    "description": "Racial hit points + your Constitution Modifier + 10.",
+    "links": []
   },
   {
     "id": "4c8aa506-6d9d-4b18-90cd-8e2a70b8429a",
     "name": "Health Beyond 1st Level",
-    "description": "Each level after 1st, you gain a number of hit points equal to 1d10 or 6 + your Constitution Modifier."
+    "description": "Each level after 1st, you gain a number of hit points equal to 1d10 or 6 + your Constitution Modifier.",
+    "links": []
   },
   {
     "id": "ee751115-9815-48b7-a72c-6b9dbcf0bea1",
     "name": "Initial Proficiencies",
-    "description": "Trained in Athletics or Acrobatics (or another skill of your choice if you are already trained in both of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons, martial weapons, and firearms\n\nProficient with with all armors and unarmored defense\n\nProficient in the use of all Shields\n\nAbility DC is determined by your Strength or Dexterity Score (your choice)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)"
+    "description": "Trained in Athletics or Acrobatics (or another skill of your choice if you are already trained in both of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons, martial weapons, and firearms\n\nProficient with with all armors and unarmored defense\n\nProficient in the use of all Shields\n\nAbility DC is determined by your Strength or Dexterity Score (your choice)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)",
+    "links": []
   },
   {
     "id": "67ea2beb-9bd8-437d-aaf3-42fa181d7ced",
     "name": "Starting Equipment",
-    "description": "At first level, you start with the equipment below:\n\n• (a) ring mail or (b) a leather armor or (c) chain shirt\n\n• (a) a martial weapon and a shield or (b) two martial weapons\n\n• (a) a light crossbow and a brace of bolts or (b) two hand axes or (c) a longbow and a quiver of arrows\n\n• Two daggers\n\n• A backpack with a bedroll, whetstone, torch, rations, waterskin, and 50 feet of rope\n\n• 25 gold"
+    "description": "At first level, you start with the equipment below:\n\n• (a) ring mail or (b) a leather armor or (c) chain shirt\n\n• (a) a martial weapon and a shield or (b) two martial weapons\n\n• (a) a light crossbow and a brace of bolts or (b) two hand axes or (c) a longbow and a quiver of arrows\n\n• Two daggers\n\n• A backpack with a bedroll, whetstone, torch, rations, waterskin, and 50 feet of rope\n\n• 25 gold",
+    "links": []
   },
   {
     "id": "5db3eaeb-c969-42e6-b6e7-152befd56e41",
     "name": "Health at 1st Level",
-    "description": "Racial hit points + your Constitution Modifier + 8."
+    "description": "Racial hit points + your Constitution Modifier + 8.",
+    "links": []
   },
   {
     "id": "dd377136-2e5e-404d-87ee-f58ec46f3302",
     "name": "Health Beyond 1st Level",
-    "description": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier."
+    "description": "Each level after 1st, you gain a number of hit points equal to 1d8 or 5 + your Constitution Modifier.",
+    "links": []
   },
   {
     "id": "2724679a-680c-460f-a6e4-489f2c1e0723",
     "name": "Initial Proficiencies",
-    "description": "Trained in Nature (or another skill of your choice if you are already trained in Nature)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons\n\nProficient with light armor, medium armor and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Wisdom Score\n\nProficient in Primal Spells (Wisdom is your spellcasting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)"
+    "description": "Trained in Nature (or another skill of your choice if you are already trained in Nature)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons\n\nProficient with light armor, medium armor and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Wisdom Score\n\nProficient in Primal Spells (Wisdom is your spellcasting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)",
+    "links": []
   },
   {
     "id": "33340eac-a2f1-4656-acbd-7d4e5cbd2ee4",
     "name": "Starting Equipment",
-    "description": "At first level, you start with the equipment below:\n\n• (a) a simple weapon and a wooden shield (b) a staff\n\n• (a) a scimitar (b) a simple weapon\n\n• (a) leather armor or (b) hide armor\n\n• (a) a druidic staff or (b) a wand or (c) a natural object that binds you to nature\n\n• A backpack with a bedroll, mess kit, torch, rations, waterskin, and 50 feet of rope\n\n• 20 gold"
+    "description": "At first level, you start with the equipment below:\n\n• (a) a simple weapon and a wooden shield (b) a staff\n\n• (a) a scimitar (b) a simple weapon\n\n• (a) leather armor or (b) hide armor\n\n• (a) a druidic staff or (b) a wand or (c) a natural object that binds you to nature\n\n• A backpack with a bedroll, mess kit, torch, rations, waterskin, and 50 feet of rope\n\n• 20 gold",
+    "links": []
   }
 ]

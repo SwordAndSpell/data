@@ -1,786 +1,982 @@
 [
   {
     "id": "4a606b8d-ecbc-4fa0-9259-f2476e0ad492",
-    "name": "A binding pact with a powerful Patron"
+    "name": "A binding pact with a powerful Patron",
+    "links": []
   },
   {
     "id": "6af7bb7b-4ed0-45c6-a635-962bc1358d10",
-    "name": "A Pact with a Celestial"
+    "name": "A Pact with a Celestial",
+    "links": []
   },
   {
     "id": "3733a005-aef9-4590-bb58-906908fcd12f",
-    "name": "A Pact with a Demon"
+    "name": "A Pact with a Demon",
+    "links": []
   },
   {
     "id": "868d059b-102e-4d53-83cd-f02b64f68698",
-    "name": "A Pact with a Fey"
+    "name": "A Pact with a Fey",
+    "links": []
   },
   {
     "id": "0a9e0de2-fd10-415f-bf8e-efa7131f3a7b",
-    "name": "A Pact with a Profane Being"
+    "name": "A Pact with a Profane Being",
+    "links": []
   },
   {
     "id": "63251e91-6aee-4300-897c-bf53b5ff68c9",
-    "name": "A Pact with an Ancient One"
+    "name": "A Pact with an Ancient One",
+    "links": []
   },
   {
     "id": "2e353a6f-9636-4323-9749-2f1fa3bb7839",
-    "name": "Advanced Abjurationist - Shield Refresh"
+    "name": "Advanced Abjurationist - Shield Refresh",
+    "links": []
   },
   {
     "id": "7b54102d-d35f-4b18-af5a-029d89727d3b",
-    "name": "Advanced Arcane Archer - Curved Shot"
+    "name": "Advanced Arcane Archer - Curved Shot",
+    "links": []
   },
   {
     "id": "956cf4aa-b1a8-4faa-bc78-b2c15897d7fc",
-    "name": "Advanced Arcane Trickster - Look at the Hand"
+    "name": "Advanced Arcane Trickster - Look at the Hand",
+    "links": []
   },
   {
     "id": "2227ac34-e798-4fa2-8f1b-0e53742df5f6",
-    "name": "Advanced Artillerist - Efficient Missiles"
+    "name": "Advanced Artillerist - Efficient Missiles",
+    "links": []
   },
   {
     "id": "45618f71-bf1b-4818-97aa-6d6b518ab252",
-    "name": "Advanced Assassin - Infiltrator"
+    "name": "Advanced Assassin - Infiltrator",
+    "links": []
   },
   {
     "id": "3b59703d-731a-4a7a-9061-d5b18aee721f",
-    "name": "Advanced Bastion - Bulwark's Defense"
+    "name": "Advanced Bastion - Bulwark's Defense",
+    "links": []
   },
   {
     "id": "2476d0f3-1171-42ec-8640-33402c115191",
-    "name": "Advanced Berserker - Mindless Rage"
+    "name": "Advanced Berserker - Mindless Rage",
+    "links": []
   },
   {
     "id": "7c696dbe-7397-462a-8851-f6484b07df00",
-    "name": "Advanced College of Glamour - Mantle of Majesty"
+    "name": "Advanced College of Glamour - Mantle of Majesty",
+    "links": []
   },
   {
     "id": "5322a9b1-caf6-422a-9c1c-1842e3dcfb5c",
-    "name": "Advanced College of Whispers - Shadow Secrets"
+    "name": "Advanced College of Whispers - Shadow Secrets",
+    "links": []
   },
   {
     "id": "32c7c436-4830-4094-ab45-b28d633513df",
-    "name": "Advanced Conjurer - Stable Summons"
+    "name": "Advanced Conjurer - Stable Summons",
+    "links": []
   },
   {
     "id": "c7e84878-a950-46ba-adef-ab83e2ab915f",
-    "name": "Advanced Creation Domain - Fire Hardened Plates"
+    "name": "Advanced Creation Domain - Fire Hardened Plates",
+    "links": []
   },
   {
     "id": "c1e6ed5c-7b63-4a6f-a0d4-d326b4e50b83",
-    "name": "Advanced Death Domain - Corrupting Spells"
+    "name": "Advanced Death Domain - Corrupting Spells",
+    "links": []
   },
   {
     "id": "3036d4ba-0cb5-40fc-b0bd-0d7416bac70d",
-    "name": "Advanced Divine Bloodline - Angelic Flight"
+    "name": "Advanced Divine Bloodline - Angelic Flight",
+    "links": []
   },
   {
     "id": "5b709241-39d4-4c3e-896d-6d11115d799e",
-    "name": "Advanced Diviner - 3rd Eye"
+    "name": "Advanced Diviner - 3rd Eye",
+    "links": []
   },
   {
     "id": "50d95b07-4a6a-4644-b669-0f4ac5c868a9",
-    "name": "Advanced Draconic Bloodline - Draconic Flight"
+    "name": "Advanced Draconic Bloodline - Draconic Flight",
+    "links": []
   },
   {
     "id": "fa99f75b-7b1c-4fb7-9cf0-06ff0d9cc486",
-    "name": "Advanced Drakewarden - Dragon's Breath"
+    "name": "Advanced Drakewarden - Dragon's Breath",
+    "links": []
   },
   {
     "id": "0f775415-1ec7-4460-83f7-8f8c21f4bc40",
-    "name": "Advanced Drunken Master - Lucky Bounce"
+    "name": "Advanced Drunken Master - Lucky Bounce",
+    "links": []
   },
   {
     "id": "c7140136-5875-4e2b-954c-0c4af5cbf2b7",
-    "name": "Advanced Enchanter - Deflecting Charm"
+    "name": "Advanced Enchanter - Deflecting Charm",
+    "links": []
   },
   {
     "id": "19b880e7-1636-4765-a537-727fe4cafaac",
-    "name": "Advanced Evoker - Potent Cantrips"
+    "name": "Advanced Evoker - Potent Cantrips",
+    "links": []
   },
   {
     "id": "a5e4c4aa-a846-4038-9142-cc474d25a3aa",
-    "name": "Advanced Fade Walker - Step Out and In"
+    "name": "Advanced Fade Walker - Step Out and In",
+    "links": []
   },
   {
     "id": "908a17d0-4273-49cf-8bde-4d7eb9c3d82e",
-    "name": "Advanced Illusionist - Illusory Copy"
+    "name": "Advanced Illusionist - Illusory Copy",
+    "links": []
   },
   {
     "id": "fe7bd4c4-8d03-4783-910a-63fa95f31d5d",
-    "name": "Advanced Immolator - Controlled Burn"
+    "name": "Advanced Immolator - Controlled Burn",
+    "links": []
   },
   {
     "id": "0b050a6e-2a5d-4aed-a90d-191e7ee7cada",
-    "name": "Advanced Kensei - Martial Disciple"
+    "name": "Advanced Kensei - Martial Disciple",
+    "links": []
   },
   {
     "id": "5104356e-b6fc-41ad-a2ae-97e94135f436",
-    "name": "Advanced Life Domain - Protective Healing"
+    "name": "Advanced Life Domain - Protective Healing",
+    "links": []
   },
   {
     "id": "6d00b2ef-2f7d-415e-b4c0-dd1e65ab5963",
-    "name": "Advanced Light Domain - Mobile Flare"
+    "name": "Advanced Light Domain - Mobile Flare",
+    "links": []
   },
   {
     "id": "215c85a5-5a10-482d-8daa-575cb7e97f4f",
-    "name": "Advanced Mastermind - Help from Afar"
+    "name": "Advanced Mastermind - Help from Afar",
+    "links": []
   },
   {
     "id": "05b9e074-23b8-47d5-b560-7306bce918af",
-    "name": "Advanced Nature Domain - Warded from the Elements"
+    "name": "Advanced Nature Domain - Warded from the Elements",
+    "links": []
   },
   {
     "id": "aae50d53-f168-4efb-91d0-82b06c6210da",
-    "name": "Advanced Necromancer - Master of Thralls"
+    "name": "Advanced Necromancer - Master of Thralls",
+    "links": []
   },
   {
     "id": "a9bcad5d-26c5-4891-9fd1-97a17b4d2192",
-    "name": "Advanced Night Stalker - Bring The Dark"
+    "name": "Advanced Night Stalker - Bring The Dark",
+    "links": []
   },
   {
     "id": "78947bcf-65c0-47bc-90c5-4640c88d4da2",
-    "name": "Advanced Oath of the Avenger - Provoking Vow"
+    "name": "Advanced Oath of the Avenger - Provoking Vow",
+    "links": []
   },
   {
     "id": "65d38e31-9612-4ffa-8314-e762b7d9fa6d",
-    "name": "Advanced Oath of the Conqueror - Scornful Rebuke"
+    "name": "Advanced Oath of the Conqueror - Scornful Rebuke",
+    "links": []
   },
   {
     "id": "a532398e-f815-470d-a7f7-9b7f15694a4f",
-    "name": "Advanced Oath of the Devotion - Blessed and Bound"
+    "name": "Advanced Oath of the Devotion - Blessed and Bound",
+    "links": []
   },
   {
     "id": "56fb085e-357a-4a4c-9795-0e0bec74e35a",
-    "name": "Advanced Oath of the Hero - Glorious Defense"
+    "name": "Advanced Oath of the Hero - Glorious Defense",
+    "links": []
   },
   {
     "id": "b3f10691-6455-4ad1-8a71-262a16c0644a",
-    "name": "Advanced Oath of the Protector - Unbreakable Protector"
+    "name": "Advanced Oath of the Protector - Unbreakable Protector",
+    "links": []
   },
   {
     "id": "b796caed-dd28-44d3-ba6c-e2d9012498e0",
-    "name": "Advanced Oath of the Sentinel - Undying Sentinel"
+    "name": "Advanced Oath of the Sentinel - Undying Sentinel",
+    "links": []
   },
   {
     "id": "580dc746-59bf-4074-8dcb-0ae8e2f4e40a",
-    "name": "Advanced Open Hand - Peaceful Wanderer"
+    "name": "Advanced Open Hand - Peaceful Wanderer",
+    "links": []
   },
   {
     "id": "8733df2b-4815-4628-8eb0-43e5b97d03fe",
-    "name": "Advanced Order Domain - Quick Commands"
+    "name": "Advanced Order Domain - Quick Commands",
+    "links": []
   },
   {
     "id": "3215f63c-5e15-4925-9d43-d0b93ad0fc01",
-    "name": "Advanced Poisoner - Custom Toxins"
+    "name": "Advanced Poisoner - Custom Toxins",
+    "links": []
   },
   {
     "id": "3cbbf765-8653-43b9-b619-b2be97599fbb",
-    "name": "Advanced Profane Bloodline - Shadow Step"
+    "name": "Advanced Profane Bloodline - Shadow Step",
+    "links": []
   },
   {
     "id": "bc28e778-3628-4931-baf6-e9544c5af8b9",
-    "name": "Advanced Psion Bloodline - Psionic Warp"
+    "name": "Advanced Psion Bloodline - Psionic Warp",
+    "links": []
   },
   {
     "id": "cb1494e2-bcd9-4ebf-9e69-7db17ecbe653",
-    "name": "Advanced Ruffian - Gut Punch"
+    "name": "Advanced Ruffian - Gut Punch",
+    "links": []
   },
   {
     "id": "774a1085-2aab-4d7e-a82f-15f4f217e9c7",
-    "name": "Advanced Samurai - Perceptive Discipline"
+    "name": "Advanced Samurai - Perceptive Discipline",
+    "links": []
   },
   {
     "id": "1b47eea4-6ac0-42ef-9795-60e3442da771",
-    "name": "Advanced Scout - Forward Operator"
+    "name": "Advanced Scout - Forward Operator",
+    "links": []
   },
   {
     "id": "116005ec-0233-47df-943d-e849cc43e069",
-    "name": "Advanced Shadow - Linked Shadows"
+    "name": "Advanced Shadow - Linked Shadows",
+    "links": []
   },
   {
     "id": "3f5b1bbb-9f07-45f8-a43d-16b195725ea4",
-    "name": "Advanced Shaman - Elemental Protection"
+    "name": "Advanced Shaman - Elemental Protection",
+    "links": []
   },
   {
     "id": "447e04e5-2aca-4a18-87d2-dba6d9376a2e",
-    "name": "Advanced Storm Caller - Storm's Answer"
+    "name": "Advanced Storm Caller - Storm's Answer",
+    "links": []
   },
   {
     "id": "d0550169-72b7-43bf-876c-a478ab2c369e",
-    "name": "Advanced Storm Speaker - Stormcaller"
+    "name": "Advanced Storm Speaker - Stormcaller",
+    "links": []
   },
   {
     "id": "d280849d-0e9b-4c0d-a995-b46af7e949a0",
-    "name": "Advanced Storm Spirit Bloodline - Static Charge"
+    "name": "Advanced Storm Spirit Bloodline - Static Charge",
+    "links": []
   },
   {
     "id": "b361ab22-d28c-4bbe-b5f4-62cfbdbec095",
-    "name": "Advanced Sun Soul - Summon the Sun"
+    "name": "Advanced Sun Soul - Summon the Sun",
+    "links": []
   },
   {
     "id": "18709ed7-2042-4252-8bff-9f65dca8b48f",
-    "name": "Advanced Swarmkeeper - Defensive Swarm"
+    "name": "Advanced Swarmkeeper - Defensive Swarm",
+    "links": []
   },
   {
     "id": "26a85664-d6c6-484b-9c6a-dcaeaa98428e",
-    "name": "Advanced Swashbuckler - Taunting Bravado"
+    "name": "Advanced Swashbuckler - Taunting Bravado",
+    "links": []
   },
   {
     "id": "71f463e7-7f90-4aa3-97c0-6469d54d65d9",
-    "name": "Advanced Tempest Domain - Forceful Crash"
+    "name": "Advanced Tempest Domain - Forceful Crash",
+    "links": []
   },
   {
     "id": "86cbd256-d137-4b2b-a679-5c2f97d47b77",
-    "name": "Advanced Transmuter - Shapechanger"
+    "name": "Advanced Transmuter - Shapechanger",
+    "links": []
   },
   {
     "id": "90937e29-8866-428e-abde-2267a277883c",
-    "name": "Advanced Trickery Domain - Now You See Me"
+    "name": "Advanced Trickery Domain - Now You See Me",
+    "links": []
   },
   {
     "id": "e87d289b-3207-4ade-ad60-a419956dc871",
-    "name": "Advanced Warlord - Force of Will"
+    "name": "Advanced Warlord - Force of Will",
+    "links": []
   },
   {
     "id": "72d52095-329f-4114-8c90-bb081be43d94",
-    "name": "Animal Companion"
+    "name": "Animal Companion",
+    "links": []
   },
   {
     "id": "712a3d72-ed86-4a7d-822a-3580b6b6885b",
-    "name": "Arcane Spellcasting"
+    "name": "Arcane Spellcasting",
+    "links": []
   },
   {
     "id": "53d30308-2873-4a70-8e8d-8efac73441a8",
-    "name": "Bardic Inspiration"
+    "name": "Bardic Inspiration",
+    "links": []
   },
   {
     "id": "1c579fee-614b-419d-b2bd-601a8a15fdaa",
-    "name": "Bloodline - Divine"
+    "name": "Bloodline - Divine",
+    "links": []
   },
   {
     "id": "893f8c7c-f033-414b-9a8c-0fdb627c7e86",
-    "name": "Bloodline - Draconic"
+    "name": "Bloodline - Draconic",
+    "links": []
   },
   {
     "id": "dabe0c69-257b-4404-8b36-522cfcb0bcc1",
-    "name": "Bloodline - Profane"
+    "name": "Bloodline - Profane",
+    "links": []
   },
   {
     "id": "8f2714ca-16f5-49a5-9ff6-a1ba08a002a6",
-    "name": "Bloodline - Psion"
+    "name": "Bloodline - Psion",
+    "links": []
   },
   {
     "id": "b328d3e9-d0a4-4de3-9894-c991da9bf8c1",
-    "name": "Bloodline - Storm Spirit"
+    "name": "Bloodline - Storm Spirit",
+    "links": []
   },
   {
     "id": "1bacddcf-0f0d-4d57-82af-d00d3c99a08c",
-    "name": "Bloodline Spellcasting"
+    "name": "Bloodline Spellcasting",
+    "links": []
   },
   {
     "id": "117b2701-6fe9-4108-bbe4-54cb220c4e41",
-    "name": "Champion Spellcasting"
+    "name": "Champion Spellcasting",
+    "links": []
   },
   {
     "id": "6cd9039d-1145-49c0-9868-ad2ba75b6b63",
-    "name": "Charisma 12"
+    "name": "Charisma 12",
+    "links": []
   },
   {
     "id": "8f25ce03-03da-4d27-abab-acd94c9226fa",
-    "name": "Charisma 14 or Constitution 14"
+    "name": "Charisma 14 or Constitution 14",
+    "links": []
   },
   {
     "id": "23b33540-83b0-4ce2-befe-fbfdfe73c3aa",
-    "name": "Charisma 14 or Wisdom 14"
+    "name": "Charisma 14 or Wisdom 14",
+    "links": []
   },
   {
     "id": "38df75f5-e63f-4943-9391-2e42a110836f",
-    "name": "Charisma 14"
+    "name": "Charisma 14",
+    "links": []
   },
   {
     "id": "e3421d01-a228-4d2b-8a6c-8627fa330125",
-    "name": "Charisma 16"
+    "name": "Charisma 16",
+    "links": []
   },
   {
     "id": "9abdf7bb-b654-4580-bf16-4a65c24e0a05",
-    "name": "Constitution 14"
+    "name": "Constitution 14",
+    "links": []
   },
   {
     "id": "c3e4df38-6487-480c-a64f-87b9b75c4df3",
-    "name": "Constitution 16"
+    "name": "Constitution 16",
+    "links": []
   },
   {
     "id": "31e9b6f6-08a8-483f-a395-134695d217c7",
-    "name": "Dexterity 14 or Strength 14"
+    "name": "Dexterity 14 or Strength 14",
+    "links": []
   },
   {
     "id": "c8c2ebd1-7b48-4982-9dff-51d3e5da8098",
-    "name": "Dexterity 14 or Wisdom 14"
+    "name": "Dexterity 14 or Wisdom 14",
+    "links": []
   },
   {
     "id": "636658bd-8dad-4fab-9e81-e99eb2ec7d24",
-    "name": "Dexterity 14"
+    "name": "Dexterity 14",
+    "links": []
   },
   {
     "id": "5af6ba6a-b7f8-41b0-89a1-b4f569f88256",
-    "name": "Dexterity 16"
+    "name": "Dexterity 16",
+    "links": []
   },
   {
     "id": "ecd703fd-46d8-447b-87b3-bc29d4dc8e3f",
-    "name": "Divine Spellcasting"
+    "name": "Divine Spellcasting",
+    "links": []
   },
   {
     "id": "9cce1f32-1e35-4eea-b4c2-21f0262b3b59",
-    "name": "Flurry of Blows"
+    "name": "Flurry of Blows",
+    "links": []
   },
   {
     "id": "ffd72f8d-e127-4e0d-b133-5a2d49d29b92",
-    "name": "Font of Healing"
+    "name": "Font of Healing",
+    "links": []
   },
   {
     "id": "45b9f28e-f5f9-491e-aadd-7ef84338176e",
-    "name": "Hex Pact - Curse"
+    "name": "Hex Pact - Curse",
+    "links": []
   },
   {
     "id": "a84025b3-91f0-4ee3-8794-dc3bdc5facd9",
-    "name": "Hunter's Mark"
+    "name": "Hunter's Mark",
+    "links": []
   },
   {
     "id": "bb4f2b7b-fbb2-4708-9c6b-7dbbc100f593",
-    "name": "Improved Critical"
+    "name": "Improved Critical",
+    "links": []
   },
   {
     "id": "8a5b393b-58fa-411e-a6d0-8fd455743b57",
-    "name": "Initiative 14"
+    "name": "Initiative 14",
+    "links": []
   },
   {
     "id": "a884cabc-225e-4dc6-bec1-7c0b6d9c27c0",
-    "name": "Initiative 6"
+    "name": "Initiative 6",
+    "links": []
   },
   {
     "id": "8b97f466-0e40-486f-87b6-d9ba8a86c080",
-    "name": "Intelligence 14 or Charisma 14"
+    "name": "Intelligence 14 or Charisma 14",
+    "links": []
   },
   {
     "id": "a9f7d537-3a20-4711-be4d-984aa658c66b",
-    "name": "Intelligence 14 or Wisdom 14"
+    "name": "Intelligence 14 or Wisdom 14",
+    "links": []
   },
   {
     "id": "a3559aa0-15f3-44f5-8ae9-34280b118893",
-    "name": "Intelligence 14"
+    "name": "Intelligence 14",
+    "links": []
   },
   {
     "id": "b4cfc3a1-6649-4bde-b3e4-5437af3f4bc9",
-    "name": "Ki"
+    "name": "Ki",
+    "links": []
   },
   {
     "id": "ae21a7be-4542-44f8-bb4a-de20898e4b82",
-    "name": "Level 10"
+    "name": "Level 10",
+    "links": []
   },
   {
     "id": "8f8768b8-d166-4ff1-b9fa-cb868b2ca6c0",
-    "name": "Level 2"
+    "name": "Level 2",
+    "links": []
   },
   {
     "id": "2c1f3937-ac78-4d07-a97d-0ea0b091ad1a",
-    "name": "Level 3"
+    "name": "Level 3",
+    "links": []
   },
   {
     "id": "0614b596-d6a6-4daf-8efe-e1c2fbb3ae2e",
-    "name": "Level 4"
+    "name": "Level 4",
+    "links": []
   },
   {
     "id": "55c9dc98-47c7-4f9d-b121-94fbce8d3f14",
-    "name": "Level 5"
+    "name": "Level 5",
+    "links": []
   },
   {
     "id": "423ade6f-bebe-436b-b3e2-afaa5a49f3ec",
-    "name": "Level 6"
+    "name": "Level 6",
+    "links": []
   },
   {
     "id": "595197ec-f6f4-48fb-b9cf-a74791bd29ec",
-    "name": "Level 7"
+    "name": "Level 7",
+    "links": []
   },
   {
     "id": "a2b0156b-71dc-4fff-98ab-f1f60df3459d",
-    "name": "Level 9"
+    "name": "Level 9",
+    "links": []
   },
   {
     "id": "9ba6cf31-3cdc-42d8-ac14-0c00a2244de7",
-    "name": "Martial Arts"
+    "name": "Martial Arts",
+    "links": []
   },
   {
     "id": "c190ebf9-b5a8-47b9-9bbc-6384f71f757c",
-    "name": "Animal Companion - Mature"
+    "name": "Animal Companion - Mature",
+    "links": []
   },
   {
     "id": "632b1412-8ad9-4fc6-b67e-224480a30019",
-    "name": "Novice Abjurationist - Arcane Ward"
+    "name": "Novice Abjurationist - Arcane Ward",
+    "links": []
   },
   {
     "id": "f760f877-9f8d-444e-b033-7d429c16619d",
-    "name": "Novice Arcana Domain - Arcane Initiate"
+    "name": "Novice Arcana Domain - Arcane Initiate",
+    "links": []
   },
   {
     "id": "e1aef927-5f38-49ba-a4b1-6c710757c727",
-    "name": "Novice Arcane Archer - Arcane Shot"
+    "name": "Novice Arcane Archer - Arcane Shot",
+    "links": []
   },
   {
     "id": "c1d647ac-1b53-40db-91af-7575b352322c",
-    "name": "Novice Arcane Trickster - Mage Hand Expert"
+    "name": "Novice Arcane Trickster - Mage Hand Expert",
+    "links": []
   },
   {
     "id": "177c101e-c2d9-47ed-b9e0-1d77851473e6",
-    "name": "Novice Artillerist - Wand Master"
+    "name": "Novice Artillerist - Wand Master",
+    "links": []
   },
   {
     "id": "039ba202-b4c6-4cb5-a71b-0f3790cc109c",
-    "name": "Novice Assassin - Ambush"
+    "name": "Novice Assassin - Ambush",
+    "links": []
   },
   {
     "id": "d1b4326b-cc56-4e92-b6bd-e5b53136cf60",
-    "name": "Novice Bastion - Arcane Defense"
+    "name": "Novice Bastion - Arcane Defense",
+    "links": []
   },
   {
     "id": "c58c4627-dafc-48b4-9654-9c4b00fad24d",
-    "name": "Novice Berserker - Furious Flurry"
+    "name": "Novice Berserker - Furious Flurry",
+    "links": []
   },
   {
     "id": "c6dc1367-ce08-40c6-9836-5f879e62811c",
-    "name": "Novice Cavalier - Mounted Warrior"
+    "name": "Novice Cavalier - Mounted Warrior",
+    "links": []
   },
   {
     "id": "6d25ef33-6cec-4af9-bb44-1614ccb56852",
-    "name": "Novice College of Glamour - Captivate"
+    "name": "Novice College of Glamour - Captivate",
+    "links": []
   },
   {
     "id": "9e985511-936a-4072-b8e8-963b82b0880c",
-    "name": "Novice College of Whispers - Mantle of Shadow"
+    "name": "Novice College of Whispers - Mantle of Shadow",
+    "links": []
   },
   {
     "id": "b4c7fc92-6393-47b7-b306-b1a73b65a45b",
-    "name": "Novice Conjurer - Conjurer's Step"
+    "name": "Novice Conjurer - Conjurer's Step",
+    "links": []
   },
   {
     "id": "42fc23e9-8969-471c-a45c-86db6575780f",
-    "name": "Novice Creation Domain - Empowered Weapon"
+    "name": "Novice Creation Domain - Empowered Weapon",
+    "links": []
   },
   {
     "id": "3e4894ad-2327-4504-996e-5ce361348bf6",
-    "name": "Novice Death Domain - Epidemic Necromancy"
+    "name": "Novice Death Domain - Epidemic Necromancy",
+    "links": []
   },
   {
     "id": "416b9f7e-f3d9-48e7-a251-ddf436a7a128",
-    "name": "Novice Divine Bloodline - Blessed Influence"
+    "name": "Novice Divine Bloodline - Blessed Influence",
+    "links": []
   },
   {
     "id": "61c3e3f2-96eb-4dfa-a7f7-20fd4e1b8d0d",
-    "name": "Novice Diviner - Portens"
+    "name": "Novice Diviner - Portens",
+    "links": []
   },
   {
     "id": "c2f8f0bf-dbd2-451e-a71c-701d98d46956",
-    "name": "Novice Draconic Bloodline - Ancestral Influence"
+    "name": "Novice Draconic Bloodline - Ancestral Influence",
+    "links": []
   },
   {
     "id": "d9563bf4-559f-4289-81be-2edcd72e4e34",
-    "name": "Novice Drakewarden - Dragonling"
+    "name": "Novice Drakewarden - Dragonling",
+    "links": []
   },
   {
     "id": "9b4302af-5857-440c-b574-9e14ef3b935d",
-    "name": "Novice Drunken Master - Drunken Wanderer"
+    "name": "Novice Drunken Master - Drunken Wanderer",
+    "links": []
   },
   {
     "id": "5d595532-09ed-4964-b36b-cefc2c93b2f7",
-    "name": "Novice Enchanter - Hypnotic Gaze"
+    "name": "Novice Enchanter - Hypnotic Gaze",
+    "links": []
   },
   {
     "id": "96cab4e5-31db-466a-ba2c-72f71f3ea637",
-    "name": "Novice Evoker - Protective Casting"
+    "name": "Novice Evoker - Protective Casting",
+    "links": []
   },
   {
     "id": "abf33712-0df6-48e6-b57f-2306cdd6af04",
-    "name": "Novice Fade Walker - Fade Wound"
+    "name": "Novice Fade Walker - Fade Wound",
+    "links": []
   },
   {
     "id": "2c59b49c-41d5-4811-8ca0-bad66361c07a",
-    "name": "Novice Hunter - Focus"
+    "name": "Novice Hunter - Focus",
+    "links": []
   },
   {
     "id": "0f36b985-11e6-40aa-bf40-8d9b9cc91006",
-    "name": "Novice Hunter - Surrounded"
+    "name": "Novice Hunter - Surrounded",
+    "links": []
   },
   {
     "id": "1ca1b5f9-4a0f-4bf3-8206-5692c2b4ef44",
-    "name": "Novice Illusionist - Improved Illusions"
+    "name": "Novice Illusionist - Improved Illusions",
+    "links": []
   },
   {
     "id": "8ab71c16-f57f-4161-968a-8c68bfe086f5",
-    "name": "Novice Immolator - Fire Storm"
+    "name": "Novice Immolator - Fire Storm",
+    "links": []
   },
   {
     "id": "a5e34bd1-4c58-4d0f-9593-0e2b759cdb6f",
-    "name": "Novice Kensei - Agile Parry"
+    "name": "Novice Kensei - Agile Parry",
+    "links": []
   },
   {
     "id": "797bdec2-94b3-499d-b410-2f72f053781a",
-    "name": "Novice Life Domain - Practiced Healer"
+    "name": "Novice Life Domain - Practiced Healer",
+    "links": []
   },
   {
     "id": "78d21cde-a8ce-4160-9afd-fbc0536f2054",
-    "name": "Novice Light Domain - Warding Flare"
+    "name": "Novice Light Domain - Warding Flare",
+    "links": []
   },
   {
     "id": "0a3e5246-88f9-4677-879a-eb81503c10f8",
-    "name": "Novice Mastermind - Act the Part"
+    "name": "Novice Mastermind - Act the Part",
+    "links": []
   },
   {
     "id": "3f17f743-5314-4e61-bde5-827b0de88a1e",
-    "name": "Novice Nature Domain - Primal Practitioner"
+    "name": "Novice Nature Domain - Primal Practitioner",
+    "links": []
   },
   {
     "id": "636b4ff2-232d-4313-b891-28afcaa8b6ae",
-    "name": "Novice Necromancer - Grim Harvest"
+    "name": "Novice Necromancer - Grim Harvest",
+    "links": []
   },
   {
     "id": "6d4c15ec-ff93-4e5a-97b7-60faa6d924c9",
-    "name": "Novice Night Stalker - One With The Dark"
+    "name": "Novice Night Stalker - One With The Dark",
+    "links": []
   },
   {
     "id": "97a63dc5-7447-4ce2-a06a-82e8e5fcfc17",
-    "name": "Novice Oath of the Avenger - Force of Enmity"
+    "name": "Novice Oath of the Avenger - Force of Enmity",
+    "links": []
   },
   {
     "id": "162cdb51-2f32-48c8-9bb5-ea6570830d17",
-    "name": "Novice Oath of the Conqueror - Strike Fear"
+    "name": "Novice Oath of the Conqueror - Strike Fear",
+    "links": []
   },
   {
     "id": "b7a169bd-d5e3-4382-a68b-59fb1390dee0",
-    "name": "Novice Oath of the Devotion - Holy Blade"
+    "name": "Novice Oath of the Devotion - Holy Blade",
+    "links": []
   },
   {
     "id": "64a4753f-248a-4616-880f-00b6ef5a2589",
-    "name": "Novice Oath of the Hero - Heroic Fury"
+    "name": "Novice Oath of the Hero - Heroic Fury",
+    "links": []
   },
   {
     "id": "f0e37ee4-f9ae-401e-b602-500009a85885",
-    "name": "Novice Oath of the Protector - Champion's Challenge"
+    "name": "Novice Oath of the Protector - Champion's Challenge",
+    "links": []
   },
   {
     "id": "4bfd545b-008d-4286-b430-ea32d3ebbf73",
-    "name": "Novice Oath of the Sentinel - Nature's Wrath"
+    "name": "Novice Oath of the Sentinel - Nature's Wrath",
+    "links": []
   },
   {
     "id": "d1c09e42-6407-4407-bafe-5a3d3679aa6d",
-    "name": "Novice Open Hand - Manipulative Strikes"
+    "name": "Novice Open Hand - Manipulative Strikes",
+    "links": []
   },
   {
     "id": "cb03958e-09f5-4864-9473-0e94209803c0",
-    "name": "Novice Order Domain - Commanding Influence"
+    "name": "Novice Order Domain - Commanding Influence",
+    "links": []
   },
   {
     "id": "6469c8d9-0b66-4d36-8a2e-8401dc78bf67",
-    "name": "Novice Poisoner - Poisoner's Vial"
+    "name": "Novice Poisoner - Poisoner's Vial",
+    "links": []
   },
   {
     "id": "4c6beaa0-fb83-447c-b0b9-5784e0167fa4",
-    "name": "Novice Profane Bloodline - Living Shadow"
+    "name": "Novice Profane Bloodline - Living Shadow",
+    "links": []
   },
   {
     "id": "d17e50b1-4e1d-4682-9949-9ac3e53ec20d",
-    "name": "Novice Psion Bloodline - Subtle Casting"
+    "name": "Novice Psion Bloodline - Subtle Casting",
+    "links": []
   },
   {
     "id": "8d77670e-b1dd-4e71-a966-cc68e1ed5f1a",
-    "name": "Novice Ruffian - Anything Will Do"
+    "name": "Novice Ruffian - Anything Will Do",
+    "links": []
   },
   {
     "id": "64808557-09d4-440c-97b5-c0d2e9464a12",
-    "name": "Novice Samurai - Fighting Spirit"
+    "name": "Novice Samurai - Fighting Spirit",
+    "links": []
   },
   {
     "id": "61a2a231-a1b6-4e88-876d-17406bc1e77d",
-    "name": "Novice Scout - On the Move"
+    "name": "Novice Scout - On the Move",
+    "links": []
   },
   {
     "id": "3fdcb522-6d80-4b8c-a2df-8138210a7e10",
-    "name": "Novice Shadow - Fade into Darkness"
+    "name": "Novice Shadow - Fade into Darkness",
+    "links": []
   },
   {
     "id": "ad0506a4-688e-4d94-8db7-c594330242dd",
-    "name": "Novice Shaman - Mistwalker"
+    "name": "Novice Shaman - Mistwalker",
+    "links": []
   },
   {
     "id": "1897b3ff-26a9-4172-953a-86a33968f083",
-    "name": "Novice Storm Caller - Bring the Storm"
+    "name": "Novice Storm Caller - Bring the Storm",
+    "links": []
   },
   {
     "id": "fb8ee6b6-7f91-435b-babd-42fe1c7ebc4d",
-    "name": "Novice Storm Speaker - Fogling"
+    "name": "Novice Storm Speaker - Fogling",
+    "links": []
   },
   {
     "id": "9ad7a0a1-91f9-44b6-b725-2cdcdf39c310",
-    "name": "Novice Storm Spirit Bloodline - Invoke the Storm"
+    "name": "Novice Storm Spirit Bloodline - Invoke the Storm",
+    "links": []
   },
   {
     "id": "b6bcff2e-8d99-4861-bf55-6611b4e061cd",
-    "name": "Novice Sun Soul - Flaming Fists"
+    "name": "Novice Sun Soul - Flaming Fists",
+    "links": []
   },
   {
     "id": "d170008b-9fd3-41aa-8697-25f520e7890e",
-    "name": "Novice Swarmkeeper - Swarm"
+    "name": "Novice Swarmkeeper - Swarm",
+    "links": []
   },
   {
     "id": "270414e0-82ae-4cf1-8d0c-58c312c668ca",
-    "name": "Novice Swashbuckler - En Guarde"
+    "name": "Novice Swashbuckler - En Guarde",
+    "links": []
   },
   {
     "id": "2525cd37-1794-48ef-8bff-3ff2df91617e",
-    "name": "Novice Tempest Domain - Storm's Rebuke"
+    "name": "Novice Tempest Domain - Storm's Rebuke",
+    "links": []
   },
   {
     "id": "5e050658-2083-476e-9630-87c44de5a1be",
-    "name": "Novice Transmuter - Transmuter's Stone"
+    "name": "Novice Transmuter - Transmuter's Stone",
+    "links": []
   },
   {
     "id": "536e9186-c8ee-48ad-8722-364d1c97b22d",
-    "name": "Novice Trickery Domain - Hidden Blessing"
+    "name": "Novice Trickery Domain - Hidden Blessing",
+    "links": []
   },
   {
     "id": "7957e9e0-d15a-47c8-b103-505eb5ccea0a",
-    "name": "Novice War Domain - We Hold"
+    "name": "Novice War Domain - We Hold",
+    "links": []
   },
   {
     "id": "cfb4b86f-16ea-4416-86f0-e1577ca9a2d1",
-    "name": "Novice Warlord - Empowering Presence"
+    "name": "Novice Warlord - Empowering Presence",
+    "links": []
   },
   {
     "id": "80b14d61-01b1-4a68-a976-99233ca0c02c",
-    "name": "Occult Spellcasting"
+    "name": "Occult Spellcasting",
+    "links": []
   },
   {
     "id": "ee323cf9-54c6-4948-a20f-949ee75d6e68",
-    "name": "Pact Boon - Bound Blade"
+    "name": "Pact Boon - Bound Blade",
+    "links": []
   },
   {
     "id": "7c6c8a20-3ecb-42e1-8ad7-35961001b7b3",
-    "name": "Priest Spellcasting"
+    "name": "Priest Spellcasting",
+    "links": []
   },
   {
     "id": "32a26e8d-6858-47fb-b97e-e9fc41f2d216",
-    "name": "Proficiency with Crossbows"
+    "name": "Proficiency with Crossbows",
+    "links": []
   },
   {
     "id": "472ef789-afd5-46c5-a7c3-62de2cfd35a1",
-    "name": "Proficiency with Firearms"
+    "name": "Proficiency with Firearms",
+    "links": []
   },
   {
     "id": "7b7b6650-1523-4680-bce6-d7ae095ed1b5",
-    "name": "Proficiency with Heavy Armor"
+    "name": "Proficiency with Heavy Armor",
+    "links": []
   },
   {
     "id": "ae549277-bf92-488b-9c1a-c604f78e35a8",
-    "name": "Proficiency with Light Armor"
+    "name": "Proficiency with Light Armor",
+    "links": []
   },
   {
     "id": "d31df62f-d27e-483b-a1b2-03288fc76171",
-    "name": "Proficiency with Martial Weapons"
+    "name": "Proficiency with Martial Weapons",
+    "links": []
   },
   {
     "id": "36e208e9-f4d0-4204-abce-72a6b9a268aa",
-    "name": "Proficiency with Medium Armor"
+    "name": "Proficiency with Medium Armor",
+    "links": []
   },
   {
     "id": "204bae0f-130f-4d32-93b4-aacb1f063c44",
-    "name": "Proficiency with Shields"
+    "name": "Proficiency with Shields",
+    "links": []
   },
   {
     "id": "89ffc6bb-4313-4e4e-8d6f-0847e0f6e2da",
-    "name": "Rage"
+    "name": "Rage",
+    "links": []
   },
   {
     "id": "d42b4cef-8469-44ad-8385-172a7271ae05",
-    "name": "Shapechange"
+    "name": "Shapechange",
+    "links": []
   },
   {
     "id": "e09af540-5a6a-4ff8-9de6-57bee13afc54",
-    "name": "Signature Spell"
+    "name": "Signature Spell",
+    "links": []
   },
   {
     "id": "0c6446cc-8e83-40ae-b169-8e61e343f64e",
-    "name": "Sneak Attack"
+    "name": "Sneak Attack",
+    "links": []
   },
   {
     "id": "3a4da904-935d-4c7f-b4ff-99a7f86240b1",
-    "name": "Animal Companion - Specialized"
+    "name": "Animal Companion - Specialized",
+    "links": []
   },
   {
     "id": "99b0c92b-d44f-436e-9d7c-0b37e55c5b70",
-    "name": "Spell Points"
+    "name": "Spell Points",
+    "links": []
   },
   {
     "id": "084e65f4-dce5-486d-acda-5dff93633785",
-    "name": "Spellblade Spellcasting"
+    "name": "Spellblade Spellcasting",
+    "links": []
   },
   {
     "id": "56a16630-2e83-43a8-8b90-c6a328d42ff2",
-    "name": "Spellbook"
+    "name": "Spellbook",
+    "links": []
   },
   {
     "id": "dcc2322a-3a2c-4d2a-87ac-48638d9ca814",
-    "name": "Spellcasting Level 7"
+    "name": "Spellcasting Level 7",
+    "links": []
   },
   {
     "id": "57212ed9-0fb0-441e-96f5-fe209a611241",
-    "name": "Spellcasting"
+    "name": "Spellcasting",
+    "links": []
   },
   {
     "id": "fcd26106-9aa6-4fb5-a0de-5d706fc63ea2",
-    "name": "Strength 14 or Constitution 14"
+    "name": "Strength 14 or Constitution 14",
+    "links": []
   },
   {
     "id": "127b561a-b059-479e-a45c-0ef8f26ee2d9",
-    "name": "Strength 14 or Dexterity 14"
+    "name": "Strength 14 or Dexterity 14",
+    "links": []
   },
   {
     "id": "4aea2818-6ee8-47f5-a687-242755a1c6f2",
-    "name": "Strength 14"
+    "name": "Strength 14",
+    "links": []
   },
   {
     "id": "0aabe152-e8df-42fe-85a7-3c1d50a2b889",
-    "name": "Strength 18"
+    "name": "Strength 18",
+    "links": []
   },
   {
     "id": "2e9484b4-3f5e-47f0-b29f-add7852f4e67",
-    "name": "Trained in Nature"
+    "name": "Trained in Nature",
+    "links": []
   },
   {
     "id": "10c36969-e699-4946-99b4-4963283dd84d",
-    "name": "Trained in Performance"
+    "name": "Trained in Performance",
+    "links": []
   },
   {
     "id": "a849437d-9c6a-4cd5-bb55-6b2b856096b3",
-    "name": "Warden Spellcasting"
+    "name": "Warden Spellcasting",
+    "links": []
   },
   {
     "id": "248f9cd5-3b63-4dcf-9ec2-cc8229fbb3b9",
-    "name": "Wildling Spellcasting"
+    "name": "Wildling Spellcasting",
+    "links": []
   },
   {
     "id": "fcf8d775-ed74-48ae-a4f9-2fb18b4e7c9b",
-    "name": "Wisdom 14 or Intelligence 14"
+    "name": "Wisdom 14 or Intelligence 14",
+    "links": []
   },
   {
     "id": "9a8371df-8b85-4c66-8143-6e4689ab805f",
-    "name": "Wisdom 14"
+    "name": "Wisdom 14",
+    "links": []
   },
   {
     "id": "29fe6938-2a9e-4045-a70b-9d8d5da1be98",
-    "name": "Wisdom 16"
+    "name": "Wisdom 16",
+    "links": []
   },
   {
     "id": "10b33527-c62d-4ef7-9d68-9a4b979259b2",
-    "name": "Animal Companion - Young"
+    "name": "Animal Companion - Young",
+    "links": []
   }
 ]

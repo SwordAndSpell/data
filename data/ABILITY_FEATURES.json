@@ -7,7 +7,8 @@
     "requirements": "",
     "relevantStyles": [
       "Ranged"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "22588978-94e6-40ca-9ea5-280d447b14bb",
@@ -23,7 +24,8 @@
       "Weapon and Shield",
       "Brawling / Grappling",
       "Polearms"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "53ba5ecc-5291-4ed9-9f5b-946e57694a0b",
@@ -33,7 +35,8 @@
     "requirements": "",
     "relevantStyles": [
       "Spellcasting"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "11b68822-15de-4695-84ec-852dea02044e",
@@ -44,7 +47,8 @@
     "relevantStyles": [
       "Fencing",
        "Brawling / Grappling"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "c831f152-77b1-4df8-b1ca-5e67b77249f2",
@@ -54,7 +58,8 @@
     "requirements": "",
     "relevantStyles": [
        "Spellcasting"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "2335bd28-f1c7-4b98-9e17-9b87a0e1ece5",
@@ -65,7 +70,8 @@
     "relevantStyles": [
       "Dual Wielding",
       "Ranged"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "c1c0c895-24b9-4499-8668-74fd347b2261",
@@ -76,7 +82,8 @@
     "relevantStyles": [
       "Dual Wielding",
        "Daggers / Finesse"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "041a8831-02c6-423a-913a-f015499a52f3",
@@ -86,7 +93,8 @@
     "requirements": "a non-loading ranged weapon",
     "relevantStyles": [
        "Ranged"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "f336096a-3fc4-49dc-998c-1dded7655d77",
@@ -96,7 +104,8 @@
     "requirements": "one-handed weapon and an empty offhand",
     "relevantStyles": [
        "Fencing"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "6dccd147-52d7-4481-8fff-dbe16b7f0fbb",
@@ -112,7 +121,8 @@
        "Weapon and Shield",
        "Brawling / Grappling",
        "Polearms"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "eca1ef5f-67ed-44f1-908b-861521162106",
@@ -123,7 +133,8 @@
     "relevantStyles": [
        "Fencing",
        "Weapon and Shield"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "b643c32d-1fcb-4f84-84c8-0d8fea9cac6d",
@@ -140,7 +151,8 @@
        "Brawling / Grappling",
        "Spellcasting",
        "Polearms"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "08efc3b0-6847-4cc1-93ab-af8c5ce1efe9",
@@ -151,7 +163,8 @@
     "relevantStyles": [
       "Two-Handed",
        "Polearms"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "483e92d8-b2ec-422f-8bea-5f7190f73273",
@@ -161,7 +174,8 @@
     "requirements": "A shield",
     "relevantStyles": [
        "Weapon and Shield"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "c6baa198-53a9-4650-abbb-42f5e8172f6d",
@@ -179,7 +193,8 @@
        "Spellcasting",
        "Polearms",
        "Ranged"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "d84dfd75-68a4-452a-a312-ede556383e6c",
@@ -189,7 +204,8 @@
     "requirements": "A shield",
     "relevantStyles": [
       "Weapon and Shield"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "91729ebd-c1fa-4e20-9a0f-d1b033251671",
@@ -199,7 +215,8 @@
     "requirements": "",
     "relevantStyles": [
       "Weapon and Shield"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "f8f65c61-8049-48be-92ae-812bb1920f3e",
@@ -217,7 +234,8 @@
        "Spellcasting",
        "Polearms",
        "Ranged"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "7d1c1c76-cf0f-458b-bbc3-24e1784bb08b",
@@ -233,7 +251,8 @@
        "Weapon and Shield",
        "Brawling / Grappling",
        "Polearms"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "a1500146-f1df-41ae-b78a-adf7bb753dd9",
@@ -243,7 +262,8 @@
     "requirements": "",
     "relevantStyles": [
        "Brawling / Grappling"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "b0473084-993d-412a-a024-5fad6ed09d52",
@@ -257,7 +277,8 @@
        "Two-Handed",
        "Weapon and Shield",
        "Polearms"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "006bccab-798c-4969-90c1-bbcca00c6a29",
@@ -267,7 +288,8 @@
     "requirements": "Spellcasting",
     "relevantStyles": [
       "Spellcasting"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "cd40cf1a-4ed8-421e-8aa4-c0084ce58fc1",
@@ -278,7 +300,8 @@
     "relevantStyles": [
       "Dual Wielding",
        "Daggers / Finesse"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "58c7a2c3-0add-46ab-a2f1-ef68c51f84c8",
@@ -288,7 +311,8 @@
     "requirements": "",
     "relevantStyles": [
       "Spellcasting"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "3766a23d-14a6-4938-8771-8fe036a4cb52",
@@ -305,7 +329,8 @@
        "Brawling / Grappling",
        "Polearms",
        "Ranged"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "b587a880-9505-40ce-bd37-81f7d7b369e1",
@@ -321,7 +346,8 @@
        "Weapon and Shield",
        "Brawling / Grappling",
        "Polearms"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "efbd6a14-3525-437a-a9b1-215c0860e211",
@@ -331,7 +357,8 @@
     "requirements": "Shield",
     "relevantStyles": [
       "Weapon and Shield"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "33f46f65-0982-41f7-a381-61df1a4a1ef2",
@@ -341,7 +368,8 @@
     "requirements": "A ranged weapon",
     "relevantStyles": [
       "Ranged"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "dd509713-cd47-447c-966c-f10975cf6ac7",
@@ -359,7 +387,8 @@
        "Spellcasting",
        "Polearms",
        "Ranged"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "746aecd1-a6c0-4918-acf3-8aa455c4a1e7",
@@ -369,7 +398,8 @@
     "requirements": "a two-handed weapon",
     "relevantStyles": [
       "Two-Handed"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "2d259f2c-a359-4663-9572-ef85c50fc13b",
@@ -379,7 +409,8 @@
     "requirements": "a dagger in each hand",
     "relevantStyles": [
       "Daggers / Finesse"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "8d874356-323d-498f-948a-5072208f5858",
@@ -394,7 +425,8 @@
        "Two-Handed",
        "Weapon and Shield",
        "Polearms"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "8469b1b0-e868-4128-a751-5c62482cef1f",
@@ -412,7 +444,8 @@
        "Spellcasting",
        "Polearms",
        "Ranged"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "3f832708-1dac-4ce8-8f50-8b017e29e7ae",
@@ -429,7 +462,8 @@
        "Brawling / Grappling",
        "Polearms",
        "Ranged"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "2280e23f-342a-4521-9162-85a341197e94",
@@ -440,7 +474,8 @@
     "relevantStyles": [
       "Fencing",
        "Brawling / Grappling"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "ed73ca1c-4c30-4508-bae2-1024587374ea",
@@ -458,7 +493,8 @@
        "Spellcasting",
        "Polearms",
        "Ranged"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "840dca8c-8049-4e34-86f5-3dc2b3c42dc9",
@@ -474,7 +510,8 @@
        "Weapon and Shield",
        "Brawling / Grappling",
        "Polearms"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "244bcf24-db76-433e-8aa0-e46b5d56384a",
@@ -489,7 +526,8 @@
        "Two-Handed",
        "Weapon and Shield",
        "Brawling / Grappling",  "Polearms"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "8da568b2-2220-4c6a-b609-2bfd8f60f2a4",
@@ -506,7 +544,8 @@
        "Brawling / Grappling",
        "Polearms",
        "Ranged"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "24d571a1-7280-4271-ba1f-cb42de450004",
@@ -523,7 +562,8 @@
        "Brawling / Grappling",
        "Polearms",
        "Ranged"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "e46ad86e-1380-4587-8ede-80230ec1faab",
@@ -539,7 +579,8 @@
        "Weapon and Shield",
        "Polearms",
        "Ranged"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "673d9926-f5a9-4196-ad0d-2b87bad73a13",
@@ -549,7 +590,8 @@
     "requirements": "",
     "relevantStyles": [
       "Ranged"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "de1d860a-3535-484d-8093-b55880ddc0eb",
@@ -564,7 +606,8 @@
        "Weapon and Shield",
        "Brawling / Grappling",
        "Polearms"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "6c427c5c-5a83-4cfe-9483-537191683566",
@@ -582,7 +625,8 @@
        "Spellcasting",
        "Polearms",
        "Ranged"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "f73b041c-7a8b-4376-b58a-53eaba088610",
@@ -592,7 +636,8 @@
     "requirements": "",
     "relevantStyles": [
        "Spellcasting"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "3767b9ae-65df-41a3-9583-aa00a955e3f2",
@@ -602,7 +647,8 @@
     "requirements": "a ranged weapon",
     "relevantStyles": [
       "Ranged"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "b4e008d0-5e13-413a-88e2-e30b34f73e7c",
@@ -612,7 +658,8 @@
     "requirements": "",
     "relevantStyles": [
       "Spellcasting"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "78fcfdef-41a1-4bce-b4b5-9eb6f436db9c",
@@ -629,7 +676,8 @@
        "Brawling / Grappling",
        "Polearms",
        "Ranged"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "0440ed6e-feaa-4fd7-97e8-3a15e5d4f36c",
@@ -639,7 +687,8 @@
     "requirements": "a ranged Weapon",
     "relevantStyles": [
       "Ranged"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "10b2dafb-5da1-4300-be3f-273d048e5b3f",
@@ -649,7 +698,8 @@
     "requirements": "",
     "relevantStyles": [
       "Spellcasting"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "c8c17fbe-7b62-4501-b38f-55d6c127c187",
@@ -665,7 +715,8 @@
        "Weapon and Shield",
        "Brawling / Grappling",
        "Polearms"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "ff0ac046-3c01-4318-b8af-29b2393a671c",
@@ -675,7 +726,8 @@
     "requirements": "a two-handed weapon",
     "relevantStyles": [
       "Two-Handed"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "bfe79d27-9a7c-4566-924e-a99eeedf39aa",
@@ -686,7 +738,8 @@
     "relevantStyles": [
       "Dual Wielding",
        "Daggers / Finesse"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "7d9d5497-f73d-4564-a559-cd6453adbadf",
@@ -696,7 +749,8 @@
     "requirements": "",
     "relevantStyles": [
       "Weapon and Shield"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "df6b9236-7e56-45dd-9064-7c36b0112f7b",
@@ -706,7 +760,8 @@
     "requirements": "",
     "relevantStyles": [
       "Weapon and Shield"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "0c767a60-3de7-4edb-98e5-0e1e1013a8f9",
@@ -724,7 +779,8 @@
        "Spellcasting",
        "Polearms",
        "Ranged"
-      ]
+      ],
+    "links": []
   },
   {
     "id": "f90dcca4-a389-43dc-853a-74d0f2ab62ec",
@@ -734,7 +790,8 @@
     "requirements": "Counterspell",
     "relevantStyles": [
       "Spellcasting"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "f63808c0-1ad6-4d8f-a993-0f9f3bac3c66",
@@ -744,7 +801,8 @@
     "requirements": "",
     "relevantStyles": [
       "Ranged"
-    ]
+    ],
+    "links": []
   },
   {
     "id": "7caa3d46-3ab6-4fc1-8341-9c137899e4f0",
@@ -760,7 +818,8 @@
        "Weapon and Shield",
        "Brawling / Grappling",
        "Polearms"
-      ]
+      ],
+    "links": []
   }
 
 ]

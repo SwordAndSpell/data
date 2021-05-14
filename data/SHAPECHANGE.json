@@ -72,7 +72,8 @@
         "name": "Bite / Gore - 1 Action",
         "description": "Melee Attack: Wisdom + Your Level to hit, reach 5ft, one target.\nOn Hit: 1d8 + Your Wisdom Piercing Damage"
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "9f3ad435-a591-4999-8d71-0907c9e53c7f",
@@ -147,7 +148,8 @@
         "name": "Bite - 1 Action",
         "description": "Melee Attack: Wisdom + Your Level to hit, reach 5ft, one target.\nOn Hit: 1d8 + 2 Piercing Damage"
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "cfc9e944-08b4-41d1-bfbb-9defabf8a4c7",
@@ -230,6 +232,7 @@
         "name": "Bite / Gore - 1 Action",
         "description": "Melee Attack: Wisdom + Your Level to hit, reach 5ft, one target.\nOn Hit: 1d12 + Your Wisdom Piercing Damage"
       }
-    ]
+    ],
+    "links": []
   }
 ]

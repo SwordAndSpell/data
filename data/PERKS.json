@@ -2,544 +2,651 @@
   {
     "id": "5cca7fe3-8931-4020-929d-0151eb453576",
     "name": "Healing Hands",
-    "description": "As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a rest."
+    "description": "As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a rest.",
+    "links": []
   },
   {
     "id": "078c671d-007d-4466-931d-63e146ba5d18",
     "name": "Divine Blessing",
-    "description": "You learn a Divine cantrip of your choice. Charisma is your spellcasting modifier for it.\n\nYou are proficient in the use of this cantrip"
+    "description": "You learn a Divine cantrip of your choice. Charisma is your spellcasting modifier for it.\n\nYou are proficient in the use of this cantrip",
+    "links": []
   },
   {
     "id": "5eba92da-aaa6-4e90-9f59-4f3925e182f1",
     "name": "Celestial Resistance",
-    "description": "You have resistance to Dark damage or Light damage."
+    "description": "You have resistance to Dark damage or Light damage.",
+    "links": []
   },
   {
     "id": "4b111bbd-bad7-46fb-98d6-ff26cd30306c",
     "name": "Powerful Presence",
-    "description": "You have apprentice proficiency in two of the following skills: Persuasion, Intimidation, and Society."
+    "description": "You have apprentice proficiency in two of the following skills: Persuasion, Intimidation, and Society.",
+    "links": []
   },
   {
     "id": "c11dd6b5-687f-48bd-adc8-fd27c6100599",
     "name": "Stronger Together",
-    "description": "You have advantage on all checks to assist an ally in a skill that you have at least Trained proficiency level in."
+    "description": "You have advantage on all checks to assist an ally in a skill that you have at least Trained proficiency level in.",
+    "links": []
   },
   {
     "id": "a984f674-e657-40d9-8716-d1434ab35099",
     "name": "Talented",
-    "description": "You gain one skill increase to a skill of your choosing"
+    "description": "You gain one skill increase to a skill of your choosing",
+    "links": []
   },
   {
     "id": "a8db87ed-de5b-4db7-8400-380b16795597",
     "name": "Low-Light Vision",
-    "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness."
+    "description": "You can see in dim light as though it were by torchlight, but cannot see in darkness.",
+    "links": []
   },
   {
     "id": "97e29746-4444-4b13-badf-31248207d9b1",
     "name": "Powerful Swimmer",
-    "description": "You have a swim speed of 15 feet."
+    "description": "You have a swim speed of 15 feet.",
+    "links": []
   },
   {
     "id": "bd6f8412-3100-4424-a494-1e174fdd41b7",
     "name": "Light Step",
-    "description": "You do not set off pressure plates, tripwires, or other ground based traps."
+    "description": "You do not set off pressure plates, tripwires, or other ground based traps.",
+    "links": []
   },
   {
     "id": "50ed4831-bb12-4436-a49b-7a32dab10142",
     "name": "Nimble Dodge",
-    "description": "When you fail a Reflex save, you can use your reaction to reroll the save and keep the new result. You can use this ability once per day."
+    "description": "When you fail a Reflex save, you can use your reaction to reroll the save and keep the new result. You can use this ability once per day.",
+    "links": []
   },
   {
     "id": "7055985c-d772-4dff-a6d9-a2d2245b052c",
     "name": "Nine Lives",
-    "description": "When you take damage that would reduce your hit points to 0, you can choose to be reduced to 1 hit point instead.\n\nYou may only use this ability Nine times, and it does not recharge."
+    "description": "When you take damage that would reduce your hit points to 0, you can choose to be reduced to 1 hit point instead.\n\nYou may only use this ability Nine times, and it does not recharge.",
+    "links": []
   },
   {
     "id": "093854b6-a82b-4867-8518-d91f4c4747c1",
     "name": "Cat's Claws",
-    "description": "Your retractable claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+    "description": "Your retractable claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.",
+    "links": []
   },
   {
     "id": "d0c68409-a050-4c21-849b-a6338252b219",
     "name": "Masterful Hunter",
-    "description": "You have apprentice level proficiency in stealth and survival."
+    "description": "You have apprentice level proficiency in stealth and survival.",
+    "links": []
   },
   {
     "id": "94abce08-fe96-40ec-9068-aea6b45c4039",
     "name": "Wish-Granter",
-    "description": "Once per day, you can give an ally advantage on any attack, ability check, or saving throw."
+    "description": "Once per day, you can give an ally advantage on any attack, ability check, or saving throw.",
+    "links": []
   },
   {
     "id": "4baa24aa-3f15-4914-86d3-9f0d3dd26d84",
     "name": "Future-Sight",
-    "description": "At the beginning of every day, roll a d20 and record the result. Once per day, you can replace any roll you make with the recorded result. This roll ONLY replaces the rolled value, not any modifiers or bonuses you may have."
+    "description": "At the beginning of every day, roll a d20 and record the result. Once per day, you can replace any roll you make with the recorded result. This roll ONLY replaces the rolled value, not any modifiers or bonuses you may have.",
+    "links": []
   },
   {
     "id": "1757bc6f-3a2f-49c2-b063-4722d1c4b5e0",
     "name": "Advanced Movement",
-    "description": "You gain the advanced movement ability detailed under your chosen subrace."
+    "description": "You gain the advanced movement ability detailed under your chosen subrace.",
+    "links": []
   },
   {
     "id": "82d7f6e4-6147-4080-8033-5fdf56ecf092",
     "name": "Djinni Spellcasting",
-    "description": "You gain the Djinn Spellcasting feature detailed under your chosen subrace.\n\nConstitution is your spellcasting modifier for these spells. You are proficient in the use of these spells."
+    "description": "You gain the Djinn Spellcasting feature detailed under your chosen subrace.\n\nConstitution is your spellcasting modifier for these spells. You are proficient in the use of these spells.",
+    "links": []
   },
   {
     "id": "4db51aac-b777-460a-baf3-550b9c264218",
     "name": "Advanced Djinni Spellcasting",
-    "description": "You gain the Advanced Spells ability detailed under your chosen subrace."
+    "description": "You gain the Advanced Spells ability detailed under your chosen subrace.",
+    "links": []
   },
   {
     "id": "cee24c17-494b-42a9-bdf5-301b3c68c5a6",
     "name": "Semi-Cosmic Knowledge",
-    "description": "You gain the Apprentice proficiency in two skills of your choice."
+    "description": "You gain the Apprentice proficiency in two skills of your choice.",
+    "links": []
   },
   {
     "id": "71f7485e-af72-4624-8cc3-d5e24739cae6",
     "name": "Dwarven Armor Training",
-    "description": "You reduce the movement penalties from heavy and medium armor by 5 feet. You gain proficiency in light armor. If you already have proficiency in light armor, you instead gain proficiency in medium armor. If you already have proficiency in medium armor, you gain proficiency in heavy armor. If you already have proficiency in heavy armor, your armor bonus is increased by 1."
+    "description": "You reduce the movement penalties from heavy and medium armor by 5 feet. You gain proficiency in light armor. If you already have proficiency in light armor, you instead gain proficiency in medium armor. If you already have proficiency in medium armor, you gain proficiency in heavy armor. If you already have proficiency in heavy armor, your armor bonus is increased by 1.",
+    "links": []
   },
   {
     "id": "b49a79c2-78ba-4862-a5a3-9ed2b7859d62",
     "name": "Dwarven Combat Training",
-    "description": "You are proficient with the battleaxe, handaxe, light hammer, and warhammer."
+    "description": "You are proficient with the battleaxe, handaxe, light hammer, and warhammer.",
+    "links": []
   },
   {
     "id": "2c4d0760-bba8-4d12-bca8-a169b6838277",
     "name": "Dwarven Toughness",
-    "description": "Your hit point maximum increases by 1, and it increases by 1 every time you gain a level."
+    "description": "Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.",
+    "links": []
   },
   {
     "id": "eb534142-7095-4cd5-a044-fbdb9f9cbab4",
     "name": "Clan Artisan",
-    "description": "You gain Apprentice proficiency with the Crafting skill, as well as with the artisan's tools of your choice. If you would already gain Apprentice proficiency in Crafting, you gain the Trained proficiency level instead.\n\nIn addition, You have advantage on any check relating to stonework or any other dwarven craftsmanship."
+    "description": "You gain Apprentice proficiency with the Crafting skill, as well as with the artisan's tools of your choice. If you would already gain Apprentice proficiency in Crafting, you gain the Trained proficiency level instead.\n\nIn addition, You have advantage on any check relating to stonework or any other dwarven craftsmanship.",
+    "links": []
   },
   {
     "id": "b295f687-b393-4c14-a427-12469ce49772",
     "name": "One with the Mountain",
-    "description": "You can cast the spell Meld into Stone once per day as an innate spell.\n\nAccustomed to life under the mountain, you are incapable of (naturally) getting lost while underground. You are capable of retracing your steps or finding your way to the surface.\n\nYou can cast the spell Enlarge once per day as a 2nd-level innate spell. You may only target yourself with this spell."
+    "description": "You can cast the spell Meld into Stone once per day as an innate spell.\n\nAccustomed to life under the mountain, you are incapable of (naturally) getting lost while underground. You are capable of retracing your steps or finding your way to the surface.\n\nYou can cast the spell Enlarge once per day as a 2nd-level innate spell. You may only target yourself with this spell.",
+    "links": []
   },
   {
     "id": "bad20d0d-a2b0-4790-916c-ad147155fd68",
     "name": "Elf Magic",
-    "description": "You know one cantrip of your choice from the Arcane or Primal spell list. If you chose an Arcane spell, Intelligence is your spellcasting modifier for it. If you chose a Primal spell, Wisdom is your spellcasting modifier for it.\n\nYou are proficient in the casting of this spell."
+    "description": "You know one cantrip of your choice from the Arcane or Primal spell list. If you chose an Arcane spell, Intelligence is your spellcasting modifier for it. If you chose a Primal spell, Wisdom is your spellcasting modifier for it.\n\nYou are proficient in the casting of this spell.",
+    "links": []
   },
   {
     "id": "10c611f0-63a1-4fbd-886a-cffa234eb7cb",
     "name": "Elven Weapon Training",
-    "description": "You are proficient with the longsword, shortsword, shortbow, and longbow."
+    "description": "You are proficient with the longsword, shortsword, shortbow, and longbow.",
+    "links": []
   },
   {
     "id": "6373397d-59cf-4631-89dc-719f09567130",
     "name": "Fleet of Foot",
-    "description": "You gain Apprentice proficiency in the Acrobatics skill, and each of your movement speeds increases by 5 feet."
+    "description": "You gain Apprentice proficiency in the Acrobatics skill, and each of your movement speeds increases by 5 feet.",
+    "links": []
   },
   {
     "id": "51ce3b13-bbe0-4ea6-a883-c69bb99161ac",
     "name": "Mask of the Wild",
-    "description": "You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+    "description": "You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.",
+    "links": []
   },
   {
     "id": "460512fc-39d9-4034-bdde-5a10b1655571",
     "name": "Vast Knowledge",
     "description": "You gain the Trained proficiency in a skill of your choice.",
-    "requirements": "Requires age 250+"
+    "requirements": "Requires age 250+",
+    "links": []
   },
   {
     "id": "502ba4bb-9eac-4c94-9d69-dff438fe62ce",
     "name": "Elven Step",
-    "description": "When you Step, you may move up to half your movement speed rather than the standard 5 feet."
+    "description": "When you Step, you may move up to half your movement speed rather than the standard 5 feet.",
+    "links": []
   },
   {
     "id": "cb3f23af-40fb-4786-bba7-61c15d9ebbac",
     "name": "Powerful Build",
-    "description": "You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. The movement penalty for armor and shields is reduced by 5 feet."
+    "description": "You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. The movement penalty for armor and shields is reduced by 5 feet.",
+    "links": []
   },
   {
     "id": "694ff53e-d1a3-4d04-b0c6-51810f392cc2",
     "name": "Fey Magic",
-    "description": "You know one cantrip of your choice from the Primal spell list. Wisdom is your spellcasting Ability for it. You are proficient in the casting of this spell."
+    "description": "You know one cantrip of your choice from the Primal spell list. Wisdom is your spellcasting Ability for it. You are proficient in the casting of this spell.",
+    "links": []
   },
   {
     "id": "ba3d362b-1e83-4c1d-96c6-5d91188f9b09",
     "name": "Speech of Beast and Leaf",
-    "description": "You have the Ability to communicate in a limited manner with beasts and plants. They can understand the meaning of your words, though you have no special Ability to understand them in return. You have advantage on all Charisma checks you make to influence them."
+    "description": "You have the Ability to communicate in a limited manner with beasts and plants. They can understand the meaning of your words, though you have no special Ability to understand them in return. You have advantage on all Charisma checks you make to influence them.",
+    "links": []
   },
   {
     "id": "0315c794-1801-41ed-a446-54f4a2a65278",
     "name": "Longstrider",
-    "description": "Your movement speed increases by 5"
+    "description": "Your movement speed increases by 5",
+    "links": []
   },
   {
     "id": "f1cc93af-1c0c-4d90-96dd-998b697d366c",
     "name": "One with Nature",
-    "description": "You have Trained proficiency in the Nature Skill"
+    "description": "You have Trained proficiency in the Nature Skill",
+    "links": []
   },
   {
     "id": "5ec74fe2-3514-4697-8e22-7988f3ec27de",
     "name": "Read the Leaves",
-    "description": "You have advantage on all survival checks while in forest or woods."
+    "description": "You have advantage on all survival checks while in forest or woods.",
+    "links": []
   },
   {
     "id": "7b0d6d93-9ae1-4e43-bd7c-6c92160b84a5",
     "name": "Natural Illusionist",
-    "description": "You know the Minor Illusion cantrip. Intelligence is your spellcasting modifier for it. You are proficient in its casting."
+    "description": "You know the Minor Illusion cantrip. Intelligence is your spellcasting modifier for it. You are proficient in its casting.",
+    "links": []
   },
   {
     "id": "bdb2a6d0-2e33-40cc-a34c-3e4d153d90bb",
     "name": "Gnomish Obsession",
-    "description": "You gain Apprentice proficiency with one skill of your choice. At 5th level, your proficiency with this skill increases by one level (up to a maximum of Expert)."
+    "description": "You gain Apprentice proficiency with one skill of your choice. At 5th level, your proficiency with this skill increases by one level (up to a maximum of Expert).",
+    "links": []
   },
   {
     "id": "4a835b74-c6e3-4e02-b45d-da75ad7fa1ba",
     "name": "Speak with Small Beasts",
-    "description": "Through sound and gestures, you may communicate simple ideas with small or smaller beasts."
+    "description": "Through sound and gestures, you may communicate simple ideas with small or smaller beasts.",
+    "links": []
   },
   {
     "id": "42c047f9-3c92-4b97-af9a-5cfd5476ed17",
     "name": "Artificer's Lore",
-    "description": "Whenever you make a History check related to magical, alchemical, or technological items, you can do so with advantage. You have Apprentice proficiency in the Lore / History skill."
+    "description": "Whenever you make a History check related to magical, alchemical, or technological items, you can do so with advantage. You have Apprentice proficiency in the Lore / History skill.",
+    "links": []
   },
   {
     "id": "4388b01c-2676-426d-b9d0-7ec6e16ced3c",
     "name": "Nimble",
-    "description": "You can move through the space of any creature that is of a size larger than yours."
+    "description": "You can move through the space of any creature that is of a size larger than yours.",
+    "links": []
   },
   {
     "id": "bebe8623-daa3-4c73-a4da-b4472591b1da",
     "name": "Gnomish Tinkering",
-    "description": "You have Apprentice proficiency in crafting. You can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp).\n\nThe device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.\n\nThese devices can be used to create a number of effects. The Prestidigitation cantrip is a good baseline for such effects, though your DM has the final ruling"
+    "description": "You have Apprentice proficiency in crafting. You can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp).\n\nThe device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.\n\nThese devices can be used to create a number of effects. The Prestidigitation cantrip is a good baseline for such effects, though your DM has the final ruling",
+    "links": []
   },
   {
     "id": "fe100122-8ecb-4acb-9411-614339a9f1b1",
     "name": "Goblin Thievery",
-    "description": "You gain Apprentice proficiency in thievery and stealth."
+    "description": "You gain Apprentice proficiency in thievery and stealth.",
+    "links": []
   },
   {
     "id": "e770f08f-caac-448d-a457-865e019e0c62",
     "name": "Rough Rider",
-    "description": "You can successfully mount and command medium sized animals that would otherwise not be trainable as mounts (dogs, wolves, goats, giant badgers, etc...)."
+    "description": "You can successfully mount and command medium sized animals that would otherwise not be trainable as mounts (dogs, wolves, goats, giant badgers, etc...).",
+    "links": []
   },
   {
     "id": "18798f86-8bff-4351-b382-1ea1eaa82fbf",
     "name": "Very Sneaky",
-    "description": "You suffer no movement penalty while attempting to sneak."
+    "description": "You suffer no movement penalty while attempting to sneak.",
+    "links": []
   },
   {
     "id": "39ae6fe0-7e27-41ad-ada2-791d249d4653",
     "name": "Fury of the Small",
-    "description": "When you damage a creature with an attack or spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level.\n\nOnce you use this trait, you can't use it again until after your next rest."
+    "description": "When you damage a creature with an attack or spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level.\n\nOnce you use this trait, you can't use it again until after your next rest.",
+    "links": []
   },
   {
     "id": "e20ce6b0-8de0-4665-8059-a4ddb4bc6411",
     "name": "Goblin Scuttle",
-    "description": "You gain the following reaction: When an ally ends a move adjacent to you, you can immediately use the disengage action."
+    "description": "You gain the following reaction: When an ally ends a move adjacent to you, you can immediately use the disengage action.",
+    "links": []
   },
   {
     "id": "87cf4eb0-9964-4a55-8b56-88ac88b4a1ae",
     "name": "Lucky",
     "description": "When you roll a 1 on an attack roll, Ability check, or saving throw, you can reroll the die. You must use the new result, even if it is a 1.",
-    "requirements": ""
+    "requirements": "",
+    "links": []
   },
   {
     "id": "a72c581c-ae51-44f0-b0c1-f7154d7e7351",
     "name": "Halfling Charm",
     "description": "You have Apprentice proficiency with the Persuasion skill, and can give yourself advantage on a persuasion ability check with a member of a non-halfling race once per day.",
-    "requirements": ""
+    "requirements": "",
+    "links": []
   },
   {
     "id": "87ea85a4-c35f-4e6a-9512-57dee6916f81",
     "name": "Sticky Fingers",
     "description": "You have Trained proficiency in Thievery.",
-    "requirements": ""
+    "requirements": "",
+    "links": []
   },
   {
     "id": "e618baf6-c030-4438-9472-30ea85bf8654",
     "name": "Sure Footed",
     "description": "You gain a climbing speed of 10 feet",
-    "requirements": ""
+    "requirements": "",
+    "links": []
   },
   {
     "id": "d7334232-6001-445a-9397-39cbe3f08e71",
     "name": "Keen Senses",
-    "description": "You have advanced hearing and smell, and have advantage on perception checks relating those senses."
+    "description": "You have advanced hearing and smell, and have advantage on perception checks relating those senses.",
+    "links": []
   },
   {
     "id": "14127026-addb-4926-b75b-5964215d52d0",
     "name": "Breath Weapon",
-    "description": "You can use an action to exhale destructive energy. When you use your breath weapon, all creatures in the target area must make a saving throw, the type and shape of which is determined by your ancestry.\n\nThe DC of this saving throw is 9 + your Constitution modifier + your level. A creature takes 2d6 + your Constitution modifier damage on a failed save, and half as much damage on a successful one. The damage type is determined by your ancestry.\n\nThe damage increases to 3d6 at 3rd level, 4d6 at 5th, and 5d6 at 10th level.\n\nYou may use your breath weapon once per day."
+    "description": "You can use an action to exhale destructive energy. When you use your breath weapon, all creatures in the target area must make a saving throw, the type and shape of which is determined by your ancestry.\n\nThe DC of this saving throw is 9 + your Constitution modifier + your level. A creature takes 2d6 + your Constitution modifier damage on a failed save, and half as much damage on a successful one. The damage type is determined by your ancestry.\n\nThe damage increases to 3d6 at 3rd level, 4d6 at 5th, and 5d6 at 10th level.\n\nYou may use your breath weapon once per day.",
+    "links": []
   },
   {
     "id": "8028628b-368c-480f-b535-9b1c38f397c1",
     "name": "Hardened Scales",
-    "description": "Your scales provide you with a natural suit of armor. Your scales provide a Defense bonus of +3, with no Dexterity cap, and an Armor value of 1."
+    "description": "Your scales provide you with a natural suit of armor. Your scales provide a Defense bonus of +3, with no Dexterity cap, and an Armor value of 1.",
+    "links": []
   },
   {
     "id": "73540d5a-4c9b-46af-83f9-161a8ef4089b",
     "name": "Draconic Claws",
-    "description": "You grow retractable claws from the tips of your fingers. Extending or retracting the claws requires no action. The claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d6 + your Strength modifier, instead of the normal bludgeoning damage for an unarmed strike."
+    "description": "You grow retractable claws from the tips of your fingers. Extending or retracting the claws requires no action. The claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d6 + your Strength modifier, instead of the normal bludgeoning damage for an unarmed strike.",
+    "links": []
   },
   {
     "id": "329f7d26-279e-4e2d-b4cb-d66fba8eb877",
     "name": "Iron Jaws",
-    "description": "You can use your action to make a visceral bite attack with your draconic maw. This attack does damage equal to 1d6 + your Strength modifier, and provides you with a number of temporary hit points equal to the damage dealt with this attack.\n\nYou are proficient with this attack, but can only gain its benefits once per day."
+    "description": "You can use your action to make a visceral bite attack with your draconic maw. This attack does damage equal to 1d6 + your Strength modifier, and provides you with a number of temporary hit points equal to the damage dealt with this attack.\n\nYou are proficient with this attack, but can only gain its benefits once per day.",
+    "links": []
   },
   {
     "id": "8445e159-2823-4a36-b51e-7b0134b2360d",
     "name": "Imposing Predator",
-    "description": "You gain Apprentice proficiency in the intimidation skill, and have advantage on all saving throws against becoming frightened."
+    "description": "You gain Apprentice proficiency in the intimidation skill, and have advantage on all saving throws against becoming frightened.",
+    "links": []
   },
   {
     "id": "02db3b63-064d-4ec1-8ab5-a4169adbdcca",
     "name": "Survivalist",
-    "description": "You gain Trained proficiency in the survival skill."
+    "description": "You gain Trained proficiency in the survival skill.",
+    "links": []
   },
   {
     "id": "575c45cb-253c-4340-9745-782982d22e67",
     "name": "Stone's Endurance",
-    "description": "You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage received by that total. You can use this ability once per day."
+    "description": "You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage received by that total. You can use this ability once per day.",
+    "links": []
   },
   {
     "id": "1dffc3b9-f32c-44a8-b3c2-e5ee84f72c37",
     "name": "Survival of the Fittest",
-    "description": "You gain Trained proficiency in the Athletics skill."
+    "description": "You gain Trained proficiency in the Athletics skill.",
+    "links": []
   },
   {
     "id": "17ae2555-cbd5-4f6b-9405-806f8c5ce758",
     "name": "Deadly Velocity",
-    "description": "When you make an attack with a thrown weapon, that weapon's range increments are doubled."
+    "description": "When you make an attack with a thrown weapon, that weapon's range increments are doubled.",
+    "links": []
   },
   {
     "id": "ffa51372-aa83-4f5e-a474-584a0462516b",
     "name": "Towering Presence",
-    "description": "You gain Apprentice proficiency in the Intimidation skill, and have advantage on saving throws against being frightened."
+    "description": "You gain Apprentice proficiency in the Intimidation skill, and have advantage on saving throws against being frightened.",
+    "links": []
   },
   {
     "id": "40e59f31-13c0-46ce-a54b-2a1df2d4d1f5",
     "name": "Wild Companion",
-    "description": "You have a familiar, which is a fey spirit bound to you in the wilds during your youth. This familiar takes whatever form you choose, but usual forms typically possess a fly speed.\n\nThis familiar behaves as though summoned by the find familiar spell (with the following changes) and you can cast Find Familiar (without expending any spell charges or material components) only to resummon this familiar.\n\nYour familiar is always of the type: fey, your familiar is incapable of changing its physical form even when resummoned, and your familiar is incapable of taking any actions in combat."
+    "description": "You have a familiar, which is a fey spirit bound to you in the wilds during your youth. This familiar takes whatever form you choose, but usual forms typically possess a fly speed.\n\nThis familiar behaves as though summoned by the find familiar spell (with the following changes) and you can cast Find Familiar (without expending any spell charges or material components) only to resummon this familiar.\n\nYour familiar is always of the type: fey, your familiar is incapable of changing its physical form even when resummoned, and your familiar is incapable of taking any actions in combat.",
+    "links": []
   },
   {
     "id": "5f61a107-3631-48ae-a1a6-871d03ae287e",
     "name": "Brave",
-    "description": "You have advantage on saving throws against being frightened."
+    "description": "You have advantage on saving throws against being frightened.",
+    "links": []
   },
   {
     "id": "a0e71851-aa8a-479e-be42-fdf7fbccf063",
     "name": "Martial Culture",
-    "description": "You gain Trained proficiency in the Athletics skill."
+    "description": "You gain Trained proficiency in the Athletics skill.",
+    "links": []
   },
   {
     "id": "93618fc6-1363-468a-8743-2c48cfae44a3",
     "name": "Saving Face",
-    "description": "If you miss an attack roll or fail an ability check or saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet (max +5). You can use this ability once per day."
+    "description": "If you miss an attack roll or fail an ability check or saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet (max +5). You can use this ability once per day.",
+    "links": []
   },
   {
     "id": "d898c62c-fd22-4fa6-99a6-47d9bdbe0957",
     "name": "Hobgoblin Combat Training",
-    "description": "You are proficient with all weapons."
+    "description": "You are proficient with all weapons.",
+    "links": []
   },
   {
     "id": "ffefac9f-f6f9-4ccd-a881-4cf5599da8a0",
     "name": "Formation Training",
-    "description": "You gain the following reaction: If you are the target of an attack while next to an ally, you can give yourself a +1 bonus to your defense against that attack."
+    "description": "You gain the following reaction: If you are the target of an attack while next to an ally, you can give yourself a +1 bonus to your defense against that attack.",
+    "links": []
   },
   {
     "id": "d9eb7ef7-80e1-4fa4-868e-9592fa505f2d",
     "name": "Practiced",
-    "description": "You gain one skill increase to a skill of your choosing"
+    "description": "You gain one skill increase to a skill of your choosing",
+    "links": []
   },
   {
     "id": "ad52ba56-c9e2-478d-a7a9-ee97c75d10df",
     "name": "Martialist",
-    "description": "You gain proficiency with simple weapons. If you already have proficiency with simple weapons, you gain proficiency with martial weapons."
+    "description": "You gain proficiency with simple weapons. If you already have proficiency with simple weapons, you gain proficiency with martial weapons.",
+    "links": []
   },
   {
     "id": "208ddae9-8c92-44d2-8c6e-0a0bad6b4e5d",
     "name": "Human Determination",
-    "description": "When you roll a 1 on an attack roll, Ability check, or saving throw, you can reroll the die. You must use the new result, even if it is a 1."
+    "description": "When you roll a 1 on an attack roll, Ability check, or saving throw, you can reroll the die. You must use the new result, even if it is a 1.",
+    "links": []
   },
   {
     "id": "9428bc8e-ce99-448a-a0fc-71b5da94981f",
     "name": "Knack",
-    "description": "When you attempt a skill check for a skill that you are untrained in, you may treat the roll as if you had Apprentice proficiency in that skill."
+    "description": "When you attempt a skill check for a skill that you are untrained in, you may treat the roll as if you had Apprentice proficiency in that skill.",
+    "links": []
   },
   {
     "id": "86143685-0155-4947-a7c0-9070eb33e0fa",
     "name": "Mage's Apprentice",
-    "description": "You learn a cantrip of your choice from a spell list of your choice. Your casting ability for this spell is Intelligence for Arcane Spells, and Wisdom for Divine and Primal Spells. You are proficient in this spell."
+    "description": "You learn a cantrip of your choice from a spell list of your choice. Your casting ability for this spell is Intelligence for Arcane Spells, and Wisdom for Divine and Primal Spells. You are proficient in this spell.",
+    "links": []
   },
   {
     "id": "58d1e361-e3fc-444b-bb00-6acb44bc303f",
     "name": "Human Adaptability",
-    "description": "You gain a 10 foot climbing or swimming speed, or increase one of those two movement speeds by 10 feet."
+    "description": "You gain a 10 foot climbing or swimming speed, or increase one of those two movement speeds by 10 feet.",
+    "links": []
   },
   {
     "id": "0c808b63-4920-4436-9533-038029b2fd4e",
     "name": "Skillful Deceiver",
     "description": "You gain Apprentice proficiency in Deception and Stealth.",
-    "requirements": "Changeling Subrace"
+    "requirements": "Changeling Subrace",
+    "links": []
   },
   {
     "id": "45a7928f-7f7e-450f-8d36-805f8d1ed688",
     "name": "Mind Link",
     "description": "You can speak telepathically to any creature you can see within a number of feet equal to 10 * your level. You don't need to share a language for the creature to understand you, but the creature must be able to understand at least one language.\n\nWhen you're using this trait to speak with a creature telepathically, you may use your action to allow the creature to speak back to you telepathically. Once allowed, this effect lasts for one hour or until you use another action to end the link. The creature may only speak back as long as they are within the traits range and can see you.\n\nOpening a link to another creature severs the link with the original creature",
-    "requirements": "Telepath Subrace"
+    "requirements": "Telepath Subrace",
+    "links": []
   },
   {
     "id": "ee345b2b-ce17-44d8-994b-36d5de9df4e9",
     "name": "Severed from Dreams",
     "description": "You are immune to spells and other magical effects that would cause you to dream, and as a byproduct are immune to non-magical effects that would put you to sleep.",
-    "requirements": "Telepath Subrace"
+    "requirements": "Telepath Subrace",
+    "links": []
   },
   {
     "id": "ff1db454-345c-4a87-a64f-a54c4dab1b90",
     "name": "Adaptive Skin",
-    "description": "The pigment and patterning of your scales constantly adjust to match your surroundings. In areas that your skin has had time to match to the area (1 hour), you have advantage on stealth checks while remaining still."
+    "description": "The pigment and patterning of your scales constantly adjust to match your surroundings. In areas that your skin has had time to match to the area (1 hour), you have advantage on stealth checks while remaining still.",
+    "links": []
   },
   {
     "id": "3c3467c0-d2e2-4fc4-9b34-b860b272af4e",
     "name": "Cunning Artisan",
-    "description": "As part of a short rest, you can harvest bone and hide from a slain beast, construct, dragon, monstrosity, or plant creature of size Small or larger to create one of the following items: a shield, a club, a javelin, or 1d4 darts or blowgun needles.\n\nTo use this trait, you need a blade, such as a dagger, or appropriate artisan's tools, such as leatherworker's tools."
+    "description": "As part of a short rest, you can harvest bone and hide from a slain beast, construct, dragon, monstrosity, or plant creature of size Small or larger to create one of the following items: a shield, a club, a javelin, or 1d4 darts or blowgun needles.\n\nTo use this trait, you need a blade, such as a dagger, or appropriate artisan's tools, such as leatherworker's tools.",
+    "links": []
   },
   {
     "id": "9e01f4dd-6ae6-44ad-a3dc-b0831a15d4e0",
     "name": "Hunter's Talent",
-    "description": "You gain the Apprentice proficiency level in two of the following skills of your choice: Nature, Perception, Stealth, and Survival."
+    "description": "You gain the Apprentice proficiency level in two of the following skills of your choice: Nature, Perception, Stealth, and Survival.",
+    "links": []
   },
   {
     "id": "dfcfc9fa-2919-4978-a4b6-662318521491",
     "name": "Hungry Jaws",
-    "description": "In battle, you can throw yourself into a vicious feeding frenzy, chomping down on your foes. This bite attack does damage equal to 1d6 + your Strength modifier, and provides you with a number of temporary hit points equal to the damage dealt with this attack.\n\nYou are proficient in this attack, but can only gain its additional benefits once per day."
+    "description": "In battle, you can throw yourself into a vicious feeding frenzy, chomping down on your foes. This bite attack does damage equal to 1d6 + your Strength modifier, and provides you with a number of temporary hit points equal to the damage dealt with this attack.\n\nYou are proficient in this attack, but can only gain its additional benefits once per day.",
+    "links": []
   },
   {
     "id": "136907a1-8d65-4f10-b35b-c81c24538789",
     "name": "Reptilian Healing",
-    "description": "You heal far faster than other races. Whenever you recover hit points at the end of a rest, you regain additional hit points equal to your level."
+    "description": "You heal far faster than other races. Whenever you recover hit points at the end of a rest, you regain additional hit points equal to your level.",
+    "links": []
   },
   {
     "id": "4551169f-10e8-47ab-846a-79d4a967b6fc",
     "name": "Skilled Hunter",
-    "description": "You have apprentice level proficiency in stealth and survival."
+    "description": "You have apprentice level proficiency in stealth and survival.",
+    "links": []
   },
   {
     "id": "9797cb3a-d83d-4013-923f-c51f9ca6f772",
     "name": "Emissary of the Sea",
-    "description": "Aquatic beasts have an extraordinary affinity with your people. You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return."
+    "description": "Aquatic beasts have an extraordinary affinity with your people. You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return.",
+    "links": []
   },
   {
     "id": "0b99cc62-57bb-4290-ba98-6c0cf5203473",
     "name": "Primordialist",
-    "description": "You learn a cantrip of your choice from the Primal spell list. Constitution is your casting modifier for this cantrip.\n\nYou are proficient in the casting of this spell"
+    "description": "You learn a cantrip of your choice from the Primal spell list. Constitution is your casting modifier for this cantrip.\n\nYou are proficient in the casting of this spell",
+    "links": []
   },
   {
     "id": "f8609f52-c0c3-4320-a77b-ae34195ad21d",
     "name": "Royal Outsider",
-    "description": "Despite being outsiders to common culture, Triton's carry an air of nobility and societal familiarity with them from the depths. You gain Apprentice proficiency in the Persuasion and Society skills."
+    "description": "Despite being outsiders to common culture, Triton's carry an air of nobility and societal familiarity with them from the depths. You gain Apprentice proficiency in the Persuasion and Society skills.",
+    "links": []
   },
   {
     "id": "45a73330-1a49-47c4-b0a3-c140521b787e",
     "name": "Swift",
-    "description": "Your land and swim speeds each increase by 5 feet"
+    "description": "Your land and swim speeds each increase by 5 feet",
+    "links": []
   },
   {
     "id": "81623e35-a13c-41ae-a4ff-5e64ccab0971",
     "name": "Undauntable Personality",
-    "description": "When you fail a Will saving throw, you can use your reaction to reroll the save and keep the new result. You can use this ability once per day."
+    "description": "When you fail a Will saving throw, you can use your reaction to reroll the save and keep the new result. You can use this ability once per day.",
+    "links": []
   },
   {
     "id": "668e34c8-5970-4b8b-a315-530debe25f50",
     "name": "Aggressive",
-    "description": "You gain the following reaction: When an enemy ends their movement within sight range, you can move up to your speed towards them."
+    "description": "You gain the following reaction: When an enemy ends their movement within sight range, you can move up to your speed towards them.",
+    "links": []
   },
   {
     "id": "bb667368-3a40-4010-b3e2-819af7a6fa6c",
     "name": "Fearsome Prowess",
-    "description": "You gain the Trained proficiency level in the Athletics or Intimidation skill."
+    "description": "You gain the Trained proficiency level in the Athletics or Intimidation skill.",
+    "links": []
   },
   {
     "id": "59d1d564-d2c7-4f44-868b-921d49c9be3c",
     "name": "Savage Attacks",
-    "description": "When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit."
+    "description": "When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.",
+    "links": []
   },
   {
     "id": "00dffce5-878c-43d8-96e0-998dcfcbfc76",
     "name": "Relentless Endurance",
-    "description": "When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can use this ability once per day."
+    "description": "When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can use this ability once per day.",
+    "links": []
   },
   {
     "id": "f9cdeda1-6b4d-4818-8c48-968a96f4b86f",
     "name": "Overlooked Brute",
-    "description": "You gain the Apprentice proficiency level in Deception, and have advantage on deception checks to make yourself appear less intelligent than you are."
+    "description": "You gain the Apprentice proficiency level in Deception, and have advantage on deception checks to make yourself appear less intelligent than you are.",
+    "links": []
   },
   {
     "id": "f189d504-4b32-4b93-937c-3dcbac338518",
     "name": "Integrated Armor",
-    "description": "You gain a permanent +1 bonus to both Defense and Armor. You can rest normally no matter the style of armor you are wearing, and no longer need to remove your armor for any reason."
+    "description": "You gain a permanent +1 bonus to both Defense and Armor. You can rest normally no matter the style of armor you are wearing, and no longer need to remove your armor for any reason.",
+    "links": []
   },
   {
     "id": "aec88849-dc76-47e6-8093-3c07b9a7b517",
     "name": "Swift Stride",
-    "description": "Your movement speed increases by 10 feet."
+    "description": "Your movement speed increases by 10 feet.",
+    "links": []
   },
   {
     "id": "52a8c699-425e-4f3f-b4c3-fc441543eec9",
     "name": "Sentry's Rest",
-    "description": "You do not lose consciousness when you rest, and can instead remain motionless and alert for 6 hours to gain the benefits of a full night's rest."
+    "description": "You do not lose consciousness when you rest, and can instead remain motionless and alert for 6 hours to gain the benefits of a full night's rest.",
+    "links": []
   },
   {
     "id": "43ee23e7-7491-4813-b2f6-4599a6143586",
     "name": "Iron Fists",
-    "description": "Your iron fists hit just as hard as any weapon. Your unarmed attacks do 1d6 + your strength modifier bludgeoning damage. You are proficient in these attacks."
+    "description": "Your iron fists hit just as hard as any weapon. Your unarmed attacks do 1d6 + your strength modifier bludgeoning damage. You are proficient in these attacks.",
+    "links": []
   },
   {
     "id": "d66d9839-f80b-4bdd-b2f5-7a114ddb2773",
     "name": "Specialized Design",
-    "description": "You gain apprentice proficiency in a skill of your choice."
+    "description": "You gain apprentice proficiency in a skill of your choice.",
+    "links": []
   },
   {
     "id": "ac29c38e-b239-40d1-91a7-25cb3b9a40fb",
     "name": "Bestial Nature",
-    "description": "You gain the Trained proficiency level in the Athletics, Intimidation, Acrobatics, or Survival skill."
+    "description": "You gain the Trained proficiency level in the Athletics, Intimidation, Acrobatics, or Survival skill.",
+    "links": []
   },
   {
     "id": "23fda4ec-3c00-4105-80e3-ffbdaa6b4152",
     "name": "Animal Endurance",
-    "description": "When you fail a fortitude save, you can use your reaction to reroll the save and keep the new result. You can use this ability once per shift, and only while shifted."
+    "description": "When you fail a fortitude save, you can use your reaction to reroll the save and keep the new result. You can use this ability once per shift, and only while shifted.",
+    "links": []
   },
   {
     "id": "40b2f0cb-4b64-4a08-b058-5cef33d4015e",
     "name": "Persistent Adaptation",
-    "description": "You gain a climbing or swimming speed of 10 feet."
+    "description": "You gain a climbing or swimming speed of 10 feet.",
+    "links": []
   },
   {
     "id": "283ec76b-a428-407d-945a-ec695908cd94",
     "name": "Skillful Tail",
-    "description": "Your tail is capable of performing simple interactions, like opening an unlocked door. Your tail is incapable of any task that requires fingers or significant manual dexterity, but can be used to hold simple objects."
+    "description": "Your tail is capable of performing simple interactions, like opening an unlocked door. Your tail is incapable of any task that requires fingers or significant manual dexterity, but can be used to hold simple objects.",
+    "links": []
   },
   {
     "id": "6ffea426-dc6e-440a-bc8d-198249d9320f",
     "name": "Silver-tongued",
-    "description": "You gain the Trained proficiency level in deception."
+    "description": "You gain the Trained proficiency level in deception.",
+    "links": []
   },
   {
     "id": "6219ec48-af7d-48ec-97bb-3cf944b7f829",
     "name": "Cloven Hoof",
-    "description": "Your move speed increases by 5 feet."
+    "description": "Your move speed increases by 5 feet.",
+    "links": []
   },
   {
     "id": "f2900bf4-b410-4c3f-b6f0-a3207db803a1",
     "name": "Fiend's Door",
-    "description": "Once per day you can cast the spell Misty Step without expending a spell charge or using any material components.\n\nAdditionally, you don't need to be able to see your destination in order to teleport there. Even if you have additional spell charges, you cannot cast this spell this way using another spellcasting feature."
+    "description": "Once per day you can cast the spell Misty Step without expending a spell charge or using any material components.\n\nAdditionally, you don't need to be able to see your destination in order to teleport there. Even if you have additional spell charges, you cannot cast this spell this way using another spellcasting feature.",
+    "links": []
   },
   {
     "id": "bce3af7c-58fe-403d-ae12-b609b52e80a1",
     "name": "Resist in Kind",
-    "description": "You gain advantage on all Will saving throws against magical effects cast or caused by Fiendish enemies."
+    "description": "You gain advantage on all Will saving throws against magical effects cast or caused by Fiendish enemies.",
+    "links": []
   },
   {
     "id": "2a47d820-75a2-44a3-ae3b-ed646d623685",
     "name": "Infernal Ally",
-    "description": "You gain a familiar ally bound to you through the chaos in your blood. This familiar takes whatever form you choose.\n\nThis familiar behaves as though summoned by the find familiar spell (with the following changes) and you can cast Find Familiar (without expending any spell charges or material components) only to resummon this familiar.\n\nYour familiar is always of the type: Fiend, your familiar is incapable of changing its physical form even when resummoned, and your familiar is incapable of taking any actions in combat"
+    "description": "You gain a familiar ally bound to you through the chaos in your blood. This familiar takes whatever form you choose.\n\nThis familiar behaves as though summoned by the find familiar spell (with the following changes) and you can cast Find Familiar (without expending any spell charges or material components) only to resummon this familiar.\n\nYour familiar is always of the type: Fiend, your familiar is incapable of changing its physical form even when resummoned, and your familiar is incapable of taking any actions in combat",
+    "links": []
   }
 ]

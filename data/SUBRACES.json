@@ -5,7 +5,8 @@
     "description": "You can use two actions to unleash the divine energy within yourself, causing your eyes to glimmer and two luminous, incorporeal wings to sprout from your back.\n\nYour transformation lasts for 1 minute or until you end it as an action. During it, you have a flying speed of 20 feet.\n\nOn each of your turns,you can mark one of your allies with a glowing aura. Whenever they are struck by an enemy attack or spell that enemy takes Light damage equal to your level.\n\nYou can use this trait once per day",
     "requirements": "",
     "penalty": "",
-    "raceID": "ae0a5e84-5b3a-4dd6-b0e8-2efc382b6151"
+    "raceID": "ae0a5e84-5b3a-4dd6-b0e8-2efc382b6151",
+    "links": []
   },
   {
     "id": "769d8c9f-4ddb-4bf1-95f1-e45f7828285a",
@@ -13,7 +14,8 @@
     "description": "You can use two actions to unleash the divine energy within yourself, causing a searing light to radiate from you, pour out of your eyes and mouth, and threaten to char you.\n\nYour transformation lasts for 1 minute or until you end it as an action. During it, you shed bright light in a 10-foot radius and dim light for an additional 10 feet.\n\nAt the end of each of your turns, you and each creature within 10 feet of you take Light damage equal to your level.\n\nAdditionally, On each of your turns, you can deal extra Light damage to one target when you deal damage to it with an attack or a spell. The extra Light damage equals your level.\n\nYou can use this trait once per day",
     "requirements": "",
     "penalty": "",
-    "raceID": "ae0a5e84-5b3a-4dd6-b0e8-2efc382b6151"
+    "raceID": "ae0a5e84-5b3a-4dd6-b0e8-2efc382b6151",
+    "links": []
   },
   {
     "id": "ec351fac-f2de-4163-a2c7-b72a0029b02e",
@@ -21,7 +23,8 @@
     "description": "You can use two actions to unleash the divine energy within yourself, causing your eyes to turn into pools of darkness and two skeletal, ghostly, flightless wings to sprout from your back.\n\nThe instant you transform, other creatures within 10 feet of you that can see you must each succeed on a Will saving throw (DC 9 + your level + your Charisma modifier) or become frightened of you until the end of your next turn.\n\nYour transformation lasts for 1 minute or until you end it as an action. During it, once on each of your turns, you can deal extra Dark damage to one target when you deal damage to it with an attack or a spell. The extra Dark damage equals your level.\n\nYou can use this trait once per day",
     "requirements": "",
     "penalty": "",
-    "raceID": "ae0a5e84-5b3a-4dd6-b0e8-2efc382b6151"
+    "raceID": "ae0a5e84-5b3a-4dd6-b0e8-2efc382b6151",
+    "links": []
   },
   {
     "id": "58401e45-1b4b-4bc5-ac2a-de02ee9b1ed5",
@@ -29,7 +32,8 @@
     "description": "Your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can't use it again until you move 0 feet on one of your turns.\n\nYour move speed increases by 5 feet.",
     "requirements": "",
     "penalty": "",
-    "raceID": "eb34666f-fc1c-498d-9e1c-44ef024a0cd1"
+    "raceID": "eb34666f-fc1c-498d-9e1c-44ef024a0cd1",
+    "links": []
   },
   {
     "id": "32c7e775-7b8d-457b-88f0-bce2eb4d110f",
@@ -37,7 +41,8 @@
     "description": "You gain the Trained proficiency level in the stealth skill.\n\nYou have a climbing speed of 15 feet.",
     "requirements": "",
     "penalty": "",
-    "raceID": "eb34666f-fc1c-498d-9e1c-44ef024a0cd1"
+    "raceID": "eb34666f-fc1c-498d-9e1c-44ef024a0cd1",
+    "links": []
   },
   {
     "id": "3be0789a-c014-48af-ab32-9796d7c5fddd",
@@ -45,7 +50,8 @@
     "description": "You have advantage on all ability checks against being frightened.\n\nYou gain the following ability: As an action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Will saving throw or become frightened of you until the end of your next turn.\n\nThe DC of the save equals 9 + your level + your Constitution modifier.\n\nOnce you use this trait, you can’t use it again until you finish a rest.",
     "requirements": "",
     "penalty": "",
-    "raceID": "eb34666f-fc1c-498d-9e1c-44ef024a0cd1"
+    "raceID": "eb34666f-fc1c-498d-9e1c-44ef024a0cd1",
+    "links": []
   },
   {
     "id": "b0833cb9-a570-4839-b1ca-bb20f8f85cbd",
@@ -53,7 +59,8 @@
     "description": "You have resistance to Thunder damage, and can hold your breath indefinitely while not incapacitated.\n\nAdvanced Movement (if selected): Fly speed 10 feet\n\nDjinn Spellcasting (if selected): You know the Lightning Lash and Gust cantrips. You know the spell Thunderwave and can cast it once per day as a 1st-level innate spell.\n\nAdvanced Spells (if selected): At 3rd level, you learn the spell Shatter and Levitate, and can cast them each once per day as a 2nd-level innate spell.",
     "requirements": "",
     "penalty": "",
-    "raceID": "faf81cac-c9c1-4371-b5a8-767c00178e93"
+    "raceID": "faf81cac-c9c1-4371-b5a8-767c00178e93",
+    "links": []
   },
   {
     "id": "d7a29036-6bbf-4960-9a68-375f79ce98d3",
@@ -61,7 +68,8 @@
     "description": "You have resistance to Poison damage, and advantage on all saving throws against being poisoned.\n\nAdvanced Movement (if selected): Burrow speed 10 feet\n\nDjinn Spellcasting (if selected): You know the Druidcraft and Primal Savagery cantrips. You know the spell Catapult and can cast it once per day as a 1st-level innate spell.\n\nAdvanced Spells (if selected): At 3rd level, you learn the spell Earthen Grasp and Barkskin, and can cast each of them once per day as a 2nd-level innate spell.",
     "requirements": "",
     "penalty": "",
-    "raceID": "faf81cac-c9c1-4371-b5a8-767c00178e93"
+    "raceID": "faf81cac-c9c1-4371-b5a8-767c00178e93",
+    "links": []
   },
   {
     "id": "50e401a0-3c20-438e-8ed2-3bd67bd556f1",
@@ -69,7 +77,8 @@
     "description": "You have resistance to Fire damage\n\nAdvanced Movement (if selected): Movement speed increases by 10 feet\n\nDjinn Spellcasting (if selected): You know the Produce Flame cantrip. You know the spell Burning Hands and can cast it once per day as a 1st-level innate spell.\n\nAdvanced Spells (if selected): At 3rd level, you learn the spell Flaming Sphere and Flame Blade, and can cast each of them once per day as a 2nd-level innate spell.",
     "requirements": "",
     "penalty": "",
-    "raceID": "faf81cac-c9c1-4371-b5a8-767c00178e93"
+    "raceID": "faf81cac-c9c1-4371-b5a8-767c00178e93",
+    "links": []
   },
   {
     "id": "3deda722-dd52-4789-bd5c-7785a6ab4815",
@@ -77,7 +86,8 @@
     "description": "You have resistance to Cold damage, and can breathe both air and water.\n\nAdvanced Movement (if selected): Swimming speed 10 feet\n\nDjinn Spellcasting (if selected): You know the Acid Splash and Shape water cantrips. You know the spell Ice Knife and can cast it once per day as a 1st-level innate spell.\n\nAdvanced Spells (if selected): At 3rd level, you learn the spell Acid Arrow and Snowball Swarm, and can cast each of them once per day as a 2nd-level innate spell.",
     "requirements": "",
     "penalty": "",
-    "raceID": "faf81cac-c9c1-4371-b5a8-767c00178e93"
+    "raceID": "faf81cac-c9c1-4371-b5a8-767c00178e93",
+    "links": []
   },
   {
     "id": "32fc0a82-75a5-4fb1-8fac-c020b5ad705b",
@@ -85,7 +95,8 @@
     "description": "You are resistant to Fire damage, and have Apprentice proficiency in Crafting",
     "requirements": "",
     "penalty": "",
-    "raceID": "db207097-a108-4be7-b16c-639c409d870d"
+    "raceID": "db207097-a108-4be7-b16c-639c409d870d",
+    "links": []
   },
   {
     "id": "33ddc1b6-8691-4699-a6d5-b0e18ca3f6a4",
@@ -93,7 +104,8 @@
     "description": "You have advantage on all Will saves against magical effects",
     "requirements": "",
     "penalty": "",
-    "raceID": "db207097-a108-4be7-b16c-639c409d870d"
+    "raceID": "db207097-a108-4be7-b16c-639c409d870d",
+    "links": []
   },
   {
     "id": "43298e98-ebb4-4d48-b0b2-19ea0220321b",
@@ -101,7 +113,8 @@
     "description": "You have advantage on athletics checks against being grappled, shoved, or knocked prone. Your fists are as if made of stone. Your unarmed attacks do 1d6 + your strength modifier bludgeoning damage.\n\nYou are proficient with unarmed attacks.",
     "requirements": "",
     "penalty": "",
-    "raceID": "db207097-a108-4be7-b16c-639c409d870d"
+    "raceID": "db207097-a108-4be7-b16c-639c409d870d",
+    "links": []
   },
   {
     "id": "5f1cf15b-9931-48a6-a570-1958877be79b",
@@ -109,7 +122,8 @@
     "description": "You are resistant to Poison damage, and have advantage on all saves against poison.\n\nAdditionally whenever you gain hit points at the end of a rest, you can gain additional hit points equal to your level.",
     "requirements": "",
     "penalty": "",
-    "raceID": "db207097-a108-4be7-b16c-639c409d870d"
+    "raceID": "db207097-a108-4be7-b16c-639c409d870d",
+    "links": []
   },
   {
     "id": "43ed9834-ec55-4d40-8817-d1e9b11a1bde",
@@ -117,7 +131,8 @@
     "description": "You are resistant to Cold damage.\n\nYou have a swim speed of 15 feet and can breathe both air and water.",
     "requirements": "",
     "penalty": "",
-    "raceID": "34e7dbd5-0597-4a0c-91fa-99989871fc4c"
+    "raceID": "34e7dbd5-0597-4a0c-91fa-99989871fc4c",
+    "links": []
   },
   {
     "id": "dce78447-4ab1-478b-8129-21b415f2ddf9",
@@ -125,7 +140,8 @@
     "description": "You have advantage on all Will saves against magical effects.",
     "requirements": "",
     "penalty": "",
-    "raceID": "34e7dbd5-0597-4a0c-91fa-99989871fc4c"
+    "raceID": "34e7dbd5-0597-4a0c-91fa-99989871fc4c",
+    "links": []
   },
   {
     "id": "68183428-b295-4445-9ae8-c8d039376b83",
@@ -133,7 +149,8 @@
     "description": "As an action, you can magically turn invisible until the start of your next turn or until you attack, make a damage roll, cast a spell, or force someone to make a saving throw. You may use this trait once per day.",
     "requirements": "",
     "penalty": "",
-    "raceID": "34e7dbd5-0597-4a0c-91fa-99989871fc4c"
+    "raceID": "34e7dbd5-0597-4a0c-91fa-99989871fc4c",
+    "links": []
   },
   {
     "id": "465017a6-66cd-4543-8160-db71cbe8007a",
@@ -141,7 +158,8 @@
     "description": "You have a reach of 10 feet when making melee attacks. This does not stack with other range increasing effects.",
     "requirements": "",
     "penalty": "",
-    "raceID": "5d97816a-78d9-464e-a607-a0d9fa278454"
+    "raceID": "5d97816a-78d9-464e-a607-a0d9fa278454",
+    "links": []
   },
   {
     "id": "4b5dab07-93e1-405e-ba41-ffd416117635",
@@ -149,7 +167,8 @@
     "description": "You can cast Disguise Self at will, appearing up to 3 feet shorter than normal, allowing you to blend in more naturally with humans and elves.",
     "requirements": "",
     "penalty": "",
-    "raceID": "5d97816a-78d9-464e-a607-a0d9fa278454"
+    "raceID": "5d97816a-78d9-464e-a607-a0d9fa278454",
+    "links": []
   },
   {
     "id": "7cd78ba8-270b-47bd-8690-d7ffd8c0ca30",
@@ -157,7 +176,8 @@
     "description": "As an action, you can magically turn invisible until the start of your next turn or until you attack, make a damage roll, cast a spell, or force someone to make a saving throw. You may use this trait once per day.",
     "requirements": "",
     "penalty": "",
-    "raceID": "5d97816a-78d9-464e-a607-a0d9fa278454"
+    "raceID": "5d97816a-78d9-464e-a607-a0d9fa278454",
+    "links": []
   },
   {
     "id": "f6a408cb-e44e-463e-acd2-b198511a75ea",
@@ -165,7 +185,8 @@
     "description": "You can cast the spell Barkskin and Entangle each once per day. Wisdom is your spellcasting modifier for these spells. You are proficient in the casting of these spells",
     "requirements": "",
     "penalty": "",
-    "raceID": "5d97816a-78d9-464e-a607-a0d9fa278454"
+    "raceID": "5d97816a-78d9-464e-a607-a0d9fa278454",
+    "links": []
   },
   {
     "id": "82e08ec7-46ca-4c7d-b1ff-b02a194cb536",
@@ -173,7 +194,8 @@
     "description": "As an action, you can magically turn invisible until the start of your next turn or until you attack, make a damage roll, cast a spell, or force someone to make a saving throw. You may use this trait once per day.",
     "requirements": "",
     "penalty": "",
-    "raceID": "63811b9a-57d0-406d-b13a-087e4e1f2dd8"
+    "raceID": "63811b9a-57d0-406d-b13a-087e4e1f2dd8",
+    "links": []
   },
   {
     "id": "51bf905a-31dd-4b39-87a1-8924c74c6a24",
@@ -181,7 +203,8 @@
     "description": "You have advantage on all Will saves against magic.",
     "requirements": "",
     "penalty": "",
-    "raceID": "63811b9a-57d0-406d-b13a-087e4e1f2dd8"
+    "raceID": "63811b9a-57d0-406d-b13a-087e4e1f2dd8",
+    "links": []
   },
   {
     "id": "5bd6b0f0-6230-4dae-a024-b0fccbc327d0",
@@ -189,7 +212,8 @@
     "description": "You have resistance to Fire and Acid damage",
     "requirements": "",
     "penalty": "",
-    "raceID": "c8aa2c93-a828-4059-99d6-4273ea2966c3"
+    "raceID": "c8aa2c93-a828-4059-99d6-4273ea2966c3",
+    "links": []
   },
   {
     "id": "91055196-c0b4-4aab-9ebc-82144a636770",
@@ -197,7 +221,8 @@
     "description": "You have resistance to poison damage, and are immune to the poisoned condition.",
     "requirements": "",
     "penalty": "",
-    "raceID": "c8aa2c93-a828-4059-99d6-4273ea2966c3"
+    "raceID": "c8aa2c93-a828-4059-99d6-4273ea2966c3",
+    "links": []
   },
   {
     "id": "935d31bc-9212-4492-9416-fb620b0ccc2d",
@@ -205,7 +230,8 @@
     "description": "You gain 12 hit points instead of 6 from your race at 1st level.\n\nThe first time you are knocked unconscious each day, you don't gain a wound upon being stabilized.",
     "requirements": "",
     "penalty": "",
-    "raceID": "c8aa2c93-a828-4059-99d6-4273ea2966c3"
+    "raceID": "c8aa2c93-a828-4059-99d6-4273ea2966c3",
+    "links": []
   },
   {
     "id": "7c079915-eb3a-49a5-8b75-222eeda5efc2",
@@ -213,7 +239,8 @@
     "description": "You have a tail, gain the Apprentice proficiency in Acrobatics, and have a climb speed of 15 feet.",
     "requirements": "",
     "penalty": "",
-    "raceID": "c8aa2c93-a828-4059-99d6-4273ea2966c3"
+    "raceID": "c8aa2c93-a828-4059-99d6-4273ea2966c3",
+    "links": []
   },
   {
     "id": "96976d05-ba18-4ba6-a255-5442bc390477",
@@ -221,7 +248,8 @@
     "description": "You are resistant to Acid damage.\n\nBreath weapon (if selected): Cone - Fortitude save",
     "requirements": "",
     "penalty": "",
-    "raceID": "694e01b8-5de6-42bb-888b-fc17fac79607"
+    "raceID": "694e01b8-5de6-42bb-888b-fc17fac79607",
+    "links": []
   },
   {
     "id": "7bdcba88-12fb-40c0-81f2-1193026c6a2e",
@@ -229,7 +257,8 @@
     "description": "You are resistant to Acid damage.\n\nBreath weapon (if selected):  Line - Fortitude save",
     "requirements": "",
     "penalty": "",
-    "raceID": "694e01b8-5de6-42bb-888b-fc17fac79607"
+    "raceID": "694e01b8-5de6-42bb-888b-fc17fac79607",
+    "links": []
   },
   {
     "id": "9be9c438-27dc-4ac7-a1cd-be00deb4e66a",
@@ -237,7 +266,8 @@
     "description": "You are resistant to Lightning damage.\n\nBreath weapon (if selected): Cone - Reflex save",
     "requirements": "",
     "penalty": "",
-    "raceID": "694e01b8-5de6-42bb-888b-fc17fac79607"
+    "raceID": "694e01b8-5de6-42bb-888b-fc17fac79607",
+    "links": []
   },
   {
     "id": "a1a5bb21-eec3-46e5-92af-d96356b04ff6",
@@ -245,7 +275,8 @@
     "description": "You are resistant to Lightning damage.\n\nBreath weapon (if selected): Line - Reflex save",
     "requirements": "",
     "penalty": "",
-    "raceID": "694e01b8-5de6-42bb-888b-fc17fac79607"
+    "raceID": "694e01b8-5de6-42bb-888b-fc17fac79607",
+    "links": []
   },
   {
     "id": "502b755e-7a61-4c21-aece-0c32b62afcbd",
@@ -253,7 +284,8 @@
     "description": "You are resistant to Fire damage.\n\nBreath weapon (if selected): Cone - Reflex save",
     "requirements": "",
     "penalty": "",
-    "raceID": "694e01b8-5de6-42bb-888b-fc17fac79607"
+    "raceID": "694e01b8-5de6-42bb-888b-fc17fac79607",
+    "links": []
   },
   {
     "id": "ce51b870-09ac-4e18-8dbb-1b495692af4f",
@@ -261,7 +293,8 @@
     "description": "You are resistant to Fire damage.\n\nBreath weapon (if selected): Line - Reflex save",
     "requirements": "",
     "penalty": "",
-    "raceID": "694e01b8-5de6-42bb-888b-fc17fac79607"
+    "raceID": "694e01b8-5de6-42bb-888b-fc17fac79607",
+    "links": []
   },
   {
     "id": "9fc24028-b4a6-46ee-82c0-0fe7bf615b78",
@@ -269,7 +302,8 @@
     "description": "You are resistant to Fire damage.\n\nBreath weapon (if selected): Line - Reflex save",
     "requirements": "",
     "penalty": "",
-    "raceID": "694e01b8-5de6-42bb-888b-fc17fac79607"
+    "raceID": "694e01b8-5de6-42bb-888b-fc17fac79607",
+    "links": []
   },
   {
     "id": "48b731eb-c310-4720-b86f-0db0c121ae76",
@@ -277,7 +311,8 @@
     "description": "You are resistant to Poison damage.\n\nBreath weapon (if selected): Line - Fortitude save",
     "requirements": "",
     "penalty": "",
-    "raceID": "694e01b8-5de6-42bb-888b-fc17fac79607"
+    "raceID": "694e01b8-5de6-42bb-888b-fc17fac79607",
+    "links": []
   },
   {
     "id": "bc8c70e3-2224-4b4f-9fbc-731490da5732",
@@ -285,7 +320,8 @@
     "description": "You are resistant to Poison damage.\n\nBreath weapon (if selected): Line - Fortitude save",
     "requirements": "",
     "penalty": "",
-    "raceID": "694e01b8-5de6-42bb-888b-fc17fac79607"
+    "raceID": "694e01b8-5de6-42bb-888b-fc17fac79607",
+    "links": []
   },
   {
     "id": "c236d9c1-45e1-4e16-af22-5a36de40ec08",
@@ -293,7 +329,8 @@
     "description": "You are resistant to Cold damage\n\nBreath weapon (if selected): Cone - Fortitude save",
     "requirements": "",
     "penalty": "",
-    "raceID": "694e01b8-5de6-42bb-888b-fc17fac79607"
+    "raceID": "694e01b8-5de6-42bb-888b-fc17fac79607",
+    "links": []
   },
   {
     "id": "e1726718-aeee-44f0-9791-6aac50efc92b",
@@ -301,7 +338,8 @@
     "description": "You are resistant to Cold damage\n\nBreath weapon (if selected): Line - Fortitude save",
     "requirements": "",
     "penalty": "",
-    "raceID": "694e01b8-5de6-42bb-888b-fc17fac79607"
+    "raceID": "694e01b8-5de6-42bb-888b-fc17fac79607",
+    "links": []
   },
   {
     "id": "fa7b6bfa-f827-46ab-8673-04ea9df0d7c6",
@@ -309,7 +347,8 @@
     "description": "You are resistant to Cold damage.\n\nYou do not need to stride before making a long jump, and have advantage on all athletics checks to jump, long jump or high jump.",
     "requirements": "",
     "penalty": "",
-    "raceID": "d2b99aa1-281c-4a42-bef1-025185590ef4"
+    "raceID": "d2b99aa1-281c-4a42-bef1-025185590ef4",
+    "links": []
   },
   {
     "id": "d1b2990f-d4bc-469d-8c1b-623c8d30cc22",
@@ -317,7 +356,8 @@
     "description": "You are resistant to Fire damage.\n\nYour movement speed is increased by 5 feet",
     "requirements": "",
     "penalty": "",
-    "raceID": "d2b99aa1-281c-4a42-bef1-025185590ef4"
+    "raceID": "d2b99aa1-281c-4a42-bef1-025185590ef4",
+    "links": []
   },
   {
     "id": "ab81c295-7039-4b82-878d-3a0e347581f9",
@@ -325,7 +365,8 @@
     "description": "You can attempt to hide even when you are only obscured by a creature that is at least one size larger than you.\n\nYou gain Apprentice proficiency in the stealth skill.",
     "requirements": "",
     "penalty": "",
-    "raceID": "920e224c-0146-4884-bc1c-ffbd1c56a50b"
+    "raceID": "920e224c-0146-4884-bc1c-ffbd1c56a50b",
+    "links": []
   },
   {
     "id": "a1267819-bb62-43b1-a757-168464721024",
@@ -333,7 +374,8 @@
     "description": "You have advantage on saving throws against poison, and you have resistance to poison damage.\n\nWhenever you gain hit points at the end of a rest, you can gain additional hit points equal to your level.",
     "requirements": "",
     "penalty": "",
-    "raceID": "920e224c-0146-4884-bc1c-ffbd1c56a50b"
+    "raceID": "920e224c-0146-4884-bc1c-ffbd1c56a50b",
+    "links": []
   },
   {
     "id": "83473975-05d1-4197-95ba-d0604baa22c2",
@@ -341,7 +383,8 @@
     "description": "You are resistant to Fire damage.\n\nWhen fighting an opponent in melee range that you cannot see, if you can hear them, you do not suffer disadvantage on attack rolls against them and they do not gain advantage on attack rolls against you due to their hidden nature.",
     "requirements": "",
     "penalty": "",
-    "raceID": "609f7da6-5f90-49b3-86d7-de3174eb6496"
+    "raceID": "609f7da6-5f90-49b3-86d7-de3174eb6496",
+    "links": []
   },
   {
     "id": "48070714-b91d-4ae4-b7e5-433aa223bfdf",
@@ -349,7 +392,8 @@
     "description": "You have Trained proficiency with the Intimidation or Persuasion skill.",
     "requirements": "",
     "penalty": "",
-    "raceID": "609f7da6-5f90-49b3-86d7-de3174eb6496"
+    "raceID": "609f7da6-5f90-49b3-86d7-de3174eb6496",
+    "links": []
   },
   {
     "id": "d24a1746-49e7-4c93-b709-7ba4367d32d8",
@@ -357,7 +401,8 @@
     "description": "You gain an additional identity feat or ability feat",
     "requirements": "",
     "penalty": "",
-    "raceID": "f9329e3b-7243-4f6d-935b-22e983449c76"
+    "raceID": "f9329e3b-7243-4f6d-935b-22e983449c76",
+    "links": []
   },
   {
     "id": "eb4ba217-c8da-4056-b3d9-661c276534e9",
@@ -365,7 +410,8 @@
     "description": "You have some of the general appearance traits of one with elven descent.\n\nYou can select up to two of your perks from the elf racial perk list.\n\nYou gain an additional racial perk",
     "requirements": "",
     "penalty": "",
-    "raceID": "f9329e3b-7243-4f6d-935b-22e983449c76"
+    "raceID": "f9329e3b-7243-4f6d-935b-22e983449c76",
+    "links": []
   },
   {
     "id": "e1d3c656-4c9e-4fb0-9838-d33c0622128d",
@@ -373,7 +419,8 @@
     "description": "You have some of the general appearance traits of one of orcish descent.\n\nYou can select up to two of your perks from the orc racial perk list.\n\nYou gain an additional racial perk",
     "requirements": "",
     "penalty": "",
-    "raceID": "f9329e3b-7243-4f6d-935b-22e983449c76"
+    "raceID": "f9329e3b-7243-4f6d-935b-22e983449c76",
+    "links": []
   },
   {
     "id": "f4f0c6b6-5feb-4ff3-a66c-4bca28b4a293",
@@ -381,7 +428,8 @@
     "description": "Shapechange:\n\nAs a ritual (1 minute), you can magically change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height and weight, but not so much that your size or physiology changes.\n\nYou can make yourself appear as a member of another race, though none of your in game statistics change. You can't duplicate the appearance of a creature you've never seen, and you must adopt a form that has the same arrangement of limbs that you have.\n\nYour clothing and equipment aren't affected by this trait. You stay in this new form until you use an action to revert to your true form, or until you die.",
     "requirements": "One of your ability boosts must be to Charisma",
     "penalty": "You receive 2 racial perks instead of 3",
-    "raceID": "f9329e3b-7243-4f6d-935b-22e983449c76"
+    "raceID": "f9329e3b-7243-4f6d-935b-22e983449c76",
+    "links": []
   },
   {
     "id": "64a3c261-7ad8-4a92-98ce-7dba9bfe5da9",
@@ -389,7 +437,8 @@
     "description": "Whenever you are targeted by a spell or effect that causes you to make a Will saving throw, you can use your reaction to give yourself advantage on the save.\n\nYou have resistance to Psychic damage.",
     "requirements": "One of your ability boosts must be to Wisdom",
     "penalty": "You receive 2 racial perks instead of 3",
-    "raceID": "f9329e3b-7243-4f6d-935b-22e983449c76"
+    "raceID": "f9329e3b-7243-4f6d-935b-22e983449c76",
+    "links": []
   },
   {
     "id": "64aa8b5c-dc41-4e55-973e-fa956dff7868",
@@ -397,7 +446,8 @@
     "description": "You are resistant to poison damage.\n\nYou gain a swim speed of 15 feet, and can hold your breath up to 15 minutes.",
     "requirements": "",
     "penalty": "",
-    "raceID": "d1480386-60c5-4d39-8b7a-29f75c5fb903"
+    "raceID": "d1480386-60c5-4d39-8b7a-29f75c5fb903",
+    "links": []
   },
   {
     "id": "a09e3565-8544-406d-acf1-83f35878d529",
@@ -405,7 +455,8 @@
     "description": "You are resistant to Fire damage, and can go 10x longer than a normal creature without food or water.",
     "requirements": "",
     "penalty": "",
-    "raceID": "d1480386-60c5-4d39-8b7a-29f75c5fb903"
+    "raceID": "d1480386-60c5-4d39-8b7a-29f75c5fb903",
+    "links": []
   },
   {
     "id": "15043495-cdcc-4040-9e79-9b1f1135fb23",
@@ -413,7 +464,8 @@
     "description": "You have the Trained proficiency level in intimidation, and can demoralize foes without sharing a language.",
     "requirements": "",
     "penalty": "",
-    "raceID": "d1480386-60c5-4d39-8b7a-29f75c5fb903"
+    "raceID": "d1480386-60c5-4d39-8b7a-29f75c5fb903",
+    "links": []
   },
   {
     "id": "a0994ea9-9a27-4646-a65e-be1828a904c9",
@@ -421,7 +473,8 @@
     "description": "You gain a climbing speed of 15 feet and, as long as you aren't wearing footwear, can cling to walls and ceilings with your feet leaving your hands free for actions.",
     "requirements": "",
     "penalty": "",
-    "raceID": "d1480386-60c5-4d39-8b7a-29f75c5fb903"
+    "raceID": "d1480386-60c5-4d39-8b7a-29f75c5fb903",
+    "links": []
   },
   {
     "id": "a70bd6d6-166a-47ac-b935-34c6f209848d",
@@ -429,7 +482,8 @@
     "description": "You have adapted to living without the use of your sight. You gain a blindsight with a range of 15 feet.",
     "requirements": "",
     "penalty": "",
-    "raceID": "a135605b-c6c4-4049-8609-4eac563123dd"
+    "raceID": "a135605b-c6c4-4049-8609-4eac563123dd",
+    "links": []
   },
   {
     "id": "57d017d5-9054-42af-a138-1ebf2adb8b77",
@@ -437,7 +491,8 @@
     "description": "You have resistance to Cold and Poison damage.",
     "requirements": "",
     "penalty": "",
-    "raceID": "a135605b-c6c4-4049-8609-4eac563123dd"
+    "raceID": "a135605b-c6c4-4049-8609-4eac563123dd",
+    "links": []
   },
   {
     "id": "a0e8d0be-4a37-4731-8830-77831169eb44",
@@ -445,7 +500,8 @@
     "description": "You learn a cantrip of your choice from the Primal spell list. Wisdom is your casting modifier for this cantrip. You are proficient in the casting of this spell",
     "requirements": "",
     "penalty": "",
-    "raceID": "3bb5021b-9ee4-40e6-b3e0-1af0d9ff4168"
+    "raceID": "3bb5021b-9ee4-40e6-b3e0-1af0d9ff4168",
+    "links": []
   },
   {
     "id": "cdae3dae-05be-4650-9f19-7b4f2e98e16f",
@@ -453,7 +509,8 @@
     "description": "Whenever you succeed a saving throw against a magical effect, you gain temporary hit points equal to your constitution modifier.",
     "requirements": "",
     "penalty": "",
-    "raceID": "3bb5021b-9ee4-40e6-b3e0-1af0d9ff4168"
+    "raceID": "3bb5021b-9ee4-40e6-b3e0-1af0d9ff4168",
+    "links": []
   },
   {
     "id": "31787959-9f0c-43e0-86ab-1f2904de4a3a",
@@ -461,7 +518,8 @@
     "description": "You gain a 10 foot bonus to your movement speed",
     "requirements": "",
     "penalty": "",
-    "raceID": "3bb5021b-9ee4-40e6-b3e0-1af0d9ff4168"
+    "raceID": "3bb5021b-9ee4-40e6-b3e0-1af0d9ff4168",
+    "links": []
   },
   {
     "id": "1a577e61-f8ee-49e9-8a25-7e997a3e6b6b",
@@ -469,7 +527,8 @@
     "description": "You gain an additional 4 hit points as part of your racial bonus at level 1.\n\nWhen making death saving throws, you require 4 failed death saves instead of 3 in order to die.",
     "requirements": "",
     "penalty": "",
-    "raceID": "3bb5021b-9ee4-40e6-b3e0-1af0d9ff4168"
+    "raceID": "3bb5021b-9ee4-40e6-b3e0-1af0d9ff4168",
+    "links": []
   },
   {
     "id": "d3872685-bb02-499f-b7ff-759b61aabfdb",
@@ -477,7 +536,8 @@
     "description": "You learn an additional language.\n\nYou gain trained proficiency in a skill of your choice",
     "requirements": "",
     "penalty": "",
-    "raceID": "b997df2e-0c33-4a79-81e3-03064ece69e7"
+    "raceID": "b997df2e-0c33-4a79-81e3-03064ece69e7",
+    "links": []
   },
   {
     "id": "d4130546-c828-4270-9d7e-008656284df9",
@@ -485,7 +545,8 @@
     "description": "You gain an additional 4 hit points as part of your racial bonus at level 1.\n\nWhen making death saving throws, you require 4 failed death saves instead of 3 in order to die.",
     "requirements": "",
     "penalty": "",
-    "raceID": "b997df2e-0c33-4a79-81e3-03064ece69e7"
+    "raceID": "b997df2e-0c33-4a79-81e3-03064ece69e7",
+    "links": []
   },
   {
     "id": "88c787f1-8bc6-446e-8e71-d781ed951bbb",
@@ -493,7 +554,8 @@
     "description": "Whenever you shift, you again 1d8+ your Constitution Modifier in temporary hit points. While shifted, you have a +1 bonus to your Defense and Armor",
     "requirements": "",
     "penalty": "",
-    "raceID": "be3b7e98-2bea-4019-837d-c1dc51a7bc3c"
+    "raceID": "be3b7e98-2bea-4019-837d-c1dc51a7bc3c",
+    "links": []
   },
   {
     "id": "d804f7aa-7ecc-4774-9296-a5fd1f89b142",
@@ -501,7 +563,8 @@
     "description": "While shifted, you can use your elongated claws or fangs to attack as an action. This attack does not suffer the multi-attack penalty. If you hit, you can deal 1d6 + your strength modifier as piercing damage to your target.\n\nYour proficiency with this attack begins at Apprentice at level 1, and increases to Trained at level 6, Expert at level 11, and Master at level 16.",
     "requirements": "",
     "penalty": "",
-    "raceID": "be3b7e98-2bea-4019-837d-c1dc51a7bc3c"
+    "raceID": "be3b7e98-2bea-4019-837d-c1dc51a7bc3c",
+    "links": []
   },
   {
     "id": "1056c53e-d172-43dd-a927-e1df786b3e31",
@@ -509,7 +572,8 @@
     "description": "Whenever you shift, your land speed increases by 10 feet. Additionally, while shifted, you can disengage as a reaction when a creature ends its turn within 5 feet of you.",
     "requirements": "",
     "penalty": "",
-    "raceID": "be3b7e98-2bea-4019-837d-c1dc51a7bc3c"
+    "raceID": "be3b7e98-2bea-4019-837d-c1dc51a7bc3c",
+    "links": []
   },
   {
     "id": "4aab2408-505f-4ee8-9722-14faa787561e",
@@ -517,7 +581,8 @@
     "description": "While shifted, you have advantage on Wisdom related skill checks, and no creature within 30 feet may make an attack roll with advantage against you (as long as you arent incapacitated).",
     "requirements": "",
     "penalty": "",
-    "raceID": "be3b7e98-2bea-4019-837d-c1dc51a7bc3c"
+    "raceID": "be3b7e98-2bea-4019-837d-c1dc51a7bc3c",
+    "links": []
   },
   {
     "id": "9797f20e-7383-4637-8568-fd51d90cb25e",
@@ -525,7 +590,8 @@
     "description": "You have Apprentice proficiency in the Persuasion and Society skills.\n\nYour social interactions with other people are uninhibited by your fiendish appearance, and do not suffer the normal stigma associated with your appearance.",
     "requirements": "",
     "penalty": "",
-    "raceID": "0ce35dd6-9557-4747-8825-6c75591f6a70"
+    "raceID": "0ce35dd6-9557-4747-8825-6c75591f6a70",
+    "links": []
   },
   {
     "id": "d626bee9-f327-455d-84b5-629cb19f0618",
@@ -533,7 +599,8 @@
     "description": "You know the Produce Flame cantrip and can cast the spell Hellish Rebuke at 2nd level (once per day). Charisma is your spellcasting ability for these spells.\n\nYou are proficient in the casting of these spells.",
     "requirements": "",
     "penalty": "",
-    "raceID": "0ce35dd6-9557-4747-8825-6c75591f6a70"
+    "raceID": "0ce35dd6-9557-4747-8825-6c75591f6a70",
+    "links": []
   },
   {
     "id": "7422c498-1c29-4b39-ac7a-28502f8e08e8",
@@ -541,6 +608,7 @@
     "description": "You are resistant to Fire damage.\n\nYou know the Thaumaturgy cantrip.",
     "requirements": "",
     "penalty": "",
-    "raceID": "0ce35dd6-9557-4747-8825-6c75591f6a70"
+    "raceID": "0ce35dd6-9557-4747-8825-6c75591f6a70",
+    "links": []
   }
 ]

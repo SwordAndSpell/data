@@ -30,7 +30,8 @@
         "name": "Bite",
         "description": "Melee Attack: 3 + your level to hit, reach 5ft, one target.\nOn Hit: 1d8 + 3 Slashing damage"
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "8b03788a-2741-4810-9195-1f064c7d3352",
@@ -67,7 +68,8 @@
         "name": "Bite",
         "description": "Melee Attack: 4 + your level to hit, reach 5ft, one target.\nOn Hit: 1d8 + 4 Slashing damage"
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "9da609d1-4df9-4d33-9162-b0ebe38d6cc4",
@@ -108,7 +110,8 @@
         "name": "Bite",
         "description": "Melee Attack: 5 + your level to hit, reach 5ft, one target.\nOn Hit: 2d8 + 5 Slashing damage"
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "b1c41aed-d700-4cc5-ab68-f1563ea3d326",
@@ -149,7 +152,8 @@
         "name": "Bite",
         "description": "Melee Attack: 6 + your level to hit, reach 5ft, one target.\nOn Hit: 3d8 + 6 Slashing damage"
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "1d1d6c45-3b18-41af-90ce-df51450830ac",
@@ -182,7 +186,8 @@
         "name": "Claw",
         "description": "Melee Attack: 3 + your level to hit, reach 5ft, one target.\nOn Hit: 1d6 + 2 Slashing damage"
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "4888cbbf-a7f8-47de-be99-4b24b87b1db7",
@@ -219,7 +224,8 @@
         "name": "Claw",
         "description": "Melee Attack: 4 + your level to hit, reach 5ft, one target.\nOn Hit: 1d6 + 3 Slashing damage"
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "9d07f454-3ea1-40bb-8dc0-68cc06a8728c",
@@ -260,7 +266,8 @@
         "name": "Claw",
         "description": "Melee Attack: 5 + your level to hit, reach 5ft, one target.\nOn Hit: 2d6 + 3 Slashing damage"
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "ee899cf0-a367-4412-a13a-300f3c5b34da",
@@ -301,7 +308,8 @@
         "name": "Claw",
         "description": "Melee Attack: 6 + your level to hit, reach 5ft, one target.\nOn Hit: 3d6 + 4 Slashing damage"
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "f7ba6cd9-4c1f-43b8-b1df-df01c661014a",
@@ -334,7 +342,8 @@
         "name": "Talon",
         "description": "Melee Attack: 3 + your level to hit, reach 5ft, one target.\nOn Hit: 1d4 + 2 Slashing damage"
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "d9fa1fc7-10f8-48f2-9c02-79afb533a11b",
@@ -371,7 +380,8 @@
         "name": "Talon",
         "description": "Melee Attack: 4 + your level to hit, reach 5ft, one target.\nOn Hit: 1d4 + 3 Slashing damage"
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "d9fa1fc7-10f8-48f2-9c02-79afb533a11b",
@@ -412,7 +422,8 @@
         "name": "Talon",
         "description": "Melee Attack: 5 + your level to hit, reach 5ft, one target.\nOn Hit: 2d4 + 3 Slashing damage"
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "a8deb12b-55f3-4159-9161-c2d09042d18e",
@@ -453,6 +464,7 @@
         "name": "Talon",
         "description": "Melee Attack: 6 + your level to hit, reach 5ft, one target.\nOn Hit: 3d4 + 4 Slashing damage"
       }
-    ]
+    ],
+    "links": []
   }
 ]
