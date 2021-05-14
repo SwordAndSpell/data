@@ -79,7 +79,7 @@
   {
     "id": "0dae460d-f968-4903-8603-262497beeb51",
     "name": "Draconic Bloodline",
-    "description": "Spell List: Arcane spell list\n\nTrained Skill: Arcana or Nature\n\nInherited Ability: Choose a Draconic Ancestry from the chart below. This ancestry determines your later features.\n\nBlack - Acid\n\nSilver, White - Cold\n\nBrass, Gold, Red - Fire\n\nBlue, Bronze - Lightning\n\nGreen - Poison\n\nAdditionally, your body is covered in draconic scales. When you aren’t wearing armor, you have a natural armor with +3 Defense and no Dexterity Maximum. This armor has an Armor value of 1.",
+    "description": "Spell List: Arcane spell list\n\nTrained Skill: Arcana or Nature\n\nInherited Ability: Choose a Draconic Ancestry from the chart below. This ancestry determines your later features.\n\nBlack - Acid\nSilver, White - Cold\nBrass, Gold, Red - Fire\nBlue, Bronze - Lightning\nGreen - Poison\n\nAdditionally, your body is covered in draconic scales. When you aren’t wearing armor, you have a natural armor with +3 Defense and no Dexterity Maximum. This armor has an Armor value of 1.",
     "instanceType": "Empowered Bloodline",
     "links": []
   },
