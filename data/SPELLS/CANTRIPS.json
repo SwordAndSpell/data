@@ -115,7 +115,7 @@
     "range": "30 feet",
     "concentration": false,
     "components": ["Somatic"],
-    "description": "You send out a pulse that registers the presence of magic. If it is a type of magic you are Trained with (Arcane / Divine / Primal), you also learn its school.\n\nIf the magic you sense is illusion magic, you do not sense any details about it other than its presence unless your spellcasting level is higher than its spell level.\n\nIf your spellcasting level is at least 3rd level, you determine the school of the magical effects sensed. If your spellcasting level is at least 6th level, you learn the details of the magic’s effects.",
+    "description": "You send out a pulse that registers the presence of magic. If it is a type of magic you are proficient with (Arcane / Divine / Primal), you also learn its school.\n\nIf the magic you sense is illusion magic, you do not sense any details about it other than its presence unless your spellcasting level is higher than its spell level.\n\nIf your spellcasting level is at least 3rd level, you determine the school of the magical effects sensed. If your spellcasting level is at least 6th level, you learn the details of the magic’s effects.",
     "atHigherLevels": "",
     "links": []
   },

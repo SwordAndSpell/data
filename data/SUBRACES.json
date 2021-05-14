@@ -560,7 +560,7 @@
   {
     "id": "d804f7aa-7ecc-4774-9296-a5fd1f89b142",
     "name": "Longtooth",
-    "description": "While shifted, you can use your elongated claws or fangs to attack as an action. This attack does not suffer the multi-attack penalty. If you hit, you can deal 1d6 + your strength modifier as piercing damage to your target.\n\nYour proficiency with this attack begins at Apprentice at level 1, and increases to Trained at level 6, Expert at level 11, and Master at level 16.",
+    "description": "While shifted, you can use your elongated claws or fangs to attack as an action. This attack does not suffer the multi-attack penalty. If you hit, you can deal 1d6 + your strength modifier as piercing damage to your target.\n\nYour are proficient with this attack.",
     "requirements": "",
     "penalty": "",
     "raceID": "be3b7e98-2bea-4019-837d-c1dc51a7bc3c",
