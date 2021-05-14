@@ -34,7 +34,8 @@
         "name": "Eye Ray",
         "description": "Ranged Attack: your spell attack modifier to hit, range 150ft, one target.\nOn Hit: 1d8 + the spell's level psychic damage"
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "07e05a75-fa45-4480-960d-f06f51538e14",
@@ -71,7 +72,8 @@
         "name": "Claws",
         "description": "Melee Attack: your spell attack modifier to hit, reach 5ft, one target.\nOn Hit: 1d10 + 3 + the spell's level slashing damage. If the target is a creature, it can't regain hit points until the start of the aberration's next turn"
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "1735f285-c09a-4ba7-ad84-97fe53f4a9fe",
@@ -108,7 +110,8 @@
         "name": "Psychic Slam",
         "description": "Melee Attack: your spell attack modifier to hit, reach 5ft, one target.\nOn Hit: 1d8 + 3 + the spell's level psychic damage"
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "0173c249-2354-428f-8d60-5c2121fddebf",
@@ -145,7 +148,8 @@
         "name": "Maul",
         "description": "Melee Attack: your spell modifier to hit, reach 5t., one target.\nOn Hit: 1d8+4+ the spells level piercing or slashing damage (your choice when you summon the creature)."
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "c7262f0b-489e-4978-afab-d9fb5adb56e2",
@@ -182,7 +186,8 @@
         "name": "Maul",
         "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d8+4+ the spells level piercing or slashing damage (your choice when you summon the creature)."
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "bc925f86-dd52-413f-a5a8-493f9fe34c46",
@@ -223,7 +228,8 @@
         "name": "Maul",
         "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d8+4+ the spells level piercing or slashing damage (your choice when you summon the creature)."
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "8c6a656f-1c69-46c0-b348-2390973c5893",
@@ -260,7 +266,8 @@
         "name": "Radiant Bow",
         "description": "Ranged Attack: your spell modifier to hit, range 150ft/600ft, one target.\nOn Hit: 2d6 + the spells level radiant damage."
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "6be5e28d-b4e0-47fd-9daf-47d0d7bdd47c",
@@ -297,7 +304,8 @@
         "name": "Radiant Mace",
         "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d10 + 3 + the spells level radiant damage, and the celestial can choose a friendly creature within range of the target to gain the amount dealt in temporary hit points."
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "fe13ee60-177c-4c00-901b-c4671229f210",
@@ -334,7 +342,8 @@
         "name": "Slam",
         "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d8 + 4 + the spells level Bludgeoning damage."
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "c3095813-b6dc-436c-ba06-7e179fe0ec97",
@@ -371,7 +380,8 @@
         "name": "Slam",
         "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d8 + 4 + the spells level Bludgeoning damage."
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "1d26ea5e-3d96-46fd-950f-b20d91b8c461",
@@ -408,7 +418,8 @@
         "name": "Slam",
         "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d8 + 4 + the spells level Bludgeoning damage."
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "f5819e1c-bf7c-4537-b00d-f7a9fe21eafa",
@@ -445,7 +456,8 @@
         "name": "Slam",
         "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d10 + 4 + the spells level Bludgeoning damage."
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "01b1cf94-6ccc-4355-afbe-41140429a7ef",
@@ -482,7 +494,8 @@
         "name": "Slam",
         "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d10 + 4 + the spells level Bludgeoning or Piercing damage."
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "c2a2cc40-fc23-4747-b8de-b4a023752ceb",
@@ -519,7 +532,8 @@
         "name": "Slam",
         "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d10 + 4 + the spells level Fire damage."
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "82e389dc-3d0c-4cbf-88df-1b1f5f5d825f",
@@ -556,7 +570,8 @@
         "name": "Slam",
         "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d10 + 4 + the spells level Bludgeoning damage."
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "422d97d9-68ae-426f-a183-baa394ceda4e",
@@ -593,7 +608,8 @@
         "name": "Fey Blade",
         "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d6 + 1 + the spells level Slashing damage and 1d6 Arcane damage."
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "8061770b-3cf5-4b23-a7e0-ae321d53f73d",
@@ -630,7 +646,8 @@
         "name": "Fey Blade",
         "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d6 + 1 + the spells level Slashing damage and 1d6 Arcane damage."
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "43a24944-52f5-4295-92c1-e17f44f98d35",
@@ -667,7 +684,8 @@
         "name": "Fey Blade",
         "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d6 + 1 + the spells level Slashing damage and 1d6 Arcane damage."
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "1f285174-4f55-4f70-8222-a4050299f2f9",
@@ -708,7 +726,8 @@
         "name": "Bite",
         "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d12 + 3 + the spells level Dark damage."
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "bd710cf6-ace2-4361-8959-2766781b606f",
@@ -749,7 +768,8 @@
         "name": "Hurl Abyssal Flame",
         "description": "Ranged Attack: your spell modifier to hit, range 150ft, one target.\nOn Hit: 2d6 + the spells level Dark damage."
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "ef4120de-be9d-4eea-8567-56625be1aa9d",
@@ -786,7 +806,8 @@
         "name": "Deathly Touch",
         "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d8 + 3 + the spells level Dark damage, and the creature must succeed a Will saving throw against your Spell Save DC or be frightened of the undead until the end of its next turn."
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "d7174cb2-570a-446e-bc05-4d405a237bf4",
@@ -823,7 +844,8 @@
         "name": "Rotting Claw",
         "description": "Melee Attack: your spell modifier to hit, reach 5ft, one target.\nOn Hit: 1d6 + 3 + the spells level Dark damage, if the target is poisoned: it must succeed on a Fortitude saving throw against your Spell Save DC or be Paralyzed until the end of its next turn."
       }
-    ]
+    ],
+    "links": []
   },
   {
     "id": "e1504011-1685-4795-8f71-2c702d801c2d",
@@ -860,6 +882,7 @@
         "name": "Grave Bolt",
         "description": "Ranged Attack: your spell modifier to hit, range 150ft, one target.\nOn Hit: 2d4 + the spells level Dark damage."
       }
-    ]
+    ],
+    "links": []
   }
 ]
