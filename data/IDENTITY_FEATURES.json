@@ -1,7 +1,7 @@
 [
   {
     "id": "9a740fc1-d390-4a61-8aff-f0c5af47873b",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Arcanist Spellcasting Increase",
     "identity": [
       "Arcanist"
@@ -19,7 +19,7 @@
   },
   {
     "id": "aa888add-a7ab-4fbf-bcbf-49e972bfbd17",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Signature Spell",
     "identity": [
       "Arcanist"
@@ -36,7 +36,7 @@
   },
   {
     "id": "0503bccc-d145-4653-841b-d5b5efa253c3",
-    "coreFeature": true,
+    "featureType": "Core",
     "name": "Advanced Signature Spell",
     "identity": [
       "Arcanist"
@@ -54,7 +54,7 @@
   },
   {
     "id": "872c1729-4dca-47eb-a7f2-b6083401917b",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Improved Mage Armor",
     "identity": [
       "Arcanist",
@@ -72,7 +72,7 @@
   },
   {
     "id": "c5baa8d2-c02f-42d0-aab7-54b2060937ad",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Tactician",
     "identity": [
       "Arcanist",
@@ -90,7 +90,7 @@
   },
   {
     "id": "832f34c0-0b70-4b3b-ae04-0860a4df7b05",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Abjurationist - Arcane Ward",
     "identity": [
       "Arcanist"
@@ -107,7 +107,7 @@
   },
   {
     "id": "d4fa8607-1b38-4072-8d9b-bb97de8e317f",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Abjurationist - Shield Refresh",
     "identity": [
       "Arcanist"
@@ -125,7 +125,7 @@
   },
   {
     "id": "5934e74c-6b7d-49d5-a328-a8b5dcf8e551",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Abjurationist - Spell Dampening",
     "identity": [
       "Arcanist"
@@ -143,7 +143,7 @@
   },
   {
     "id": "bcba2487-346f-4115-9bc6-77b1618b571c",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Conjurer - Conjurer's Step",
     "identity": [
       "Arcanist"
@@ -160,7 +160,7 @@
   },
   {
     "id": "3a012327-c919-4199-a0db-8bbb17f71eb4",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Conjurer - Stable Summons",
     "identity": [
       "Arcanist"
@@ -178,7 +178,7 @@
   },
   {
     "id": "0957d219-2f7b-4a22-9959-1d9976f1042a",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Conjurer- Active Summons",
     "identity": [
       "Arcanist"
@@ -196,7 +196,7 @@
   },
   {
     "id": "557f6d8a-4a4f-493e-aa06-e7ef38d9fe57",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Diviner - Portens",
     "identity": [
       "Arcanist"
@@ -213,7 +213,7 @@
   },
   {
     "id": "a3d499e8-f2ba-41d1-a5f3-abc56e8883c9",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Diviner - 3rd Eye",
     "identity": [
       "Arcanist"
@@ -231,7 +231,7 @@
   },
   {
     "id": "6ca4ee40-5821-422b-a823-bb350f591391",
-    "coreFeature":true,
+    "featureType": "Subclass",
     "name": "Expert Diviner - Advanced Portens",
     "identity": [
       "Arcanist"
@@ -249,7 +249,7 @@
   },
   {
     "id": "c618d56b-e95c-47e4-8d4b-eec47ea09e28",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Enchanter - Hypnotic Gaze",
     "identity": [
       "Arcanist"
@@ -266,7 +266,7 @@
   },
   {
     "id": "2721acf8-f9ca-4b40-95f0-3b058870ceac",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Enchanter - Deflecting Charm",
     "identity": [
       "Arcanist"
@@ -284,7 +284,7 @@
   },
   {
     "id": "359eda8c-f8d1-45c2-9db7-572810fda05f",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Enchanter - Alter Memories",
     "identity": [
       "Arcanist"
@@ -302,7 +302,7 @@
   },
   {
     "id": "dbae17cf-faf5-4f62-8644-217f8dff5166",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Evoker - Protective Casting",
     "identity": [
       "Arcanist"
@@ -319,7 +319,7 @@
   },
   {
     "id": "ec6b544c-b9a9-48df-a10d-3ee3ba0b65b5",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Evoker - Potent Cantrips",
     "identity": [
       "Arcanist"
@@ -337,7 +337,7 @@
   },
   {
     "id": "638e4891-9394-4009-b77a-90ed76976eff",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Evoker - Overchannel",
     "identity": [
       "Arcanist"
@@ -355,7 +355,7 @@
   },
   {
     "id": "cd5bae48-2df9-40e8-9850-55fb354a0a82",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Illusionist - Improved Illusions",
     "identity": [
       "Arcanist"
@@ -372,7 +372,7 @@
   },
   {
     "id": "3dec704e-ce96-4a98-819e-d684e26ebfad",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Illusionist - Illusory Copy",
     "identity": [
       "Arcanist"
@@ -390,7 +390,7 @@
   },
   {
     "id": "a7114ff6-1bbd-4fbb-abe7-95b842b98b44",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Illusionist - Tangible Illusions",
     "identity": [
       "Arcanist"
@@ -408,7 +408,7 @@
   },
   {
     "id": "78d1dd12-9b7f-422e-accf-26b7a9ca7575",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Necromancer - Grim Harvest",
     "identity": [
       "Arcanist"
@@ -425,7 +425,7 @@
   },
   {
     "id": "28606809-87a4-4453-b2ff-9681a4499b24",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Necromancer - Master of Thralls",
     "identity": [
       "Arcanist"
@@ -443,7 +443,7 @@
   },
   {
     "id": "71b4868c-d907-4c62-8914-58ff2ac21138",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Necromancer - Command Undead",
     "identity": [
       "Arcanist"
@@ -461,7 +461,7 @@
   },
   {
     "id": "cfe779aa-2151-4f5c-8c22-acc7032f2c1c",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Transmuter - Transmuter's Stone",
     "identity": [
       "Arcanist"
@@ -478,7 +478,7 @@
   },
   {
     "id": "0ca14cea-dfea-4217-90ff-d79cc3a83c3f",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Transmuter - Shapechanger",
     "identity": [
       "Arcanist"
@@ -496,7 +496,7 @@
   },
   {
     "id": "c0bd865a-b04a-40de-8687-462b25daa2c1",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Transmuter - Invoked Transmutation",
     "identity": [
       "Arcanist"
@@ -514,7 +514,7 @@
   },
   {
     "id": "88172644-7679-4174-8fd0-a927235745bd",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Occult Spellcasting Increase",
     "identity": [
       "Bard"
@@ -531,7 +531,7 @@
   },
   {
     "id": "11cc19dc-e536-42a8-b095-0145bf4e2efa",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Jack of All Trades",
     "identity": [
       "Bard",
@@ -549,7 +549,7 @@
   },
   {
     "id": "83566bc8-d2c8-4cd0-b512-795595c9d186",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Countercharm",
     "identity": [
       "Bard"
@@ -566,7 +566,7 @@
   },
   {
     "id": "b22e964c-a410-45c2-932e-6d2f7ecdb6ac",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Master of Disguise",
     "identity": [
       "Bard"
@@ -583,7 +583,7 @@
   },
   {
     "id": "efa24b90-0acb-4ab1-a4d0-ff5ef09f7dbf",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Cutting Words",
     "identity": [
       "Bard"
@@ -600,7 +600,7 @@
   },
   {
     "id": "2ff47261-84c7-485e-a9ec-8452c153ab0a",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice College of Valor - Martial Inspiration",
     "identity": [
       "Bard"
@@ -618,7 +618,7 @@
   },
   {
     "id": "c61ea43f-072b-482f-804a-b3ba22027417",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert College of Valor - Cast and Slash",
     "identity": [
       "Bard"
@@ -636,7 +636,7 @@
   },
   {
     "id": "4c1caa20-60d3-4013-ad19-925307181c24",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice College of Whispers - Mind Blade",
     "identity": [
       "Bard"
@@ -653,7 +653,7 @@
   },
   {
     "id": "498cb188-b1ad-4448-b6ff-921617ba8af3",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced College of Whispers - Mantle of Shadow",
     "identity": [
       "Bard"
@@ -671,7 +671,7 @@
   },
   {
     "id": "ce0cf289-4489-4beb-a399-d2aabad3d0d4",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert College of Whispers - Shadow Secrets",
     "identity": [
       "Bard"
@@ -689,7 +689,7 @@
   },
   {
     "id": "87548f05-bc01-4cb5-bdb3-b2874adcc9f7",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice College of Glamour - Captivate",
     "identity": [
       "Bard"
@@ -706,7 +706,7 @@
   },
   {
     "id": "4212daaa-29cc-49ed-bc6d-6b79607dcdbc",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced College of Glamour - Mantle of Majesty",
     "identity": [
       "Bard"
@@ -724,7 +724,7 @@
   },
   {
     "id": "c355206b-2b05-439f-8978-6506ad616297",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert College of Glamour - Deflecting Presence",
     "identity": [
       "Bard"
@@ -742,7 +742,7 @@
   },
   {
     "id": "c2510060-8010-46d7-9cb1-8f9ad6472c49",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Brutal Critical",
     "identity": [
       "Barbarian"
@@ -759,7 +759,7 @@
   },
   {
     "id": "7441e0f9-7f85-4797-bcdb-8431ced619e5",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Danger Sense",
     "identity": [
       "Barbarian"
@@ -776,7 +776,7 @@
   },
   {
     "id": "a1218e56-cbac-419a-81cc-ee4569d7fde1",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Feral Instincts",
     "identity": [
       "Barbarian"
@@ -793,7 +793,7 @@
   },
   {
     "id": "9af48e25-c5fe-4d79-8e3b-94cd2934b057",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Reckless Attacks",
     "identity": [
       "Barbarian"
@@ -808,7 +808,7 @@
   },
   {
     "id": "1237ddd4-ddc7-4272-b59f-8a5ea6471bfa",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Refuse Death",
     "identity": [
       "Barbarian"
@@ -825,7 +825,7 @@
   },
   {
     "id": "221875f3-231d-4e8e-bb39-849970eedba7",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Resourceful",
     "identity": [
       "Barbarian",
@@ -843,7 +843,7 @@
   },
   {
     "id": "c2b311dc-fb71-4584-bd81-a40bc8d39f62",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Titan Mauler",
     "identity": [
       "Barbarian"
@@ -860,7 +860,7 @@
   },
   {
     "id": "3ca39bba-b45e-408e-947d-f75bc021af0c",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Berserker - Furious Flurry",
     "identity": [
       "Barbarian"
@@ -877,7 +877,7 @@
   },
   {
     "id": "b5d2c7b6-9a42-4ce9-b2ed-70c95e849be6",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Berserker - Mindless Rage",
     "identity": [
       "Barbarian"
@@ -895,7 +895,7 @@
   },
   {
     "id": "8b41cd7a-a838-4e25-9d89-b1502abb0125",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Berserker - Strike Back",
     "identity": [
       "Barbarian"
@@ -913,7 +913,7 @@
   },
   {
     "id": "5af740c6-3912-4ef2-8541-67935a0a2467",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Immolator - Fire Storm",
     "identity": [
       "Barbarian"
@@ -930,7 +930,7 @@
   },
   {
     "id": "066faa4a-571a-4fcc-94ea-2a20440f3dda",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Immolator - Controlled Burn",
     "identity": [
       "Barbarian"
@@ -948,7 +948,7 @@
   },
   {
     "id": "311c30a6-69b6-40e5-b8ed-bdabb4f6fc40",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Immolator - Wrath of the Inferno",
     "identity": [
       "Barbarian"
@@ -966,7 +966,7 @@
   },
   {
     "id": "6d3fa113-dc9a-4628-befb-907a8c6d1477",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Storm Caller - Bring the Storm",
     "identity": [
       "Barbarian"
@@ -983,7 +983,7 @@
   },
   {
     "id": "d8fa1d36-7d2b-4341-a397-2365eb3f12ca",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Storm Caller - Storm's Answer",
     "identity": [
       "Barbarian"
@@ -1001,7 +1001,7 @@
   },
   {
     "id": "ac7cb5aa-d14f-43ee-9141-c16b74974eb4",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Storm Caller - Lightning Call",
     "identity": [
       "Barbarian"
@@ -1019,7 +1019,7 @@
   },
   {
     "id": "91a02de2-e493-4b2d-8b15-3f1bc30a3032",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Warlord - Empowering Presence",
     "identity": [
       "Barbarian"
@@ -1036,7 +1036,7 @@
   },
   {
     "id": "b305c7b8-81e6-4c8f-ad07-8acca61b08ea",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Warlord - Force of Will",
     "identity": [
       "Barbarian"
@@ -1054,7 +1054,7 @@
   },
   {
     "id": "186c1c5a-ebcd-4750-b674-db152beb6871",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Warlord - Fear and Awe",
     "identity": [
       "Barbarian"
@@ -1072,7 +1072,7 @@
   },
   {
     "id": "9a988ab5-3ec8-4117-883c-b8985fdb0b42",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Champion Spellcasting Increase",
     "identity": [
       "Champion"
@@ -1089,7 +1089,7 @@
   },
   {
     "id": "3daf4289-4afe-496d-b79a-dc79130ff28b",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Aura of Courage and Devotion",
     "identity": [
       "Champion"
@@ -1106,7 +1106,7 @@
   },
   {
     "id": "f2a59ed3-c09a-400a-b1e2-a3577016cc9a",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Aura of Glory",
     "identity": [
       "Champion"
@@ -1123,7 +1123,7 @@
   },
   {
     "id": "904125f5-a33b-4b35-90e1-3f9338f32af6",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Aura of Protection",
     "identity": [
       "Champion"
@@ -1141,7 +1141,7 @@
   },
   {
     "id": "3e86181c-25f8-4401-94ac-476e705f022e",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Aura of Sacrifice",
     "identity": [
       "Champion"
@@ -1158,7 +1158,7 @@
   },
   {
     "id": "9c6ff4a7-87a2-4ad6-ae58-61dbecc82913",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Aura of Warding",
     "identity": [
       "Champion"
@@ -1176,7 +1176,7 @@
   },
   {
     "id": "6cda53da-ca25-4a6c-859b-c4eeecd34d47",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Purification",
     "identity": [
       "Champion",
@@ -1194,7 +1194,7 @@
   },
   {
     "id": "de34988d-b854-4fcf-baa5-dd0489744609",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Retributive Strike",
     "identity": [
       "Champion"
@@ -1209,7 +1209,7 @@
   },
   {
     "id": "d627fd96-6a5c-458a-ae30-dd00c5c833b6",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Oath of the Sentinel Spells",
     "identity": [
       "Champion"
@@ -1226,7 +1226,7 @@
   },
   {
     "id": "314a6db4-f933-421d-8432-512a026707f8",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Oath of the Sentinel - Nature's Wrath",
     "identity": [
       "Champion"
@@ -1243,7 +1243,7 @@
   },
   {
     "id": "c3d9fc2b-3f7c-47c7-9a06-2124ce7badee",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Oath of the Sentinel - Undying Sentinel",
     "identity": [
       "Champion"
@@ -1261,7 +1261,7 @@
   },
   {
     "id": "cb00aab1-174b-41d3-b90f-a15fd267bf16",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Oath of the Sentinel - Elder Champion",
     "identity": [
       "Champion"
@@ -1279,7 +1279,7 @@
   },
   {
     "id": "d38fb7b7-947c-4111-babd-9061c1278442",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Oath of the Conqueror Spells",
     "identity": [
       "Champion"
@@ -1296,7 +1296,7 @@
   },
   {
     "id": "d6c286fc-3a16-4278-bc66-4d9865389557",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Oath of the Conqueror - Strike Fear",
     "identity": [
       "Champion"
@@ -1313,7 +1313,7 @@
   },
   {
     "id": "caf65fd7-a255-4c4a-ba23-9c781dc1a79e",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Oath of the Conqueror - Scornful Rebuke",
     "identity": [
       "Champion"
@@ -1331,7 +1331,7 @@
   },
   {
     "id": "d88be4a6-80d5-4efd-91dc-51208b0017f4",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Oath of the Conqueror - Invincible Conqueror",
     "identity": [
       "Champion"
@@ -1349,7 +1349,7 @@
   },
   {
     "id": "a084afcd-7b2a-4a94-8669-f83c7f7026a9",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Oath of the Protector Spells",
     "identity": [
       "Champion"
@@ -1366,7 +1366,7 @@
   },
   {
     "id": "462546a0-c8f6-4a9f-a681-3b3a2d00958f",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Oath of the Protector - Champion's Challenge",
     "identity": [
       "Champion"
@@ -1383,7 +1383,7 @@
   },
   {
     "id": "e36800bc-f953-48f1-b13a-3cfef719a004",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Oath of the Protector - Unbreakable Protector",
     "identity": [
       "Champion"
@@ -1401,7 +1401,7 @@
   },
   {
     "id": "fea35931-1e53-4970-a878-81b794e78fc6",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Oath of the Protector - Champion of the People",
     "identity": [
       "Champion"
@@ -1419,7 +1419,7 @@
   },
   {
     "id": "30cb956b-6125-4301-a66a-1aed13792873",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Oath of the Devoted Spells",
     "identity": [
       "Champion"
@@ -1436,7 +1436,7 @@
   },
   {
     "id": "0f6a2c80-bdd5-434c-ba0d-fc65d1424ac5",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Oath of the Devoted - Holy Blade",
     "identity": [
       "Champion"
@@ -1453,7 +1453,7 @@
   },
   {
     "id": "93215eb0-e824-4df6-8232-b21172c1429a",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Oath of the Devoted - Blessed and Bound",
     "identity": [
       "Champion"
@@ -1471,7 +1471,7 @@
   },
   {
     "id": "89f8369c-7bcf-4858-a6e4-922be6bffe9d",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Oath of the Devoted - Holy Radiance",
     "identity": [
       "Champion"
@@ -1489,7 +1489,7 @@
   },
   {
     "id": "48a027fc-1c04-44f6-81f6-2685ef76f5ab",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Oath of the Hero Spells",
     "identity": [
       "Champion"
@@ -1506,7 +1506,7 @@
   },
   {
     "id": "5a85d80f-afbd-4f8f-8c3d-590e193fe473",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Oath of the Hero - Heroic Fury",
     "identity": [
       "Champion"
@@ -1523,7 +1523,7 @@
   },
   {
     "id": "36911378-6410-4abf-9cc4-677e2fdc4b58",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Oath of the Hero - Glorious Defense",
     "identity": [
       "Champion"
@@ -1541,7 +1541,7 @@
   },
   {
     "id": "384dddb9-b2d1-43c7-8239-4ed4540813b2",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Oath of the Hero - Living Myth",
     "identity": [
       "Champion"
@@ -1559,7 +1559,7 @@
   },
   {
     "id": "f19f6368-58de-48e2-8721-a8c437f65060",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Oath of the Avenger Spells",
     "identity": [
       "Champion"
@@ -1576,7 +1576,7 @@
   },
   {
     "id": "f74f277b-212c-4ac7-9b11-c36315ed937e",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Oath of the Avenger - Force of Enmity",
     "identity": [
       "Champion"
@@ -1593,7 +1593,7 @@
   },
   {
     "id": "c602ee77-021d-495d-84b0-4604d18ff1d8",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Oath of the Avenger - Provoking Vow",
     "identity": [
       "Champion"
@@ -1611,7 +1611,7 @@
   },
   {
     "id": "29d98f0a-eded-4853-9f49-12937f86f401",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Oath of the Avenger - Avenging Angel",
     "identity": [
       "Champion"
@@ -1629,7 +1629,7 @@
   },
   {
     "id": "96691504-a823-4694-84f5-f61ab57b75e1",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Bloodline Spellcasting Increase",
     "identity": [
       "Inheritor"
@@ -1646,7 +1646,7 @@
   },
   {
     "id": "e76ccd40-d090-4c6a-b851-4d7d8e21026e",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Bend Luck",
     "identity": [
       "Inheritor"
@@ -1663,7 +1663,7 @@
   },
   {
     "id": "d703c8d4-8d57-453f-aab4-bfe1ba398745",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Metamagic",
     "identity": [
       "Inheritor"
@@ -1680,7 +1680,7 @@
   },
   {
     "id": "2b458099-434f-4416-8bc2-818493214e1c",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Bottomless Wellspring",
     "identity": [
       "Inheritor"
@@ -1698,7 +1698,7 @@
   },
   {
     "id": "3aa24707-a4b4-475c-b610-c30e0a5836a5",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Divine Bloodline Spells",
     "identity": [
       "Inheritor"
@@ -1716,7 +1716,7 @@
   },
   {
     "id": "18300bac-2199-492c-9f4a-20de88ab08bd",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Divine Bloodline - Blessed Influence",
     "identity": [
       "Inheritor"
@@ -1734,7 +1734,7 @@
   },
   {
     "id": "eda95c78-12b5-499e-98f2-9cfa12d3aa1f",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Divine Bloodline - Angelic Flight",
     "identity": [
       "Inheritor"
@@ -1752,7 +1752,7 @@
   },
   {
     "id": "6dde9706-358c-410e-b497-8c47e307831f",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Divine Bloodline - Divine Rebirth",
     "identity": [
       "Inheritor"
@@ -1770,7 +1770,7 @@
   },
   {
     "id": "d89de61e-b1c9-484d-941d-67bbba652d65",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Draconic Bloodline Spells",
     "identity": [
       "Inheritor"
@@ -1788,7 +1788,7 @@
   },
   {
     "id": "6267ca9b-b04b-409c-8c61-c2978665e8b5",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Draconic Bloodline - Ancestral Influence",
     "identity": [
       "Inheritor"
@@ -1805,7 +1805,7 @@
   },
   {
     "id": "3ec0548b-3eb1-49b4-a78a-98fec7577c5d",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Draconic Bloodline - Draconic Flight",
     "identity": [
       "Inheritor"
@@ -1823,7 +1823,7 @@
   },
   {
     "id": "38768a4b-1957-436c-941b-f7bdcd75c22b",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Draconic Bloodline - Behold the Dragon",
     "identity": [
       "Inheritor"
@@ -1841,7 +1841,7 @@
   },
   {
     "id": "0824dc9b-bb07-4467-bea3-051e848ace5a",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Profane Bloodline Spells",
     "identity": [
       "Inheritor"
@@ -1859,7 +1859,7 @@
   },
   {
     "id": "faeb7f9a-3bbe-4944-96a9-c8ed23c61a4f",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Profane Bloodline - Living Shadow",
     "identity": [
       "Inheritor"
@@ -1876,7 +1876,7 @@
   },
   {
     "id": "ab787246-29f7-4bd2-abe1-55b860a6a5ba",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Profane Bloodline - Shadow Step",
     "identity": [
       "Inheritor"
@@ -1894,7 +1894,7 @@
   },
   {
     "id": "5fc3f454-0f22-4495-adef-b3fffa96aac6",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Profane Bloodline - Become the Shadow",
     "identity": [
       "Inheritor"
@@ -1912,7 +1912,7 @@
   },
   {
     "id": "7d2b610e-9987-4bc4-9a00-9875d380bfb7",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Storm Spirit Bloodline Spells",
     "identity": [
       "Inheritor"
@@ -1930,7 +1930,7 @@
   },
   {
     "id": "c45a21db-6278-4ac3-91c5-281a42f69614",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Storm Spirit Bloodline - Invoke the Storm",
     "identity": [
       "Inheritor"
@@ -1947,7 +1947,7 @@
   },
   {
     "id": "c0963c4a-ecc7-44ff-8522-d5eb22a42dd0",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Storm Spirit Bloodline - Static Charge",
     "identity": [
       "Inheritor"
@@ -1965,7 +1965,7 @@
   },
   {
     "id": "92b30431-b038-41d7-abe2-ad3317a29916",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Storm Spirit Bloodline - Storm's Flight",
     "identity": [
       "Inheritor"
@@ -1983,7 +1983,7 @@
   },
   {
     "id": "d33d283e-77bd-4a96-b94b-48814f3fa474",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Psion Bloodline Spells",
     "identity": [
       "Inheritor"
@@ -2001,7 +2001,7 @@
   },
   {
     "id": "aa051c64-6036-4d50-b822-dc03fbbcfa96",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Psion Bloodline - Subtle Casting",
     "identity": [
       "Inheritor"
@@ -2018,7 +2018,7 @@
   },
   {
     "id": "07ec861e-f307-4b36-b273-31e2724bf448",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Psion Bloodline - Psionic Warp",
     "identity": [
       "Inheritor"
@@ -2036,7 +2036,7 @@
   },
   {
     "id": "6ef0b1b8-77f4-465d-96be-613a5be1c5d6",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Psion Bloodline - Mass Mind Reader",
     "identity": [
       "Inheritor"
@@ -2054,7 +2054,7 @@
   },
   {
     "id": "e95e49b2-1037-42bb-ae58-a83194dd38cd",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Astral Protection",
     "identity": [
       "Mystic"
@@ -2071,7 +2071,7 @@
   },
   {
     "id": "2c483d59-1040-41e0-a7f9-5cdfe8ace92b",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Deflect Missiles",
     "identity": [
       "Mystic"
@@ -2088,7 +2088,7 @@
   },
   {
     "id": "b4cc40d5-5866-4a32-b8ea-064bc4e0c220",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Flexibility of Mind",
     "identity": [
       "Mystic"
@@ -2106,7 +2106,7 @@
   },
   {
     "id": "6d2149fc-cdb4-4f0d-8aaf-5c12cc19870a",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Ki-Touched Mind",
     "identity": [
       "Mystic"
@@ -2124,7 +2124,7 @@
   },
   {
     "id": "3d4ee096-f51b-4ec1-8409-ee9f87a07869",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Slow Fall",
     "identity": [
       "Mystic"
@@ -2141,7 +2141,7 @@
   },
   {
     "id": "3cc8a24c-8b5e-4f46-a597-cffed2a957a8",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Stunning Strike",
     "identity": [
       "Mystic"
@@ -2158,7 +2158,7 @@
   },
   {
     "id": "48e9d783-c4ba-4f33-852f-5eeebd1d10fb",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Unarmed Momentum",
     "identity": [
       "Mystic"
@@ -2175,7 +2175,7 @@
   },
   {
     "id": "acc4dd37-faf1-492f-b71f-75edef3e2751",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Drunken Master - Drunken Wanderer",
     "identity": [
       "Mystic"
@@ -2192,7 +2192,7 @@
   },
   {
     "id": "7ff3eaa2-5074-434c-adce-c9a68129e9c7",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Drunken Master - Lucky Bounce",
     "identity": [
       "Mystic"
@@ -2211,7 +2211,7 @@
   },
   {
     "id": "dea8dfad-6672-492c-99d2-6de3967f55b3",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Drunken Master - A Round for Everyone",
     "identity": [
       "Mystic"
@@ -2229,7 +2229,7 @@
   },
   {
     "id": "fb4021e5-9a98-4387-b32b-a57a6837d599",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Kensei - Agile Parry",
     "identity": [
       "Mystic"
@@ -2246,7 +2246,7 @@
   },
   {
     "id": "a853b761-e368-4e64-bc1c-34fc8d844633",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Kensei - Martial Disciple",
     "identity": [
       "Mystic"
@@ -2266,7 +2266,7 @@
   },
   {
     "id": "3e5bbfac-17fe-4ffe-a0d6-04ac07b635f6",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Kensei - Preserved Momentum",
     "identity": [
       "Mystic"
@@ -2284,7 +2284,7 @@
   },
   {
     "id": "2c63b414-ddbc-4813-9bea-623ae788b344",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Open Hand - Manipulative Strikes",
     "identity": [
       "Mystic"
@@ -2301,7 +2301,7 @@
   },
   {
     "id": "c20d11d2-7032-4cbd-9c98-6b28948f4aff",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Open Hand - Peaceful Wanderer",
     "identity": [
       "Mystic"
@@ -2319,7 +2319,7 @@
   },
   {
     "id": "03cde9a2-9881-4d91-a523-1d4a9cf7336a",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Open Hand - Quivering Palm",
     "identity": [
       "Mystic"
@@ -2337,7 +2337,7 @@
   },
   {
     "id": "d44a5a8b-78ab-4866-b614-94d8f5b10775",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Shadow - Fade into Darkness",
     "identity": [
       "Mystic"
@@ -2354,7 +2354,7 @@
   },
   {
     "id": "bdb6ed91-1068-4383-b2d1-4462812e85f3",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Shadow - Linked Shadows",
     "identity": [
       "Mystic"
@@ -2372,7 +2372,7 @@
   },
   {
     "id": "58ee7546-e803-466e-b989-2f8d3b0e6b99",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Shadow - And One from Me",
     "identity": [
       "Mystic"
@@ -2390,7 +2390,7 @@
   },
   {
     "id": "20fa9b65-1f26-43f4-b7e4-efa09e76fcb8",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Sun Soul - Flaming Fists",
     "identity": [
       "Mystic"
@@ -2407,7 +2407,7 @@
   },
   {
     "id": "6bf24df0-567a-4390-938f-1fd8dfa718f2",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Sun Soul - Summon the Sun",
     "identity": [
       "Mystic"
@@ -2426,7 +2426,7 @@
   },
   {
     "id": "9b254f68-084f-442c-b2e5-80267c22732c",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Sun Soul - Radiant Glow",
     "identity": [
       "Mystic"
@@ -2444,7 +2444,7 @@
   },
   {
     "id": "eefee0e9-0130-442c-b28f-7c3ba29efb35",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Priest Spellcasting Increase",
     "identity": [
       "Priest"
@@ -2461,7 +2461,7 @@
   },
   {
     "id": "ef0f8df0-372b-4828-a0e9-309f2dc2e9c0",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Cast Down",
     "identity": [
       "Priest"
@@ -2478,7 +2478,7 @@
   },
   {
     "id": "e7290903-cf1a-4755-b311-ec4f936736ca",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Divine Strike",
     "identity": [
       "Priest"
@@ -2495,7 +2495,7 @@
   },
   {
     "id": "62dce8f9-4c2b-4882-9f27-43fd815f661d",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Eternal Blessing",
     "identity": [
       "Priest"
@@ -2513,7 +2513,7 @@
   },
   {
     "id": "e6314c89-1ad4-4020-b0e9-d1f30f800d7d",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Powerful Healer",
     "identity": [
       "Priest"
@@ -2530,7 +2530,7 @@
   },
   {
     "id": "567b0eb5-1b04-414d-a8eb-8ddcc8c18ea9",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Snatched from the Grave",
     "identity": [
       "Priest"
@@ -2548,7 +2548,7 @@
   },
   {
     "id": "cb23e20d-95fe-457e-a9eb-13161ab3dd01",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Arcana Domain Spells",
     "identity": [
       "Priest"
@@ -2565,7 +2565,7 @@
   },
   {
     "id": "a1ffa94f-43d7-49d3-95ec-9ebcb466c844",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Arcana Domain - Arcane Initiate",
     "identity": [
       "Priest"
@@ -2582,7 +2582,7 @@
   },
   {
     "id": "649030c3-c557-48ba-ad93-049ecef89df5",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Arcana Domain - Purging Heals",
     "identity": [
       "Priest"
@@ -2600,7 +2600,7 @@
   },
   {
     "id": "f38435a3-b982-4211-8702-92ee1ff94173",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Arcana Domain - Expansive Knowledge",
     "identity": [
       "Priest"
@@ -2619,7 +2619,7 @@
   },
   {
     "id": "a31574d0-47af-45b1-8760-1182563e4403",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Creation Domain Spells",
     "identity": [
       "Priest"
@@ -2636,7 +2636,7 @@
   },
   {
     "id": "1c9558b4-f291-40e0-97a3-6f786d7a2776",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Creation Domain - Empowered Weapon",
     "identity": [
       "Priest"
@@ -2653,7 +2653,7 @@
   },
   {
     "id": "223d54d8-ae57-47c3-be5d-d943fe85a96c",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Creation Domain - Fire Hardened Plates",
     "identity": [
       "Priest"
@@ -2671,7 +2671,7 @@
   },
   {
     "id": "15001a55-611f-4b4b-a912-6d3528783305",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Creation Domain - Saint of the Forge",
     "identity": [
       "Priest"
@@ -2689,7 +2689,7 @@
   },
   {
     "id": "14c89c23-d2fd-4e95-94cb-e7a1b593f260",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Death Domain Spells",
     "identity": [
       "Priest"
@@ -2706,7 +2706,7 @@
   },
   {
     "id": "28fb8774-7435-46ca-9f99-81ed6f8c7c54",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Death Domain - Epidemic Necromancy",
     "identity": [
       "Priest"
@@ -2723,7 +2723,7 @@
   },
   {
     "id": "b07013a2-7c07-4c80-ace2-88fbd48e3351",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Death Domain - Corrupting Spells",
     "identity": [
       "Priest"
@@ -2741,7 +2741,7 @@
   },
   {
     "id": "2e1eba4b-4c7e-4682-9c3e-ba1f9a59368f",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Death Domain - Feast on the Dark",
     "identity": [
       "Priest"
@@ -2759,7 +2759,7 @@
   },
   {
     "id": "de7c06f2-f71b-437c-9aaf-e6b4e16c0c9d",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Life Domain Spells",
     "identity": [
       "Priest"
@@ -2776,7 +2776,7 @@
   },
   {
     "id": "3b7c128a-4178-4616-bc0d-3cbbb68cc0fb",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Life Domain - Practiced Healer",
     "identity": [
       "Priest"
@@ -2793,7 +2793,7 @@
   },
   {
     "id": "689c6b87-5962-4568-a335-b89320fba8fa",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Life Domain - Protective Healing",
     "identity": [
       "Priest"
@@ -2811,7 +2811,7 @@
   },
   {
     "id": "9a499c2f-c605-4779-8588-7b64c316d132",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Life Domain - Flawless Healing",
     "identity": [
       "Priest"
@@ -2829,7 +2829,7 @@
   },
   {
     "id": "ccb9f8e6-c1d6-40c4-aedc-4c3fbda560a5",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Light Domain Spells",
     "identity": [
       "Priest"
@@ -2846,7 +2846,7 @@
   },
   {
     "id": "50c5693e-78ff-4f05-a59c-cb6dbc2fdad0",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Light Domain - Warding Flare",
     "identity": [
       "Priest"
@@ -2863,7 +2863,7 @@
   },
   {
     "id": "e6181645-d723-4232-ad4d-3204a5864494",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Light Domain - Mobile Flare",
     "identity": [
       "Priest"
@@ -2881,7 +2881,7 @@
   },
   {
     "id": "313a7253-8547-48b0-9903-507d80a3b110",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Light Domain - Corona of Light",
     "identity": [
       "Priest"
@@ -2899,7 +2899,7 @@
   },
   {
     "id": "2d2778f8-fdec-49ae-bbf9-7501c6fd30cd",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Nature Domain Spells",
     "identity": [
       "Priest"
@@ -2916,7 +2916,7 @@
   },
   {
     "id": "aff8740b-c132-4186-83fb-7766c0db6a04",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Nature Domain - Primal Practitioner",
     "identity": [
       "Priest"
@@ -2933,7 +2933,7 @@
   },
   {
     "id": "70602854-b9c8-4fa5-be5d-12987d1276c1",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Nature Domain - Warded from the Elements",
     "identity": [
       "Priest"
@@ -2951,7 +2951,7 @@
   },
   {
     "id": "399c30c5-b0b2-408c-b14f-9e0510dce445",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Nature Domain - Nature's Ally",
     "identity": [
       "Priest"
@@ -2969,7 +2969,7 @@
   },
   {
     "id": "b589785b-b828-4130-9eaf-19ce65bc7a3b",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Order Domain Spells",
     "identity": [
       "Priest"
@@ -2986,7 +2986,7 @@
   },
   {
     "id": "6342ef1b-b3b6-4854-ae91-dd98237ecace",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Order Domain - Commanding Influence",
     "identity": [
       "Priest"
@@ -3003,7 +3003,7 @@
   },
   {
     "id": "ec3786ba-0655-4a8f-b866-6b8325cd01b9",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Order Domain - Quick Commands",
     "identity": [
       "Priest"
@@ -3021,7 +3021,7 @@
   },
   {
     "id": "9f78bc05-22a8-4974-a853-a82b4da7f209",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Order Domain - Lead the Masses",
     "identity": [
       "Priest"
@@ -3039,7 +3039,7 @@
   },
   {
     "id": "c95c31b3-d747-4dc8-85ce-27fefb99607f",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Tempest Domain Spells",
     "identity": [
       "Priest"
@@ -3056,7 +3056,7 @@
   },
   {
     "id": "3863e6ea-705d-4c44-91d1-154d98f7e57f",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Tempest Domain - Storm's Rebuke",
     "identity": [
       "Priest"
@@ -3073,7 +3073,7 @@
   },
   {
     "id": "6f84aa1e-d907-43b4-ba50-b83661291c44",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Tempest Domain - Forceful Crash",
     "identity": [
       "Priest"
@@ -3091,7 +3091,7 @@
   },
   {
     "id": "c284ae11-3930-4130-916b-6bf4651737ab",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Tempest Domain - Storm's Lift",
     "identity": [
       "Priest"
@@ -3109,7 +3109,7 @@
   },
   {
     "id": "d39bffef-4260-48ab-9c93-4bb85be357c6",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Trickery Domain Spells",
     "identity": [
       "Priest"
@@ -3126,7 +3126,7 @@
   },
   {
     "id": "8743f22b-ba02-4e6a-93a9-f40c6ed60d95",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Trickery Domain - Hidden Blessing",
     "identity": [
       "Priest"
@@ -3143,7 +3143,7 @@
   },
   {
     "id": "3660ef20-1058-438c-8c88-c587f67a74d4",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Trickery Domain - Now You See Me",
     "identity": [
       "Priest"
@@ -3161,7 +3161,7 @@
   },
   {
     "id": "66f33d78-400e-4c0a-a41c-0bf7988f1dae",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Trickery Domain - Perfect Copy",
     "identity": [
       "Priest"
@@ -3179,7 +3179,7 @@
   },
   {
     "id": "ff38a1cc-072e-4f1d-8d2f-ba93a0c48fbc",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "War Domain Spells",
     "identity": [
       "Priest"
@@ -3196,7 +3196,7 @@
   },
   {
     "id": "7c4e20b7-849f-42df-9669-e0f905c97a5b",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice War Domain - We Hold",
     "identity": [
       "Priest"
@@ -3213,7 +3213,7 @@
   },
   {
     "id": "9bfa30c0-68fc-4f56-b924-c37c6cb9ef0b",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert War Domain - Guided Strikes",
     "identity": [
       "Priest"
@@ -3231,7 +3231,7 @@
   },
   {
     "id": "7f78c53b-b0e6-409a-8c6e-7dd55c7443b6",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Cunning Action",
     "identity": [
       "Scoundrel"
@@ -3248,7 +3248,7 @@
   },
   {
     "id": "e445696a-208e-4a80-b731-9c69f2951fd8",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Elusive",
     "identity": [
       "Scoundrel",
@@ -3266,7 +3266,7 @@
   },
   {
     "id": "ff58481b-a6a3-40bf-a160-857950ceb90e",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Evasion",
     "identity": [
       "Scoundrel",
@@ -3285,7 +3285,7 @@
   },
   {
     "id": "5af136bc-0e86-454f-9a1b-85be3efc0902",
-    "coreFeature": true,
+    "featureType": "Core",
     "name": "Expert",
     "identity": [
       "Scoundrel"
@@ -3302,7 +3302,7 @@
   },
   {
     "id": "ce2e658b-f047-4318-b0dc-4788d7570b6a",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Nimble",
     "identity": [
       "Scoundrel",
@@ -3320,7 +3320,7 @@
   },
   {
     "id": "74aa168f-0092-4150-8cc7-1dce578f6c58",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Remarkable Reflexes",
     "identity": [
       "Scoundrel"
@@ -3337,7 +3337,7 @@
   },
   {
     "id": "d5e75332-d666-456a-a177-a248a07db120",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Stroke of Luck",
     "identity": [
       "Scoundrel"
@@ -3354,7 +3354,7 @@
   },
   {
     "id": "7d1c6292-8fc7-4e93-b492-09b0afa6d426",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Uncanny Dodge",
     "identity": [
       "Scoundrel",
@@ -3372,7 +3372,7 @@
   },
   {
     "id": "293a127d-2e5e-44c4-b16e-938ec948b2de",
-    "coreFeature":true,
+    "featureType": "Subclass",
     "name": "Novice Arcane Trickster - Mage Hand Expert",
     "identity": [
       "Scoundrel"
@@ -3389,7 +3389,7 @@
   },
   {
     "id": "937f75c3-ba30-46b2-9aa0-b075c2844a20",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Arcane Trickster - Look at the Hand",
     "identity": [
       "Scoundrel"
@@ -3407,7 +3407,7 @@
   },
   {
     "id": "14597046-83c5-40b7-9723-9e5bb84dd083",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Arcane Trickster - Spell Theif",
     "identity": [
       "Scoundrel"
@@ -3425,7 +3425,7 @@
   },
   {
     "id": "afb72407-a308-4198-855c-fa8633559ab4",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Assassin - Ambush",
     "identity": [
       "Scoundrel"
@@ -3442,7 +3442,7 @@
   },
   {
     "id": "5b3d2a57-229e-46b7-97dc-7adcf72424b8",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Assassin - Infiltrator",
     "identity": [
       "Scoundrel"
@@ -3460,7 +3460,7 @@
   },
   {
     "id": "b2aa81a7-c016-46aa-b205-b80139ef124d",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Assassin - Coup De Grace",
     "identity": [
       "Scoundrel"
@@ -3478,7 +3478,7 @@
   },
   {
     "id": "cd9945e5-8886-4db3-be6a-c8c0a48dc3fc",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Mastermind - Act the Part",
     "identity": [
       "Scoundrel"
@@ -3495,7 +3495,7 @@
   },
   {
     "id": "cc39beae-88c7-4430-bd04-a768686dda1d",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Mastermind - Help from Afar",
     "identity": [
       "Scoundrel"
@@ -3513,7 +3513,7 @@
   },
   {
     "id": "12fb80b1-8a8a-43c5-a42d-0deb6eb47ccf",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Mastermind - Nope, Not Me",
     "identity": [
       "Scoundrel"
@@ -3531,7 +3531,7 @@
   },
   {
     "id": "751a5a5c-7a54-477b-908c-d26161ba7c68",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Poisoner - Poisoner's Vial",
     "identity": [
       "Scoundrel"
@@ -3548,7 +3548,7 @@
   },
   {
     "id": "98b14a40-6979-4c55-97ce-12c32a6fd1d3",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Poisoner - Custom Toxins",
     "identity": [
       "Scoundrel"
@@ -3566,7 +3566,7 @@
   },
   {
     "id": "dfe63b6c-a3d0-4beb-9b1b-8ec3b1066878",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Poisoner - Magical Toxins",
     "identity": [
       "Scoundrel"
@@ -3584,7 +3584,7 @@
   },
   {
     "id": "29da9ba0-9fdd-4ba9-9f96-646107ad8d1c",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Ruffian - Anything Will Do",
     "identity": [
       "Scoundrel"
@@ -3601,7 +3601,7 @@
   },
   {
     "id": "abaa9e84-f490-4cc8-89c1-8ee37a384abf",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Ruffian - Gut Punch",
     "identity": [
       "Scoundrel"
@@ -3619,7 +3619,7 @@
   },
   {
     "id": "382158a4-97fd-4e90-a48f-9b53869f0d4a",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Ruffian - Crippling Strikes",
     "identity": [
       "Scoundrel"
@@ -3637,7 +3637,7 @@
   },
   {
     "id": "7d546999-6334-4dd3-942e-cac73f38e29c",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Scout - On the Move",
     "identity": [
       "Scoundrel"
@@ -3654,7 +3654,7 @@
   },
   {
     "id": "0fd301a9-4a0b-4159-8eee-793d45a8aa5d",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Scout - Forward Operator",
     "identity": [
       "Scoundrel"
@@ -3672,7 +3672,7 @@
   },
   {
     "id": "aae7c412-95ed-40d2-bf88-566f31995a90",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Scout - Clear the Camp",
     "identity": [
       "Scoundrel"
@@ -3690,7 +3690,7 @@
   },
   {
     "id": "f5c374cb-adec-475c-adc7-f6a144b149cd",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Swashbuckler - En Guarde",
     "identity": [
       "Scoundrel"
@@ -3707,7 +3707,7 @@
   },
   {
     "id": "f966e6aa-bac3-44d9-8fc2-15120b746280",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Swashbuckler - Taunting Bravado",
     "identity": [
       "Scoundrel"
@@ -3725,7 +3725,7 @@
   },
   {
     "id": "98a64ae5-1e5a-4713-b4a9-9036a09d634f",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Swashbuckler - Panache",
     "identity": [
       "Scoundrel"
@@ -3743,7 +3743,7 @@
   },
   {
     "id": "a62f26ee-6bfa-4ebb-8cfb-e6bff83a2396",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Spellblade Spellcasting Increase",
     "identity": [
       "Spellblade"
@@ -3760,7 +3760,7 @@
   },
   {
     "id": "879ea06b-57aa-4e2b-a754-5ba1d0558657",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Arcane Propulsion",
     "identity": [
       "Spellblade",
@@ -3778,7 +3778,7 @@
   },
   {
     "id": "9bfc5e55-15e2-40d9-8653-57b8f00b163a",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Durable Magic",
     "identity": [
       "Spellblade",
@@ -3802,7 +3802,7 @@
   },
   {
     "id": "52841d48-da0b-4057-9952-a1c6d2fd5828",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Enchanted Blade",
     "identity": [
       "Spellblade",
@@ -3820,7 +3820,7 @@
   },
   {
     "id": "20c8e9ee-2d78-4a8b-9363-70abb0695538",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Enhanced Shield",
     "identity": [
       "Spellblade"
@@ -3837,7 +3837,7 @@
   },
   {
     "id": "b3085d3c-ba28-4682-8993-678e1792bd5d",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Spell Scholar",
     "identity": [
       "Spellblade"
@@ -3854,7 +3854,7 @@
   },
   {
     "id": "b9ac86d0-0ec0-40b2-a560-2f1996534b06",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Bastion - Arcane Defense",
     "identity": [
       "Spellblade"
@@ -3871,7 +3871,7 @@
   },
   {
     "id": "09e1ce28-8504-4970-8b71-f457e9da92bb",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Bastion - Bulwark's Defense",
     "identity": [
       "Spellblade"
@@ -3889,7 +3889,7 @@
   },
   {
     "id": "71b7ff99-7156-4111-b223-bde01d35a306",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Bastion - The Wall",
     "identity": [
       "Spellblade"
@@ -3907,7 +3907,7 @@
   },
   {
     "id": "b748641e-cae3-40b1-b55d-71777612e953",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Artillerist - Wand Master",
     "identity": [
       "Spellblade"
@@ -3924,7 +3924,7 @@
   },
   {
     "id": "0a3fe91b-4828-4266-8a2b-52a2d11538fe",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Artillerist - Efficient Missiles",
     "identity": [
       "Spellblade"
@@ -3942,7 +3942,7 @@
   },
   {
     "id": "4e74a9c3-dfd0-434e-ba92-2439317228ea",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Artillerist - Overwhelming Barrage",
     "identity": [
       "Spellblade"
@@ -3960,7 +3960,7 @@
   },
   {
     "id": "d4584a8d-9e2a-43f7-9d1c-23e3968e9fd7",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Warden Spellcasting Increase",
     "identity": [
       "Warden"
@@ -3977,7 +3977,7 @@
   },
   {
     "id": "e06c924a-d1c9-43d4-a33d-d1235fff146d",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Companion Training",
     "identity": [
       "Warden",
@@ -3993,7 +3993,7 @@
   },
   {
     "id": "2373d009-374e-4905-8394-9617e2593470",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Fade Away",
     "identity": [
       "Warden"
@@ -4010,7 +4010,7 @@
   },
   {
     "id": "e460f94a-a501-405a-9320-d85a1ae07713",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Feral Senses",
     "identity": [
       "Warden",
@@ -4028,7 +4028,7 @@
   },
   {
     "id": "1e2acb3c-fb9d-403f-a720-07f39773d7a4",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Lands Stride",
     "identity": [
       "Warden"
@@ -4045,7 +4045,7 @@
   },
   {
     "id": "466d7030-84c2-4bfa-8a8a-550c0c9f7f3c",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Precision Aim",
     "identity": [
       "Warden"
@@ -4063,7 +4063,7 @@
   },
   {
     "id": "7bcd3a43-8751-4c7c-9d02-d5fc1985104e",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Predator's Insight",
     "identity": [
       "Warden"
@@ -4080,7 +4080,7 @@
   },
   {
     "id": "a3942c10-b1a7-4e6b-9143-8c74e3325540",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Targeted Weaknesses",
     "identity": [
       "Warden"
@@ -4098,7 +4098,7 @@
   },
   {
     "id": "04d30ffd-db1c-40f9-b516-413cb647f203",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Rover",
     "identity": [
       "Warden",
@@ -4117,7 +4117,7 @@
   },
   {
     "id": "bcdbba9e-e85e-4729-be3c-2977d317c67f",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Connecting Mark",
     "identity": [
       "Warden"
@@ -4135,7 +4135,7 @@
   },
   {
     "id": "c5617a43-be01-4ca8-87ba-c1c5cb407d30",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Hunter Conclave Spells",
     "identity": [
       "Warden"
@@ -4152,7 +4152,7 @@
   },
   {
     "id": "fdf4ccc7-e290-4591-ac2e-3da01644ea94",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Hunter - Focus",
     "identity": [
       "Warden"
@@ -4169,7 +4169,7 @@
   },
   {
     "id": "286b9406-56ad-4d53-a443-61455db326ad",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Hunter - Surrounded",
     "identity": [
       "Warden"
@@ -4187,7 +4187,7 @@
   },
   {
     "id": "1f0094be-a79d-4320-8799-686b9e84dbd4",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Hunter - Hunter's Defense",
     "identity": [
       "Warden"
@@ -4205,7 +4205,7 @@
   },
   {
     "id": "616eeb82-522f-4472-b7c4-04705fe9563a",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Fade Walker Conclave Spells",
     "identity": [
       "Warden"
@@ -4222,7 +4222,7 @@
   },
   {
     "id": "61038cf6-4ae6-4360-b552-6a1bb30e08ff",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Fade Walker - Fade Wound",
     "identity": [
       "Warden"
@@ -4239,7 +4239,7 @@
   },
   {
     "id": "19580a2d-a680-4673-9603-acab2074a0d9",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Fade Walker - Step Out and In",
     "identity": [
       "Warden"
@@ -4257,7 +4257,7 @@
   },
   {
     "id": "28ab1526-c9d5-4e1a-b3c5-aea60168d388",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Fade Walker - Fade Strikes",
     "identity": [
       "Warden"
@@ -4275,7 +4275,7 @@
   },
   {
     "id": "d7f6943f-b000-4720-89e3-99d96226ac62",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Night Stalker Conclave Spells",
     "identity": [
       "Warden"
@@ -4292,7 +4292,7 @@
   },
   {
     "id": "244eec70-2a34-41c6-bb42-12370e313f80",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Night Stalker - One With The Dark",
     "identity": [
       "Warden"
@@ -4309,7 +4309,7 @@
   },
   {
     "id": "a62ffe64-cb11-4569-82ec-de515e343883",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Night Stalker - Bring The Dark",
     "identity": [
       "Warden"
@@ -4327,7 +4327,7 @@
   },
   {
     "id": "2062f6f8-30af-4891-968d-03ecda67498b",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Night Stalker - Always Elusive",
     "identity": [
       "Warden"
@@ -4345,7 +4345,7 @@
   },
   {
     "id": "19cc5d2f-bbff-48ee-8ba1-53cee7e5878e",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Drakewarden Conclave Spells",
     "identity": [
       "Warden"
@@ -4362,7 +4362,7 @@
   },
   {
     "id": "d3785e52-d3ca-4503-91d0-b203fa06c313",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Drakewarden - Dragonling",
     "identity": [
       "Warden"
@@ -4379,7 +4379,7 @@
   },
   {
     "id": "ff4832be-23ea-490f-8d5a-2e5824d5c868",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Drakewarden - Dragon's Breath",
     "identity": [
       "Warden"
@@ -4398,7 +4398,7 @@
   },
   {
     "id": "86fc2871-6ee9-4114-bcea-1c0e55a0c51f",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Drakewarden - Elemental Bond",
     "identity": [
       "Warden"
@@ -4416,7 +4416,7 @@
   },
   {
     "id": "51dae538-3796-4a3a-a582-ffab5e2f6b62",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Fighting Style",
     "identity": [
       "Warrior",
@@ -4435,7 +4435,7 @@
   },
   {
     "id": "17c535bd-d53b-4538-83b2-4f1290ed5267",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Maneuver Master",
     "identity": [
       "Warrior",
@@ -4455,7 +4455,7 @@
   },
   {
     "id": "39f92276-63ef-4d2d-b852-de65df20e65b",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Indomitable",
     "identity": [
       "Warrior"
@@ -4472,7 +4472,7 @@
   },
   {
     "id": "1fe59c31-79b8-45af-9d4d-593f5957a6b6",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Improved Critical",
     "identity": [
       "Warrior",
@@ -4492,7 +4492,7 @@
   },
   {
     "id": "bb25c596-7036-4e7b-a0ae-10786df8d70d",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Superior Critical",
     "identity": [
       "Warrior"
@@ -4510,7 +4510,7 @@
   },
   {
     "id": "dbe7503d-1a8b-444b-868d-c59543dbe409",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Survivor",
     "identity": [
       "Warrior"
@@ -4527,7 +4527,7 @@
   },
   {
     "id": "2160d8c4-f2a4-4c92-8d2c-5fa188a5bc1c",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Arcane Archer - Arcane Shot",
     "identity": [
       "Warrior"
@@ -4544,7 +4544,7 @@
   },
   {
     "id": "025f575d-5a93-4915-8d63-2340b0512110",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Arcane Archer - Curved Shot",
     "identity": [
       "Warrior"
@@ -4562,7 +4562,7 @@
   },
   {
     "id": "8f298072-ce16-4826-aac1-b385be8f02e0",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Arcane Archer - Empowered Shot",
     "identity": [
       "Warrior"
@@ -4580,7 +4580,7 @@
   },
   {
     "id": "f7330b96-2017-4825-8903-f0c1ac9f1ef1",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Cavalier - Mounted Warrior",
     "identity": [
       "Warrior"
@@ -4597,7 +4597,7 @@
   },
   {
     "id": "05d463e7-56b9-476a-8dcb-3688adc4cca0",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Cavalier - Warding Mark",
     "identity": [
       "Warrior"
@@ -4615,7 +4615,7 @@
   },
   {
     "id": "ea4847a3-2559-4881-8d9c-c93ea824d385",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Cavalier - Run Them Down",
     "identity": [
       "Warrior"
@@ -4633,7 +4633,7 @@
   },
   {
     "id": "4f22d07e-120c-430b-a0e9-a16bfacb4200",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Samurai - Fighting Spirit",
     "identity": [
       "Warrior"
@@ -4650,7 +4650,7 @@
   },
   {
     "id": "3ccae683-76a5-4143-98b3-21f0bc43dd2e",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Samurai - Perceptive Discipline",
     "identity": [
       "Warrior"
@@ -4668,7 +4668,7 @@
   },
   {
     "id": "3743c213-b8dc-4f4d-af2b-dbe7482cb612",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Samurai - Delayed Defeat",
     "identity": [
       "Warrior"
@@ -4686,7 +4686,7 @@
   },
   {
     "id": "38aeac70-df27-43bb-b1be-58bec11a5fb3",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Wildling Spellcasting Increase",
     "identity": [
       "Wildling"
@@ -4703,7 +4703,7 @@
   },
   {
     "id": "589cfbbb-fdbc-4fd9-9d20-28014af847b3",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Fey Companion",
     "identity": [
       "Wildling",
@@ -4721,7 +4721,7 @@
   },
   {
     "id": "9289f24e-edf2-436c-9232-694302a61343",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Beast Spells",
     "identity": [
       "Wildling"
@@ -4739,7 +4739,7 @@
   },
   {
     "id": "465679d5-16dc-42af-a0d4-a7ed73566563",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Nature's Sanctuary",
     "identity": [
       "Wildling"
@@ -4756,7 +4756,7 @@
   },
   {
     "id": "9cb4a397-0971-4daf-9545-13e37b258661",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Pest Form",
     "identity": [
       "Wildling"
@@ -4773,7 +4773,7 @@
   },
   {
     "id": "99cd20c7-71b0-4a37-8fda-a37f1f694b87",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Furious Form",
     "identity": [
       "Wildling"
@@ -4790,7 +4790,7 @@
   },
   {
     "id": "3e842523-be71-4507-ba26-c2a6d97ad460",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Empowered Form",
     "identity": [
       "Wildling"
@@ -4808,7 +4808,7 @@
   },
   {
     "id": "b9e882da-6e0c-4fb4-bd43-bf75c7b1f025",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Monstrous Form",
     "identity": [
       "Wildling"
@@ -4826,7 +4826,7 @@
   },
   {
     "id": "70d48baf-e04a-4391-ae3d-dabce7856a84",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Primal Regeneration",
     "identity": [
       "Wildling"
@@ -4844,7 +4844,7 @@
   },
   {
     "id": "4f6982d2-5945-4c56-a833-2911b51bd55e",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Verdant Weapon",
     "identity": [
       "Wildling",
@@ -4862,7 +4862,7 @@
   },
   {
     "id": "ec312a9a-2a98-4a2d-895c-cca36dd8faf2",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Shaman Conclave Spells",
     "identity": [
       "Wildling"
@@ -4879,7 +4879,7 @@
   },
   {
     "id": "072619a8-79e6-4e0f-a4a9-8112adeba276",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Shaman - Mistwalker",
     "identity": [
       "Wildling"
@@ -4896,7 +4896,7 @@
   },
   {
     "id": "bc9287fe-7750-4d69-aa63-644f3492403a",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Shaman - Elemental Protection",
     "identity": [
       "Wildling"
@@ -4914,7 +4914,7 @@
   },
   {
     "id": "60ca4657-2fbb-46c1-aabb-dc133f1852f5",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Shaman - Protected by Nature",
     "identity": [
       "Wildling"
@@ -4932,7 +4932,7 @@
   },
   {
     "id": "3da3c349-1a96-4b94-9555-84febb94c4b9",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Storm Speaker Conclave Spells",
     "identity": [
       "Wildling"
@@ -4949,7 +4949,7 @@
   },
   {
     "id": "f9aa0338-7b40-4047-a5c0-af714f56c620",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Storm Speaker - Fogling",
     "identity": [
       "Wildling"
@@ -4966,7 +4966,7 @@
   },
   {
     "id": "8a71d304-b169-493d-8ea6-9e833296e684",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Storm Speaker - Stormcaller",
     "identity": [
       "Wildling"
@@ -4984,7 +4984,7 @@
   },
   {
     "id": "68d100a7-9e26-4a1b-b1b5-7889f2c32c67",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert Storm Speaker - Storm Unbound",
     "identity": [
       "Wildling"
@@ -5002,7 +5002,7 @@
   },
   {
     "id": "6f93aaef-fd9d-4d52-a01d-54f5d7214e3d",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Swarmkeeper Conclave Spells",
     "identity": [
       "Wildling"
@@ -5019,7 +5019,7 @@
   },
   {
     "id": "74f69f0b-db6c-45d6-a4cb-1e1f1158a739",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Novice Swarmkeeper - Swarm",
     "identity": [
       "Wildling"
@@ -5036,7 +5036,7 @@
   },
   {
     "id": "793ef204-14b4-4b63-908e-631bcb49e140",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Advanced Swarmkeeper - Defensive Swarm",
     "identity": [
       "Wildling"
@@ -5054,7 +5054,7 @@
   },
   {
     "id": "66fc9428-af6a-4931-a94e-af8819f978c6",
-    "coreFeature": true,
+    "featureType": "Subclass",
     "name": "Expert - Massive Swarm",
     "identity": [
       "Wildling"
@@ -5072,7 +5072,7 @@
   },
   {
     "id": "9e43afb6-0b7a-4a6a-9d48-ba1671ddcbb9",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Pact Boon - Bound Blade",
     "identity": [
       "Patron-Sworn"
@@ -5090,7 +5090,7 @@
   },
   {
     "id": "aaf74f6f-6863-4746-966c-af1bc09dd734",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Pact Boon - Grimoire",
     "identity": [
       "Patron-Sworn"
@@ -5108,7 +5108,7 @@
   },
   {
     "id": "0ef0fcf6-21b8-41d8-9c87-3f343c88bbf2",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Pact Boon - Chain",
     "identity": [
       "Patron-Sworn"
@@ -5126,7 +5126,7 @@
   },
   {
     "id": "e23b60da-e70f-47ba-ae05-26142ba85cae",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Gifted Spellcasting",
     "identity": [
       "Patron-Sworn"
@@ -5144,7 +5144,7 @@
   },
   {
     "id": "0b4060f9-7a11-4ddf-a23f-a1e0dcaea62b",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Ancient One Pact - Awakened Mind",
     "identity": [
       "Patron-Sworn"
@@ -5161,7 +5161,7 @@
   },
   {
     "id": "640aeb0e-3ea9-4693-b53c-c917312df11d",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Ancient One Pact - Entropic Ward",
     "identity": [
       "Patron-Sworn"
@@ -5178,7 +5178,7 @@
   },
   {
     "id": "3081e67d-ba9f-48d1-a310-e5c07ed0b535",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Ancient One Pact - Thought Shield",
     "identity": [
       "Patron-Sworn"
@@ -5195,7 +5195,7 @@
   },
   {
     "id": "b1834f07-aa10-4d1e-9e1a-27a797dcb8ec",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Ancient One Pact - Create Thrall",
     "identity": [
       "Patron-Sworn"
@@ -5213,7 +5213,7 @@
   },
   {
     "id": "ec34b80f-0fa0-48ef-8cb3-5c0901f26c0e",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Celestial Pact - Light Bringer",
     "identity": [
       "Patron-Sworn"
@@ -5230,7 +5230,7 @@
   },
   {
     "id": "794a3da7-6b00-4f9d-a209-a77c3060fff4",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Celestial Pact - Healing Light",
     "identity": [
       "Patron-Sworn"
@@ -5247,7 +5247,7 @@
   },
   {
     "id": "e6aa64e2-b6ff-4fb3-80a0-f90a9734c357",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Celestial Pact - Radiant Soul",
     "identity": [
       "Patron-Sworn"
@@ -5264,7 +5264,7 @@
   },
   {
     "id": "9b6c3508-2441-4599-ba23-c91b744a1796",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Celestial Pact - Celestial Resistance",
     "identity": [
       "Patron-Sworn"
@@ -5281,7 +5281,7 @@
   },
   {
     "id": "ec4d2624-c6fa-457b-be9f-ad0ddcb3335b",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Celestial Pact - Searing Vengeance",
     "identity": [
       "Patron-Sworn"
@@ -5299,7 +5299,7 @@
   },
   {
     "id": "88875de0-4feb-4261-805b-e4bacf8b1ae1",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Demonic Pact - Dark One's Hunger",
     "identity": [
       "Patron-Sworn"
@@ -5316,7 +5316,7 @@
   },
   {
     "id": "d0a39bbd-bcfb-45ab-a409-bf9c955fd693",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Demonic Pact - Dark One's Blessing",
     "identity": [
       "Patron-Sworn"
@@ -5333,7 +5333,7 @@
   },
   {
     "id": "78cec70e-9dbe-48ef-9dfe-855d84a29cfe",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Demonic Pact - Fiendish Resilience",
     "identity": [
       "Patron-Sworn"
@@ -5350,7 +5350,7 @@
   },
   {
     "id": "08750c2b-b0fd-4a93-bb17-68b862e8aefb",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Demonic Pact - Hurl Through Hell",
     "identity": [
       "Patron-Sworn"
@@ -5368,7 +5368,7 @@
   },
   {
     "id": "92d91ae1-0fca-4bac-ae08-688c3e936656",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Fey pact - Fey Presence",
     "identity": [
       "Patron-Sworn"
@@ -5385,7 +5385,7 @@
   },
   {
     "id": "79be4f5f-435e-4f5c-b35a-145516a22524",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Fey pact - Misty Escape",
     "identity": [
       "Patron-Sworn"
@@ -5402,7 +5402,7 @@
   },
   {
     "id": "699eef0c-f868-450a-9281-0f9d094ddc49",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Fey pact - Beguiling Defenses",
     "identity": [
       "Patron-Sworn"
@@ -5419,7 +5419,7 @@
   },
   {
     "id": "b63fa5ea-91a8-4021-a387-d9ff18481f1e",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Fey pact - Dark Delirium",
     "identity": [
       "Patron-Sworn"
@@ -5437,7 +5437,7 @@
   },
   {
     "id": "3811c429-408a-4c32-9382-4a9326187f3e",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Hex Pact - Curse",
     "identity": [
       "Patron-Sworn"
@@ -5454,7 +5454,7 @@
   },
   {
     "id": "5cd5c9e6-3ddc-4329-9727-14a25533396e",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Hex Pact - Hex Warrior",
     "identity": [
       "Patron-Sworn"
@@ -5472,7 +5472,7 @@
   },
   {
     "id": "6997046b-c0db-4537-a41e-b4ba84033c9f",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Hex Pact - Cursed Soul",
     "identity": [
       "Patron-Sworn"
@@ -5490,7 +5490,7 @@
   },
   {
     "id": "58f123f2-c389-4c10-ab5c-0cc2ad05dd40",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Hex Pact - Defensive Hex",
     "identity": [
       "Patron-Sworn"
@@ -5508,7 +5508,7 @@
   },
   {
     "id": "994937ba-814f-44c8-a77f-be34ca104360",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Hex Pact - Curse Transfer",
     "identity": [
       "Patron-Sworn"
@@ -5527,7 +5527,7 @@
   },
   {
     "id": "c6d83e58-453a-4e40-bfa4-700d642e5454",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Cantrip Master",
     "identity": [
       "Spellcasting"
@@ -5544,7 +5544,7 @@
   },
   {
     "id": "72f13aa4-27c7-4e0c-b6e3-9ab4cd9e7c88",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Arcane Spellcasting",
     "identity": [
       "Spellcasting"
@@ -5561,7 +5561,7 @@
   },
   {
     "id": "5dc6d584-d914-4e82-bb38-09f8c4470571",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Divine Spellcasting",
     "identity": [
       "Spellcasting"
@@ -5578,7 +5578,7 @@
   },
   {
     "id": "e1d79ab2-152d-4bee-85a7-9c049a6aa5c3",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Primal Spellcasting",
     "identity": [
       "Spellcasting"
@@ -5595,7 +5595,7 @@
   },
   {
     "id": "12520636-cd41-4940-a03c-9e462f3abc9c",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Innate Spellcasting",
     "identity": [
       "Spellcasting"
@@ -5612,7 +5612,7 @@
   },
   {
     "id": "d3854068-a41c-45b0-b1f9-6923a74efb21",
-    "coreFeature": false,
+    "featureType": "Subclass",
     "name": "Athlete",
     "identity": [
       "General"
@@ -5629,7 +5629,7 @@
   },
   {
     "id": "a473edb2-2186-4750-978b-1ff2012d2fa7",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Actor",
     "identity": [
       "General"
@@ -5646,7 +5646,7 @@
   },
   {
     "id": "0d2323ea-ca9f-44a1-9c09-3a52780fd702",
-    "coreFeature": true,
+    "featureType": "General",
     "name": "Trap Expert",
     "identity": [
       "General"
@@ -5663,7 +5663,7 @@
   },
   {
     "id": "16a81e13-06a9-45a0-b27b-91adcdd9d037",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Inspiring Leader",
     "identity": [
       "General"
@@ -5680,7 +5680,7 @@
   },
   {
     "id": "3c0cd5a5-36bf-45cd-afed-141d22a9b00b",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Keen Mind",
     "identity": [
       "General"
@@ -5697,7 +5697,7 @@
   },
   {
     "id": "51e76af0-9d88-425d-b05f-4d3023635c1a",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Linguist",
     "identity": [
       "General"
@@ -5714,7 +5714,7 @@
   },
   {
     "id": "e62abf83-02ec-4486-8aa6-53dce6d454fc",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Observant",
     "identity": [
       "General"
@@ -5731,7 +5731,7 @@
   },
   {
     "id": "65643056-922d-46ae-8a94-d942ea97b5b3",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Skilled",
     "identity": [
       "General"
@@ -5748,7 +5748,7 @@
   },
   {
     "id": "0ab2529f-b890-4330-9a45-a9e2d813702e",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Skulker",
     "identity": [
       "General"
@@ -5765,7 +5765,7 @@
   },
   {
     "id": "9b87faf5-ff8e-4a08-9ebe-91f2dc9e55ed",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Tough",
     "identity": [
       "General"
@@ -5782,7 +5782,7 @@
   },
   {
     "id": "263a3317-0933-4d88-b4b0-e5b6936bb339",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Archer",
     "identity": [
       "Combat"
@@ -5799,7 +5799,7 @@
   },
   {
     "id": "8d4fd647-6845-4d99-81b6-6cbed29ff416",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Bludgeoning Specialist",
     "identity": [
       "Combat"
@@ -5816,7 +5816,7 @@
   },
   {
     "id": "9c79e2a4-1c62-4c76-ae4b-794a8b727baf",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Crossbow Master",
     "identity": [
       "Combat"
@@ -5834,7 +5834,7 @@
   },
   {
     "id": "8c4c6e5c-6e92-473b-b523-80c7833b1d34",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Defensive Duelist",
     "identity": [
       "Combat"
@@ -5851,7 +5851,7 @@
   },
   {
     "id": "bfa9c343-d97a-4af4-a9e9-0df3879a5139",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Dual Wielder",
     "identity": [
       "Combat"
@@ -5868,7 +5868,7 @@
   },
   {
     "id": "629528d6-d891-4e1a-a992-b84efabf1ce4",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Elemental Adept",
     "identity": [
       "Combat"
@@ -5885,7 +5885,7 @@
   },
   {
     "id": "b8c330ec-08d0-44cb-8640-f333395ca35c",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Firearms Apprentice",
     "identity": [
       "Combat"
@@ -5902,7 +5902,7 @@
   },
   {
     "id": "30437840-dd6f-4547-9780-fc00103dcd95",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Firearms Master",
     "identity": [
       "Combat"
@@ -5919,7 +5919,7 @@
   },
   {
     "id": "9b1d76c9-4ec8-42fe-a150-47ca4443b592",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Great Weapon Momentum",
     "identity": [
       "Combat"
@@ -5936,7 +5936,7 @@
   },
   {
     "id": "6d4fbce9-455a-48f8-a11e-daa0905b5bda",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Mage Slayer",
     "identity": [
       "Combat"
@@ -5953,7 +5953,7 @@
   },
   {
     "id": "8d44a77e-a2c9-4f90-b4a3-0e1375371851",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Mounted Combatant",
     "identity": [
       "Combat"
@@ -5968,7 +5968,7 @@
   },
   {
     "id": "8f32576f-d554-4031-bbec-ee81b2fbec89",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Piercing Specialist",
     "identity": [
       "Combat"
@@ -5985,7 +5985,7 @@
   },
   {
     "id": "4d7c2acd-7ccf-48eb-93e2-442d949af080",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Polearm Chargebreaker",
     "identity": [
       "Combat"
@@ -6002,7 +6002,7 @@
   },
   {
     "id": "e85f5d43-f11a-4cc2-ac0f-3fda80ac9585",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Savage Attacker",
     "identity": [
       "Combat"
@@ -6019,7 +6019,7 @@
   },
   {
     "id": "9bca966b-c670-459e-af5a-1d6eb144ce7b",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Sentinel",
     "identity": [
       "Combat"
@@ -6036,7 +6036,7 @@
   },
   {
     "id": "5da34021-0aed-4d43-9335-e3e4ba87bace",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Slashing Specialist",
     "identity": [
       "Combat"
@@ -6053,7 +6053,7 @@
   },
   {
     "id": "040ae770-d74b-48d5-96ce-dd0536402ed1",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "War Caster",
     "identity": [
       "Combat"
@@ -6070,7 +6070,7 @@
   },
   {
     "id": "0bd61143-da3e-4222-8679-872037fbaf89",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Shield Master",
     "identity": [
       "Armor"
@@ -6087,7 +6087,7 @@
   },
   {
     "id": "a9f22fbe-4989-463d-9c0b-c5a031040bb9",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Lightly Armored",
     "identity": [
       "Armor"
@@ -6102,7 +6102,7 @@
   },
   {
     "id": "079907cb-1c51-4a0f-b3ad-509d69628cf2",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Moderately Armored",
     "identity": [
       "Armor"
@@ -6119,7 +6119,7 @@
   },
   {
     "id": "dfb80c0c-0abb-415b-83d1-d2f42dee556a",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Heavily Armored",
     "identity": [
       "Armor"
@@ -6136,7 +6136,7 @@
   },
   {
     "id": "9035a229-722a-49fb-a98d-f72407d0f495",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Light Armor Master",
     "identity": [
       "Armor"
@@ -6153,7 +6153,7 @@
   },
   {
     "id": "2fc54e92-f11e-4f88-8465-f0bae5555468",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Medium Armor Master",
     "identity": [
       "Armor"
@@ -6170,7 +6170,7 @@
   },
   {
     "id": "db961517-e9f5-4756-98f4-6e487608a6fe",
-    "coreFeature": false,
+    "featureType": "General",
     "name": "Heavy Armor Master",
     "identity": [
       "Armor"
@@ -6187,7 +6187,7 @@
   },
   {
     "id": "83d60c6b-8f6f-4e53-9df2-28913d9afe88",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Rage",
     "identity": [
       "Mutliclass"
@@ -6204,7 +6204,7 @@
   },
   {
     "id": "2ea64090-fe00-402b-b40d-ddfcbff60193",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Inspiration",
     "identity": [
       "Mutliclass"
@@ -6221,7 +6221,7 @@
   },
   {
     "id": "9b0e6ada-6ee7-4963-95de-04450a1c0c43",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Smite",
     "identity": [
       "Mutliclass"
@@ -6239,7 +6239,7 @@
   },
   {
     "id": "a471e68d-1fa0-43ed-8b31-9e0933ec8737",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Bloodline",
     "identity": [
       "Mutliclass"
@@ -6256,7 +6256,7 @@
   },
   {
     "id": "c8e7622c-0994-4d91-9713-99ee6f266a8b",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Ki",
     "identity": [
       "Mutliclass"
@@ -6273,7 +6273,7 @@
   },
   {
     "id": "6c123f1c-eafc-48d1-b4e2-c8478bcf6e00",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Flurry of Blows",
     "identity": [
       "Mutliclass"
@@ -6290,7 +6290,7 @@
   },
   {
     "id": "ba15dc98-635d-41ff-bd1d-98d455b90d7d",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Martial Arts Dice",
     "identity": [
       "Mutliclass"
@@ -6307,7 +6307,7 @@
   },
   {
     "id": "da81f293-d8cb-4253-bd8a-a42c1963d0fd",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Font of Healing and Harm",
     "identity": [
       "Mutliclass"
@@ -6324,7 +6324,7 @@
   },
   {
     "id": "89fe4d22-b229-4aa9-99ea-41ae3d6d2bb8",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Sneak Attack",
     "identity": [
       "Mutliclass"
@@ -6341,7 +6341,7 @@
   },
   {
     "id": "87abfb4a-e252-49c3-a603-65c669374213",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Thieves' Knack",
     "identity": [
       "Mutliclass"
@@ -6358,7 +6358,7 @@
   },
   {
     "id": "489c651d-8d45-4a3a-a9ec-f9215c4c4a25",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Arcane Assistance",
     "identity": [
       "Mutliclass"
@@ -6375,7 +6375,7 @@
   },
   {
     "id": "3c7a0a4f-0f78-4083-8f63-0538fa24ffbb",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Hunter's Mark",
     "identity": [
       "Mutliclass"
@@ -6392,7 +6392,7 @@
   },
   {
     "id": "2cc7c1a6-9d65-4c83-8073-d01633634b35",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Action Surge",
     "identity": [
       "Mutliclass"
@@ -6409,7 +6409,7 @@
   },
   {
     "id": "26923ae5-d94f-4462-ac2a-4623eedc7c7e",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Maneuver Dice",
     "identity": [
       "Mutliclass"
@@ -6426,7 +6426,7 @@
   },
   {
     "id": "77375f43-5e4c-4efd-ad2e-96234a7f96e7",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Shapechange",
     "identity": [
       "Mutliclass"
@@ -6443,7 +6443,7 @@
   },
   {
     "id": "028b0b9c-ca21-4a3c-8a27-a8432ca62de6",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Empowered Upcasting",
     "identity": [
       "Mutliclass"
@@ -6461,7 +6461,7 @@
   },
   {
     "id": "463bcb70-0cc3-4554-bcdf-7844d8cfbaac",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Animal Companion - Young",
     "identity": [
       "Animal Companion"
@@ -6476,7 +6476,7 @@
   },
   {
     "id": "e7dc889f-fd6b-411d-8073-b7ff37fa918b",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Animal Companion - Mature",
     "identity": [
       "Animal Companion"
@@ -6494,7 +6494,7 @@
   },
   {
     "id": "dafa9518-6771-4d19-93c6-b3424a994a10",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Animal Companion - Specialized",
     "identity": [
       "Animal Companion"
@@ -6512,7 +6512,7 @@
   },
   {
     "id": "94e21383-7383-463f-b7b2-15898dec1c1a",
-    "coreFeature": false,
+    "featureType": "Core",
     "name": "Animal Companion - Apex",
     "identity": [
       "Animal Companion"
