@@ -1,5 +1,6 @@
 [
   {
+    "id": "ae09935f-4ba3-4245-af54-bfabdc42f7c5",
     "name": "Ability Scores",
     "description": "When creating your character, you will start with 10s for each of your six ability scores (Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma).\n\nWhen you pick a Race, you will receive boosts (and possibly a penalty) to some of these stats. You will receive additional boosts based on your background and chosen class at character creation, and will earn additional boosts as your character levels up.\n\nEach of these boosts can raise one of your ability scores by 2, or one of your ability scores by 1 if it is already 20 or higher. The maximum you can raise an ability score to naturally is 24.\n\nEach of these scores is used to calculate a stat modifier that is used in many of your skill checks or other rolls.",
     "subsections": [
