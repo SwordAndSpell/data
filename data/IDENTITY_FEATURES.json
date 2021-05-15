@@ -1772,7 +1772,10 @@
     "thirdLevelSpells": "",
     "fourthLevelSpells": "",
     "fifthLevelSpells": "",
-    "links": []
+    "links": [{
+      "description": "Metamagics",
+      "url":"https://www.sword-and-spell.com/feature-options?ids=Metamagics"
+    }]
   },
   {
     "id": "2b458099-434f-4416-8bc2-818493214e1c",
@@ -4683,7 +4686,10 @@
     "thirdLevelSpells": "",
     "fourthLevelSpells": "",
     "fifthLevelSpells": "",
-    "links": []
+    "links": [{
+      "description": "Fighting Styles",
+      "url":"https://www.sword-and-spell.com/feature-options?ids=FightingStyles"
+    }]
   },
   {
     "id": "17c535bd-d53b-4538-83b2-4f1290ed5267",
@@ -6609,7 +6615,10 @@
     "thirdLevelSpells": "",
     "fourthLevelSpells": "",
     "fifthLevelSpells": "",
-    "links": []
+    "links": [{
+      "description": "Empowered Bloodlines",
+      "url":"https://www.sword-and-spell.com/feature-options?ids=EmpoweredBloodlines"
+    }]
   },
   {
     "id": "c8e7622c-0994-4d91-9713-99ee6f266a8b",
@@ -6842,7 +6851,10 @@
     "thirdLevelSpells": "",
     "fourthLevelSpells": "",
     "fifthLevelSpells": "",
-    "links": []
+    "links": [{
+      "description": "Animal Companions",
+      "url":"https://www.sword-and-spell.com/animal-companions"
+    }]
   },
   {
     "id": "e7dc889f-fd6b-411d-8073-b7ff37fa918b",
@@ -6861,7 +6873,10 @@
     "thirdLevelSpells": "",
     "fourthLevelSpells": "",
     "fifthLevelSpells": "",
-    "links": []
+    "links": [{
+      "description": "Animal Companions",
+      "url":"https://www.sword-and-spell.com/animal-companions"
+    }]
   },
   {
     "id": "dafa9518-6771-4d19-93c6-b3424a994a10",
@@ -6880,7 +6895,10 @@
     "thirdLevelSpells": "",
     "fourthLevelSpells": "",
     "fifthLevelSpells": "",
-    "links": []
+    "links": [{
+      "description": "Animal Companions",
+      "url":"https://www.sword-and-spell.com/animal-companions"
+    }]
   },
   {
     "id": "94e21383-7383-463f-b7b2-15898dec1c1a",
@@ -6899,6 +6917,9 @@
     "thirdLevelSpells": "",
     "fourthLevelSpells": "",
     "fifthLevelSpells": "",
-    "links": []
+    "links": [{
+      "description": "Animal Companions",
+      "url":"https://www.sword-and-spell.com/animal-companions"
+    }]
   }
 ]
