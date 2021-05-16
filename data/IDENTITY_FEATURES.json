@@ -6646,9 +6646,10 @@
       "Mutliclass"
     ],
     "requirementIDs": [
-      "636658bd-8dad-4fab-9e81-e99eb2ec7d24"
+      "636658bd-8dad-4fab-9e81-e99eb2ec7d24",
+      "b4cfc3a1-6649-4bde-b3e4-5437af3f4bc9"
     ],
-    "description": "Immediately after you take the Attack action on your turn, you can make two unarmed strikes as a single action. These strikes do not suffer the multi-attack penalty",
+    "description": "Immediately after you take the Attack action on your turn, you can spend 1 Ki to make two unarmed strikes as a single action. These strikes do not suffer the multi-attack penalty, but do count towards it.",
     "firstLevelSpells": "",
     "secondLevelSpells": "",
     "thirdLevelSpells": "",

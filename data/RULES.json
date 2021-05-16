@@ -40,7 +40,7 @@
   {
     "id": "e5403cf1-b3bf-4eba-b2eb-fa956fe9fb51",
     "name": "Skill Proficiency Ranks",
-    "description": "Each of your skills uses a “proficiency bonus” when determining the results of your roll. This bonus is determined by your proficiency level with the required skill. There are 6 levels of proficiency, ranging from Unskilled to Legendary. The bonuses from each are as follows:\n\n- Unskilled: 0\n\n- Apprentice: 2\n\n- Trained: 4\n\n- Expert: 6\n\n- Master: 8\n\n- Legendary: 10",
+    "description": "Each of your skills uses a “proficiency bonus” when determining the results of your roll. This bonus is determined by your proficiency level with the required skill. There are 6 levels of proficiency, ranging from Unskilled to Legendary. The bonuses from each are as follows:\n\n- Unskilled: 0\n- Apprentice: 2\n- Trained: 4\n- Expert: 6\n- Master: 8\n- Legendary: 10",
     "links": []
   },
   {
@@ -108,11 +108,11 @@
     "subsections": [
       {
         "name": "Physical Damage Types",
-        "description": "- Bludgeoning (capable of nonlethal damage)\n\n- Piercing\n\n- Slashing"
+        "description": "- Bludgeoning (capable of nonlethal damage)\n- Piercing\n- Slashing"
       },
       {
         "name": "Elemental Damage Types",
-        "description": "- Acid\n\n- Arcane\n\n- Cold (capable of nonlethal damage)\n\n- Dark\n\n- Fire\n\n- Light\n\n- Lightning (capable of nonlethal damage)\n\n- Poison\n\n- Psychic (capable of nonlethal damage)\n\n- Thunder (capable of nonlethal damage)"
+        "description": "- Acid\n- Arcane\n- Cold (capable of nonlethal damage)\n- Dark\n- Fire\n- Light\n- Lightning (capable of nonlethal damage)\n- Poison\n- Psychic (capable of nonlethal damage)\n- Thunder (capable of nonlethal damage)"
       }
     ],
     "links": []
