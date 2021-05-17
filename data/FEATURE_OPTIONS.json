@@ -3,105 +3,105 @@
     "id": "24b6f8d9-ea4e-45a5-bd24-982884a000c8",
     "name": "Blind Fighting",
     "description": "Being unable to see a creature doesn’t impose disadvantage on your melee attack rolls against it, provided the creature isn’t hidden from you.",
-    "instanceType": "Fighting Style",
+    "instanceType": "Fighting Styles",
     "links": []
   },
   {
     "id": "5317617f-50cf-41f6-bc3b-ee8b0c89baa5",
     "name": "Deadshot",
     "description": "You gain a +2 bonus to attack rolls you make with ranged weapons.",
-    "instanceType": "Fighting Style",
+    "instanceType": "Fighting Styles",
     "links": []
   },
   {
     "id": "75588439-0939-49cf-9ec2-9dd7b29a2292",
     "name": "Defense",
     "description": "While you are wearing armor, you gain a +1 bonus to Defense and Armor.",
-    "instanceType": "Fighting Style",
+    "instanceType": "Fighting Styles",
     "links": []
   },
   {
     "id": "511d1b99-b564-4a96-858b-e46e90ee8441",
     "name": "Dueling",
     "description": "When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.",
-    "instanceType": "Fighting Style",
+    "instanceType": "Fighting Styles",
     "links": []
   },
   {
     "id": "a9c34c00-c422-4fec-9965-fc1e562a9a59",
     "name": "Great Weapon Fighting",
     "description": "When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.",
-    "instanceType": "Fighting Style",
+    "instanceType": "Fighting Styles",
     "links": []
   },
   {
     "id": "672dc76f-41b0-4767-9aa2-84e0f7029adf",
     "name": "Interception",
     "description": "When a creature you can see hits a target that is within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.",
-    "instanceType": "Fighting Style",
+    "instanceType": "Fighting Styles",
     "links": []
   },
   {
     "id": "6126d38d-3e20-4d14-ba8c-2b9fe05a3b17",
     "name": "Precision Damage",
     "description": "When you are wielding a finesse or ranged weapon, you can add your Dexterity Modifier to damage rolls with that weapon in addition to your Strength Modifier.",
-    "instanceType": "Fighting Style",
+    "instanceType": "Fighting Styles",
     "links": []
   },
   {
     "id": "d70e6782-5c35-41f4-8b18-8c88f32a6043",
     "name": "Thrown Weapon Fighting",
     "description": "You can draw a weapon that has the thrown property as part of the attack you make with the weapon. In addition, when you hit with a ranged attack using a thrown weapon, you gain a +1 bonus to the damage roll.",
-    "instanceType": "Fighting Style",
+    "instanceType": "Fighting Styles",
     "links": []
   },
   {
     "id": "6feda26d-74e9-412a-af9d-e3885cfd3cfb",
     "name": "Two-Weapon Fighting",
     "description": "You gain a +1 bonus to attack rolls when wielding a weapon in each hand.",
-    "instanceType": "Fighting Style",
+    "instanceType": "Fighting Styles",
     "links": []
   },
   {
     "id": "5eacf63d-6fd1-4ab3-be1f-8caf16ed49db",
     "name": "Unarmed Fighting",
     "description": "Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier. If you strike with two free hands, the d6 becomes a d8.",
-    "instanceType": "Fighting Style",
+    "instanceType": "Fighting Styles",
     "links": []
   },
   {
     "id": "80605ac5-0dea-454d-bb93-92ab6b68b60d",
     "name": "Divine Bloodline",
     "description": "Spell List: Divine spell list\n\nTrained Skill: Religion\n\nInherited Ability: Once per day, if you fail a saving throw or miss with an attack roll, you can roll 2d4 and add it to the total, possibly changing the outcome.",
-    "instanceType": "Empowered Bloodline",
+    "instanceType": "Empowered Bloodlines",
     "links": []
   },
   {
     "id": "0dae460d-f968-4903-8603-262497beeb51",
     "name": "Draconic Bloodline",
     "description": "Spell List: Arcane spell list\n\nTrained Skill: Arcana or Nature\n\nInherited Ability: Choose a Draconic Ancestry from the chart below. This ancestry determines your later features.\n\nBlack - Acid\nSilver, White - Cold\nBrass, Gold, Red - Fire\nBlue, Bronze - Lightning\nGreen - Poison\n\nAdditionally, your body is covered in draconic scales. When you aren’t wearing armor, you have a natural armor with +3 Defense and no Dexterity Maximum. This armor has an Armor value of 1.",
-    "instanceType": "Empowered Bloodline",
+    "instanceType": "Empowered Bloodlines",
     "links": []
   },
   {
     "id": "430b7b0f-785c-46d1-88b4-57333159cb27",
     "name": "Profane Bloodline",
     "description": "Spell List: Arcane + Occult spell lists\n\nTrained Skill: Arcana or Stealth\n\nInherited Ability: You have Darkvision to 120 feet, granting you the ability to see in total darkness. When you reach 3rd level, you learn the Darkness spell (independent of the other spells you learn), and can cast it as an action using 2 spell points.",
-    "instanceType": "Empowered Bloodline",
+    "instanceType": "Empowered Bloodlines",
     "links": []
   },
   {
     "id": "14635cd5-9920-4afb-8240-0cb83729ae31",
     "name": "Storm Spirit Bloodline",
     "description": "Spell List: Primal spell list\n\nTrained Skill: Nature\n\nInherited Ability: You can use an action on your turn to cause whirling gusts of elemental air to briefly surround you immediately before or after you cast a spell of 1st level or higher. Doing so allows you to fly up to 10 feet without provoking opportunity attacks.",
-    "instanceType": "Empowered Bloodline",
+    "instanceType": "Empowered Bloodlines",
     "links": []
   },
   {
     "id": "c03cc70a-5fdf-4cc8-8b06-eb677e0aafe8",
     "name": "Poison Bloodline",
     "description": "Spell List: Arcane + Occult spell lists\n\nTrained Skill: Arcana\n\nInherited Ability: You can form a telepathic connection between your mind and the mind of another. As an action, choose one creature you can see within 30 feet of you. You and the chosen creature can speak telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must speak mentally in a language the other knows.\n\nThe telepathic connection lasts for a number of minutes equal to your level. It ends early if you are incapacitated or die or if you use this ability to form a connection with a different creature.",
-    "instanceType": "Empowered Bloodline",
+    "instanceType": "Empowered Bloodlines",
     "links": []
   },
   {
