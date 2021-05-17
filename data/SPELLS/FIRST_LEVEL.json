@@ -280,7 +280,7 @@
     "range": "30 feet",
     "concentration": false,
     "components": ["Somatic"],
-    "description": "When interacting with an unknown party, you can quickly divine their most surface intentions. A target you can see within range must make a Will saving throw. On a failed save, you discern one of the following:\n\nWhether they mean you good or ill\n\nWhether they are being honest or deceptive\n\nIf the creature succeeds the saving throw, they will know you attempted to read their thoughts and will be able to manipulate the results you receive.",
+    "description": "When interacting with an unknown party, you can quickly divine their most surface intentions. A target you can see within range must make a Will saving throw. On a failed save, you discern one of the following:\n\n- Whether they mean you good or ill\n- Whether they are being honest or deceptive\n\nIf the creature succeeds the saving throw, they will know you attempted to read their thoughts and will be able to manipulate the results you receive.",
     "atHigherLevels": "",
     "links": []
   },
@@ -340,7 +340,7 @@
     "range": "Self",
     "concentration": true,
     "components": ["Verbal", "Somatic"],
-    "description": "You offer your holy symbol and offer up a prayer. Depending on the number of actions used, you are granted different effects:\n\n1 Action - You utter a quick prayer imbuing yourself with divine power. Until the spell ends, your melee weapon attacks deal an extra 1d4 Light damage on a hit.\n\n2 Actions - You make a sign and bless yourself or an ally within 30 feet. Until the spell ends, the target’s melee weapon attacks deal an extra 1d8 Light damage on a hit.\n\n3 Actions - You kneel and consecrate the ground around you. At the beginning of each round, each enemy within 10 feet of you suffers 1d6 Light damage.\n\nWhen you cast this spell using a spell charge of 2nd level or higher, the number of damage dice for each effect increases by 1 for each charge level above 1st.",
+    "description": "You offer your holy symbol and offer up a prayer. Depending on the number of actions used, you are granted different effects:\n\n- 1 Action: You utter a quick prayer imbuing yourself with divine power. Until the spell ends, your melee weapon attacks deal an extra 1d4 Light damage on a hit.\n- 2 Actions: You make a sign and bless yourself or an ally within 30 feet. Until the spell ends, the target’s melee weapon attacks deal an extra 1d8 Light damage on a hit.\n- 3 Actions: You kneel and consecrate the ground around you. At the beginning of each round, each enemy within 10 feet of you suffers 1d6 Light damage.\n\nWhen you cast this spell using a spell charge of 2nd level or higher, the number of damage dice for each effect increases by 1 for each charge level above 1st.",
     "atHigherLevels": "",
     "links": []
   },
@@ -430,7 +430,7 @@
     "range": "Varies",
     "concentration": false,
     "components": ["Verbal", "Somatic"],
-    "description": "You imbue your target with a necromantic facsimile of life, granting them temporarily hitpoints\n\n1 Action - You quickly bolster yourself with necrotic energy, granting yourself or an ally you can touch 1d4 + your spellcasting modifier temporary hit points for the duration\n\n2 Actions - You weave a shield of reinforced necrotic energy, granting yourself or an ally within 30 feet 1d8 + your spellcasting modifier temporary hit points for the duration\n\n3 Actions - You send out a pulse of protective energy, granting yourself and all allies within 30 feet 1d4 + your spellcasting modifier temporary hit points for the duration",
+    "description": "You imbue your target with a necromantic facsimile of life, granting them temporarily hitpoints\n\n- 1 Action: You quickly bolster yourself with necrotic energy, granting yourself or an ally you can touch 1d4 + your spellcasting modifier temporary hit points for the duration\n- 2 Actions: You weave a shield of reinforced necrotic energy, granting yourself or an ally within 30 feet 1d8 + your spellcasting modifier temporary hit points for the duration\n- 3 Actions: You send out a pulse of protective energy, granting yourself and all allies within 30 feet 1d4 + your spellcasting modifier temporary hit points for the duration",
     "atHigherLevels": "When you cast this spell using a spell charge of 2nd level or higher, your target(s) gain 5 additional temporary hit points for each charge level above 1st.",
     "links": []
   },
@@ -610,7 +610,7 @@
     "range": "Varies",
     "concentration": false,
     "components": ["Varies"],
-    "description": "You call on the divine power within you to strike down your foes:\n\n1 Action (Verbal) - Make a melee spell attack against an enemy within your reach. On a hit, the target takes 2d8 Light damage\n\n2 Actions (Verbal, Somatic) - Make a ranged spell attack against an enemy within 30 feet that you can see. On a hit, the target takes 3d8 Light damage\n\n3 Actions (Verbal, Somatic) - You force each enemy within 30 feet to make a Fortitude saving throw or take 3d8 light damage. On a successful save they take half damage. ",
+    "description": "You call on the divine power within you to strike down your foes:\n\n- 1 Action (Verbal): Make a melee spell attack against an enemy within your reach. On a hit, the target takes 2d8 Light damage\n- 2 Actions (Verbal, Somatic): Make a ranged spell attack against an enemy within 30 feet that you can see. On a hit, the target takes 3d8 Light damage\n- 3 Actions (Verbal, Somatic): You force each enemy within 30 feet to make a Fortitude saving throw or take 3d8 light damage. On a successful save they take half damage. ",
     "atHigherLevels": "If you cast this spell using a spell charge of 2nd level or higher, the damage increases by 2d8 for each charge level above 1st.",
     "links": []
   },
@@ -625,7 +625,7 @@
     "range": "Varies",
     "concentration": false,
     "components": ["Varies"],
-    "description": "You call on the divine power within you to heal yourself or your allies:\n\n1 Action (Verbal) - You utter a quick blessing and restore 1d8 hit points to yourself or an ally you touch.\n\n2 Actions (Verbal, Somatic) - You cast a divine light, restoring 1d8+8 hit points to yourself or to an ally within 30 feet that you can see.\n\n3 Actions (Verbal, Somatic) - A pulse of healing light emanates from you, restoring 1d8 hit points to yourself and all of your allies within 30 feet that you can see, who are not behind cover. ",
+    "description": "You call on the divine power within you to heal yourself or your allies:\n\n- 1 Action (Verbal): You utter a quick blessing and restore 1d8 hit points to yourself or an ally you touch.\n- 2 Actions (Verbal, Somatic): You cast a divine light, restoring 1d8+8 hit points to yourself or to an ally within 30 feet that you can see.\n- 3 Actions (Verbal, Somatic): A pulse of healing light emanates from you, restoring 1d8 hit points to yourself and all of your allies within 30 feet that you can see, who are not behind cover. ",
     "atHigherLevels": "If you cast this spell using a spell charge of 2nd level or higher, the amount of hit points restored increases by 1d8 for each charge level above 1st.",
     "links": []
   },

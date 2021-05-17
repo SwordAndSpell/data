@@ -1,7 +1,7 @@
 [
   {
     "id": "b7ada357-d124-439e-b5ba-fa0f978e097c",
-    "name": "Leyline Eruption",
+    "name": "Blazing Eruption",
     "tags": [
       "Arcane",
       "Primal"
@@ -117,7 +117,7 @@
       "Verbal",
       "Somatic"
     ],
-    "description": "By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take (within the next 30 minutes). The DM chooses from the following possible omens:\n\n-Weal, for good results\n-Woe, for bad results\n-Weal and woe, for both good and bad results\n-Nothing, for results that aren't especially good or bad\n\nThe spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.\n\nEach additional time you cast this spell before taking a Rest causes you to have a cumulative 25% chance of receiving a random reading for each additional casting.",
+    "description": "By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take (within the next 30 minutes). The DM chooses from the following possible omens:\n\n- Weal, for good results\n- Woe, for bad results\n- Weal and woe, for both good and bad results\n- Nothing, for results that aren't especially good or bad\n\nThe spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.\n\nEach additional time you cast this spell before taking a Rest causes you to have a cumulative 25% chance of receiving a random reading for each additional casting.",
     "links": []
   },
   {
