@@ -108,77 +108,77 @@
     "id": "5f9f786a-1bf1-4378-9ba5-67ad5810170e",
     "name": "Careful Spell",
     "description": "When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, you spend 1 Spell Point and choose a number of those creatures up to your Casting modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.",
-    "instanceType": "Metamagic",
+    "instanceType": "Metamagics",
     "links": []
   },
   {
     "id": "531530fd-fcd3-41bf-abb0-d75016353ed9",
     "name": "Distant Spell",
     "description": "When you cast a spell that has a range of 5 feet or greater, you can spend 1 Spell Point to double the range of the spell.\n\nWhen you cast a spell that has a range of touch, you can spend 1 Spell Point to make the range of the spell 30 feet.",
-    "instanceType": "Metamagic",
+    "instanceType": "Metamagics",
     "links": []
   },
   {
     "id": "433db7cf-6aac-4a9e-a8ae-05ffa4dfd675",
     "name": "Elemental Spell",
     "description": "When you cast a spell that deals a type of damage from the following list, you can spend 1 Spell Point to change that damage type to one of the other listed types: acid, cold, fire, lightning, thunder.",
-    "instanceType": "Metamagic",
+    "instanceType": "Metamagics",
     "links": []
   },
   {
     "id": "8143cce6-4a57-4886-8fb5-8329d37b1430",
     "name": "Empowered Spell",
-    "description": "When you roll damage for a spell, you can spend 1 Spell Point to reroll a number of the damage dice up to your Casting modifier (minimum of one). You must use the new rolls.\n\nYou can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.",
-    "instanceType": "Metamagic",
+    "description": "When you roll damage for a spell, you can spend 1 Spell Point to reroll a number of the damage dice up to your Casting modifier (minimum of one). You must use the new rolls.\n\nYou can use Empowered Spell even if you have already used a different Metamagics option during the casting of the spell.",
+    "instanceType": "Metamagics",
     "links": []
   },
   {
     "id": "d462cdd6-3168-4481-a394-706c6a7d405d",
     "name": "Extended Spell",
     "description": "When you cast a spell that has a duration of 1 minute or longer, you can spend 1 Spell Point to double its duration, to a maximum duration of 24 hours.",
-    "instanceType": "Metamagic",
+    "instanceType": "Metamagics",
     "links": []
   },
   {
     "id": "0668e36a-8b7c-45e5-a84f-3e385a3f7363",
     "name": "Heightened Spell",
     "description": "When you cast a spell that forces a creature to make a saving throw to resist its effects, you can spend 3 Spell Points to give one target of the spell disadvantage on its first saving throw made against the spell.",
-    "instanceType": "Metamagic",
+    "instanceType": "Metamagics",
     "links": []
   },
   {
     "id": "2f0f1d67-511c-4833-a9db-6477d035931d",
     "name": "Quickened Spell",
     "description": "When you cast a spell that has a casting time of 2 or 3 actions, you can spend 2 Spell Points to reduce its casting time by 1 action for this casting.",
-    "instanceType": "Metamagic",
+    "instanceType": "Metamagics",
     "links": []
   },
   {
     "id": "83e473e2-29d8-45af-bb5f-6ecd1ecf6002",
     "name": "Subtle Spell",
     "description": "When you cast a spell, you can spend 1 Spell Point to cast it without any somatic or verbal components.",
-    "instanceType": "Metamagic",
+    "instanceType": "Metamagics",
     "links": []
   },
   {
     "id": "17e4eac8-bafe-49c2-b7e3-7777ad6ba90a",
     "name": "Twinned Spell",
     "description": "When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of Spell Points equal to the spell's level to target a second creature in range with the same spell (1 Spell Point if the spell is a cantrip).",
-    "instanceType": "Metamagic",
+    "instanceType": "Metamagics",
     "links": []
   },
   {
     "id": "5881b0a3-d954-478b-b32f-b835e6059e6e",
     "name": "Unerring Spell",
-    "description": "If you make an attack roll for a spell and miss, you can spend 2 Spell Points to reroll the attack roll. You must use the result of the second roll.\n\nYou can use Unerring Spell even if you have already used a different Metamagic option during the casting of the spell.",
-    "instanceType": "Metamagic",
+    "description": "If you make an attack roll for a spell and miss, you can spend 2 Spell Points to reroll the attack roll. You must use the result of the second roll.\n\nYou can use Unerring Spell even if you have already used a different Metamagics option during the casting of the spell.",
+    "instanceType": "Metamagics",
     "links": []
   },
   {
     "id": "40a6c2b2-e867-4123-a82e-ee120e75249d",
     "name": "Widened Spell",
     "description": "When you cast a spell that affects an area, you can spend 1 Spell Point to increase the width of a cube by 10 feet, the length of a cone by 10 feet, or the width of a line by 5 feet and its length by 10 feet.",
-    "instanceType": "Metamagic",
+    "instanceType": "Metamagics",
     "links": []
   }
 ]
