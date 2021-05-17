@@ -5154,7 +5154,7 @@
     ],
     "description": "At each of the spellcasting levels listed on the Conclave Spells chart below, you learn the spells listed. These spells are always prepared for you (if you are a caster that prepares spells), and do not count against the number of spells you can prepare each day. These spells are Primal Spells for you.",
     "firstLevelSpells": "Bless, Speak with Animals",
-    "secondLevelSpells": "Hold Person, Pass Without Trace",
+    "secondLevelSpells": "Hold Person, Magic Cloak",
     "thirdLevelSpells": "Dispel Magic, Magic Circle",
     "fourthLevelSpells": "Arcane Eye, Divination",
     "fifthLevelSpells": "Commune, Commune with Nature",
