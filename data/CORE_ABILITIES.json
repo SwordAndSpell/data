@@ -57,10 +57,12 @@
     "id": "a47760b9-fdf0-4e44-b6c6-34c9a7667f95",
     "name": "Bloodline",
     "description": "You can draw from the mystical energies of a past ancestor to cast spells. Choose a bloodline origin from the Empowered Bloodlines list, which will determine the spell list available to you as you level up. Additionally, your bloodline grants you a special ability at 1st level.",
-    "links": [{
-      "description": "Empowered Bloodlines",
-      "url":"https://www.sword-and-spell.com/feature-options?ids=Empowered Bloodlines"
-    }]
+    "links": [
+      {
+        "description": "Empowered Bloodlines",
+        "url": "https://www.sword-and-spell.com/feature-options?ids=Empowered%20Bloodlines"
+      }
+    ]
   },
   {
     "id": "befb553f-747a-4fc9-8e8a-e7bd2a259f55",
@@ -84,11 +86,12 @@
     "id": "363aa163-8b9c-4115-bf79-c1195dfc3296",
     "name": "Metamagic",
     "description": "You learn three of the metamagic options detailed in the Metamagic Options List. You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.",
-
-    "links": [{
-      "description": "Metamagics",
-      "url":"https://www.sword-and-spell.com/feature-options?ids=Metamagics"
-    }]
+    "links": [
+      {
+        "description": "Metamagics",
+        "url": "https://www.sword-and-spell.com/feature-options?ids=Metamagics"
+      }
+    ]
   },
   {
     "id": "6a45b2e7-f139-43fb-ad2c-b9c4b79d29b6",
@@ -190,10 +193,12 @@
     "id": "2cb278e2-a464-43ac-a9e3-29aaabbdc278",
     "name": "Shapechange",
     "description": "As a master of communion with nature, you have learned to change your form into that of a wild beast. You have a number of uses for this ability equal to your Wisdom Modifier (minimum of 1).\n\nAs an action, you magically reshape your form to assume the shape of a beast of your choice, choosing one of the stat blocks at the end of this chapter that best fits the shape you chose (Ambusher or Brute). Your size, mental stats, and skill proficiencies stay the same, but your physical stats and abilities shift to match those of your chosen form. Your form might have bonuses listed that are added to any checks you make that they relate to.\n\nThe overall appearance of the chosen form is up to you, but its abilities must match one of the provided stat blocks. You remain in this form until you use a free action to will yourself back to your normal form, until you Rest, or until are reduced to 0 hit points.",
-    "links": [{
-      "description": "Shapechange Forms",
-      "url":"https://www.sword-and-spell.com/shapechange-forms"
-    }]
+    "links": [
+      {
+        "description": "Shapechange Forms",
+        "url": "https://www.sword-and-spell.com/shapechange-forms"
+      }
+    ]
   },
   {
     "id": "e0780401-fd90-4795-939d-94b8a01f7776",
