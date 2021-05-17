@@ -4,7 +4,7 @@
     "name": "Padded",
     "cost": "5g",
     "defenseBonus": 1,
-    "maxDexterityBonus": 7,
+    "maxDexterityBonus": 5,
     "armorValue": 1,
     "movementPenalty": "",
     "strengthRequired": ""
