@@ -32,6 +32,11 @@
     "links": []
   },
   {
+    "id": "b9dfb50b-9fef-40dd-8642-0a42a5460327",
+    "name": "Languages",
+    "description": " There are many languages spoken throughout Valerion. Below follows the list of *most* known languages and their primary speakers:\n\n-Amarrun....Catfolk\n- Celestial...Inhabitants of the Upper Planes\n- Draconic....Dragons and their kin\n- Dwarvish....Dwarves\n- Elven....Elves\n- Giant....Giants, Half Giants, and other Wild Races\n- Gnomish....Gnomes\n- Goblin...Goblins and other subterranean creatures\n- Halfling...Halflings\n- Infernal....Inhabitants of the Lower Planes\n- Iruxi....Lizardfolk\n- Oruk....Orcs\n- Primordial....Elementals of all types"
+  },
+  {
     "id": "cd505420-863b-4f94-a849-3af55820288c",
     "name": "Checks",
     "description": "A check is any attempt made by a player to accomplish a task in game. All checks are made by rolling a d20, and adding whatever modifier is relevant to the situation, whether that be your saving throw modifier, skill modifier, attack modifier, or just your standard ability modifiers.\n\nThis combined total is compared against the DC (difficulty class) of the task, with a “meet it to beat it” mindset. DC’s may or may not be known to the player, and the DM will inform them as to whether they have succeeded or failed.\n\nFor example, a rogue is attempting to pick a lock (with a Hidden DC of 17). The DM calls for a Thievery check, for which the rogue rolls a 12. The rogue has a +5 Thievery skill, and so they Succeed on the skill check!",
