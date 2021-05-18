@@ -6811,13 +6811,18 @@
     "requirementIDs": [
       "9a8371df-8b85-4c66-8143-6e4689ab805f"
     ],
-    "description": "As a master of communion with nature, you have learned to change your form into that of a wild beast. You have a number of uses for this ability equal to your Wisdom Modifier (minimum of 1). \n\nAs an action, you magically reshape your form to assume the shape of a beast of your choice, choosing one of the stat blocks at the end of this chapter that best fits the shape you chose (Ambusher or Brute). Your size, mental stats, and skill proficiencies stay the same, but your physical stats and abilities shift to match those of your chosen form. Your form might have bonuses listed that are added to any checks you make that they relate to. The overall appearance of the chosen form is up to you, but its abilities must match one of the provided stat blocks. You remain in this form until you use a free action to will yourself out of it, or until you Rest or are reduced to 0 hit points.",
+    "description": "As a master of communion with nature, you have learned to change your form into that of a wild beast. You have a number of uses for this ability equal to your Wisdom Modifier (minimum of 1).\n\nAs an action, you magically reshape your form to assume the shape of a beast of your choice, choosing one of the stat blocks one the Shapechange page that best fits your desired form (Ambusher or Brute). Your mental stats and skill proficiencies stay the same, but your physical stats and abilities shift to match those of your chosen form. Your form might have bonuses listed that are added to any checks you make that they relate to.\n\nThe overall appearance of the chosen form is up to you, but its abilities must match one of the provided stat blocks. You remain in this form until you use a free action to will yourself back to normal, until you Rest, or until are reduced to 0 hit points.",
     "firstLevelSpells": "",
     "secondLevelSpells": "",
     "thirdLevelSpells": "",
     "fourthLevelSpells": "",
     "fifthLevelSpells": "",
-    "links": []
+    "links": [
+      {
+        "description": "Shapechange Forms",
+        "url": "https://www.sword-and-spell.com/shapechange-forms"
+      }
+    ]
   },
   {
     "id": "028b0b9c-ca21-4a3c-8a27-a8432ca62de6",
