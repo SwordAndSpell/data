@@ -4,9 +4,7 @@
     "level": 3,
     "name": "Aura of Vitality",
     "tags": [
-      "Arcane",
-      "Divine",
-      "Primal"
+      "Divine"
     ],
     "castingSpeed": "2 Actions",
     "duration": "Up to 1 minute",
@@ -24,9 +22,7 @@
     "level": 3,
     "name": "Beacon of Hope",
     "tags": [
-      "Arcane",
-      "Divine",
-      "Primal"
+      "Divine"
     ],
     "castingSpeed": "2 Actions",
     "duration": "Up to 1 minute",
@@ -37,7 +33,7 @@
       "Verbal",
       "Somatic"
     ],
-    "description": "This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Wisdom saving throws and death saving throws, and regains the maximum number of hit points possible from any healing.",
+    "description": "This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Will saving throws and Death saves, and regains the maximum number of hit points possible from any healing.",
     "links": []
   },
   {
@@ -46,7 +42,6 @@
     "name": "Bestow Curse",
     "tags": [
       "Arcane",
-      "Divine",
       "Primal"
     ],
     "castingSpeed": "2 Actions",
@@ -58,7 +53,7 @@
       "Verbal",
       "Somatic"
     ],
-    "description": "You touch a creature, and that creature must succeed on a Wisdom saving throw or become cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:Choose one ability score. While cursed, the target has disadvantage on ability checks and saving throws made with that ability score.\n\n- While cursed, the target has disadvantage on attack rolls against you.\n- While cursed, the target must make a Wisdom saving throw at the start of each of its turns. If it fails, it wastes its action that turn doing nothing.\n- While the target is cursed, your attacks and spells deal an extra 1d8 necrotic damage to the target.\n\nA remove curse spell ends this effect. At the DM's option, you may choose an alternative curse effect, but it should be no more powerful than those described above. The DM has final say on such a curse's effect.",
+    "description": "You touch a creature, and that creature must succeed on a Will saving throw or become cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:\n\n- Choose one ability score. While cursed, the target has disadvantage on ability checks and saving throws made with that ability score.\n- While cursed, the target has disadvantage on attack rolls.\n- While cursed, the target must make a Will saving throw at the start of each of its turns. If it fails, it wastes its actions that turn doing nothing.\n- While the target is cursed, your attacks and spells deal an extra 1d8 necrotic damage to the target.\n\nA remove curse spell ends this effect. At the DM's option, you may choose an alternative curse effect, but it should be no more powerful than those described above. The DM has final say on such a curse's effect.",
     "atHigherLevels": "If you cast this spell using a spell charge of 4th level or higher, the duration is concentration, up to 10 minutes. If you use a spell charge of 5th level or higher, the duration is 8 hours. If you use a spell charge of 7th level or higher, the duration is 24 hours. If you use a 9th level spell charge, the spell lasts until it is dispelled. Using a spell charge of 5th level or higher grants a duration that doesn't require concentration.",
     "links": []
   },
@@ -67,19 +62,17 @@
     "level": 3,
     "name": "Blinding Smite",
     "tags": [
-      "Arcane",
-      "Divine",
-      "Primal"
+      "Divine"
     ],
     "castingSpeed": "1 Action",
     "duration": "Up to 1 minute",
-    "concentration": true,
+    "concentration": false,
     "school": "Evocation",
     "range": "Self",
     "components": [
       "Verbal"
     ],
-    "description": "The next time you hit a creature with a melee weapon attack during this spell's duration, your weapon flares with bright light, and the attack deals an extra 3d8 radiant damage to the target. Additionally, the target must succeed on a Constitution saving throw or be blinded until the spell ends. A creature blinded by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer blinded.",
+    "description": "The next time you hit a creature with a melee weapon attack during this spell's duration, your weapon flares with bright light, and the attack deals an extra 3d8 radiant damage to the target. Additionally, the target must succeed on a Fortitude saving throw or be blinded until the spell ends. A creature blinded by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer blinded.",
     "links": []
   },
   {
@@ -87,9 +80,7 @@
     "level": 3,
     "name": "Blink",
     "tags": [
-      "Arcane",
-      "Divine",
-      "Primal"
+      "Arcane"
     ],
     "castingSpeed": "2 Actions",
     "duration": "1 minute",
@@ -100,7 +91,7 @@
       "Verbal",
       "Somatic"
     ],
-    "description": "Roll a d20 at the end of each of your turns for the duration of the spell. On a roll of 11 or higher, you vanish from your current plane of existence and appear in the Ethereal Plane (the spell fails and the casting is wasted if you were already on that plane). At the start of your next turn, and when the spell ends if you are on the Ethereal Plane, you return to an unoccupied space of your choice that you can see within 10 feet of the space you vanished from. If no unoccupied space is available within that range, you appear in the nearest unoccupied space (chosen at random if more than one space is equally near). You can dismiss this spell as an action.\n\nWhile on the Ethereal Plane, you can see and hear the plane you originated from, which is cast in shades of gray, and you can't see anything there more than 60 feet away. You can only affect and be affected by other creatures on the Ethereal Plane. Creatures that aren't there can't perceive you or interact with you, unless they have the ability to do so.",
+    "description": "For the duration of this spell you blink attempt to blink away to the Ethereal Plane while it is not your turn. At the end of each of your turns, roll a d20. On a roll of 11 or higher, you vanish from the Material Plane and appear in the Ethereal Plane. At the Beginning of your next turn or when the spell ends, you reappear on the Material Plane to a space of your choice within 10 feet of when you left. If there are no unoccupied spaces available in that range, you are transported to a random unoccupied space closest to your departure point. You can dismiss this spell as an action.\n\nWhile on the Ethereal Plane, you can see and hear the plane you originated from, which is cast in shades of gray, and you can't see anything there more than 60 feet away. You can only affect and be affected by other creatures on the Ethereal Plane. Creatures that aren't there can't perceive you or interact with you, unless they have the ability to do so.",
     "links": []
   },
   {
@@ -108,8 +99,6 @@
     "level": 3,
     "name": "Call Lightning",
     "tags": [
-      "Arcane",
-      "Divine",
       "Primal"
     ],
     "castingSpeed": "2 Actions",
@@ -121,7 +110,7 @@
       "Verbal",
       "Somatic"
     ],
-    "description": "A storm cloud appears in the shape of a cylinder that is 10 feet tall with a 60-foot radius, centered on a point you can see within range directly above you. The spell fails if you can't see a point in the air where the storm cloud could appear (for example, if you are in a room that can't accommodate the cloud).\n\nWhen you cast the spell, choose a point you can see under the cloud. A bolt of lightning flashes down from the cloud to that point. Each creature within 5 feet of that point must make a Dexterity saving throw. A creature takes 3d10 lightning damage on a failed save, or half as much damage on a successful one. On each of your turns until the spell ends, you can use your action to call down lightning in this way again, targeting the same point or a different one.\n\nIf you are outdoors in stormy conditions when you cast this spell, the spell gives you control over the existing storm instead of creating a new one. Under such conditions, the spell's damage increases by 1d10.",
+    "description": "A storm cloud appears with a 60-foot radius, centered on in the air above a point you can see within range. The spell fails if you can't see a point in the air where the storm cloud could appear (for example, if you are in a room that can't accommodate the cloud).\n\nWhen you cast the spell, choose a point you can see under the cloud. A bolt of lightning flashes down from the cloud and strikes that point. Each creature within 5 feet of that point must make a Reflex saving throw. A creature takes 3d10 lightning damage on a failed save, or half as much damage on a successful one. On each of your turns until the spell ends, you can use two actions to call down lightning in this way again, targeting the same point or a different one.\n\nIf you are outdoors in stormy conditions when you cast this spell, the spell gives you control over the existing storm instead of creating a new one. Under such conditions, the spell's damage increases by 1d10.",
     "atHigherLevels": "When you cast this spell using a spell charge of 4th or higher level, the damage increases by 1d10 for each charge level above 3rd.",
     "links": []
   },
@@ -130,11 +119,9 @@
     "level": 3,
     "name": "Catnap",
     "tags": [
-      "Arcane",
-      "Divine",
-      "Primal"
+      "Arcane"
     ],
-    "castingSpeed": "2 Actions",
+    "castingSpeed": "3 Actions",
     "duration": "10 minutes",
     "concentration": false,
     "school": "Enchantment",
@@ -142,7 +129,7 @@
     "components": [
       "Somatic"
     ],
-    "description": "You make a calming gesture, and up to three willing creatures of your choice that you can see within range fall unconscious for the spell's duration. The spell ends on a target early if it takes damage or someone uses an action to shake or slap it awake. If a target remains unconscious for the full duration, that target gains the benefit of a short rest, and it can't be affected by this spell again until it finishes a long rest.",
+    "description": "You make a calming gesture, and up to three willing creatures of your choice that you can see within range fall unconscious for the spell's duration. The spell ends on a target early if it takes damage or someone uses an action to shake or slap it awake. If a target remains unconscious for the full duration, that target gains the benefit of a Rest, and it can't be affected by this spell again for 24 hours.",
     "atHigherLevels": "When you cast this spell using a spell charge of 4th level or higher, you can target one additional willing creature for each charge level above 3rd.",
     "links": []
   },
@@ -152,8 +139,7 @@
     "name": "Clairvoyance",
     "tags": [
       "Arcane",
-      "Divine",
-      "Primal"
+      "Divine"
     ],
     "castingSpeed": "10 Minutes",
     "duration": "Up to 10 minutes",
@@ -172,8 +158,6 @@
     "level": 3,
     "name": "Conjure Barrage",
     "tags": [
-      "Arcane",
-      "Divine",
       "Primal"
     ],
     "castingSpeed": "2 Actions",
@@ -185,28 +169,7 @@
       "Verbal",
       "Somatic"
     ],
-    "description": "You throw a non-magical weapon or fire a piece of non-magical ammunition into the air to create a cone of identical weapons that shoot forward and then disappear. Each creature in a 60-foot cone must succeed on a Dexterity saving throw. A creature takes 3d8 damage on a failed save, or half as much damage on a successful one. The damage type is the same as that of the weapon or ammunition used as a component.",
-    "links": []
-  },
-  {
-    "id": "24cfd57d-9f17-423f-b10d-8885520e8960",
-    "level": 3,
-    "name": "Counterspell",
-    "tags": [
-      "Arcane",
-      "Divine",
-      "Primal"
-    ],
-    "castingSpeed": "Reaction",
-    "duration": "Instantaneous",
-    "concentration": false,
-    "school": "Abjuration",
-    "range": "60 feet",
-    "components": [
-      "Somatic"
-    ],
-    "description": "You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the creature's spell fails and has no effect.",
-    "atHigherLevels": "When you cast this spell using a spell charge of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell charge you used.",
+    "description": "You throw a non-magical weapon or fire a piece of non-magical ammunition into the air to create a cone of identical weapons that shoot forward and then disappear. Each creature in a 60-foot cone must succeed on a Reflex saving throw. A creature takes 3d8 damage on a failed save, or half as much damage on a successful one. The damage type is the same as that of the weapon or ammunition used as a component.",
     "links": []
   },
   {
@@ -214,11 +177,9 @@
     "level": 3,
     "name": "Create Food and Water",
     "tags": [
-      "Arcane",
-      "Divine",
-      "Primal"
+      "Divine"
     ],
-    "castingSpeed": "2 Actions",
+    "castingSpeed": "1 minute",
     "duration": "Instantaneous",
     "concentration": false,
     "school": "Conjuration",
@@ -235,9 +196,7 @@
     "level": 3,
     "name": "Crusader's Mantle",
     "tags": [
-      "Arcane",
-      "Divine",
-      "Primal"
+      "Divine"
     ],
     "castingSpeed": "2 Actions",
     "duration": "Up to 1 minute",
@@ -247,7 +206,7 @@
     "components": [
       "Verbal"
     ],
-    "description": "Holy power radiates from you in an aura with a 30-foot radius, awakening boldness in friendly creatures. Until the spell ends, the aura moves with you, centered on you. While in the aura, each nonhostile creature in the aura (including you) deals an extra 1d4 radiant damage when it hits with a weapon attack.",
+    "description": "Holy power radiates from you in an aura with a 30-foot radius, awakening boldness in friendly creatures. Until the spell ends, the aura moves with you, centered on you. While in the aura, each non-hostile creature in the aura (including you) deals an extra 1d4 radiant damage when it hits with a weapon attack.",
     "links": []
   },
   {
@@ -255,7 +214,6 @@
     "level": 3,
     "name": "Daylight",
     "tags": [
-      "Arcane",
       "Divine",
       "Primal"
     ],
@@ -280,7 +238,7 @@
       "Divine",
       "Primal"
     ],
-    "castingSpeed": "2 Actions",
+    "castingSpeed": "3 Actions",
     "duration": "Instantaneous",
     "concentration": false,
     "school": "Abjuration",
@@ -299,12 +257,11 @@
     "name": "Elemental Weapon",
     "tags": [
       "Arcane",
-      "Divine",
-      "Primal"
+      "Divine"
     ],
-    "castingSpeed": "2 Actions",
-    "duration": "Up to 1 hour",
-    "concentration": true,
+    "castingSpeed": "1 minute",
+    "duration": "1 hour",
+    "concentration": false,
     "school": "Transmutation",
     "range": "Touch",
     "components": [
@@ -318,7 +275,7 @@
   {
     "id": "f01df07e-7634-4aa1-9561-72267cef5a6d",
     "level": 3,
-    "name": "Enemies Abound",
+    "name": "Enemies Abound -------------------------------------------------------------",
     "tags": [
       "Arcane",
       "Divine",

@@ -67,7 +67,7 @@
   {
     "id": "befb553f-747a-4fc9-8e8a-e7bd2a259f55",
     "name": "Bloodline Spellcasting",
-    "description": "You can cast spells from the spell list granted by your bloodline, using a wand, staff, holy symbol, or other bloodline relic as a spellcasting focus to channel your power. Without your spellcasting focus, you are incapable of casting even the simplest cantrips. Constitution is your spellcasting ability.\n\nYour Spellcasting Level is 1 at 1st level.Your Spellcasting level increases by 1 at 3rd, 5th, 7th, and 10th level. This is cumulative with any other spellcasting level increases you may get from identity features.\n\nAt 1st level, you know 4 spells from the spell list determined by your bloodline. Every time your spellcasting level or Constitution modifier increases, you learn an additional 2 spells. These spells must be of a level less than or equal to your Max Casting Level.\n\nYou know a number of cantrips equal to your Constitution Modifier. Whenever this modifier increases, you learn an additional cantrip from your spell list.",
+    "description": "You can cast spells from the spell list granted by your bloodline, using a wand, staff, holy symbol, or other bloodline relic as a spellcasting focus to channel your power. Without your spellcasting focus, you are incapable of casting even the simplest cantrips. Constitution is your spellcasting ability.\n\nYour Spellcasting Level is 1 at 1st level.Your Spellcasting level increases by 1 at 3rd, 5th, 7th, and 10th level. This is cumulative with any other spellcasting level increases you may get from identity features.\n\nAt 1st level, you know 2 + (2 * your Constitution modifier) spells from the spell list determined by your bloodline. Every time your spellcasting level or Constitution modifier increases, you learn an additional 2 spells. These spells must be of a level less than or equal to your Max Casting Level.\n\nYou know a number of cantrips equal to your Constitution Modifier. Whenever this modifier increases, you learn an additional cantrip from your spell list.",
     "links": []
   },
   {
@@ -305,7 +305,7 @@
   {
     "id": "e7998fe6-4d86-4648-b96f-b0b7c69a46bb",
     "name": "Initial Proficiencies",
-    "description": "Trained in Religion(or another skill of your choice if you are already trained in Religion)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with all weapons and unarmed attacks.\n\nProficient with all armors and unarmored defense.\n\nProficient in the use of all shields.\n\nAbility DC is determined by your Charisma Score.\n\nProficient in Divine Spells (Charisma is your spellcasting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)",
+    "description": "Trained in Religion(or another skill of your choice if you are already trained in Religion)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with all weapons and unarmed attacks.\n\nProficient with all armors and unarmored defense.\n\nProficient in the use of all shields.\n\nAbility DC is determined by your Charisma or Strength Score.\n\nProficient in Divine Spells (Charisma is your spellcasting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)",
     "links": []
   },
   {
@@ -377,7 +377,7 @@
   {
     "id": "d4ccf48c-51f4-4dad-94eb-8fbe9dc20d15",
     "name": "Initial Proficiencies",
-    "description": "Trained in Religion (or another skill of your choice if you are already trained in Religion)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with simple weapons and unarmed attacks\n\nProficient with light armor, medium armors and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Wisdom Score\n\nProficient in Divine Spells (Wisdom is your spellcasting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)",
+    "description": "Trained in Religion (or another skill of your choice if you are already trained in Religion)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with simple weapons and unarmed attacks\n\nProficient with light armor, medium armors and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Wisdom or Strength Score\n\nProficient in Divine Spells (Wisdom is your spellcasting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)",
     "links": []
   },
   {
@@ -425,7 +425,7 @@
   {
     "id": "ff5aa117-a718-4984-82b9-0c27b5ee738b",
     "name": "Initial Proficiencies",
-    "description": "Trained in Arcana or Athletics or Acrobatics(or another skill of your choice if you are already trained in each of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons, and martial weapons\n\nProficient with light armor, medium armor and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Intelligence Score\n\nProficient in Arcane Spells (Intelligence is your casting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)",
+    "description": "Trained in Arcana or Athletics or Acrobatics(or another skill of your choice if you are already trained in each of these)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons, and martial weapons\n\nProficient with light armor, medium armor and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Intelligence, Strength, or Dexterity Score\n\nProficient in Arcane Spells (Intelligence is your casting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)",
     "links": []
   },
   {
@@ -449,7 +449,7 @@
   {
     "id": "873fcb41-9b80-41c9-9ad2-cab3ad5211c6",
     "name": "Initial Proficiencies",
-    "description": "Trained in Nature (or another skill of your choice if you are already trained in Nature)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons, martial weapons, and firearms.\n\nProficient with light armor, medium armor and unarmored defense.\n\nProficient in the use of Bucklers and Shields.\n\nAbility DC is determined by your Wisdom Score\n\nProficient in Primal Spells (Wisdom is your spellcasting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)",
+    "description": "Trained in Nature (or another skill of your choice if you are already trained in Nature)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons, martial weapons, and firearms.\n\nProficient with light armor, medium armor and unarmored defense.\n\nProficient in the use of Bucklers and Shields.\n\nAbility DC is determined by your Wisdom or Dexterity Score\n\nProficient in Primal Spells (Wisdom is your spellcasting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)",
     "links": []
   },
   {
@@ -497,7 +497,7 @@
   {
     "id": "2724679a-680c-460f-a6e4-489f2c1e0723",
     "name": "Initial Proficiencies",
-    "description": "Trained in Nature (or another skill of your choice if you are already trained in Nature)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons\n\nProficient with light armor, medium armor and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Wisdom Score\n\nProficient in Primal Spells (Wisdom is your spellcasting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)",
+    "description": "Trained in Nature (or another skill of your choice if you are already trained in Nature)\n\nYou gain a number of skill increases equal to 2 + your Intelligence Modifier (minimum of 1 increase).\n\nProficient with unarmed attacks, simple weapons\n\nProficient with light armor, medium armor and unarmored defense\n\nProficient in the use of Bucklers and Shields\n\nAbility DC is determined by your Wisdom or Dexterity Score\n\nProficient in Primal Spells (Wisdom is your spellcasting modifier for these spells)\n\nProficient in additional languages equal to 1 + half your Intelligence modifier (rounded down)",
     "links": []
   },
   {
