@@ -1,6 +1,6 @@
 {
   "name": "data",
-  "version": "1.6.3",
+  "version": "1.6.4",
   "description": "The source of truth for Sword and Spell content and data.",
   "main": "index.js",
   "repository": {
