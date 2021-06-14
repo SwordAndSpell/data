@@ -275,7 +275,7 @@
   {
     "id": "f01df07e-7634-4aa1-9561-72267cef5a6d",
     "level": 3,
-    "name": "Enemies Abound -------------------------------------------------------------",
+    "name": "Enemies Abound",
     "tags": [
       "Arcane",
       "Divine",
@@ -290,7 +290,7 @@
       "Verbal",
       "Somatic"
     ],
-    "description": "You reach into the mind of one creature you can see and force it to make an Intelligence saving throw. A creature automatically succeeds if it is immune to being frightened. On a failed save, the target loses the ability to distinguish friend from foe, regarding all creatures it can see as enemies until the spell ends. Each time the target takes damage, it can repeat the saving throw, ending the effect on itself on a success.\n\nWhenever the affected creature chooses another creature as a target, it must choose the target at random from among the creatures it can see within range of the attack, spell, or other ability it's using. If an enemy provokes an opportunity attack from the affected creature, the creature must make that attack if it is able to.",
+    "description": "You reach into the mind of one creature you can see and force it to make an Will saving throw. A creature automatically succeeds if it is immune to being frightened. On a failed save, the target loses the ability to distinguish friend from foe, regarding all creatures it can see as enemies until the spell ends. Each time the target takes damage, it can repeat the saving throw, ending the effect on itself on a success.\n\nWhenever the affected creature chooses another creature as a target, it must choose the target at random from among the creatures it can see within range of the attack, spell, or other ability it's using. If an enemy provokes an opportunity attack from the affected creature, the creature must make that attack if it is able to.",
     "links": []
   },
   {
@@ -298,8 +298,6 @@
     "level": 3,
     "name": "Erupting Earth",
     "tags": [
-      "Arcane",
-      "Divine",
       "Primal"
     ],
     "castingSpeed": "2 Actions",
@@ -311,7 +309,7 @@
       "Verbal",
       "Somatic"
     ],
-    "description": "Choose a point you can see on the ground within range. A fountain of churned earth and stone erupts in a 20-foot cube centered on that point. Each creature in that area must make a Dexterity saving throw. A creature takes 3d12 bludgeoning damage on a failed save, or half as much damage on a successful one. Additionally, the ground in that area becomes difficult terrain until cleared. Each 5-foot-square portion of the area requires at least 1 minute to clear by hand.",
+    "description": "Choose a point you can see on the ground within range. A fountain of churned earth and stone erupts in a 25-foot cube centered on that point. Each creature in that area must make a Reflex saving throw. A creature takes 4d12 bludgeoning damage on a failed save, or half as much damage on a successful one. Additionally, the ground in that area becomes difficult terrain until cleared. Each 5-foot-square portion of the area requires at least 1 minute to clear by hand.",
     "atHigherLevels": "When you cast this spell using a spell charge of 4th level or higher, the damage increases by 1d12 for each charge level above 3rd.",
     "links": []
   },
@@ -321,8 +319,7 @@
     "name": "Fast Friends",
     "tags": [
       "Arcane",
-      "Divine",
-      "Primal"
+      "Divine"
     ],
     "castingSpeed": "2 Actions",
     "duration": "Up to 1 hour",
@@ -332,14 +329,14 @@
     "components": [
       "Verbal"
     ],
-    "description": "When you need to make sure something gets done, you can't rely on vague promises, sworn oaths, or binding contracts of employment. When you cast this spell, choose one humanoid within range that can see and hear you, and that can understand you. The creature must succeed on a Wisdom saving throw or become charmed by you for the duration. While the creature is charmed in this way, it undertakes to perform any services or activities you ask of it in a friendly manner, to the best of its ability.\n\nYou can set the creature new tasks when a previous task is completed, or if you decide to end its current task. If the service or activity might cause harm to the creature, or if it conflicts with the creature's normal activities and desires, the creature can make another Wisdom saving throw to try to end the effect. This save is made with advantage if you or your companions are fighting the creature. If the activity would result in certain death for the creature, the spell ends.\n\nWhen the spell ends, the creature knows it was charmed by you.",
+    "description": "When you need to make sure something gets done, you can't rely on vague promises, sworn oaths, or binding contracts of employment. When you cast this spell, choose one humanoid within range that can see and hear you, and that can understand you. The creature must succeed on a Will saving throw or become charmed by you for the duration. While the creature is charmed in this way, it undertakes to perform any services or activities you ask of it in a friendly manner, to the best of its ability.\n\nYou can set the creature new tasks when a previous task is completed, or if you decide to end its current task. If the service or activity might cause harm to the creature, or if it conflicts with the creature's normal activities and desires, the creature can make another Will saving throw to try to end the effect. This save is made with advantage if you or your companions are fighting the creature. If the activity would result in certain death for the creature, the spell ends.\n\nWhen the spell ends, the creature knows it was charmed by you.",
     "atHigherLevels": "When you cast this spell using a spell charge of 4th level or higher, you can target one additional creature for each charge level above 3rd.",
     "links": []
   },
   {
     "id": "55b6cc8b-69ef-478e-85e1-3114c8a1dd7b",
     "level": 3,
-    "name": "Fear",
+    "name": "Fear ------------------------------------------------------",
     "tags": [
       "Arcane",
       "Divine",

@@ -792,7 +792,7 @@
     "requirementIDs": [
       "4aea2818-6ee8-47f5-a687-242755a1c6f2"
     ],
-    "description": "Whenever you make a damage roll for a critical hit with a melee weapon, you can increase the number of damage die rolled by 1.\n\nEach time you take this feature, the number of extra dice you can roll increases by 1 (to a maximum of 3). You cannot take this feature a second time before level 4, or a 3rd time before level 7.",
+    "description": "Whenever you make a damage roll for a critical hit with a melee weapon, increase the number of damage die rolled and maximized by 1.\n\nEach time you take this feature, the number of extra dice you can roll and maximize increases by 1 (to a maximum of 3). You cannot take this feature a second time before level 4, or a 3rd time before level 7.",
     "firstLevelSpells": "",
     "secondLevelSpells": "",
     "thirdLevelSpells": "",
@@ -3566,6 +3566,26 @@
     "links": []
   },
   {
+    "id": "7d1c6292-8fc7-4e93-b492-09b0afa6d426",
+    "featureType": "Core",
+    "name": "Precision Damage",
+    "identity": [
+      "Scoundrel",
+      "Warden",
+      "Mystic"
+    ],
+    "requirementIDs": [
+      "636658bd-8dad-4fab-9e81-e99eb2ec7d24"
+    ],
+    "description": "When you hit an attacker with a finesse or ranged weapon, you can add your Dexterity modifier to the damage roll for that attack.",
+    "firstLevelSpells": "",
+    "secondLevelSpells": "",
+    "thirdLevelSpells": "",
+    "fourthLevelSpells": "",
+    "fifthLevelSpells": "",
+    "links": []
+  },
+  {
     "id": "293a127d-2e5e-44c4-b16e-938ec948b2de",
     "featureType": "Subclass",
     "name": "Novice Arcane Trickster - Mage Hand Expert",
@@ -4667,29 +4687,6 @@
     "fourthLevelSpells": "",
     "fifthLevelSpells": "",
     "links": []
-  },
-  {
-    "id": "51dae538-3796-4a3a-a582-ffab5e2f6b62",
-    "featureType": "Core",
-    "name": "Fighting Style",
-    "identity": [
-      "Warrior",
-      "Warden",
-      "Champion"
-    ],
-    "requirementIDs": [
-      "127b561a-b059-479e-a45c-0ef8f26ee2d9"
-    ],
-    "description": "You gain a fighting style from the list. You can take this feat up to twice.\n\nYou cannot take it a second time until 5th level or higher.",
-    "firstLevelSpells": "",
-    "secondLevelSpells": "",
-    "thirdLevelSpells": "",
-    "fourthLevelSpells": "",
-    "fifthLevelSpells": "",
-    "links": [{
-      "description": "Fighting Styles",
-      "url":"https://www.sword-and-spell.com/feature-options?ids=Fighting%20Styles"
-    }]
   },
   {
     "id": "17c535bd-d53b-4538-83b2-4f1290ed5267",
@@ -5937,7 +5934,7 @@
   },
   {
     "id": "d3854068-a41c-45b0-b1f9-6923a74efb21",
-    "featureType": "Subclass",
+    "featureType": "General",
     "name": "Athlete",
     "identity": [
       "General"
@@ -5945,7 +5942,7 @@
     "requirementIDs": [
       "127b561a-b059-479e-a45c-0ef8f26ee2d9"
     ],
-    "description": "Increase your Strength or Dexterity by 1.\n\nWhen you are prone, you can stand up as part of a stride action, standing up costs you 5 feet of movement.\n\nYou gain a climbing and swimming speed of 15 feet. If you already have one of these speeds, it increases by 10 feet.",
+    "description": "When you are prone, you can stand up as part of a stride action, standing up costs you 5 feet of movement. You can drop prone as part of a step or stride action, costing you no additional movement.\n\nYou gain a climbing and swimming speed of 15 feet. If you already have one of these speeds, it increases by 10 feet.",
     "firstLevelSpells": "",
     "secondLevelSpells": "",
     "thirdLevelSpells": "",
@@ -5955,15 +5952,15 @@
   },
   {
     "id": "a473edb2-2186-4750-978b-1ff2012d2fa7",
-    "featureType": "General",
+    "featureType": "Core",
     "name": "Actor",
     "identity": [
-      "General"
+      "Bard"
     ],
     "requirementIDs": [
       "38df75f5-e63f-4943-9391-2e42a110836f"
     ],
-    "description": "Increase your Charisma by 1.\n\nYou have advantage of Charisma (Deception) and Charisma (Performance) checks to pass yourself off as someone else.\n\nYou can mimic the speech of another person or the sounds made by other creatures. You must have heard the speech or sound for at least 1 minute. A successful Wisdom (Insight) check contested by your Charisma (Deception) check allows a listener to determine the effect is faked.",
+    "description": "You have advantage of Charisma (Deception) and Charisma (Performance) checks to pass yourself off as someone else.\n\nYou can mimic the speech of another person or the sounds made by other creatures. You must have heard the speech or sound for at least 1 minute. A successful Wisdom (Insight) check contested by your Charisma (Deception) check allows a listener to determine the effect is faked.",
     "firstLevelSpells": "",
     "secondLevelSpells": "",
     "thirdLevelSpells": "",
@@ -5973,51 +5970,15 @@
   },
   {
     "id": "0d2323ea-ca9f-44a1-9c09-3a52780fd702",
-    "featureType": "General",
+    "featureType": "Core",
     "name": "Trap Expert",
     "identity": [
-      "General"
+      "Scoundrel"
     ],
     "requirementIDs": [
       "fcf8d775-ed74-48ae-a4f9-2fb18b4e7c9b"
     ],
-    "description": "Increase your Wisdom or Intelligence by 1.\n\nYou have advantage on Perception checks and Investigation checks made to detect the presence of secret doors.\n\nYou have advantage on saving throws made to avoid or resist traps.\n\nYou have resistance to damage dealt by traps.\n\nYou can search for traps while traveling at a normal pace.",
-    "firstLevelSpells": "",
-    "secondLevelSpells": "",
-    "thirdLevelSpells": "",
-    "fourthLevelSpells": "",
-    "fifthLevelSpells": "",
-    "links": []
-  },
-  {
-    "id": "16a81e13-06a9-45a0-b27b-91adcdd9d037",
-    "featureType": "General",
-    "name": "Inspiring Leader",
-    "identity": [
-      "General"
-    ],
-    "requirementIDs": [
-      "38df75f5-e63f-4943-9391-2e42a110836f"
-    ],
-    "description": "Increase your Charisma by 1.\n\nYou can spend 10 minutes inspiring your companions, shoring up their will to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you that can see or hear you and can understand you. Each creature gains temporary hit points equal to your level + your Charisma modifier. A creature can't gain temporary hit points in this way again until they finish a rest.",
-    "firstLevelSpells": "",
-    "secondLevelSpells": "",
-    "thirdLevelSpells": "",
-    "fourthLevelSpells": "",
-    "fifthLevelSpells": "",
-    "links": []
-  },
-  {
-    "id": "3c0cd5a5-36bf-45cd-afed-141d22a9b00b",
-    "featureType": "General",
-    "name": "Keen Mind",
-    "identity": [
-      "General"
-    ],
-    "requirementIDs": [
-      "a3559aa0-15f3-44f5-8ae9-34280b118893"
-    ],
-    "description": "Increase your Intelligence by 1.\n\nYou always know which way is north.\n\nYou always know how the number of hours left before the next sunrise or sunset.\n\nYou can accurately recall anything you have seen or heard within the past month.",
+    "description": "You have advantage on Perception checks and Investigation checks made to detect the presence of secret doors.\n\nYou have advantage on saving throws made to avoid or resist traps.\n\nYou have resistance to damage dealt by traps.\n\nYou can search for traps while traveling at a normal pace, or while maintaining stealth.",
     "firstLevelSpells": "",
     "secondLevelSpells": "",
     "thirdLevelSpells": "",
@@ -6027,33 +5988,15 @@
   },
   {
     "id": "51e76af0-9d88-425d-b05f-4d3023635c1a",
-    "featureType": "General",
+    "featureType": "Core",
     "name": "Linguist",
     "identity": [
-      "General"
+      "Arcanist"
     ],
     "requirementIDs": [
       "a3559aa0-15f3-44f5-8ae9-34280b118893"
     ],
-    "description": "Increase your Intelligence by 1.\n\nYou learn three languages of your choice.\n\nYou can easily create written ciphers. Others cannot decipher a code you create unless you teach it to them, they succeed on an Intelligence check (DC = your Intelligence score + your level + 10), or they use magic to decipher it.",
-    "firstLevelSpells": "",
-    "secondLevelSpells": "",
-    "thirdLevelSpells": "",
-    "fourthLevelSpells": "",
-    "fifthLevelSpells": "",
-    "links": []
-  },
-  {
-    "id": "e62abf83-02ec-4486-8aa6-53dce6d454fc",
-    "featureType": "General",
-    "name": "Observant",
-    "identity": [
-      "General"
-    ],
-    "requirementIDs": [
-      "fcf8d775-ed74-48ae-a4f9-2fb18b4e7c9b"
-    ],
-    "description": "Increase your Intelligence or Wisdom by 1.\n\nIf you can see a creature's mouth while it is speaking a language you understand, you can interpret their words by reading their lips.\n\nYou have advantage on all Perception and Investigation checks relating to observing details.",
+    "description": "You learn three languages of your choice.\n\nYou can easily create written ciphers. Others cannot decipher a code you create unless you teach it to them, they succeed on an Intelligence check (DC = 9 + your Intelligence score + your level), or they use magic to decipher it.",
     "firstLevelSpells": "",
     "secondLevelSpells": "",
     "thirdLevelSpells": "",
@@ -6063,33 +6006,16 @@
   },
   {
     "id": "65643056-922d-46ae-8a94-d942ea97b5b3",
-    "featureType": "General",
+    "featureType": "Core",
     "name": "Skilled",
     "identity": [
-      "General"
+      "Scoundrel",
+      "Bard"
     ],
     "requirementIDs": [
       "a3559aa0-15f3-44f5-8ae9-34280b118893"
     ],
-    "description": "Increase your Intelligence by 1.\n\nYou gain 3 skill increases, and if your intelligence is 19 or greater: one additional skill increase.",
-    "firstLevelSpells": "",
-    "secondLevelSpells": "",
-    "thirdLevelSpells": "",
-    "fourthLevelSpells": "",
-    "fifthLevelSpells": "",
-    "links": []
-  },
-  {
-    "id": "0ab2529f-b890-4330-9a45-a9e2d813702e",
-    "featureType": "General",
-    "name": "Skulker",
-    "identity": [
-      "General"
-    ],
-    "requirementIDs": [
-      "636658bd-8dad-4fab-9e81-e99eb2ec7d24"
-    ],
-    "description": "Increase your Dexterity by 1.\n\nYou can try to hide when you are only lightly obscured from the creature from which you are hiding.\n\nWhen you are hidden from a creature and miss it with a ranged weapon attack, making the attack doesn't reveal your position.\n\nDim light doesn't impose disadvantage on Wisdom (Perception) bonuses made with sight.",
+    "description": "You gain 4 skill increases (no more than three can be used towards the same skill), and if your intelligence is 19 or greater: two additional skill increases.",
     "firstLevelSpells": "",
     "secondLevelSpells": "",
     "thirdLevelSpells": "",
@@ -6099,15 +6025,16 @@
   },
   {
     "id": "9b87faf5-ff8e-4a08-9ebe-91f2dc9e55ed",
-    "featureType": "General",
+    "featureType": "Core",
     "name": "Tough",
     "identity": [
-      "General"
+      "Barbarian",
+      "Warrior"
     ],
     "requirementIDs": [
       "fcd26106-9aa6-4fb5-a0de-5d706fc63ea2"
     ],
-    "description": "Increase your Strength or Constitution by 1\n\nIncrease your hit points by an amount equal to 2 * your current level\n\nEach time you gain a level, you gain two additional hit points.",
+    "description": "Increase your hit points by an amount equal to 2 * your current level, and your armor value by 1.\n\nEach time you gain a level, you gain two additional hit points.",
     "firstLevelSpells": "",
     "secondLevelSpells": "",
     "thirdLevelSpells": "",
@@ -6125,7 +6052,7 @@
     "requirementIDs": [
       "636658bd-8dad-4fab-9e81-e99eb2ec7d24"
     ],
-    "description": "Increase your Dexterity by 1.\n\nAttacking at any range up to your weapon's maximum doesn't impose disadvantage on your ranged weapon attack rolls.\n\nYour ranged weapons ignore half cover and three-quarters cover.",
+    "description": "You gain +2 to all attacks with bows and crossbows.\n\nAttacking at any range up to your weapon's maximum doesn't impose disadvantage on your ranged weapon attack rolls.\n\nYour ranged weapons ignore half cover and three-quarters cover.",
     "firstLevelSpells": "",
     "secondLevelSpells": "",
     "thirdLevelSpells": "",
@@ -6143,7 +6070,7 @@
     "requirementIDs": [
       "4aea2818-6ee8-47f5-a687-242755a1c6f2"
     ],
-    "description": "Increase your Strength by 1.\n\nWhen you make an attack roll with a weapon that deals bludgeoning damage and you miss, but would have hit the target using their Touch defense, the target takes damage equal to your Strength Modifier.\n\nWhen you score a critical hit with a weapon that deals bludgeoning damage, if the target is a Large-sized creature or smaller, it must succeed on a Fortitude saving throw or be knocked prone. The saving throw DC equals 9 + your level + your Strength modifier.",
+    "description": "When you make an attack roll with a weapon that deals bludgeoning damage and you miss, but would have hit the target using their Touch defense, the target takes damage equal to your Strength Modifier.\n\nWhen you score a critical hit with a weapon that deals bludgeoning damage, if the target is a Large-sized creature or smaller, it must succeed on a Fortitude saving throw or be knocked prone. The saving throw DC equals 9 + your level + your Strength modifier.",
     "firstLevelSpells": "",
     "secondLevelSpells": "",
     "thirdLevelSpells": "",
@@ -6162,7 +6089,7 @@
       "636658bd-8dad-4fab-9e81-e99eb2ec7d24",
       "32a26e8d-6858-47fb-b97e-e9fc41f2d216"
     ],
-    "description": "Increase your Dexterity by 1.\n\nYou ignore the loading quality of crossbows with which you are proficient.\n\nBeing within 5 feet of a hostile creature doesn't impose disadvantage on your ranged attack rolls.",
+    "description": "You ignore the loading quality of crossbows with which you are proficient.\n\nBeing within 5 feet of a hostile creature doesn't impose disadvantage on your ranged attack rolls.\n\nWhen you score a critical hit with a crossbow and there is an enemy behind your target in the direct path of the crossbow bolt, they take half of the rolled damage for the attack.",
     "firstLevelSpells": "",
     "secondLevelSpells": "",
     "thirdLevelSpells": "",
@@ -6173,14 +6100,14 @@
   {
     "id": "8c4c6e5c-6e92-473b-b523-80c7833b1d34",
     "featureType": "General",
-    "name": "Defensive Duelist",
+    "name": "Duelist",
     "identity": [
       "Combat"
     ],
     "requirementIDs": [
       "636658bd-8dad-4fab-9e81-e99eb2ec7d24"
     ],
-    "description": "Increase your Dexterity by 1.\n\nWhen you are wielding a finesse weapon you are proficient with in one hand (and no other weapons) and another creature hits you with a melee attack, you can use your reaction to add your Dexterity modifier to your Defense against that attack, potentially causing it to miss.",
+    "description": "When you are wielding a weapon you are proficient with in one hand (and no other weapons), you gain +2 to all attacks with that weapon. Additionally, when an enemy hits you with a melee attack, you can use your reaction to add your Dexterity modifier to your Defense against that attack, potentially causing it to miss. If this reaction causes your enemies attack to miss, you can make an Attack of Opportunity against them as part of the same reaction",
     "firstLevelSpells": "",
     "secondLevelSpells": "",
     "thirdLevelSpells": "",
@@ -6198,7 +6125,7 @@
     "requirementIDs": [
       "636658bd-8dad-4fab-9e81-e99eb2ec7d24"
     ],
-    "description": "Increase your Dexterity by 1.\n\nWhen wielding a weapon in each hand, you gain a +1 bonus to Defense and you can wield a weapon in each hand, even if the weapons aren't light.\n\nYou can draw or sheath two one-handed weapons when you take the Draw action instead of one.",
+    "description": "When wielding a weapon in each hand, you gain a +1 bonus to Defense and a +1 bonus to all attack rolls with each weapon. Additionally, you can wield weapons that aren't light in each hand.\n\nYou can draw or sheath two one-handed weapons when you take the Draw action instead of one.",
     "firstLevelSpells": "",
     "secondLevelSpells": "",
     "thirdLevelSpells": "",
@@ -6216,7 +6143,7 @@
     "requirementIDs": [
       "57212ed9-0fb0-441e-96f5-fe209a611241"
     ],
-    "description": "Increase your spellcasting ability score by 1.\n\nWhen you gain this feat, choose one of the following damage types: acid, cold, fire, lightning, or thunder. Spells you cast ignore resistance to the chosen type, and whenever you roll damage for a spell that deals damage of the chosen type, treat any rolled 1's as being a 2.",
+    "description": "When you gain this feat, choose one of the following damage types: acid, cold, fire, lightning, or thunder. Spells you cast ignore resistance to the chosen type, and whenever you roll damage for a spell that deals damage of the chosen type, treat any rolled 1's as a 2.",
     "firstLevelSpells": "",
     "secondLevelSpells": "",
     "thirdLevelSpells": "",
@@ -6234,7 +6161,7 @@
     "requirementIDs": [
       "d31df62f-d27e-483b-a1b2-03288fc76171"
     ],
-    "description": "Increase your Dexterity by 1.\n\nYou gain proficiency with firearms.\n\nYou may cast bullets from scrap or other metal sources as part of a rest (10 per rest)",
+    "description": "You gain proficiency with firearms, and you gain a skill increase to Crafting.\n\nYou may cast bullets from scrap or other metal sources as part of a rest (10 per rest)",
     "firstLevelSpells": "",
     "secondLevelSpells": "",
     "thirdLevelSpells": "",
@@ -6252,7 +6179,7 @@
     "requirementIDs": [
       "472ef789-afd5-46c5-a7c3-62de2cfd35a1"
     ],
-    "description": "Increase your Dexterity by 1.\n\nYou ignore the loading quality of firearms with which you are proficient.\n\nBeing within 5 feet of a hostile creature doesn't impose disadvantage on your ranged attack rolls.\n\nAttacking at any range up to your weapon's maximum doesn't impose disadvantage on your ranged weapon attack rolls.",
+    "description": "You ignore the loading quality of firearms with which you are proficient.\n\nBeing within 5 feet of a hostile creature doesn't impose disadvantage on your ranged attack rolls.\n\nAttacking at any range up to your weapon's maximum doesn't impose disadvantage on your ranged weapon attack rolls.",
     "firstLevelSpells": "",
     "secondLevelSpells": "",
     "thirdLevelSpells": "",
@@ -6288,7 +6215,7 @@
     "requirementIDs": [
       "127b561a-b059-479e-a45c-0ef8f26ee2d9"
     ],
-    "description": "Increase your Strength or Dexterity by 1.\n\nWhen a creature within your melee reach casts a spell, you can use your reaction to make a melee weapon attack against that creature.\n\nWhen you damage a creature that is concentrating on a spell, they have disadvantage on the saving throw they make to maintain concentration.\n\nYou have advantage on saving throws against spells cast by creatures with your reach.",
+    "description": "When a creature within your melee reach casts a spell, you can use your reaction to make a melee weapon attack against that creature.\n\nWhen you damage a creature that is concentrating on a spell, they have disadvantage on the saving throw they make to maintain concentration.\n\nYou have advantage on saving throws against spells cast by creatures with your melee reach.",
     "firstLevelSpells": "",
     "secondLevelSpells": "",
     "thirdLevelSpells": "",
@@ -6304,7 +6231,7 @@
       "Combat"
     ],
     "requirementIDs": [],
-    "description": "Your Constitution increases by 1.\n\nYou have advantage on melee attack rolls against unmounted creatures that are the same size or smaller than your mount.\n\nYou can force an attack targeted at your mount to target you instead.\n\nIf your mount is subjected to an effect that allows it to make a Reflex save to take only half damage, it takes no damage if it succeeds and half damage if it fails.",
+    "description": "You have advantage on melee attack rolls against unmounted creatures that are the same size or smaller than your mount.\n\nYou can force an attack targeted at your mount to target you instead.\n\nIf your mount is subjected to an effect that allows it to make a Reflex save to take only half damage, it takes no damage if it succeeds and half damage if it fails.",
     "firstLevelSpells": "",
     "secondLevelSpells": "",
     "thirdLevelSpells": "",
@@ -6322,7 +6249,7 @@
     "requirementIDs": [
       "636658bd-8dad-4fab-9e81-e99eb2ec7d24"
     ],
-    "description": "Increase your Dexterity by 1.\n\nOnce per turn, when you hit a creature with a weapon attack that deals piercing damage, you can reroll one of the attack's damage dice, and you must use the new roll.\n\nWhen you score a critical hit that deals piercing damage to a creature, you can roll one additional damage die when determining the extra piercing damage the target takes.",
+    "description": "Once per turn, when you hit a creature with a weapon attack that deals piercing damage, you can reroll one of the attack's damage dice, and you must use the new roll.\n\nWhen you score a critical hit that deals piercing damage to a creature, you can roll one additional damage die when determining the extra piercing damage the target takes.",
     "firstLevelSpells": "",
     "secondLevelSpells": "",
     "thirdLevelSpells": "",
@@ -6367,24 +6294,6 @@
     "links": []
   },
   {
-    "id": "9bca966b-c670-459e-af5a-1d6eb144ce7b",
-    "featureType": "General",
-    "name": "Sentinel",
-    "identity": [
-      "Combat"
-    ],
-    "requirementIDs": [
-      "9a8371df-8b85-4c66-8143-6e4689ab805f"
-    ],
-    "description": "Whenever you hit a creature with an opportunity attack, its speed drops to 0 for the rest of the turn. This stops any movement they may have been taking.\n\nCreatures within your reach provoke opportunity attacks even if they were taking the Step action.",
-    "firstLevelSpells": "",
-    "secondLevelSpells": "",
-    "thirdLevelSpells": "",
-    "fourthLevelSpells": "",
-    "fifthLevelSpells": "",
-    "links": []
-  },
-  {
     "id": "5da34021-0aed-4d43-9335-e3e4ba87bace",
     "featureType": "General",
     "name": "Slashing Specialist",
@@ -6394,7 +6303,7 @@
     "requirementIDs": [
       "127b561a-b059-479e-a45c-0ef8f26ee2d9"
     ],
-    "description": "Increase your Strength or Dexterity by 1.\n\nOnce per turn when you hit a creature with an attack that deals slashing damage, you can reduce the speed of the target by 10 feet until the start of your next turn.\n\nWhen you score a critical hit that deals slashing damage to a creature, you grievously wound it. Until the start of your next turn, the target has disadvantage on all attack rolls.",
+    "description": "Once per turn when you hit a creature with an attack that deals slashing damage, you can reduce the speed of the target by 10 feet until the start of your next turn.\n\nWhen you score a critical hit that deals slashing damage to a creature, you grievously wound it. Until the start of your next turn, the target has disadvantage on all attack rolls.",
     "firstLevelSpells": "",
     "secondLevelSpells": "",
     "thirdLevelSpells": "",
@@ -6430,7 +6339,7 @@
     "requirementIDs": [
       "204bae0f-130f-4d32-93b4-aacb1f063c44"
     ],
-    "description": "You gain the following benefits while wielding a shield:\n\nIf you aren't incapacitated, you can add your shield's Defense bonus to any Reflex save made against a spell or other effect that affects only you.\n\nIf you are subjected to an effect which allows you to make a Reflex save for half damage, you can use your reaction to take no damage, interposing your shield between you and the effect.",
+    "description": "You gain the following benefits while wielding a shield:\n\nIf you aren't incapacitated, you can add your shield's Defense bonus to any Reflex save made against a spell or other effect that affects only you.\n\nIf you are subjected to an effect which allows you to make a Reflex save for half damage, you can use your reaction to make the reflex save to take half or no damage, interposing your shield between you and the effect.",
     "firstLevelSpells": "",
     "secondLevelSpells": "",
     "thirdLevelSpells": "",
@@ -6518,7 +6427,7 @@
     "requirementIDs": [
       "36e208e9-f4d0-4204-abce-72a6b9a268aa"
     ],
-    "description": "Wearing medium armor doesn't impose disadvantage on Dexterity (Stealth) checks.\n\nWhen wearing medium armor, your dexterity cap increases by 1.\n\nWhen wearing medium armor, your armor value is increased by 1.",
+    "description": "Wearing medium armor doesn't impose disadvantage on Dexterity (Stealth) checks.\n\nWhen wearing medium armor, your defense and dexterity cap increases by 1.\n\nWhen wearing medium armor, your armor value is increased by 1.",
     "firstLevelSpells": "",
     "secondLevelSpells": "",
     "thirdLevelSpells": "",
@@ -6536,7 +6445,7 @@
     "requirementIDs": [
       "7b7b6650-1523-4680-bce6-d7ae095ed1b5"
     ],
-    "description": "Increase your Strength or Constitution by 1 .\n\nWhen wearing heavy armor your armor value is increased by 3.",
+    "description": "When wearing heavy armor your armor value is increased by 1, and your Dexterity Cap is increased by 1. Any movement penalties suffered by wearing heavy armor are reduced by 5 feet.",
     "firstLevelSpells": "",
     "secondLevelSpells": "",
     "thirdLevelSpells": "",

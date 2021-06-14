@@ -67,7 +67,7 @@
   {
     "id": "85b71b1b-cbcd-492c-a142-4c4838aac7f6",
     "name": "Critical Success and Failure",
-    "description": "Whenever you roll an ability check, saving throw, attack roll, or any other check, there is always the chance to critically succeed or fail.\n\nA critical success occurs when you roll a natural 20 on the dice, or when your roll + any modifiers exceeds the target DC by ten or more. When attacking an enemy, a critical success results in doubling the number of damage dice rolled.\n\nA critical failure occurs when you roll a natural 1 on the dice, or when your roll + any modifiers fails to meet the target DC by ten or more.",
+    "description": "Whenever you roll an ability check, saving throw, attack roll, or any other check, there is always the chance to critically succeed or fail.\n\nA critical success occurs when you roll a natural 20 on the dice, or when your roll + any modifiers exceeds the target DC by ten or more. When attacking an enemy, a critical success results in doubling the number of damage dice rolled.\n\nA critical failure occurs when you roll a natural 1 on the dice, or when your roll + any modifiers fails to meet the target DC by ten or more.\n\nOutside of combat, a critical success will likely result in a highly favorable outcome that wouldn't normally be possible, while a critical failure often results in a multitude of possible negative circumstances.\n\nCritical successes on attack rolls require an altered damage roll: when rolling for damage on a critical strike, maximize the damage from your attack roll (and any effects added to the damage like sneak attack or a paladin's smite), and then roll an additional set of damage dice and add it to that maximum. See the following examples below:\n - A Fighter crits with a longbow(1d8): 8+1d8\n - a Barbarian (with 1x brutal critical) crits with a greataxe(1d12): 24+Str+2d12\n - a champion crits with a mace and a 1st level smite: 6+16+str+1d6+2d8\n - a 3rd level scoundrel crits with a shortsword and sneak attack: 24+Str+4d6",
     "links": []
   },
   {
@@ -400,6 +400,10 @@
       {
         "name": "Movement Speed",
         "description": "Each character's movement speed is based off the physical characteristics of their Race. If your Dexterity score is 20 or higher, your movement speed increases 5 feet beyond that typical of your species."
+      },
+      {
+        "name": "Swimming and Climbing",
+        "description": "Sometimes on your adventures you will come across an obstacle that will need to be climbed or swum across. Any character that has a swimming or climbing speed can spend an action to do so. If your character does not have a swimming or climbing speed, they must make an Athletics check and spend an action to attempt to climb or swim. On a success, a character can swim or climb up to 10 feet. Any character with a Strength score of 20 or more can add 5 feet to their swimming or climbing movement (whether from an innate speed or a successful check)."
       },
       {
         "name": "Difficult Terrain",
